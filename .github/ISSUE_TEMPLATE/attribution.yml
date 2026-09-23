@@ -1,0 +1,17 @@
+name: Attribution or removal request
+description: Correct attribution or request removal of your work.
+title: '[Attribution] '
+body:
+  - type: input
+    id: example
+    attributes:
+      label: Affected example URL or ID
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Requested correction or removal
+      description: Include public evidence of the original source. Do not include private documents or credentials.
+    validations:
+      required: true

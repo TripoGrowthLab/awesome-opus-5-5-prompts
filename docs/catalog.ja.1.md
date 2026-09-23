@@ -1,0 +1,845 @@
+<!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
+
+# Awesome Opus 5.5 Prompts — 1 / 1
+
+[← Awesome Opus 5.5 Prompts](../README.md)
+
+<p>
+  <a href="../docs/catalog.en.1.md"><img alt="English" src="https://img.shields.io/badge/English-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.zh.1.md"><img alt="简体中文" src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.zh-Hant.1.md"><img alt="繁體中文" src="https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.ja.1.md"><img alt="日本語" src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-✓-238636?style=flat-square"></a>
+  <a href="../docs/catalog.ko.1.md"><img alt="한국어" src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.es.1.md"><img alt="Español" src="https://img.shields.io/badge/Espa%C3%B1ol-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.pt.1.md"><img alt="Português" src="https://img.shields.io/badge/Portugu%C3%AAs-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.de.1.md"><img alt="Deutsch" src="https://img.shields.io/badge/Deutsch-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.fr.1.md"><img alt="Français" src="https://img.shields.io/badge/Fran%C3%A7ais-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.it.1.md"><img alt="Italiano" src="https://img.shields.io/badge/Italiano-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.ru.1.md"><img alt="Русский" src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.tr.1.md"><img alt="Türkçe" src="https://img.shields.io/badge/T%C3%BCrk%C3%A7e-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.uk.1.md"><img alt="Українська" src="https://img.shields.io/badge/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-64748b?style=flat-square"></a>
+  <a href="../docs/catalog.vi.1.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
+</p>
+
+[全カタログ](catalog.ja.md) · **1 / 1**
+
+<a id="all-prompts"></a>
+
+<details>
+<summary>作例を見る (11)</summary>
+
+- [インタラクティブなオイラー型ネオン流体シミュレーション](#claude-opus-5-5-2102565611473661963)
+- [日本の桜の谷を描くインタラクティブ3D景観Webページ](#claude-opus-5-5-2102565403109085669)
+- [Hundenbergの事故モデルとリアルな動画](#claude-opus-5-5-2102547809140355250)
+- [画像をもとにしたハンドボールコートの360度3Dレンダリング](#claude-opus-5-5-2102544406117286004)
+- [画像から作るプロシージャルなThree.js 3Dメインメニュー背景](#claude-opus-5-5-2102544196808667471)
+- [自走式3Dルーブ・ゴールドバーグ・マシン](#claude-opus-5-5-2102544078927741369)
+- [インタラクティブなピーターラビット風の農場動物ゲーム](#claude-opus-5-5-2102538762731565085)
+- [夕暮れを航海する映画的なインタラクティブ海賊船](#claude-opus-5-5-2102533729746882985)
+- [無限にプロシージャル生成されるThree.jsワールド](#claude-opus-5-5-2102529695908806728)
+- [インタラクティブな群集避難シミュレーション](#claude-opus-5-5-2102467667978572092)
+- [インタラクティブな3D先史時代の島](#claude-opus-5-5-2102450239923720440)
+
+</details>
+<a id="claude-opus-5-5-2102565611473661963"></a>
+
+### インタラクティブなオイラー型ネオン流体シミュレーション
+
+[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="インタラクティブなオイラー型ネオン流体シミュレーション"></a>
+
+**プロンプト**
+
+```text
+高性能なGPUアクセラレーション対応のインタラクティブなオイラー型ネオン流体シミュレーションを含む、完全な単一ファイルHTMLドキュメントを作成してください。
+
+厳格な技術要件と美的要件：
+
+1. アーキテクチャとパフォーマンス：
+   - 単一ファイル：HTML、CSS、JavaScript／GLSLシェーダーをすべてインラインで記述すること。
+   - 外部依存関係ゼロ：Pure WebGL 1.0または2.0を使用すること（Three.js、Pixi、外部ライブラリは禁止）。
+   - GPUで計算する流体力学：シミュレーション全体を、以下の処理用カスタムフラグメントシェーダーと、ピンポン方式のFramebuffer Object（FBO）だけで実行すること：
+     a) 移流（速度と色素）
+     b) 発散の計算
+     c) 圧力ポアソンソルバー（ヤコビ反復を1フレームあたり20～30回）
+     d) 勾配の減算／速度場の射影
+     e) 渦度閉じ込め（乱流の渦を加え、流体が単調でぼやけた塊になるのを防ぐ）。
+
+2. ビジュアルの忠実度（「ネオンスモーク」の表現）：
+   - 真っ黒な虚無の背景（`#050508`）。
+   - 色素の注入には加算合成／ハイダイナミックレンジブレンディングを使用すること。
+   - ダイナミックパレット：カーソルを素早く動かしたりタッチでドラッグしたりするたびに、高輝度のネオン色素を注入すること。色は鮮やかなサイバーカラー（エレクトリックシアン`#00F0FF`、ホットマゼンタ`#FF007F`、ディープウルトラバイオレット、輝くゴールド）を滑らかに循環させること。
+   - 表示シェーダーの拡張：最終レンダーシェーダーにポストプロセスパスを直接組み込み、流体の渦巻くエッジ周辺に控えめなブルーム／グロー、トーンマッピング、色収差を適用すること。
+
+3. インタラクション：
+   - マウスとタッチ：カーソルの素早い移動やドラッグに応じて、マウス速度に比例した速度と、密度の高い発光色素を注入すること。
+   - パッシブなアンビエントモーション：アイドル時には、控えめなプロシージャル・カールノイズまたは穏やかに漂う渦を生成し、キャンバスが完全に静止しないようにすること。
+   - コントロール：画面の隅に、洗練された極めてミニマルなグラスモーフィズムのHUDを配置すること（非アクティブ時は自動的に非表示）：
+     * 粘度スライダー
+     * 色素の散逸／残留スライダー
+     * スプラット半径スライダー
+     * 「キャンバスをクリア」ボタン
+     * カラーテーマ（サイバーパンク、サーマル・インフェルノ、生物発光ディープ）を切り替えるトグルボタン。
+
+4. プロダクション品質の仕上げ：
+   - 高DPIディスプレイと`resize`イベントを自動的に処理し、FBOテクスチャが引き伸ばされたりクリアされたりしないようにすること。
+   - 浮動小数点テクスチャ対応のフォールバックチェックを適切に実装すること（`OES_texture_float`／`OES_texture_half_float`）。
+   - プレースホルダーや途中で切れたコメントを一切含まない、クリーンでバグのない完全実装のコードにすること。
+
+Chrome／Safari／Firefoxで直接実行できる、完全に内容を埋めたHTMLファイルのみを返してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
+
+Strict Technical & Aesthetic Requirements:
+
+1. Architecture & Performance:
+   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
+   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
+   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
+     a) Advection (velocity & dye)
+     b) Divergence calculation
+     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
+     d) Gradient subtraction / velocity projection
+     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
+
+2. Visual Fidelity (The "Neon Smoke" Look):
+   - Pitch-black void background (`#050508`).
+   - Additive / High-Dynamic-Range blending for dye injection.
+   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
+   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
+
+3. Interaction:
+   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
+   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
+   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
+     * Viscosity slider
+     * Dye dissipation / persistence slider
+     * Splat radius slider
+     * "Clear Canvas" button
+     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
+
+4. Production Polish:
+   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
+   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
+   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
+
+Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102565611473661963) · [元の投稿](https://x.com/theailoser/status/2102565612874596411) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565403109085669"></a>
+
+### 日本の桜の谷を描くインタラクティブ3D景観Webページ
+
+[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="日本の桜の谷を描くインタラクティブ3D景観Webページ"></a>
+
+**プロンプト**
+
+```text
+ブラウザ上でリアルタイムに操作できる、完成度の高い3D景観のWebページを直接制作してください。
+
+テーマ：日本の桜の谷。
+HTML、CSS、JavaScriptで実装してください。画像は生成せず、設計案だけを提示するのもやめてください。
+1枚の背景画像にパララックス効果を加えて3Dに見せかけないでください。実際に動作し、歩き回れる完成品が必要です。
+
+【1. 作品の方向性】
+
+遠近のレイヤーがあり、ひと続きになった、完成された谷の景観にしてください。
+孤立した小さな置き物や浮遊島、台座付きのジオラマでも、単なる技術デモでもありません。
+
+スタイルは現代的で精細なボクセルアートです。
+立方体形状の造形言語は保ちつつ、高解像度でアンチエイリアスが効き、光と影が繊細な画面にしてください。
+レトロな低解像度のピクセル表現や、大きな積み木を積み上げたような造形、画面全体にピクセルフィルターをかける表現は避けてください。
+
+ビジュアル品質を最優先にしてください。機能をいくつか減らしても、構図、マテリアル、ライティングを犠牲にしないでください。
+
+【2. 参考画像の使い方】
+
+参考画像がある場合は、まず構図のレイヤー、スケール、光、色彩の関係を理解してください。
+雰囲気とビジュアル表現だけを参考にして、シーンを新たに設計してください。
+建物、木々、山、道の配置をそのまま流用したり、1:1で再現したりしないでください。
+
+参考画像はWebページの背景素材ではありません。シーン自体を実際の3Dジオメトリで構成してください。
+
+【3. シーン構成】
+
+初期表示の時点で、完成度が高く魅力的な画面を見せてください。
+ユーザーがまずカメラを回して、見栄えのよいアングルを探す必要がないようにしてください。
+
+ジオラマのような等角投影の俯瞰カメラではなく、パースペクティブカメラを使用してください。
+画面には明確な前景・中景・遠景を設けてください。
+
+前景：
+存在感のある古い桜の木を中心に、岩、草木、石灯籠、少量の花びらを添えてください。
+画面の縁を自然に縁取る構図にしつつ、川、橋、主要な建物を隠さないでください。
+
+中景：
+曲がりくねった川で視線を画面の奥へ導き、赤い木橋を川に架けてください。
+集落、茶屋、神社、小道を地形に沿って配置し、建物同士を実際に行き来できる関係にしてください。
+地面には起伏や水際のライン、自然な遷移を設け、平面上にモデルを均等に並べないでください。
+
+遠景：
+斜面に建つ多層塔、距離の異なる森林と山稜、さらに遠くの雪山を配置してください。
+スケールの変化、遮蔽、色温度の変化、空気遠近法で距離を表現してください。
+遠くの物体を単に小さくするだけでは不十分です。
+
+すべての要素を均等に詰め込まないでください。主役と脇役、密度の変化、余白、明確な視線の焦点が必要です。
+
+【4. 造形と画面品質】
+
+桜の木：
+幹には曲がり、分岐、根元を作り、樹冠は不規則な花の塊で構成してください。
+隙間や厚みの変化、見える枝を設け、規則的な球体や立方体の塊をいくつか置いただけの形にはしないでください。
+
+建物：
+屋根には重なった瓦、せり出した軒、梁や柱、格子窓を作ってください。
+建物ごとに用途、規模、高さを変え、同じ家を複製して谷全体に並べないでください。
+
+地形：
+水際には濡れた石、草むら、植生への自然な遷移を設けてください。
+規則的すぎる段差、反復するストライプ、チェッカーボード模様、明らかなプロシージャル生成のグリッドは避けてください。
+
+水面：
+周囲の景物を映し、適度な波紋、深浅の変化、水際への自然なつながりを持たせてください。
+可能な限り実際のシーンを反射させ、パフォーマンスのために品質を下げる場合も、見た目の信頼感を保ってください。
+ちらつくノイズ、強すぎる歪み、一面の青い平面で水を表現しないでください。
+
+ディテール：
+錦鯉、花びら、ホタル、滝、遠くを飛ぶ鳥などを少量加えても構いません。
+ただし、すべて雰囲気を高めるために使い、画面を雑然とさせないでください。
+モデル数の多さをアピールするためだけにディテールを詰め込まないでください。
+
+【5. 色彩と雰囲気】
+
+デフォルトはブルーアワーにしてください。
+冷たさのある谷と遠山、柔らかなピンクの桜、暖かくても白飛びしない灯籠の明かりと窓明かりを表現してください。
+暖色の光は人の気配がある場所に集中させ、環境全体をオレンジ色に染めないでください。
+
+柔らかな影、物体の接地部に生じる明暗、適切な露出を設定してください。
+ブルームは控えめにし、アンチエイリアスと距離感のある薄い霧を加えてください。
+
+白っぽく色あせた見た目、灰色がかった画面、過度な彩度、画面を覆う濃霧、白飛びしたライト、目立つジャギーは避けてください。
+立方体のジオメトリはくっきり見せて構いませんが、レンダリング自体を粗雑にしないでください。
+
+「朝」と「雨」の2種類の雰囲気も用意してください。
+切り替え時には、空、環境光、霧、局所的なエフェクトも連動して変化させ、
+背景色だけを変更するものにはしないでください。
+
+【六、インタラクションとUI】
+
+設計されたカメラアングルを4つ用意してください。
+谷の全景、川辺のローアングル、寺院へ続く小径、山腹からの俯瞰。
+切り替えは滑らかにし、それぞれのアングルに独自の構図上の価値を持たせてください。
+
+基本操作：
+マウスのドラッグで視点を動かし、ホイールでズームまたは前進できるようにします。タッチ画面ではドラッグとピンチズームに対応してください。
+視点のリセット、UIの非表示、現在の画面の保存機能を用意してください。
+
+追加機能（任意）：
+自由探索、ゆっくりしたカメラツアー、環境音。
+環境音はデフォルトでオフにし、ユーザーが明示的にクリックした後だけ再生してください。
+追加機能によって、デフォルト画面の完成度を損なわないでください。
+
+UIは控えめで洗練されたデザインにし、景観を主役にしてください。
+タイトルとコントロールバーは画面の端に配置し、視覚的な焦点を遮らないようにしてください。
+デスクトップでもスマートフォンでも、ボタンが画面からはみ出したり、テキストが重なったり、操作できなくなったりしないようにしてください。
+
+【七、実装とパフォーマンス】
+
+Three.js / WebGL、およびバージョンを固定した互換性のあるCDN依存関係を使用して構いません。
+成熟したレンダリング機能を優先し、「依存関係ゼロ」にするためにエンジン全体を書き直さないでください。
+
+自作のHTML、CSS、JavaScriptは、できるだけ1つのHTMLファイルにまとめてください。
+景物はプロシージャルなジオメトリとマテリアルで生成し、外部の画像や3Dモデル素材に依存しないでください。
+
+繰り返し配置するオブジェクトには、適切なバッチ描画またはインスタンシング描画を使用し、
+サブディビジョン、シャドウ、反射、レンダリング解像度を適切に調整してください。
+高画質モードと軽量モードを用意し、スマートフォンではデフォルトで軽量設定を使用してください。
+ディテールを増やすために、ボクセル数を際限なく増やさないでください。
+
+読み込み中の表示、WebGL非対応時の案内、必要なエラーハンドリングを追加してください。
+サウンドが有効になっていない状態では自動再生せず、システムの「視差効果を減らす」などの設定を尊重してください。
+
+【八、納品前の検収】
+
+コードを書き終えたら、すぐに納品しないでください。
+
+現在の環境がブラウザでの実行とスクリーンショット撮影に対応している場合は、まず実際にページを開き、
+デフォルトのカメラ、4つの視点、雰囲気の切り替え、デスクトップとスマートフォンでのレイアウトを確認し、
+そのうえでスクリーンショットを見ながら、明らかな構図、露出、遮蔽、レンダリング上の問題を修正してください。
+
+重点的に確認する項目：
+画面が真っ白または真っ黒になっていないか、読み込みに失敗していないか、コンソールエラーがないか。
+メッシュの貫通、ちらつき、シャドウの縞模様、露出オーバー、水面の異常がないか。
+デフォルト画面が小さな箱庭ではなく、本当に完成した景観に見えるか。
+機能ボタンが実際に使えるか、モバイル画面からはみ出していないか。
+
+検収にはブラウザのスクリーンショットを使用して構いませんが、画像生成ツールは呼び出さないでください。
+完了していないテストについては正直に説明し、検証済みだと主張しないでください。
+
+最終納品物：
+1. 実際に存在し、開くことのできるHTMLファイル、または現在の環境で利用できるインタラクティブプレビュー。
+2. スクリーンショットを撮影できる場合は、実際のブラウザレンダリングによるスクリーンショットを1枚添付してください。
+3. 操作方法と必要な実行条件を簡潔に説明してください。
+
+制作はそのまま完了させてください。重要でない細部については、全体に一貫性のある設計判断を自分で行い、
+自力で解決できる実装上の問題を、何度も私に判断させないでください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
+
+主题：日式樱花山谷。
+使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
+不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
+
+【一、作品定位】
+
+这是一片完整、连续、有远近层次的山谷景观，
+不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
+
+风格是现代精细体素 / voxel art：
+保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
+不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
+
+视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
+
+【二、参考图的使用方式】
+
+如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
+仅借鉴氛围与视觉语言，重新设计场景，
+不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
+
+参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
+
+【三、场景构图】
+
+默认打开时就应呈现一幅完整、有吸引力的画面，
+不需要用户先旋转镜头才能找到好看的角度。
+
+采用透视相机，而不是沙盘式等距俯视相机。
+画面有明确的前景、中景、远景：
+
+前景：
+一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
+形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
+
+中景：
+一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
+村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
+地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
+
+远景：
+山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
+用尺度变化、遮挡、冷暖变化和空气透视表现距离，
+而不是仅仅把远处物体缩小。
+
+不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
+
+【四、造型与画面质量】
+
+樱花树：
+树干有转折、分叉和根部，树冠由不规则花簇组成，
+有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
+
+建筑：
+屋顶有层叠瓦片、挑檐、梁柱和窗格；
+不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
+
+地形：
+岸边有湿润石块、草丛和植被过渡。
+避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
+
+水面：
+必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
+尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
+不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
+
+细节：
+可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
+但都应服务于氛围，不能让画面显得嘈杂。
+不要为了宣称模型数量而堆砌细节。
+
+【五、色彩与氛围】
+
+默认是蓝调时刻：
+偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
+暖光集中在有人活动的地方，不要把整个环境染成橙色。
+
+需要柔和阴影、物体接触处的明暗、合理的曝光、
+克制的泛光、抗锯齿和有距离层次的薄雾。
+
+避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
+方块几何可以清晰，但渲染本身不能粗糙。
+
+另提供“清晨”和“雨中”两种氛围；
+切换时应同步改变天空、环境光、雾和局部效果，
+不是仅仅修改背景颜色。
+
+【六、交互与界面】
+
+提供四个经过设计的镜头：
+山谷全景、河边低机位、寺庙小径、山坡俯瞰。
+切换应平滑，每个镜头都需要有独立的构图价值。
+
+基础交互：
+鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
+提供重置视角、隐藏界面和保存当前画面的功能。
+
+可选增强：
+自由探索、缓慢镜头巡游、环境音。
+环境音默认关闭，只在用户主动点击后播放。
+额外功能不能影响默认画面的完成度。
+
+界面要克制、有设计感，以景观为主。
+标题和控制条放在边缘，不遮挡视觉焦点。
+桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
+
+【七、工程与性能】
+
+允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
+优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
+
+自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
+景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
+
+重复物体采用适合的批量或实例化绘制方式；
+合理控制细分、阴影、反射和渲染分辨率。
+提供高画质和轻量模式，手机默认使用较轻设置。
+不要靠无限增加体素数量换取细节。
+
+加入加载提示、WebGL 不支持时的提示和必要的错误处理。
+没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
+
+【八、交付前验收】
+
+不要写完代码就立即交付。
+
+如果当前环境支持浏览器运行和截图，请先实际打开页面，
+检查默认镜头、四个视角、氛围切换、桌面和手机布局，
+再根据截图修正明显的构图、曝光、遮挡和渲染问题。
+
+重点检查：
+是否存在空白画面、加载失败、控制台错误；
+是否有穿模、闪烁、阴影条纹、过曝、水面异常；
+默认画面是否真正像完整景观，而不是小型沙盘；
+功能按钮是否实际可用，移动端是否越界。
+
+可以使用浏览器截图验收，但不要调用图像生成工具。
+没有完成的测试要如实说明，不要声称已经验证。
+
+最终交付：
+1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
+2. 如能截图，附一张真实浏览器渲染截图。
+3. 简短说明操作方式和必要的运行条件。
+
+请直接完成制作；非关键细节自行作出一致的设计选择，
+不要把可以自行解决的实现问题反复交给我决定。
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102565403109085669) · [元の投稿](https://x.com/dotey/status/2102565403109085669) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102547809140355250"></a>
+
+### Hundenbergの事故モデルとリアルな動画
+
+[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenbergの事故モデルとリアルな動画"></a>
+
+**プロンプト**
+
+```text
+BlenderでHundenbergのモデルを作成し、事故のリアルな動画を作ってください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+make me a model of the Hundenberg on blender make me a realistic video of the accident.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102547809140355250) · [元の投稿](https://x.com/aimanhasnoname/status/2102547809140355250) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544406117286004"></a>
+
+### 画像をもとにしたハンドボールコートの360度3Dレンダリング
+
+[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="画像をもとにしたハンドボールコートの360度3Dレンダリング"></a>
+
+**参照画像:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
+
+**プロンプト**
+
+```text
+画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544406117286004) · [元の投稿](https://x.com/chikaidev/status/2102545257372213581) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544196808667471"></a>
+
+### 画像から作るプロシージャルなThree.js 3Dメインメニュー背景
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="画像から作るプロシージャルなThree.js 3Dメインメニュー背景"></a>
+
+**参照画像:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
+
+**プロンプト**
+
+```text
+この画像を完全に再現した、プロシージャル生成によるアニメーション対応のThree.js 3Dメインメニュー背景を、単一のHTMLファイルで作成してください
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544196808667471) · [元の投稿](https://x.com/majidmanzarpour/status/2102544198335373576) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544078927741369"></a>
+
+### 自走式3Dルーブ・ゴールドバーグ・マシン
+
+[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="自走式3Dルーブ・ゴールドバーグ・マシン"></a>
+
+**プロンプト**
+
+```text
+現在のディレクトリに、単一の自己完結型index.htmlとして、自動で動作する3Dルーブ・ゴールドバーグ・マシンを構築してください。
+
+連鎖の順序：
+1. 最上部でビー玉を放し、ジグザグ状に連なるスロープを転がり落とします。
+2. ビー玉が少なくとも12個のドミノを一列に倒します。
+3. 最後のドミノがシーソーを傾け、小さなボールを吊り下げられたバケツに向けて発射します。
+4. バケツの重さでバケツが下がり、ロープが滑車を通ってベルを引っ張り、ベルが目に見えて揺れます。
+5. 同じ動きで旗をポールの上へ引き上げます。旗が頂点に達したら完了です。
+
+ルール：
+- 物理演算は自分で実装してください。物理演算ライブラリは使用しないでください。ビー玉を放した後のあらゆる動きは、シミュレーション（剛体、衝突、拘束、ロープ／滑車）によって発生する必要があります。機械の各部品をキーフレームアニメーションやトゥイーンで動かしてはいけません。
+- レンダリング用にCDNからthree.jsを読み込むことは許可します。それ以外の外部要素は使用しないでください。画像、モデル、フォントも使用禁止です。
+- ユーザー入力なしで動作する必要があります。ページの読み込み時に自動開始し、アクションを追従するシネマティックカメラを使い、連鎖全体を約15～20秒で完了させてください。旗が上がった後は2秒間停止し、その後リセットして再生します。
+- 決定論的に動作させてください。固定タイムステップを使用し、シード未指定の乱数は使わないでください。毎回同じ見た目になる必要があります。
+- ブラウザウィンドウ全体に表示してください。1280×720で画面録画されます。
+- 画面上のテキストやUIは一切表示しないでください。
+- 照明、影、マテリアル、実在の装置らしさを感じさせる舞台設定を用いて、見栄えよく仕上げてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544078927741369) · [元の投稿](https://x.com/leogao25/status/2102544081863717153) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102538762731565085"></a>
+
+### インタラクティブなピーターラビット風の農場動物ゲーム
+
+[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="インタラクティブなピーターラビット風の農場動物ゲーム"></a>
+
+**プロンプト**
+
+```text
+「ピーターラビット」のデザイン／アートスタイルで、インタラクティブな農場動物ゲームを作成する
+メインメニュー＝サウンドのオン／オフ＋動物選択（馬、ブタ、ウシ、ネコ、イヌ）
+Esc＝一時停止：スポーン地点／メインメニューに戻る／リセット
+WASDで移動
+スペースキーでジャンプし、近くにいる他の動物とインタラクト
+近接検知時にインタラクションをランダムで発生させる
+インタラクションでは、他の動物に声をかける（その動物の通常の鳴き声とは異なる固有の音）、「ちょん」と触れる
+水場では水を飲め、干し草を食べられ、果物を食べられる。
+三人称視点。ただし、カメラは動物のやや後方かつ上方にあるようにする
+環境音として鳥の声を入れ、空には飛行機がランダムに現れる
+舞台＝農地、納屋、家々のある農村（家の中には入れない）
+目を引くのに十分なアセットを用意するが、プロダクション品質とみなされるほど作り込みすぎない。娘と15分ほど遊んで楽しむためのもの
+react、svg、js、webgl、threejsなど、手触りを良くするために必要なものは何でも使う」
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102538762731565085) · [元の投稿](https://x.com/blaso96/status/2102538764749037738) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102533729746882985"></a>
+
+### 夕暮れを航海する映画的なインタラクティブ海賊船
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="夕暮れを航海する映画的なインタラクティブ海賊船"></a>
+
+**プロンプト**
+
+```text
+夕暮れのダイナミックな海を航海する、完全にインタラクティブな3D海賊船シーンをゼロから作成してください。ビジュアルスタイルはフォトリアルではなく、映画的でスタイライズされたものにしつつ、非常に豊かで精密、洗練され、視覚的にも高度な表現にしてください。船、海、空、ライティング、マテリアル、帆、リギング、大砲、細かな構造物、波しぶき、航跡、パーティクル、アニメーション、カメラワーク、構図、大気遠近、カラーグレーディングを構築してください。最終結果は、プロトタイプや技術デモ、低品質なシーンではなく、プレミアムで本格的な制作による3Dアート作品として感じられるものにしてください。完全に白紙のページから開始してください。以前のプロジェクトやシーンを再利用したり、それらに依存したりしないでください。必要に応じて、アセットや信頼できるオープンソースのアセット、ライブラリを自作または利用してかまいません。必須要件：シーン内のどこにも、いかなる種類のテキストも表示してはいけません。どの言語であっても、タイトル、名前、ロゴ、説明、クレジット、ラベル、操作説明を表示しないでください。プロジェクト全体を、ウェブブラウザで直接開ける単一の最終スタンドアロンページファイルとして納品し、可能な限りアセットをファイル内に埋め込んでください。海、船、帆、カメラはすべて、自然で滑らかにアニメーションさせてください。不自然なスローモーションや動きの鈍さは避けてください。船が本当に水上を進んでいるように感じられるものにしてください。完成形に単純なプリミティブ形状だけを使わないでください。形状を丁寧に作り込んだ船体、マスト、帆、リギング、ロープ、大砲、手すり、ランタン、甲板上の構造物、細部まで明確に見える要素を備えた、説得力のある精密な海賊船を構築してください。ライティングによって船の形状とマテリアルが明確に見えるようにしてください。豊かな夕焼けの空気感、深みのある海のシェーディング、反射、説得力のある波しぶき、船の後方と周囲に広がる精細な航跡を作成してください。ビジュアル品質とリアルタイム性能のバランスを適切に保ち、品質を明らかに犠牲にすることなく、滑らかなインタラクションとアニメーションを維持してください。最高の結果を実現するために必要な、最適なスキル、ツール、ライブラリ、技法、利用可能なアセットを自動的に使用してください。使用するテクノロジーの指定を私に求めて待たないでください。完成した結果を実際にデスクトップのウェブブラウザでテストしてください。画面のスクリーンショットを撮影し、ブラウザコンソールのエラーを確認して、見つかったすべての視覚的または技術的な問題を修正してください。これには、歪んだジオメトリ、黒い画面、アセットの読み込み失敗、壊れたアニメーション、不適切な構図、レンダリングアーティファクト、カメラの問題などが含まれます。最後に、最終ファイルが直接開いて正常に動作すること、シーンにテキストが一切含まれていないこと、実行時エラーや読み込みエラーが残っていないことを確認してください。その後は、短い返答だけでタスクを完了してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102533729746882985) · [元の投稿](https://x.com/vib3coded/status/2102534606121746589) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102529695908806728"></a>
+
+### 無限にプロシージャル生成されるThree.jsワールド
+
+[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="無限にプロシージャル生成されるThree.jsワールド"></a>
+
+**プロンプト**
+
+```text
+projectsフォルダに「endless-game」という新規プロジェクトを作成してください。ブラウザ上で動作するThree.js製の、無限にプロシージャル生成される世界を構築し、自由に歩き回って楽しめるようにしてください。エリアはすべてランダム生成とし、どれだけ長くプレイしても至る所で新しい驚きが見つかるようにします。スーパーマーケットシミュレーターのような、穏やかでリラックスでき、本当に楽しい、居心地のよい満足感のある雰囲気にしてください。ただし、スーパーマーケットを題材にしたゲームにはしないでください。歩き回るだけでも興味深い世界を作り、出会って交流できる存在や、非常に魅力的なグラフィックを盛り込んでください。プロジェクトの明確な目標を設定し、それを達成するまで作業を続け、完成してプレイとテストができる状態になったらチャイム音を鳴らしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102529695908806728) · [元の投稿](https://x.com/argofowl/status/2102529695908806728) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102467667978572092"></a>
+
+### インタラクティブな群集避難シミュレーション
+
+[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="インタラクティブな群集避難シミュレーション"></a>
+
+**プロンプト**
+
+```text
+インタラクティブな群集避難シミュレーションを作成し、どこで詰まるか確認する
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build an interactive crowd evacuation sim and see where it jams
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102467667978572092) · [元の投稿](https://x.com/dominikmartn/status/2102467667978572092) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102450239923720440"></a>
+
+### インタラクティブな3D先史時代の島
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="インタラクティブな3D先史時代の島"></a>
+
+**プロンプト**
+
+```text
+Three.jsとWebGLを使って、美しく非常に詳細で、完全にインタラクティブな3Dの先史時代の島を作成してください。Chromeで直接開ける、単一のスタンドアロンHTMLファイルですべてを提供してください。可能な限りアセットを埋め込んでください。
+
+ビジュアルの方向性
+海に囲まれ、透明な海中断面を備えた、大きく丸みのある島を構築してください。仕上がりは、豊かな植生、表情豊かな恐竜、質感に富んだマテリアル、雰囲気のあるライティング、洗練されたアニメーションを備えた、プレミアムなミニチュア世界のように感じられるものにしてください。単純なジオメトリではなく、統一感のあるスタイライズドなアートディレクションを採用してください。
+ISLAND
+砂浜、岩壁、密生した先史時代の森、巨大なシダ、滝、淡水の池、火山など、変化に富んだ地形を作成してください。小さな研究ステーション、木製の遊歩道、観察プラットフォーム、補給クレート、恐竜の巣も追加してください。島には、恐竜が異なるエリア間を自然に移動できる十分な広さを持たせてください。
+
+水中断面
+島の周囲に、深く丸みのある水塊を形成し、その側面から水中の景観がはっきり見えるようにしてください。テクスチャ付きの海底、岩、水草、魚、泡、そして水面下を泳ぐ緑色の海生爬虫類を含めてください。通常の陸上恐竜を水中に配置せず、潜水艦も追加しないでください。
+波のアニメーション、フレネル反射、水中の光の模様、波打ち際の泡、飛沫を使用してください。透明度ソートのアーティファクトや、島と水の間に見える隙間は避けてください。
+
+DINOSAURS
+首の長い竜脚類、トリケラトプス、ステゴサウルス、大型獣脚類、小型の群れで行動する動物など、複数の特徴的な種を含めてください。頭上を旋回する翼竜も追加してください。
+すべての種に、識別できる解剖学的特徴、形状の整った体、関節でつながった四肢、詳細な頭部、尾、適切な皮膚模様を与えてください。完成した恐竜を、明らかに箱形のパーツや、互いに分離した球体だけで組み立てないでください。
+
+自然なアニメーション
+関節を正しく配置した階層型スケルトンを使用してください。歩行には、明確な立脚期と遊脚期を設け、接地中は足を地面に固定し、各ステップで滑らかに持ち上げてください。歩幅を移動速度に合わせてください。
+
+地形サンプリングと逆運動学（IK）を使い、足が地面に接するようにしてください。体重移動、体の subtle な動き、バランスの取れた尾の動き、首や頭の向きの変化、呼吸を加えてください。恐竜が浮いたり、滑ったり、地面にめり込んだり、建物、岩、木、他の恐竜をすり抜けたりすることがないようにしてください。
+障害物回避と安全な経路を使用してください。種ごとに移動速度、歩容、行動パターンを変えてください。海洋生物は移動方向を向くようにしてください。
+
+INTERACTION
+ユーザーが次の操作を行えるようにしてください。
+
+カメラを自由に回転させ、ズームし、水中断面を調べられるようにしてください。
+恐竜を選択し、滑らかに移動するカメラで追跡できるようにしてください。
+
+適切な場所に餌を置き、近くの恐竜が近づいて食べる様子を見られるようにしてください。
+
+水を飲む、休む、鳴く、群れで移動する、といった行動を発生させられるようにしてください。
+
+巣を探索し、幼体が孵化して出てくる様子を見られるようにしてください。
+海生爬虫類が飛沫を上げながら水面に浮上する動作を発生させられるようにしてください。
+昼、夕暮れ、夜を切り替えられるようにしてください。
+雨、風、火山活動を調整できるようにしてください。
+シミュレーションを一時停止し、シーンをリセットできるようにしてください。
+すべての操作で、明確かつ目に見える反応が起きるようにしてください。インタラクションを繰り返し実行できるようにし、アニメーションが重なってキャラクターのポーズが崩れないようにしてください。
+雰囲気と音声
+揺れる植物、流れる雲、鳥、昆虫、雨のパーティクル、夜の暖かな研究ステーションの照明を追加してください。静かな雰囲気の音楽と環境音を含め、音楽のオン／オフ切り替えと音量スライダーが正常に機能するようにしてください。音声はユーザーが操作した後にのみ開始してください。
+INTERFACE
+英語ラベルを使った、コンパクトで洗練されたインターフェースにしてください。島を覆う大きなパネルは避け、シーンを主役にしてください。デスクトップとモバイルの両方に対応するレスポンシブなレイアウトにしてください。
+技術的な品質
+植生や小道具の繰り返し配置にはインスタンシングを使用し、効率的なジオメトリ、適切なシャドウ、控えめなポストプロセスを採用してください。ビジュアルの豊かさと、滑らかなリアルタイム性能のバランスを取ってください。
+モックアップではなく、完全なシーンを構築してください。完成したHTMLをデスクトップブラウザで直接テストし、スクリーンショットとコンソールを確認し、すべてのインタラクションを実行してください。納品前に、読み込みエラー、浮遊する恐竜、足のスライディング、壊れた衝突判定、水のアーティファクト、カメラの問題を修正してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
+
+VISUAL DIRECTION
+Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
+ISLAND
+Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
+
+WATER CROSS-SECTION
+The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
+Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
+
+DINOSAURS
+Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
+Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
+
+NATURAL ANIMATION
+Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
+
+Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
+Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
+
+INTERACTION
+Allow users to:
+
+Rotate the camera freely, zoom, and inspect the underwater cross-section.
+Select a dinosaur and follow it with a smoothly moving camera.
+
+Place food in suitable locations and watch nearby dinosaurs approach and eat.
+
+Trigger drinking, resting, calling, and herd movement.
+
+Explore nests and watch a hatchling emerge.
+Trigger a marine reptile surfacing with a splash.
+Switch between daylight, sunset, and night.
+Adjust rain, wind, and volcanic activity.
+Pause the simulation and reset the scene.
+Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
+ATMOSPHERE AND AUDIO
+Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
+INTERFACE
+Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
+TECHNICAL QUALITY
+Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
+Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102450239923720440) · [元の投稿](https://x.com/vib3coded/status/2102450842070569099) · [作例一覧に戻る](#all-prompts)
+
+---
+
+
+[全カタログ](catalog.ja.md) · **1 / 1**
+
+<p align="center"><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">全カタログ →</a></strong></p>

@@ -1,0 +1,16 @@
+{
+  "name": "awesome-opus-5-5-prompts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Source-linked Claude Opus 5.5 prompts, games, scenes and simulations, generated from Growth CMS in 14 languages.",
+  "engines": { "node": ">=22.16" },
+  "scripts": {
+    "sync": "node --env-file-if-exists=.env.local scripts/sync-cms.mjs",
+    "verify:cms": "npm run sync -- --verify-only",
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test scripts/*.test.mjs",
+    "check": "npm test && npm run validate"
+  },
+  "dependencies": { "sharp": "0.35.4" }
+}

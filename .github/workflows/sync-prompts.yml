@@ -1,0 +1,47 @@
+name: Sync prompts
+on:
+  schedule:
+    # 08:47 and 20:47 Asia/Shanghai.
+    - cron: '47 0,12 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: sync-prompts-main
+  cancel-in-progress: false
+jobs:
+  sync:
+    if: github.repository == 'TripoGrowthLab/awesome-opus-5-5-prompts' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Fetch published CMS content and render templates
+        env:
+          CMS_URL: ${{ vars.CMS_URL || 'https://cms.tripogrowth.space' }}
+          CMS_API_KEY: ${{ secrets.CMS_API_KEY }}
+        run: npm run sync
+      - run: npm run check
+      - name: Publish validated output
+        run: |
+          git add -- README.md README.zh-CN.md docs/catalog.*.md docs/with-code.md docs/sync-manifest.json assets/manifest.json
+          for directory in assets/previews assets/featured; do
+            if [ -d "$directory" ]; then git add -A -- "$directory"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "CMS content is unchanged."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "docs: sync published prompts from CMS"
+          git push origin HEAD:main

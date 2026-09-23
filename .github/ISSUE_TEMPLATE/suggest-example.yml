@@ -1,0 +1,38 @@
+name: Suggest an example
+description: Share a 3D project with a reusable prompt and a visible result.
+title: '[Example] '
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Original source URL
+      description: Link to the original creator's post or repository.
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Creator and profile URL
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model actually used
+      description: Include where the creator identifies the model and version.
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt and source context
+      description: Include the reusable prompt, required reference images and whether the text is quoted or reconstructed.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Preview, live demo and source code
+      description: Link the visible result and any repository or license information.
+    validations:
+      required: true

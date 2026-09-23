@@ -1,0 +1,8 @@
+# Generated quotations preserve source whitespace verbatim.
+README*.md -whitespace linguist-generated=true
+docs/catalog.*.md -whitespace linguist-generated=true
+docs/with-code.md linguist-generated=true
+docs/sync-manifest.json linguist-generated=true
+assets/manifest.json linguist-generated=true
+*.webp binary
+*.png binary

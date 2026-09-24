@@ -13,6 +13,36 @@
       ]
     },
     {
+      "path": "assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp",
+      "fingerprint": "84064a772e8de9b7592b562f3d68b37860f2acf38b583bcf812de19b2954e027",
+      "sha256": "1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526",
+      "bytes": 45470,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102739314178400256/img/CzvxEdPB8dkuikUB.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2102739444256383089"
+      ]
+    },
+    {
+      "path": "assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp",
+      "fingerprint": "f4bd7f061f462a0a7301d9c0b4bbe6fccdb205d5477c6b4663b0e781977e03a8",
+      "sha256": "1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9",
+      "bytes": 32400,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102775202614788096/img/UATSqT8q3GPW5tH-.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2102775461701091531"
+      ]
+    },
+    {
+      "path": "assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp",
+      "fingerprint": "dcbdc1ea6e8faa4ba7921dd5dfcf65d369c37816929bcd9da17ca685d8968e81",
+      "sha256": "20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845",
+      "bytes": 23870,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102739828714655744/img/YPIxjj8zYFny98GU.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2102740078347087940"
+      ]
+    },
+    {
       "path": "assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp",
       "fingerprint": "9b13dd807a69b173efe64f6fa5523bdd155432d309e31752f1ed50c98a4edb9a",
       "sha256": "2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4",
@@ -53,6 +83,26 @@
       ]
     },
     {
+      "path": "assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp",
+      "fingerprint": "6800be4d8b0fc7ab8952b5e0417c080369bd9618f2f424daf5170c500176d17a",
+      "sha256": "374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8",
+      "bytes": 44788,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102781539671265280/img/xflHX7TThTU9OdU-.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2102781807179735211"
+      ]
+    },
+    {
+      "path": "assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp",
+      "fingerprint": "32cc596da4f9cf1fd2dfca50a5a7d5303dd4a327c088e2978a925fa7205c01c0",
+      "sha256": "38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c",
+      "bytes": 22710,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102681158093815808/img/MMvJMAztnLhoKZ_G.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2102729710174196022"
+      ]
+    },
+    {
       "path": "assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp",
       "fingerprint": "02b0b9fdcb8763e1f6954a11ca1128073e7f8cc308677689d81b3541ee06ad0a",
       "sha256": "4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f",
@@ -70,6 +120,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102467618401914880/img/Wnu0wg2UJEUHNfTX.jpg",
       "promptIds": [
         "claude-opus-5-5-2102467667978572092"
+      ]
+    },
+    {
+      "path": "assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp",
+      "fingerprint": "7d7d031164876d9e806844b5c0b75293e1b7e8b48370b2c4813ec65e676d171e",
+      "sha256": "677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610",
+      "bytes": 6658,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102787964413603840/img/10eTSKr3DEqjeBKe.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2102788223835463902"
       ]
     },
     {
@@ -110,6 +170,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102529372934803456/img/Ej5aGHqhgz0JtIEO.jpg",
       "promptIds": [
         "claude-opus-5-5-2102529695908806728"
+      ]
+    },
+    {
+      "path": "assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp",
+      "fingerprint": "fddebf30b72bb6e7c93db02d5b7b3a434451bc2588b02230adedc10a9340491a",
+      "sha256": "f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98",
+      "bytes": 9174,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102787398966927360/img/QRd92HJSVkpgAoy2.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2102788371114246177"
       ]
     }
   ]

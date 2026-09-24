@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**11 条案例 · 1 个模型 · 14 种语言**
+**18 条案例 · 1 个模型 · 14 种语言**
 
 [按用途浏览](#categories) · [按模型浏览](#models) · [项目源码](with-code.md) · [1](../docs/catalog.zh.1.md)
 
@@ -31,30 +31,37 @@
 
 <a id="category-games"></a>
 
-### 游戏 · 2
+### 游戏 · 3
 
+- [CatWalk：奔跑在夜色街头的 3D 横版猫咪游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [彼得兔风格的互动农场动物游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [无限程序生成的 Three.js 世界](../docs/catalog.zh.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### 场景 · 3
+### 场景 · 4
 
+- [《末班列车》赛博朋克巨型城市基准项目](../docs/catalog.zh.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [基于图片的手球场 360° 3D 渲染](../docs/catalog.zh.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [根据图片制作程序化 Three.js 3D 主菜单背景](../docs/catalog.zh.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [日落时分的电影感互动海盗船](../docs/catalog.zh.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-interactive-3d"></a>
 
-### 互动 · 2
+### 互动 · 3
 
+- [虚构行星互动网站](../docs/catalog.zh.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [日式樱花山谷交互式 3D 景观网页](../docs/catalog.zh.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [交互式 3D 史前岛屿](../docs/catalog.zh.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### 动画 · 4
+### 动画 · 8
 
+- [Claude 成长训练蒙太奇](../docs/catalog.zh.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
+- [使用 Three.js 制作皮克斯级别的 90 年代卡通动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
+- [无缝循环的代码水循环动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [体素风足球动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
 - [交互式欧拉霓虹流体模拟](../docs/catalog.zh.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Hundenberg 事故模型与逼真视频](../docs/catalog.zh.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [自动运行的 3D 鲁布·戈德堡机械装置](../docs/catalog.zh.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
@@ -66,8 +73,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 11
+### Claude Opus 5.5 · 18
 
+- [Claude 成长训练蒙太奇](../docs/catalog.zh.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
+- [使用 Three.js 制作皮克斯级别的 90 年代卡通动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
+- [无缝循环的代码水循环动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [CatWalk：奔跑在夜色街头的 3D 横版猫咪游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
+- [《末班列车》赛博朋克巨型城市基准项目](../docs/catalog.zh.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
+- [体素风足球动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
+- [虚构行星互动网站](../docs/catalog.zh.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [交互式欧拉霓虹流体模拟](../docs/catalog.zh.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [日式樱花山谷交互式 3D 景观网页](../docs/catalog.zh.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hundenberg 事故模型与逼真视频](../docs/catalog.zh.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
@@ -81,4 +95,4 @@
 - [交互式 3D 史前岛屿](../docs/catalog.zh.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 11 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 18 条案例与在线演示 →</a></strong></p>

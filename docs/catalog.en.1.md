@@ -26,8 +26,15 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Browse examples (11)</summary>
+<summary>Browse examples (18)</summary>
 
+- [Claude growth training montage](#claude-opus-5-5-2102788371114246177)
+- [Create a Pixar-level 90s cartoon animation in Three.js](#claude-opus-5-5-2102788223835463902)
+- [Seamless coded water-cycle animation](#claude-opus-5-5-2102781807179735211)
+- [CatWalk: A 3D Side-Scrolling Cat Game Set in a Nighttime City](#claude-opus-5-5-2102775461701091531)
+- [The Last Train cyberpunk megacity benchmark](#claude-opus-5-5-2102740078347087940)
+- [Voxel-style soccer animation](#claude-opus-5-5-2102739444256383089)
+- [Interactive website about imaginary planets](#claude-opus-5-5-2102729710174196022)
 - [Interactive Eulerian Neon Fluid Simulation](#claude-opus-5-5-2102565611473661963)
 - [Interactive 3D Japanese Cherry Blossom Valley Web Experience](#claude-opus-5-5-2102565403109085669)
 - [Hundenberg accident model and realistic video](#claude-opus-5-5-2102547809140355250)
@@ -41,6 +48,169 @@
 - [Interactive 3D Prehistoric Island](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claude growth training montage
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude growth training montage"></a>
+
+**Prompt**
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102788371114246177) · [Original post](https://x.com/ishuagra02/status/2102788832273801700) · [Back to examples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Create a Pixar-level 90s cartoon animation in Three.js
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Create a Pixar-level 90s cartoon animation in Three.js"></a>
+
+**Prompt**
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102788223835463902) · [Original post](https://x.com/scheemunai/status/2102788223835463902) · [Back to examples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### Seamless coded water-cycle animation
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="Seamless coded water-cycle animation"></a>
+
+**Prompt**
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102781807179735211) · [Original post](https://x.com/higgsfield_ai/status/2102781807179735211) · [Back to examples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk: A 3D Side-Scrolling Cat Game Set in a Nighttime City
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · Games
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: A 3D Side-Scrolling Cat Game Set in a Nighttime City"></a>
+
+**Prompt**
+
+```text
+Let's develop a game.
+The graphics can be either 2D or 3D; choose whichever makes the game systems and overall development easier to analyze and implement.
+Personally, I’m imagining a 3D game with a side-scrolling action format.
+I’d like to create a stylish atmosphere through the lighting and other elements, so I think 3D could enable more beautiful visuals—for example, streetlamps and lanterns.
+The game I want to make is called CatWalk.
+The name says it all.
+A cat moves from side to side.
+A catwalk stretches ahead, and the screen scrolls automatically. The player uses only simple controls, such as jumping, to clear obstacles and gaps while keeping pace with the scrolling speed. In a way, it might have a similar tension and system to Flappy Bird.
+However, I want the graphics to feel mature, stylish, and atmospheric.
+If possible, I’d love to show the cat moving, running, and jumping with graceful, fluid animation.
+You can decide the stage’s setting, but starting with something straightforward, such as a nighttime street, would be fine.
+I’d be very happy if a darker setting could make indirect lighting and similar effects look beautiful.
+I understand that some things may be possible, impossible, or difficult.
+Using my requests as a starting point, please develop something you think you can realistically make.
+For now, make one stage playable through a single complete loop.
+```
+
+<details>
+<summary>Original prompt</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102775461701091531) · [Original post](https://x.com/blitast_studio/status/2102775632933654585) · [Back to examples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### The Last Train cyberpunk megacity benchmark
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · Scenes
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="The Last Train cyberpunk megacity benchmark"></a>
+
+**Prompt**
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102740078347087940) · [Original post](https://x.com/builderhelmai/status/2102740078347087940) · [Back to examples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### Voxel-style soccer animation
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Voxel-style soccer animation"></a>
+
+**Prompt**
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102739444256383089) · [Original post](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Back to examples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### Interactive website about imaginary planets
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Interactive
+
+<a href="https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Interactive website about imaginary planets"></a>
+
+**Prompt**
+
+```text
+build an interactive website about imaginary planets.
+```
+
+[View detail ↗](https://www.tripo3d.ai/3d-prompts/claude-opus-5-5-2102729710174196022) · [Original post](https://x.com/Kappaemme1926/status/2102729710174196022) · [Back to examples](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102565611473661963"></a>
 
 ### Interactive Eulerian Neon Fluid Simulation
@@ -664,4 +834,4 @@ Build a complete scene, not a mockup. Test the final HTML directly in a desktop 
 
 [Complete catalog](catalog.en.md) · **1 / 1**
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Explore all 11 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Explore all 18 examples and live previews →</a></strong></p>

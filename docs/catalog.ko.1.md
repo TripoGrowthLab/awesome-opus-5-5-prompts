@@ -26,8 +26,15 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>사례 둘러보기 (11)</summary>
+<summary>사례 둘러보기 (18)</summary>
 
+- [Claude 성장 훈련 몽타주](#claude-opus-5-5-2102788371114246177)
+- [Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션](#claude-opus-5-5-2102788223835463902)
+- [끊김 없는 코드 기반 물 순환 애니메이션](#claude-opus-5-5-2102781807179735211)
+- [CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임](#claude-opus-5-5-2102775461701091531)
+- [더 라스트 트레인 사이버펑크 메가시티 벤치마크](#claude-opus-5-5-2102740078347087940)
+- [복셀 스타일 축구 애니메이션](#claude-opus-5-5-2102739444256383089)
+- [상상 속 행성 인터랙티브 웹사이트](#claude-opus-5-5-2102729710174196022)
 - [인터랙티브 오일러리안 네온 유체 시뮬레이션](#claude-opus-5-5-2102565611473661963)
 - [일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지](#claude-opus-5-5-2102565403109085669)
 - [Hundenberg 사고 모델과 실사풍 영상](#claude-opus-5-5-2102547809140355250)
@@ -41,6 +48,223 @@
 - [인터랙티브 3D 선사시대 섬](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claude 성장 훈련 몽타주
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude 성장 훈련 몽타주"></a>
+
+**프롬프트**
+
+```text
+코드만으로 30초 분량의 애니메이션을 제작하세요. Claude 마스코트를 주인공으로 삼고, 쿵푸 팬더의 훈련 장면에서 영감을 받은 성장 몽타주를 연출하세요. 초기 출시 이후 Claude가 인터넷 검색, 코드 작성, 3D 모델 제작, 인류가 직면한 가장 어려운 문제 해결 등 다양한 능력을 점점 더 발전시켜 가는 모습을 보여 주세요. 감정적으로 강렬한 음악을 사용하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102788371114246177) · [원본 게시물](https://x.com/ishuagra02/status/2102788832273801700) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션"></a>
+
+**프롬프트**
+
+```text
+이야기를 하나 상상해 주세요. 그런 다음 threejs를 사용해 상상한 이야기를 바탕으로 픽사급 완성도의 1990년대 카툰 스타일 풀 애니메이션을 제작해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102788223835463902) · [원본 게시물](https://x.com/scheemunai/status/2102788223835463902) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### 끊김 없는 코드 기반 물 순환 애니메이션
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="끊김 없는 코드 기반 물 순환 애니메이션"></a>
+
+**프롬프트**
+
+```text
+물 순환을 주제로 한 끊김 없는 루프 애니메이션을 전부 코드로 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102781807179735211) · [원본 게시물](https://x.com/higgsfield_ai/status/2102781807179735211) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임"></a>
+
+**프롬프트**
+
+```text
+게임을 개발해 봅시다
+그래픽은 2D든 3D든 상관없지만, 게임 시스템 등을 분석해 개발하기 더 쉬운 방향으로 진행해도 좋습니다
+개인적으로는 3D를 생각하고 있지만, 화면 구성은 횡스크롤 액션 게임 같은 형태를 상정하고 있습니다
+조명 등을 활용해 세련된 분위기를 내고 싶으므로, 3D를 사용하면 아름다운 표현이 가능하지 않을까 생각합니다(예: 가로등이나 랜턴 같은 연출)
+만들고 싶은 게임의 이름은 CatWalk입니다
+이름 그대로
+고양이가 옆으로 이동하고
+캣워크가 계속 이어지며 화면은 자동으로 스크롤됩니다. 플레이어는 그 속도에 맞춰 장애물과 구멍을 점프 같은 간단한 조작만으로 넘어가는 방식입니다. 어떤 의미에서는 플래피류 게임과 비슷한 긴장감과 시스템일 수도 있습니다.
+다만 그래픽은 성숙하고 스타일리시한 분위기 중심의 게임을 목표로 하고 싶습니다
+가능하다면 고양이의 유연한 걷기, 달리기, 점프 동작을 표현할 수 있으면 좋겠습니다
+스테이지의 세계관은 맡기겠지만, 처음에는 무난하게 밤거리 같은 배경도 괜찮을 것 같습니다
+어둡게 연출해 간접 조명 등을 아름답게 표현할 수 있다면 정말 좋겠습니다
+구현할 수 있는 것과 없는 것, 어려운 부분이 있을 거라고 생각하므로
+이 제 요구 사항을 힌트 삼아, 당신의 판단으로 구현할 수 있을 만한 것을 개발해 주세요
+우선 한 스테이지를 한 바퀴 플레이할 수 있도록
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102775461701091531) · [원본 게시물](https://x.com/blitast_studio/status/2102775632933654585) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### 더 라스트 트레인 사이버펑크 메가시티 벤치마크
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="더 라스트 트레인 사이버펑크 메가시티 벤치마크"></a>
+
+**프롬프트**
+
+```text
+Blender에서 히어로 열차, 프로시저럴 건축물, 고가 철도 시스템, 비, 볼류메트릭 분위기, 시네마틱 조명, 여러 카메라 설정과 전체 애니메이션 시퀀스를 포함한 완전한 사이버펑크 메가시티를 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102740078347087940) · [원본 게시물](https://x.com/builderhelmai/status/2102740078347087940) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### 복셀 스타일 축구 애니메이션
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="복셀 스타일 축구 애니메이션"></a>
+
+**프롬프트**
+
+```text
+Three.js(CDN)를 사용하는 단일 HTML 파일로 간단한 복셀 스타일 축구 애니메이션을 제작하세요. 블록 형태의 선수가 수비수 2명을 제치고 화려한 골을 넣은 뒤 세리머니 파티클을 발생시킵니다. 경기장은 알록달록한 분위기로 표현하세요. 전체 HTML 코드만 출력하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102739444256383089) · [원본 게시물](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### 상상 속 행성 인터랙티브 웹사이트
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="상상 속 행성 인터랙티브 웹사이트"></a>
+
+**프롬프트**
+
+```text
+상상 속 행성을 주제로 한 인터랙티브 웹사이트를 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102729710174196022) · [원본 게시물](https://x.com/Kappaemme1926/status/2102729710174196022) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102565611473661963"></a>
 
 ### 인터랙티브 오일러리안 네온 유체 시뮬레이션

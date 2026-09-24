@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**11 作例 · 14 🌐**
+**18 作例 · 14 🌐**
 
 [カテゴリで探す](#categories) · [モデルで探す](#models) · [ソースコード](with-code.md) · [1](../docs/catalog.ja.1.md)
 
@@ -31,30 +31,37 @@
 
 <a id="category-games"></a>
 
-### ゲーム · 2
+### ゲーム · 3
 
+- [CatWalk：夜の街を駆ける3D横スクロール猫ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [インタラクティブなピーターラビット風の農場動物ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [無限にプロシージャル生成されるThree.jsワールド](../docs/catalog.ja.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### シーン · 3
+### シーン · 4
 
+- [『ラストトレイン』サイバーパンク巨大都市ベンチマーク](../docs/catalog.ja.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [画像をもとにしたハンドボールコートの360度3Dレンダリング](../docs/catalog.ja.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [画像から作るプロシージャルなThree.js 3Dメインメニュー背景](../docs/catalog.ja.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [夕暮れを航海する映画的なインタラクティブ海賊船](../docs/catalog.ja.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-interactive-3d"></a>
 
-### インタラクティブ · 2
+### インタラクティブ · 3
 
+- [想像上の惑星を扱うインタラクティブなウェブサイト](../docs/catalog.ja.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [日本の桜の谷を描くインタラクティブ3D景観Webページ](../docs/catalog.ja.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [インタラクティブな3D先史時代の島](../docs/catalog.ja.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### アニメーション · 4
+### アニメーション · 8
 
+- [Claudeの成長トレーニングモンタージュ](../docs/catalog.ja.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
+- [Three.jsでピクサー級の90年代アニメーションを制作](../docs/catalog.ja.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
+- [コードで作るシームレスな水循環アニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [ボクセル風サッカーアニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
 - [インタラクティブなオイラー型ネオン流体シミュレーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Hundenbergの事故モデルとリアルな動画](../docs/catalog.ja.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [自走式3Dルーブ・ゴールドバーグ・マシン](../docs/catalog.ja.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
@@ -66,8 +73,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 11
+### Claude Opus 5.5 · 18
 
+- [Claudeの成長トレーニングモンタージュ](../docs/catalog.ja.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
+- [Three.jsでピクサー級の90年代アニメーションを制作](../docs/catalog.ja.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
+- [コードで作るシームレスな水循環アニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [CatWalk：夜の街を駆ける3D横スクロール猫ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
+- [『ラストトレイン』サイバーパンク巨大都市ベンチマーク](../docs/catalog.ja.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
+- [ボクセル風サッカーアニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
+- [想像上の惑星を扱うインタラクティブなウェブサイト](../docs/catalog.ja.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [インタラクティブなオイラー型ネオン流体シミュレーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [日本の桜の谷を描くインタラクティブ3D景観Webページ](../docs/catalog.ja.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hundenbergの事故モデルとリアルな動画](../docs/catalog.ja.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)

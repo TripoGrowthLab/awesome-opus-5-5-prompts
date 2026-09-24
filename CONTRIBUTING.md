@@ -14,3 +14,5 @@ npm run check
 ```
 
 Checks run without CMS credentials. For live synchronization, see [maintenance](docs/maintaining.md). Every linked project keeps its own license; see [rights and attribution](RIGHTS.md).
+
+The generated README shows the latest 50 published prompts (or all available prompts when fewer exist). The complete catalog remains paginated at 50 prompts per page; change `catalog.config.mjs` and regenerate rather than editing generated Markdown.

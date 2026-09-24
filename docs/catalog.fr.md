@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**11 Exemples · 14 🌐**
+**18 Exemples · 14 🌐**
 
 [Par catégorie](#categories) · [Par modèle](#models) · [Code source](with-code.md) · [1](../docs/catalog.fr.1.md)
 
@@ -31,30 +31,37 @@
 
 <a id="category-games"></a>
 
-### Jeux · 2
+### Jeux · 3
 
+- [CatWalk : un jeu de chat 3D à défilement horizontal dans la ville nocturne](../docs/catalog.fr.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Jeu interactif d’animaux de la ferme dans le style de Peter Rabbit](../docs/catalog.fr.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Monde Three.js infini généré procéduralement](../docs/catalog.fr.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### Scènes · 3
+### Scènes · 4
 
+- [Benchmark de mégalopole cyberpunk — The Last Train](../docs/catalog.fr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Rendu 3D à 360° d’un terrain de handball à partir d’une image](../docs/catalog.fr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Arrière-plan 3D procédural de menu principal Three.js à partir d’une image](../docs/catalog.fr.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Navire pirate interactif cinématique au coucher du soleil](../docs/catalog.fr.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-interactive-3d"></a>
 
-### Interactif · 2
+### Interactif · 3
 
+- [Site web interactif sur des planètes imaginaires](../docs/catalog.fr.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Page web paysagère 3D interactive — vallée japonaise de cerisiers](../docs/catalog.fr.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Île préhistorique 3D interactive](../docs/catalog.fr.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Animation · 4
+### Animation · 8
 
+- [Montage d’entraînement et de progression de Claude](../docs/catalog.fr.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
+- [Créez une animation de dessin animé des années 90, d’un niveau digne de Pixar, avec Three.js](../docs/catalog.fr.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
+- [Animation codée du cycle de l’eau en boucle parfaite](../docs/catalog.fr.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [Animation de football en style voxel](../docs/catalog.fr.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
 - [Simulation interactive de fluide néon eulérienne](../docs/catalog.fr.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Modèle de l’accident du Hundenberg et vidéo réaliste](../docs/catalog.fr.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [Machine de Rube Goldberg 3D autonome](../docs/catalog.fr.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
@@ -66,8 +73,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 11
+### Claude Opus 5.5 · 18
 
+- [Montage d’entraînement et de progression de Claude](../docs/catalog.fr.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
+- [Créez une animation de dessin animé des années 90, d’un niveau digne de Pixar, avec Three.js](../docs/catalog.fr.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
+- [Animation codée du cycle de l’eau en boucle parfaite](../docs/catalog.fr.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
+- [CatWalk : un jeu de chat 3D à défilement horizontal dans la ville nocturne](../docs/catalog.fr.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
+- [Benchmark de mégalopole cyberpunk — The Last Train](../docs/catalog.fr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
+- [Animation de football en style voxel](../docs/catalog.fr.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
+- [Site web interactif sur des planètes imaginaires](../docs/catalog.fr.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Simulation interactive de fluide néon eulérienne](../docs/catalog.fr.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Page web paysagère 3D interactive — vallée japonaise de cerisiers](../docs/catalog.fr.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Modèle de l’accident du Hundenberg et vidéo réaliste](../docs/catalog.fr.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)

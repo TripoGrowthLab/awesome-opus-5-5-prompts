@@ -26,8 +26,15 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>作例を見る (11)</summary>
+<summary>作例を見る (18)</summary>
 
+- [Claudeの成長トレーニングモンタージュ](#claude-opus-5-5-2102788371114246177)
+- [Three.jsでピクサー級の90年代アニメーションを制作](#claude-opus-5-5-2102788223835463902)
+- [コードで作るシームレスな水循環アニメーション](#claude-opus-5-5-2102781807179735211)
+- [CatWalk：夜の街を駆ける3D横スクロール猫ゲーム](#claude-opus-5-5-2102775461701091531)
+- [『ラストトレイン』サイバーパンク巨大都市ベンチマーク](#claude-opus-5-5-2102740078347087940)
+- [ボクセル風サッカーアニメーション](#claude-opus-5-5-2102739444256383089)
+- [想像上の惑星を扱うインタラクティブなウェブサイト](#claude-opus-5-5-2102729710174196022)
 - [インタラクティブなオイラー型ネオン流体シミュレーション](#claude-opus-5-5-2102565611473661963)
 - [日本の桜の谷を描くインタラクティブ3D景観Webページ](#claude-opus-5-5-2102565403109085669)
 - [Hundenbergの事故モデルとリアルな動画](#claude-opus-5-5-2102547809140355250)
@@ -41,6 +48,200 @@
 - [インタラクティブな3D先史時代の島](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claudeの成長トレーニングモンタージュ
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claudeの成長トレーニングモンタージュ"></a>
+
+**プロンプト**
+
+```text
+カンフー・パンダのトレーニングシーンに着想を得た、成長モンタージュの30秒アニメーションを、すべてコードで制作してください。主人公はClaudeのマスコットとし、初回リリース以降、インターネット検索、コードの記述、3Dモデルの制作、人類が抱える最も難しい問題の解決など、さまざまな能力を高めていく様子を描いてください。感情を揺さぶる音楽も付けてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102788371114246177) · [元の投稿](https://x.com/ishuagra02/status/2102788832273801700) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Three.jsでピクサー級の90年代アニメーションを制作
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Three.jsでピクサー級の90年代アニメーションを制作"></a>
+
+**プロンプト**
+
+```text
+ストーリーを考えてください。そしてThree.jsを使って、そのストーリーをもとに、ピクサー級のクオリティを持つ90年代風アニメーション作品をフルアニメーションで制作してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102788223835463902) · [元の投稿](https://x.com/scheemunai/status/2102788223835463902) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### コードで作るシームレスな水循環アニメーション
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="コードで作るシームレスな水循環アニメーション"></a>
+
+**プロンプト**
+
+```text
+水循環をテーマにした、すべてコードで制作するシームレスなループアニメーションを作成してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102781807179735211) · [元の投稿](https://x.com/higgsfield_ai/status/2102781807179735211) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk：夜の街を駆ける3D横スクロール猫ゲーム
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk：夜の街を駆ける3D横スクロール猫ゲーム"></a>
+
+**プロンプト**
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102775461701091531) · [元の投稿](https://x.com/blitast_studio/status/2102775632933654585) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### 『ラストトレイン』サイバーパンク巨大都市ベンチマーク
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="『ラストトレイン』サイバーパンク巨大都市ベンチマーク"></a>
+
+**プロンプト**
+
+```text
+主役となる列車、プロシージャル建築、高架鉄道システム、雨、ボリューメトリックな大気、シネマティックライティング、複数のカメラセットアップ、完全なアニメーションシーケンスを備えたサイバーパンク巨大都市を、Blender内に構築してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102740078347087940) · [元の投稿](https://x.com/builderhelmai/status/2102740078347087940) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### ボクセル風サッカーアニメーション
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="ボクセル風サッカーアニメーション"></a>
+
+**プロンプト**
+
+```text
+Three.js（CDN）を使った、シンプルなボクセル風サッカーアニメーションを1つのHTMLファイルで作成してください。ブロック状の選手が2人のディフェンダーをドリブルでかわし、祝福のパーティクルが舞う華麗なゴールを決めます。カラフルなスタジアムの雰囲気にしてください。出力は完全なHTMLコードのみとしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102739444256383089) · [元の投稿](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### 想像上の惑星を扱うインタラクティブなウェブサイト
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="想像上の惑星を扱うインタラクティブなウェブサイト"></a>
+
+**プロンプト**
+
+```text
+想像上の惑星をテーマにしたインタラクティブなウェブサイトを作成してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102729710174196022) · [元の投稿](https://x.com/Kappaemme1926/status/2102729710174196022) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102565611473661963"></a>
 
 ### インタラクティブなオイラー型ネオン流体シミュレーション

@@ -26,8 +26,15 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (11)</summary>
+<summary>Khám phá ví dụ (18)</summary>
 
+- [Montage huấn luyện quá trình phát triển của Claude](#claude-opus-5-5-2102788371114246177)
+- [Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js](#claude-opus-5-5-2102788223835463902)
+- [Hoạt ảnh chu trình nước lập trình liền mạch](#claude-opus-5-5-2102781807179735211)
+- [CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm](#claude-opus-5-5-2102775461701091531)
+- [bài benchmark đại đô thị cyberpunk The Last Train](#claude-opus-5-5-2102740078347087940)
+- [Hoạt ảnh bóng đá phong cách voxel](#claude-opus-5-5-2102739444256383089)
+- [Trang web tương tác về các hành tinh tưởng tượng](#claude-opus-5-5-2102729710174196022)
 - [Mô phỏng chất lỏng neon Euler tương tác](#claude-opus-5-5-2102565611473661963)
 - [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](#claude-opus-5-5-2102565403109085669)
 - [Mô hình tai nạn Hundenberg và video chân thực](#claude-opus-5-5-2102547809140355250)
@@ -41,6 +48,223 @@
 - [Hòn đảo tiền sử 3D tương tác](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Montage huấn luyện quá trình phát triển của Claude
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Montage huấn luyện quá trình phát triển của Claude"></a>
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh dài 30 giây hoàn toàn bằng mã, thể hiện montage quá trình phát triển lấy cảm hứng từ phân cảnh huấn luyện trong Kung Fu Panda, với linh vật Claude là nhân vật chính. Cho thấy Claude ngày càng nâng cao năng lực kể từ khi ra mắt ở nhiều kỹ năng như tìm kiếm trên internet, viết mã, tạo mô hình 3D và giải quyết những vấn đề khó khăn nhất của nhân loại, kết hợp với phần nhạc giàu cảm xúc.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788371114246177) · [Bài đăng gốc](https://x.com/ishuagra02/status/2102788832273801700) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js"></a>
+
+**Prompt**
+
+```text
+Tôi muốn bạn tưởng tượng ra một câu chuyện. Sau đó, sử dụng threejs để tạo một bộ phim hoạt hình hoàn chỉnh từ câu chuyện bạn nghĩ ra, theo phong cách hoạt hình thập niên 90 với chất lượng cấp Pixar.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102788223835463902) · [Bài đăng gốc](https://x.com/scheemunai/status/2102788223835463902) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### Hoạt ảnh chu trình nước lập trình liền mạch
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="Hoạt ảnh chu trình nước lập trình liền mạch"></a>
+
+**Prompt**
+
+```text
+Tạo một hoạt ảnh chu trình nước phát theo vòng lặp liền mạch, hoàn toàn bằng mã.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102781807179735211) · [Bài đăng gốc](https://x.com/higgsfield_ai/status/2102781807179735211) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm"></a>
+
+**Prompt**
+
+```text
+Hãy phát triển một game
+Đồ họa có thể là 2D hoặc 3D, tùy phương án nào dễ phân tích hệ thống game và triển khai hơn
+Cá nhân tôi thiên về 3D, nhưng hình thức trên màn hình mà tôi hình dung là game hành động đi cảnh ngang
+Tôi muốn tạo bầu không khí phong cách nhờ ánh sáng và các yếu tố tương tự, nên nghĩ rằng 3D có thể mang lại hình ảnh đẹp hơn (ví dụ như đèn đường hoặc đèn lồng)
+Game tôi muốn làm có tên là CatWalk
+Đúng như tên gọi
+Một chú mèo di chuyển sang ngang
+Sàn catwalk nối dài và màn hình tự động cuộn, vì vậy người chơi chỉ cần dùng các thao tác đơn giản như nhảy để vượt qua chướng ngại vật và hố, đồng thời bắt kịp tốc độ cuộn. Xét ở một khía cạnh nào đó, cảm giác căng thẳng và hệ thống game có thể gần với Flappy Bird.
+Tuy nhiên, tôi muốn đồ họa mang vẻ trưởng thành, ngầu và giàu không khí
+Nếu có thể thể hiện được dáng đi, chạy và nhảy uyển chuyển của mèo thì càng tốt
+Bạn có thể tự quyết định thế giới của màn chơi, nhưng ban đầu có lẽ một con phố đêm quen thuộc cũng là lựa chọn phù hợp
+Tôi sẽ rất hài lòng nếu tông màu tối giúp thể hiện đẹp mắt ánh sáng gián tiếp và các hiệu ứng tương tự
+Tôi hiểu sẽ có những điều làm được, không làm được và khó thực hiện
+Hãy dựa trên những mong muốn này để phát triển một sản phẩm mà theo đánh giá của bạn là khả thi
+Trước tiên, hãy làm cho một màn có thể chơi trọn một vòng
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102775461701091531) · [Bài đăng gốc](https://x.com/blitast_studio/status/2102775632933654585) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### bài benchmark đại đô thị cyberpunk The Last Train
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="bài benchmark đại đô thị cyberpunk The Last Train"></a>
+
+**Prompt**
+
+```text
+dựng một đại đô thị cyberpunk hoàn chỉnh trong Blender với đoàn tàu chủ đạo, kiến trúc tạo sinh, hệ thống đường ray trên cao, mưa, hiệu ứng khí quyển thể tích, ánh sáng điện ảnh, nhiều thiết lập camera và một chuỗi hoạt ảnh hoàn chỉnh.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102740078347087940) · [Bài đăng gốc](https://x.com/builderhelmai/status/2102740078347087940) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### Hoạt ảnh bóng đá phong cách voxel
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Hoạt ảnh bóng đá phong cách voxel"></a>
+
+**Prompt**
+
+```text
+Tạo một tệp HTML duy nhất sử dụng Three.js (CDN) cho hoạt ảnh bóng đá phong cách voxel đơn giản. Một cầu thủ dạng khối rê bóng vượt qua 2 hậu vệ và ghi một bàn thắng đẹp mắt với các hạt hiệu ứng ăn mừng. Sân vận động có diện mạo đầy màu sắc. CHỈ xuất toàn bộ mã HTML.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102739444256383089) · [Bài đăng gốc](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### Trang web tương tác về các hành tinh tưởng tượng
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Trang web tương tác về các hành tinh tưởng tượng"></a>
+
+**Prompt**
+
+```text
+xây dựng một trang web tương tác về các hành tinh tưởng tượng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102729710174196022) · [Bài đăng gốc](https://x.com/Kappaemme1926/status/2102729710174196022) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102565611473661963"></a>
 
 ### Mô phỏng chất lỏng neon Euler tương tác

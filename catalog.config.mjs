@@ -7,6 +7,6 @@ export default Object.freeze({
   campaign: "awesome_opus_5_5_prompts",
   accent: "d58b70",
   pageSize: 50,
-  readmeLimit: 12,
+  readmeLimit: 50,
   featuredLimit: 6,
 });

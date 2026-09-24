@@ -26,8 +26,15 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>瀏覽案例 (11)</summary>
+<summary>瀏覽案例 (18)</summary>
 
+- [Claude 成長訓練蒙太奇](#claude-opus-5-5-2102788371114246177)
+- [使用 Three.js 製作皮克斯等級的 90 年代卡通動畫](#claude-opus-5-5-2102788223835463902)
+- [無縫程式碼水循環動畫](#claude-opus-5-5-2102781807179735211)
+- [CatWalk：奔馳於夜街的 3D 橫向捲軸貓咪遊戲](#claude-opus-5-5-2102775461701091531)
+- [《末班列車》賽博龐克巨型都市基準測試](#claude-opus-5-5-2102740078347087940)
+- [體素風格足球動畫](#claude-opus-5-5-2102739444256383089)
+- [虛構行星互動網站](#claude-opus-5-5-2102729710174196022)
 - [互動式歐拉霓虹流體模擬](#claude-opus-5-5-2102565611473661963)
 - [日式櫻花山谷互動式 3D 景觀網頁](#claude-opus-5-5-2102565403109085669)
 - [Hundenberg 事故模型與逼真影片](#claude-opus-5-5-2102547809140355250)
@@ -41,6 +48,223 @@
 - [互動式 3D 史前島嶼](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claude 成長訓練蒙太奇
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude 成長訓練蒙太奇"></a>
+
+**提示詞**
+
+```text
+完全以程式碼製作一段 30 秒動畫，呈現受《功夫熊貓》訓練橋段啟發的成長蒙太奇，並以 Claude 吉祥物為主角，展示它自首次發布以來在各項技能上的能力提升，例如搜尋網路、撰寫程式碼、建立 3D 模型，以及解決人類最棘手的問題，搭配富有情感張力的音樂。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788371114246177) · [查看原文](https://x.com/ishuagra02/status/2102788832273801700) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### 使用 Three.js 製作皮克斯等級的 90 年代卡通動畫
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="使用 Three.js 製作皮克斯等級的 90 年代卡通動畫"></a>
+
+**提示詞**
+
+```text
+我希望你先發想一個故事，接著使用 Three.js，將你構思的故事製作成一部完整動畫，呈現皮克斯等級品質的 90 年代卡通風格。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102788223835463902) · [查看原文](https://x.com/scheemunai/status/2102788223835463902) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### 無縫程式碼水循環動畫
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="無縫程式碼水循環動畫"></a>
+
+**提示詞**
+
+```text
+建立一個完全以程式碼製作的水循環無縫循環動畫。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102781807179735211) · [查看原文](https://x.com/higgsfield_ai/status/2102781807179735211) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk：奔馳於夜街的 3D 橫向捲軸貓咪遊戲
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk：奔馳於夜街的 3D 橫向捲軸貓咪遊戲"></a>
+
+**提示詞**
+
+```text
+讓我們開發一款遊戲吧
+圖像表現不限 2D 或 3D，請分析遊戲系統等要素，選擇較容易開發的方向即可
+個人傾向採用 3D，但畫面預想是類似橫向捲軸動作遊戲的形式
+我想透過照明等設計營造時髦的氛圍，因此覺得使用 3D 應該能呈現更漂亮的效果（例如街燈或燈籠等表現）
+我想製作的遊戲名為 CatWalk
+顧名思義
+讓貓咪向側面前進
+貓步道會不斷延伸，畫面也會自動捲動，因此玩家只需配合捲動速度，以跳躍等簡單操作越過障礙物與缺口。某種程度上，緊張感與系統可能接近《Flappy Bird》。
+不過圖像表現希望走成熟、帥氣且重視氛圍的風格
+如果可以呈現貓咪柔韌優雅的走路、奔跑與跳躍動作，就再好不過了
+關卡的世界觀交給你決定，但一開始採用普通的夜晚街景之類的場景也可以
+如果透過較暗的整體色調，讓間接照明等效果呈現得更漂亮，我會非常開心
+我知道應該會有能做、不能做，以及難度較高的部分
+請以我的需求為靈感，開發出你認為可行的作品
+首先請做到能完成一個關卡的一輪遊玩
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102775461701091531) · [查看原文](https://x.com/blitast_studio/status/2102775632933654585) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### 《末班列車》賽博龐克巨型都市基準測試
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="《末班列車》賽博龐克巨型都市基準測試"></a>
+
+**提示詞**
+
+```text
+在 Blender 中打造完整的賽博龐克巨型都市，包含主角列車、程序化建築、高架鐵路系統、雨景、體積式大氣效果、電影感燈光、多組攝影機配置，以及完整的動畫序列。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102740078347087940) · [查看原文](https://x.com/builderhelmai/status/2102740078347087940) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### 體素風格足球動畫
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="體素風格足球動畫"></a>
+
+**提示詞**
+
+```text
+使用 Three.js（CDN）建立單一 HTML 檔案，製作簡單的體素風格足球動畫。一名方塊風格球員帶球突破 2 名防守球員，並以精彩射門得分，同時產生慶祝粒子效果。呈現繽紛的球場風格。僅輸出完整的 HTML 程式碼。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102739444256383089) · [查看原文](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### 虛構行星互動網站
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="虛構行星互動網站"></a>
+
+**提示詞**
+
+```text
+建立一個介紹虛構行星的互動網站。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102729710174196022) · [查看原文](https://x.com/Kappaemme1926/status/2102729710174196022) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102565611473661963"></a>
 
 ### 互動式歐拉霓虹流體模擬

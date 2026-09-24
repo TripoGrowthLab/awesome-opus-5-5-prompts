@@ -26,8 +26,15 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Переглянути приклади (11)</summary>
+<summary>Переглянути приклади (18)</summary>
 
+- [Тренувальний монтаж розвитку Claude](#claude-opus-5-5-2102788371114246177)
+- [Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js](#claude-opus-5-5-2102788223835463902)
+- [Безшовна анімація кругообігу води, створена кодом](#claude-opus-5-5-2102781807179735211)
+- [CatWalk: 3D-гра про кота, який мчить нічним містом у сайд-скролері](#claude-opus-5-5-2102775461701091531)
+- [Бенчмарк кіберпанкового мегаполіса «Останній потяг»](#claude-opus-5-5-2102740078347087940)
+- [Воксельна футбольна анімація](#claude-opus-5-5-2102739444256383089)
+- [Інтерактивний вебсайт про вигадані планети](#claude-opus-5-5-2102729710174196022)
 - [Інтерактивна ейлерова симуляція неонової рідини](#claude-opus-5-5-2102565611473661963)
 - [Інтерактивний 3D-ландшафт японської сакурової долини](#claude-opus-5-5-2102565403109085669)
 - [Модель аварії Hundenberg і реалістичне відео](#claude-opus-5-5-2102547809140355250)
@@ -41,6 +48,223 @@
 - [Інтерактивний 3D-острів доісторичної епохи](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Тренувальний монтаж розвитку Claude
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="../assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Тренувальний монтаж розвитку Claude"></a>
+
+**Промпт**
+
+```text
+Створіть 30-секундну анімацію, повністю написану кодом, у форматі монтажу розвитку — за мотивами тренувальної послідовності з «Кунг-фу Панди», з маскотом Claude у ролі головного героя. Покажіть, як від моменту першого релізу він стає дедалі вправнішим у різних завданнях: пошуку в інтернеті, написанні коду, створенні 3D-моделей і розв’язанні найскладніших проблем людства. Додайте емоційно насичену музику.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788371114246177) · [Оригінальний допис](https://x.com/ishuagra02/status/2102788832273801700) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="../assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js"></a>
+
+**Промпт**
+
+```text
+Я хочу, щоб ти вигадав історію. А потім за допомогою threejs створив на її основі повноцінну 3D-анімацію як мультфільм 90-х рівня Pixar.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102788223835463902) · [Оригінальний допис](https://x.com/scheemunai/status/2102788223835463902) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### Безшовна анімація кругообігу води, створена кодом
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="../assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="Безшовна анімація кругообігу води, створена кодом"></a>
+
+**Промпт**
+
+```text
+Створіть безшовну зациклену анімацію кругообігу води, повністю за допомогою коду.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102781807179735211) · [Оригінальний допис](https://x.com/higgsfield_ai/status/2102781807179735211) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk: 3D-гра про кота, який мчить нічним містом у сайд-скролері
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="../assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk: 3D-гра про кота, який мчить нічним містом у сайд-скролері"></a>
+
+**Промпт**
+
+```text
+Розробімо гру
+Графіка може бути 2D або 3D — це не принципово, тож проаналізуй системи гри й обери варіант, який буде простіше розробити
+Особисто я уявляю 3D-гру, але на екрані це має бути щось на кшталт сайд-скролера з екшеном
+Я хочу створити стильну атмосферу за допомогою освітлення тощо, тому думаю, що 3D дасть змогу зробити красиву картинку (наприклад, із вуличними ліхтарями чи ліхтарями)
+Гра, яку я хочу створити, називається CatWalk
+Назва говорить сама за себе
+Кіт рухається вбік
+Подіум триває, а екран прокручується автоматично, тож гравець має вчасно перестрибувати перешкоди й провалля, використовуючи лише прості дії на кшталт стрибка та підлаштовуючись під швидкість прокрутки. Певною мірою це може нагадувати Flappy Bird за напругою та ігровою системою.
+Водночас я прагну зробити графіку стильною, дорослою та атмосферною
+Якщо можливо, було б чудово передати граційну ходу, біг і стрибки кота
+Світ і стиль рівня залишаю на твій розсуд, але спочатку цілком підійде звичайна нічна вулиця
+Було б чудово зробити сцену темною, щоб красиво показати непряме освітлення тощо
+Гадаю, є речі, які можна й не можна реалізувати, а деякі будуть складними
+Використай мої побажання як орієнтир і розроби на їхній основі те, що, на твою думку, можна реалізувати
+Для початку зроби так, щоб один рівень можна було пройти по одному циклу
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102775461701091531) · [Оригінальний допис](https://x.com/blitast_studio/status/2102775632933654585) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### Бенчмарк кіберпанкового мегаполіса «Останній потяг»
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="../assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="Бенчмарк кіберпанкового мегаполіса «Останній потяг»"></a>
+
+**Промпт**
+
+```text
+створи повноцінний кіберпанковий мегаполіс у Blender із центральним потягом, процедурною архітектурою, естакадними залізничними системами, дощем, об’ємною атмосферою, кінематографічним освітленням, кількома налаштуваннями камер і повноцінною анімованою послідовністю.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102740078347087940) · [Оригінальний допис](https://x.com/builderhelmai/status/2102740078347087940) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### Воксельна футбольна анімація
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Воксельна футбольна анімація"></a>
+
+**Промпт**
+
+```text
+Створіть один HTML-файл із Three.js (CDN) для простої футбольної анімації у воксельному стилі. Кремезний гравець веде м’яч повз 2 захисників і забиває ефектний гол із частинками для святкування. Барвистий вигляд стадіону. Виведіть ЛИШЕ повний код HTML.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102739444256383089) · [Оригінальний допис](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### Інтерактивний вебсайт про вигадані планети
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Інтерактив
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Інтерактивний вебсайт про вигадані планети"></a>
+
+**Промпт**
+
+```text
+Створіть інтерактивний вебсайт про вигадані планети.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102729710174196022) · [Оригінальний допис](https://x.com/Kappaemme1926/status/2102729710174196022) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102565611473661963"></a>
 
 ### Інтерактивна ейлерова симуляція неонової рідини

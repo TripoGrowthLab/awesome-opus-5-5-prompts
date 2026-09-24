@@ -29,7 +29,7 @@
 
 来自真实作品的 Claude Opus 5.5 提示词，覆盖 Three.js 场景、浏览器游戏、动画与模拟。 每条案例保留作者与来源；先看效果，再复制提示词，改成自己的作品。
 
-**11 条案例 · 1 个模型 · 14 种语言**
+**18 条案例 · 1 个模型 · 14 种语言**
 
 [开始使用](#start-here) · [按用途浏览](#browse) · [最新案例](#latest) · [完整目录](docs/catalog.zh.md) · [项目源码](docs/with-code.md)
 
@@ -47,16 +47,16 @@
 
 | 按用途浏览 | 案例 |
 | :--- | ---: |
-| [游戏](docs/catalog.zh.md#category-games) | 2 |
-| [场景](docs/catalog.zh.md#category-3d-scenes) | 3 |
-| [互动](docs/catalog.zh.md#category-interactive-3d) | 2 |
-| [动画](docs/catalog.zh.md#category-animation-simulation) | 4 |
+| [游戏](docs/catalog.zh.md#category-games) | 3 |
+| [场景](docs/catalog.zh.md#category-3d-scenes) | 4 |
+| [互动](docs/catalog.zh.md#category-interactive-3d) | 3 |
+| [动画](docs/catalog.zh.md#category-animation-simulation) | 8 |
 
 ### 按模型浏览
 
 | 按模型浏览 | 案例 |
 | :--- | ---: |
-| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 11 |
+| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 18 |
 
 
 
@@ -64,7 +64,245 @@
 
 ## 最新案例
 
-[完整目录 (11) →](docs/catalog.zh.md)
+[完整目录 (18) →](docs/catalog.zh.md)
+
+<a id="claude-opus-5-5-2102788371114246177"></a>
+
+### Claude 成长训练蒙太奇
+
+[Ishu Agrawal](https://x.com/ishuagra02) · 2026-09-23 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102788371114246177"><img src="assets/previews/f1d340db2d6a8cf3e4deb08ea482b57ae55e8f109e1a82d66391801686010a98.webp" width="840" loading="lazy" alt="Claude 成长训练蒙太奇"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+完全使用代码创建一段 30 秒动画，呈现一场成长训练蒙太奇。以《功夫熊猫》的训练片段为灵感，让 Claude 吉祥物担任主角，展示它自首次发布以来能力不断提升，涵盖互联网搜索、编写代码、创建 3D 模型以及解决人类最棘手的问题，并配以富有情感冲击力的音乐。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create a 30 second animation entirely in code featuring a growth montage, inspired by Kung Fu Panda's training sequence, with the Claude mascot as the main character, showcasing it getting more capable since its initial release across its skillset, such as searching the internet, writing code, creating 3D models, and solving humanity's hardest problems, with emotionally impactful music.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102788371114246177) · [查看原帖](https://x.com/ishuagra02/status/2102788832273801700) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102788223835463902"></a>
+
+### 使用 Three.js 制作皮克斯级别的 90 年代卡通动画
+
+[Shimecki](https://x.com/scheemunai) · 2026-09-23 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102788223835463902"><img src="assets/previews/677673d65db09e32699dfe3235c1b3d7cccfd1563c87668dc5efd7997ba92610.webp" width="840" loading="lazy" alt="使用 Three.js 制作皮克斯级别的 90 年代卡通动画"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+我希望你构思一个故事，然后使用 Three.js，根据你构思的故事制作一部完整动画，呈现皮克斯级别的 90 年代卡通品质。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+I want you to imagine a story. And then using threejs I want you to create full animation, Pixar-level quality 90s cartoon out of the story you imagine.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102788223835463902) · [查看原帖](https://x.com/scheemunai/status/2102788223835463902) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102781807179735211"></a>
+
+### 无缝循环的代码水循环动画
+
+[Higgsfield AI 🧩](https://x.com/higgsfield_ai) · 2026-09-23 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102781807179735211"><img src="assets/previews/374f612692c39e4c7a76ed2c1ae315bb46382305942d0e90f1eeb3b4a4f4a3e8.webp" width="840" loading="lazy" alt="无缝循环的代码水循环动画"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+创建一个完全通过代码实现的水循环无缝循环动画。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create a seamless looping animation of the water cycle, entirely in code.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102781807179735211) · [查看原帖](https://x.com/higgsfield_ai/status/2102781807179735211) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102775461701091531"></a>
+
+### CatWalk：奔跑在夜色街头的 3D 横版猫咪游戏
+
+[BLITAST STUDIO](https://x.com/blitast_studio) · 2026-09-23 · Claude Opus 5.5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102775461701091531"><img src="assets/previews/1d3759fe3b5b9ecdd55cbe3a56be3994856d8b2c2572a07af4e14cf739a22cb9.webp" width="840" loading="lazy" alt="CatWalk：奔跑在夜色街头的 3D 横版猫咪游戏"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+开始开发这款游戏吧
+图形表现不限定使用 2D 还是 3D，请分析游戏系统等内容，选择更易于开发的方案即可
+我个人倾向于 3D，但希望画面呈现横版动作游戏的感觉
+我想通过照明等效果营造时尚的氛围，因此认为使用 3D 应该能实现更出色的画面表现（例如街灯或灯笼等效果）
+我想制作的游戏名为 CatWalk
+顾名思义
+猫咪向侧面前进
+猫步走台不断延伸，画面会自动滚动，玩家需要跟上滚动速度，仅通过跳跃等简单操作越过障碍物和缺口。这种玩法在紧张感和系统机制上，或许有些接近《Flappy Bird》。
+不过，我希望画面成熟、酷帅，打造一款注重氛围的游戏
+如果可以表现出猫咪柔韧优雅的行走、奔跑和跳跃动作，就再好不过了
+关卡世界观由你决定，起初采用普通的夜晚街头之类的场景也可以
+如果整体调暗一些，能够更好地表现间接照明等效果，我会非常满意
+我知道有些内容可以实现，有些不行，也有些比较困难
+请以我的这些需求为参考，开发出你认为可行的方案
+首先实现一个关卡完整游玩一轮
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+ゲームを開発しましょう
+グラフィックは2D、3Dを問いませんがゲームのシステムなどを分析し開発しやすい方でいいです
+個人的には3Dだが画面は横スクロールアクションみたいなものを想定してます
+照明などでおしゃれな雰囲気などを出したいので3Dを使うことで美しい表現ができるのではないかと思っています（例：街灯やランタンのような表現など）
+作りたいゲームは CatWalk というゲーム
+名前の通りです
+猫が横に進む
+キャットウォークが続いており、画面は自動スクロールするので、その速さに合わせて障害物や穴をジャンプなどのシンプルな操作のみで越えていくスタイル。ある意味でフラッピー的な緊張感とシステムに近いかもしれない。
+ただしグラフィックは大人かっこいい、雰囲気ゲーを目指したい
+可能であれば猫のしなやかな歩き、走り、ジャンプが表現できればうれしい
+ステージの世界観はお任せするが、最初は無難な夜のストリートなどでもいいかと
+暗めにすることで間接照明などが美ししく表現できればかなり嬉しい
+できることできないこと難しいことがあると思うので
+この私の要望をヒントにあなたなりにできそうなものを開発してほしい
+まずは１ステージのワンループができるように
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102775461701091531) · [查看原帖](https://x.com/blitast_studio/status/2102775632933654585) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102740078347087940"></a>
+
+### 《末班列车》赛博朋克巨型城市基准项目
+
+[BuilderHelm](https://x.com/builderhelmai) · 2026-09-23 · Claude Opus 5.5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102740078347087940"><img src="assets/previews/20ffcc207384b79f3aef981f5cef4fb178a5f3f956e1d55416975819ff79f845.webp" width="840" loading="lazy" alt="《末班列车》赛博朋克巨型城市基准项目"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+在 Blender 中构建一座完整的赛博朋克巨型城市，包括主角列车、程序化建筑、高架轨道系统、雨景、体积氛围、电影感灯光、多组摄像机设置，以及一段完整的动画序列。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+build a complete cyberpunk megacity inside Blender with a hero train, procedural architecture, elevated rail systems, rain, volumetric atmosphere, cinematic lighting, multiple camera setups, and a full animated sequence.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102740078347087940) · [查看原帖](https://x.com/builderhelmai/status/2102740078347087940) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### 体素风足球动画
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="体素风足球动画"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+使用 Three.js（CDN）创建一个单独的 HTML 文件，实现简单的体素风足球动画。一名方块风格球员带球突破 2 名防守球员，以精彩进球得分，并触发庆祝粒子效果。整体呈现色彩缤纷的体育场风格。仅输出完整的 HTML 代码。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102739444256383089) · [查看原帖](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### 虚构行星互动网站
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="虚构行星互动网站"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+构建一个关于虚构行星的互动网站。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102729710174196022) · [查看原帖](https://x.com/Kappaemme1926/status/2102729710174196022) · [返回案例导航](#latest)
+
+---
 
 <a id="claude-opus-5-5-2102565611473661963"></a>
 
@@ -751,7 +989,7 @@ Build a complete scene, not a mockup. Test the final HTML directly in a desktop 
 ---
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 11 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 18 条案例与在线演示 →</a></strong></p>
 
 ## 给你的作品补上角色和道具
 

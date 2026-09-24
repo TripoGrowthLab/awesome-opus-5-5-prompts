@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "repository": "TripoGrowthLab/awesome-opus-5-5-prompts",
   "model": "claude-opus-5-5",
-  "count": 11,
+  "count": 18,
   "sourceCodeCount": 0,
   "locales": [
     "en",
@@ -21,6 +21,13 @@
     "vi"
   ],
   "promptIds": [
+    "claude-opus-5-5-2102788371114246177",
+    "claude-opus-5-5-2102788223835463902",
+    "claude-opus-5-5-2102781807179735211",
+    "claude-opus-5-5-2102775461701091531",
+    "claude-opus-5-5-2102740078347087940",
+    "claude-opus-5-5-2102739444256383089",
+    "claude-opus-5-5-2102729710174196022",
     "claude-opus-5-5-2102565611473661963",
     "claude-opus-5-5-2102565403109085669",
     "claude-opus-5-5-2102547809140355250",
@@ -35,6 +42,13 @@
   ],
   "pages": [
     [
+      "claude-opus-5-5-2102788371114246177",
+      "claude-opus-5-5-2102788223835463902",
+      "claude-opus-5-5-2102781807179735211",
+      "claude-opus-5-5-2102775461701091531",
+      "claude-opus-5-5-2102740078347087940",
+      "claude-opus-5-5-2102739444256383089",
+      "claude-opus-5-5-2102729710174196022",
       "claude-opus-5-5-2102565611473661963",
       "claude-opus-5-5-2102565403109085669",
       "claude-opus-5-5-2102547809140355250",
@@ -49,6 +63,13 @@
     ]
   ],
   "readmePromptIds": [
+    "claude-opus-5-5-2102788371114246177",
+    "claude-opus-5-5-2102788223835463902",
+    "claude-opus-5-5-2102781807179735211",
+    "claude-opus-5-5-2102775461701091531",
+    "claude-opus-5-5-2102740078347087940",
+    "claude-opus-5-5-2102739444256383089",
+    "claude-opus-5-5-2102729710174196022",
     "claude-opus-5-5-2102565611473661963",
     "claude-opus-5-5-2102565403109085669",
     "claude-opus-5-5-2102547809140355250",
@@ -63,6 +84,13 @@
   ],
   "featuredPromptIds": [],
   "imagePromptIds": [
+    "claude-opus-5-5-2102788371114246177",
+    "claude-opus-5-5-2102788223835463902",
+    "claude-opus-5-5-2102781807179735211",
+    "claude-opus-5-5-2102775461701091531",
+    "claude-opus-5-5-2102740078347087940",
+    "claude-opus-5-5-2102739444256383089",
+    "claude-opus-5-5-2102729710174196022",
     "claude-opus-5-5-2102565611473661963",
     "claude-opus-5-5-2102565403109085669",
     "claude-opus-5-5-2102547809140355250",
@@ -76,159 +104,159 @@
     "claude-opus-5-5-2102450239923720440"
   ],
   "categories": {
-    "games": 2,
-    "3d-scenes": 3,
-    "interactive-3d": 2,
-    "animation-simulation": 4
+    "games": 3,
+    "3d-scenes": 4,
+    "interactive-3d": 3,
+    "animation-simulation": 8
   },
   "models": {
-    "claude-opus-5-5": 11
+    "claude-opus-5-5": 18
   },
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "50fc452bc20651f82c6555526d86f72c373c73c08632dbd526ede1d310ed1526",
-      "bytes": 5593
+      "sha256": "c1f32489ef9fb43eb4d52133bd641c4e5555041fb51d98e02cf05d4c65124fd5",
+      "bytes": 9056
     },
     {
       "path": "docs/catalog.de.1.md",
-      "sha256": "260d85424058683ccaf1d8e78e9aa3813e2c87e4f7b1da1a0b1438f3f0ed7e68",
-      "bytes": 57613
+      "sha256": "25db510878ac22b131f59e828fc593d282ee77140805e773545004c0be9cb003",
+      "bytes": 69363
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "c4bd35ccb9d6963312866c377ad153425aa0671905b2fbc16b8f6cc696acb519",
-      "bytes": 6551
+      "sha256": "2d120b7bdd46cd91c8643bfe53e4a8a402aa5dbc57843bbfcc7d0cc8262345bc",
+      "bytes": 8857
     },
     {
       "path": "docs/catalog.en.1.md",
-      "sha256": "3848873755732e72e45569d1785cb239a6c399a5539fa2a7a221d5e396688662",
-      "bytes": 39377
+      "sha256": "a4cb7aa1f5bbf58ed8ed0102a0e6a406f5e241461ae2f515e1390d297e23d7c7",
+      "bytes": 48858
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "ea271d354678eafa49e2e5ce494964edea24b3d37994de16644fe63e2b4c968b",
-      "bytes": 6498
+      "sha256": "b4ecd5970c71fc0156e67586cead2a05a1230e51e58dfc633af01a0da6c82f8e",
+      "bytes": 8662
     },
     {
       "path": "docs/catalog.es.1.md",
-      "sha256": "f3be84a3f2297134b0e7c9c9a5bbf87581f5b69c73f9d99a142e9a3863b2f8a4",
-      "bytes": 57706
+      "sha256": "734ac1f43b9fd2a19f1d99f6dca15655e27b89062174b727eeccd85adbd09f56",
+      "bytes": 69569
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "5664b295c2c0b12ea8e65c3cba79edf259b80eb3ad2c73a03be1e6e0223be176",
-      "bytes": 6730
+      "sha256": "9d93c135e202e71c6b990c441e7e3e3b31bbb222369d9bdb79e44b58d90a2670",
+      "bytes": 9112
     },
     {
       "path": "docs/catalog.fr.1.md",
-      "sha256": "6c010ebf46f1b2540ddd0040299968ea744bf6f43e59ebba5b499fb8ef997907",
-      "bytes": 59758
+      "sha256": "2aded57f7e02d4f7b8e9b9a1367c9a5587fb4dfad65e69cc334f35e28321433e",
+      "bytes": 71940
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "da5edd02b4901fe416a9a911bcc8ee83a4d8175f24d180899f234a68bd69fc0b",
-      "bytes": 6663
+      "sha256": "6c67875396ed0c2b4617b4b9451c4a7c524018ecca50d551cdbd3955438c0933",
+      "bytes": 9075
     },
     {
       "path": "docs/catalog.it.1.md",
-      "sha256": "e9e1daa0176e8a463280f64eb9a6136588ed18dd7ec4eba7414e16eed0b4c28f",
-      "bytes": 56946
+      "sha256": "1ddf6ac427bfc19620953188d735ca739ba2c44f689d58f9f234e6bab8c5ca18",
+      "bytes": 68645
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "6f16541d07de46864fe1fc4444b3df28be57c8ea66e614b268efed22f0fa208e",
-      "bytes": 6667
+      "sha256": "fcc0bb43de8fd4e4dd0c8c20a4fc76bf8e4bc0ba16e298b343d94d1e31a39fc7",
+      "bytes": 9041
     },
     {
       "path": "docs/catalog.ja.1.md",
-      "sha256": "f416f533d6e9a21ec26064d03389b3df1b6514d631af8dcd5903e5544645a61c",
-      "bytes": 62707
+      "sha256": "ebcc564a4cf0f13bcffe946d7e426e901a09f3dd310af435496b44ea7988e4b5",
+      "bytes": 73709
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "1cf0e9eb449b7c904f903af4830bf34537e19c280cbd9a638e188c7b9760fe66",
-      "bytes": 6975
+      "sha256": "2614a0d6b20cd45f0d6857c253cf71c57dbc1599662049de9ebc965351df77cf",
+      "bytes": 9439
     },
     {
       "path": "docs/catalog.ko.1.md",
-      "sha256": "093c53e678983d51568053ab9c0e2b9e29aa1ef9a90a468f5cec778cf32730f1",
-      "bytes": 59368
+      "sha256": "89a49e20118569690eb7bc04ebc3952591e75c6ea3a51e0b17c9e39c8f698ab9",
+      "bytes": 71529
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "5275b552db665af1cee4da489e75c1725e118e4845c418235d1d1bc5ca2c92dc",
-      "bytes": 6657
+      "sha256": "7d6e762bb10fac1927a14becda4c2baaa9363d430f5253af80fc746942634889",
+      "bytes": 8969
     },
     {
       "path": "docs/catalog.pt.1.md",
-      "sha256": "d45e43e69d0d865ec49ba55d3923232d46ed5e7999a690d2655caee7fbc73019",
-      "bytes": 56453
+      "sha256": "a3c519d89a71d489996d964b63b0b8ea8045b6faae9eac1d12e0fb4dc191505f",
+      "bytes": 68148
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "a0ab5219f88deb05c06738be3dee36e37dcb440f7806d3741e18e34ff4d91e06",
-      "bytes": 6707
+      "sha256": "00733bb2bbe62cf54817dc43146913c7cea8187b33cf7f10bf1b198fb72500fa",
+      "bytes": 9051
     },
     {
       "path": "docs/catalog.ru.1.md",
-      "sha256": "018957bbc3596a3590fb30ee3d9bce7d7387f2c4ffcef036708fda348b83e666",
-      "bytes": 77020
+      "sha256": "519abe0f5dd33a8e489079d510ce75564d65d5b03669cab72f5920e9a335b7b8",
+      "bytes": 91873
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "aea4de56f199e2dd1a7c2be3ccbfd08a31df04ef33328232b0959d84d3514a46",
-      "bytes": 7619
+      "sha256": "6f5148373c00b9038224103483def68af3db801466afd6ee29c7ae8c88a0afaf",
+      "bytes": 10415
     },
     {
       "path": "docs/catalog.tr.1.md",
-      "sha256": "c3b332f649bf8a93eca728dfef57e31c2a5d0c2dc99e4b8e75a8c5897fddb971",
-      "bytes": 57225
+      "sha256": "1904ae13b1259f554c77778115a77769496ed9089cd9ae9452e2ca028cff3455",
+      "bytes": 68897
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "7176127b8eb2945347c0fc77e8b146438778c276d637781be2e67e677e94ea53",
-      "bytes": 6612
+      "sha256": "8a6b73704a2efe0448a8187fe757ff2b4bd5e065f31e7875197cade196e00203",
+      "bytes": 8870
     },
     {
       "path": "docs/catalog.uk.1.md",
-      "sha256": "8220cbdb04008fb17712bbab6acc4a257718ca99ac84d2b993f9b23701fb5b5c",
-      "bytes": 76289
+      "sha256": "9b4b0c90f27090f48c99c22d496ee150be9056b774b9170721a73d961d61b8db",
+      "bytes": 90995
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "10c960bf636a0c7f92ef103bd782515cdde7a11f8c12a07306d7cffe0c5e3cb6",
-      "bytes": 7593
+      "sha256": "a1322427d9c6e1e21154238d66aac8832ee5eaced5e6bdabdc4f6edbd497b655",
+      "bytes": 10371
     },
     {
       "path": "docs/catalog.vi.1.md",
-      "sha256": "ef44ef7c2a651f3e42b98fdd5bd4f6c4329276029e7c35a69a4f2cf5108581f5",
-      "bytes": 61266
+      "sha256": "f3a9e6e0cfdf69ec12f990c0800442987ac5967c39308c63ae6f4ac6db4618f8",
+      "bytes": 73773
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "0bee1d93d6daf1a0c8a5feb67dc737dde7ba6d529897c501112d7d4566c9c3f1",
-      "bytes": 6803
+      "sha256": "5a491bf03f2536fc5931ce6d93de0daba8ed30be73930028bbcf2aae95c8122e",
+      "bytes": 9265
     },
     {
       "path": "docs/catalog.zh-Hant.1.md",
-      "sha256": "1a31f3cd24720b0ff877d8557b5b6afca3f991248bcc6f8976c75c676b11968a",
-      "bytes": 50753
+      "sha256": "189df24377fc9b54c9a8690be506be7c7dff61b1c006021d1a313d510f7c7cf9",
+      "bytes": 61697
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "74e8bcd688c03cc95d7a95a3db241fe5505c692115d202decc5aa73663b03bde",
-      "bytes": 6393
+      "sha256": "27e405768e01dfb999a4c8323141a0d568d7360f3b0f2b0e73238a7f357b0d66",
+      "bytes": 8593
     },
     {
       "path": "docs/catalog.zh.1.md",
-      "sha256": "a3fef3986a367ed24afd72b4a76fea8bd7f6cb0ae88678781631364291821a90",
-      "bytes": 43910
+      "sha256": "97a91ea7122fe8f302f070f80e142723970c783a82106324a683500c87534771",
+      "bytes": 54811
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "1d830f8d7692ee2edc7ac37e0e034737f45bb3295f23feaf39016b5ed70d05c1",
-      "bytes": 6339
+      "sha256": "97d076099a0e5efbd0b62e773a85cf20f74495770500a518a3b44f90271b82b2",
+      "bytes": 8475
     },
     {
       "path": "docs/with-code.md",
@@ -237,13 +265,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "f8fdd2b54b4a058904b0d04cab46fee89d4310750a72334412159de38929b060",
-      "bytes": 42262
+      "sha256": "c718d278e17d1be49fd4ae2ed6382c831432e6080d4ce4f17335ef33da4403d2",
+      "bytes": 51350
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "6159f9705dbe5ed6d7b2d50c57d1570506b9c98804d6dda8d137affa4a603794",
-      "bytes": 46729
+      "sha256": "9afb8d9f18e4863b36a353cd66a2956df96e2f2af8825a08a6972e70f0a4877b",
+      "bytes": 57251
     }
   ]
 }

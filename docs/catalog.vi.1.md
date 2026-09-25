@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (18)</summary>
+<summary>Khám phá ví dụ (26)</summary>
 
+- [Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu](#claude-opus-5-5-2103145567945986461)
+- [Game phong cách Genshin Impact lấy bối cảnh San Francisco](#claude-opus-5-5-2103144530157687114)
+- [Phim điện ảnh về Trận Austerlitz](#claude-opus-5-5-2103116235009347650)
+- [Dựng tháp Eiffel bằng Three.js](#claude-opus-5-5-2103106070549757960)
+- [Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius](#claude-opus-5-5-2103087766662009118)
+- [Trò chơi đạp xe thời gian thực với bồ nông](#claude-opus-5-5-2103083781490176212)
+- [Xây dựng thành phố đế quốc](#claude-opus-5-5-2103046279253168554)
+- [Dựng Bugatti Chiron Super Sport bằng Three.js](#claude-opus-5-5-2102828216289566725)
 - [Montage huấn luyện quá trình phát triển của Claude](#claude-opus-5-5-2102788371114246177)
 - [Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js](#claude-opus-5-5-2102788223835463902)
 - [Hoạt ảnh chu trình nước lập trình liền mạch](#claude-opus-5-5-2102781807179735211)
@@ -48,6 +56,328 @@
 - [Hòn đảo tiền sử 3D tương tác](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu"></a>
+
+**Prompt**
+
+```text
+Hãy tạo bằng three.js một video ngắn dọc có độ phân giải 1080×1920, tốc độ 30 khung hình/giây và thời lượng khoảng 36 giây. 
+
+【Tên tác phẩm】
+Khoảng trống
+
+【Trải nghiệm muốn truyền tải】
+Đây là một video không xuất hiện bất kỳ nhân vật nào, giúp người xem cảm nhận sự đánh mất thời gian vì bị cuốn vào việc tối ưu hóa, cũng như cảm giác cuộc sống được lấp đầy bởi ánh sáng phong phú ngay khoảnh khắc tìm lại khoảng trống. Ở cảnh cuối, ánh sáng kính màu hiện lên trên toàn bộ sàn, tạo khoảnh khắc khiến người xem bất giác nín thở.
+
+【Bối cảnh】
+・Nội thất một thánh đường bằng đá mờ tối. Trên bức tường phía trước chỉ có duy nhất một cửa sổ hình vòm nhọn, cao 15 m và rộng 10 m
+・Từ bên ngoài cửa sổ, một luồng sáng mạnh chiếu vào theo góc 45 độ, đổ hình cửa sổ xuống sàn đá
+・Cửa sổ lắp kính màu với Đức Mẹ ở trung tâm, hai thiên thần dang rộng cánh ở hai bên và một cửa sổ hoa hồng ở phía trên. Thiết kế phải là nguyên bản, không mô phỏng tác phẩm có sẵn, với bố cục đối xứng
+
+【Diễn biến theo thời gian】
+0–3 giây: Ánh sáng chiếu qua cửa sổ vẫn là ánh sáng trắng, chưa có màu. Trên sàn xuất hiện một mảng sáng trắng dịu
+3–11 giây: Những khối lập phương màu xám khắc các từ như “Bận rộn”, “Tối ưu hóa”, “Khẩn cấp”, “Hạn chót” liên tiếp bay từ tiền cảnh vào, lấp kín cửa sổ. Tốc độ bay ngày càng tăng, và căn phòng càng tối khi cửa sổ bị che kín
+11–14 giây: Cửa sổ bị bịt kín hoàn toàn, không gian chìm vào bóng tối và im lặng
+14–19 giây: Chỉ một khối “Bận rộn” bật khỏi cửa sổ, rơi xuống rồi tan biến thành những hạt sáng. Qua khoảng trống vừa mở, một tia sáng rực rỡ nhiều màu chiếu vào
+19–26 giây: Bắt đầu từ khoảng trống đầu tiên, các khối lần lượt bật ra theo hiệu ứng dây chuyền. Mỗi khi có thêm một khoảng trống, các cột sáng nhiều màu lại xuất hiện, để lộ dần lớp kính màu bị che khuất
+26–33 giây: Tất cả các khối biến mất. Máy quay xuyên qua những cột sáng rồi bay lên, nhìn thẳng xuống sàn từ phía trên. Trên toàn bộ mặt sàn, kính màu hình Đức Mẹ và các thiên thần được chiếu thành những mảng ánh sáng rực rỡ
+33–36 giây: Toàn bộ khung hình được bao phủ bởi ánh sáng chói lòa. Dòng chữ cuối cùng hiện lên rồi video khép lại trong tĩnh lặng
+
+【Lời thoại (chữ Minh triều, hiện lên và biến mất nhẹ nhàng)】
+・“Mỗi ngày, nhanh hơn nữa.”
+・“Hiệu quả hơn nữa.”
+・“Đến khi nhận ra, ánh sáng đã không còn lọt vào.”
+・“Thử buông bỏ một thứ.”
+・“Ánh sáng sẽ lọt vào từ nơi vừa trống.”
+・“Ánh sáng ấy phong phú hơn trước.”
+・Cuối cùng, hiện lớn: “Sự phong phú nảy sinh từ khoảng trống”
+
+【Ánh sáng và chất liệu】
+・Các cột sáng mang màu của từng vị trí trên kính màu, còn bụi trong không khí lấp lánh
+・Hình chiếu trên sàn phải phản ánh chính xác những ô cửa sổ đang để trống (nơi có khối sẽ trở thành vùng bóng tối)
+・Các khối có màu xám mờ, vô cơ. Chữ được khắc màu trắng
+・Phần đầu có tông lạnh, không màu; phần sau chuyển sang đỏ, xanh lam và vàng như đá quý. Sự tương phản màu sắc này phải truyền tải cảm giác “trở nên phong phú hơn”
+
+【Điều kiện kỹ thuật】
+・Tạo hình ảnh họa tiết kính màu, sau đó tính toán ánh sáng trên sàn, các cột sáng và phần hiển thị trên cửa sổ từ cùng một họa tiết để bảo đảm khớp chính xác
+・Tiến thời gian chính xác theo từng bước 1/30 giây, xuất từng khung hình một rồi ghép thành MP4
+
+【Hoàn thiện】
+Hãy render thực tế và kiểm tra từng cảnh, sau đó chỉnh sửa trước khi bàn giao để bảo đảm họa tiết kính màu khi chiếu trên sàn vẫn được nhận ra là Đức Mẹ và các thiên thần, chữ có thể đọc rõ và chuyển động không bị đột ngột.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103145567945986461) · [Bài đăng gốc](https://x.com/AGIOyaZ/status/2103145567945986461) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### Game phong cách Genshin Impact lấy bối cảnh San Francisco
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Game phong cách Genshin Impact lấy bối cảnh San Francisco"></a>
+
+**Prompt**
+
+```text
+Xây dựng một game phong cách Genshin Impact lấy bối cảnh San Francisco.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103144530157687114) · [Bài đăng gốc](https://x.com/every/status/2103144530157687114) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### Phim điện ảnh về Trận Austerlitz
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Phim điện ảnh về Trận Austerlitz"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**Prompt**
+
+```text
+Tạo một video điện ảnh dài 4–5 phút về Trận Austerlitz (1805), được xây dựng hoàn toàn bằng mã.
+
+Nghiên cứu kỹ trận đánh và tự quyết định cách kể chuyện, xây dựng nhịp độ, giải thích chiến lược cũng như trực quan hóa các diễn biến. Tôi muốn tác phẩm chính xác về lịch sử, giàu kịch tính, dễ hiểu và đặc biệt ấn tượng về mặt hình ảnh.
+
+Hãy dùng các bức tranh đính kèm làm nguồn cảm hứng hình ảnh, không phải yêu cầu bắt buộc về phong cách. Tôi yêu thích quy mô, bầu không khí, khói, bầu trời đầy kịch tính, kỵ binh, những đội hình đông đảo, phong cảnh và cảm giác hỗn loạn trong tranh. Hãy tìm cách chuyển tải cảm giác đó bằng mã — nhưng nếu có thể tạo ra một ngôn ngữ hình ảnh mạnh mẽ hơn, hãy làm vậy.
+
+Đừng để tác phẩm mang cảm giác của một infographic hoặc game chiến thuật thông thường. Đây phải là một bộ phim lịch sử mang tính điện ảnh, chỉ khác ở chỗ được kết xuất bằng mã.
+
+Bạn hoàn toàn có quyền kiểm soát sáng tạo. Hãy khiến tôi bất ngờ.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103116235009347650) · [Bài đăng gốc](https://x.com/WinterArc2125/status/2103116689944502720) · [Mã nguồn](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Dựng tháp Eiffel bằng Three.js
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Dựng tháp Eiffel bằng Three.js"></a>
+
+**Prompt**
+
+```text
+dựng tháp Eiffel bằng Three.js.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103106070549757960) · [Bài đăng gốc](https://x.com/0xPascual/status/2103106070549757960) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius"></a>
+
+**Prompt**
+
+```text
+Tôi muốn bạn hình dung một câu chuyện khéo léo quảng bá Grid Genius. Câu chuyện thậm chí không nhất thiết phải có Grid Genius, nhưng cần phù hợp với ứng dụng của chúng tôi và giúp thu hút thêm sự chú ý khi đăng trên mạng xã hội. Sau đó, hãy dùng Three.js/JavaScript để tạo một hoạt ảnh hoàn chỉnh, chất lượng như phim Pixar, dựa trên câu chuyện bạn đã hình dung.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103087766662009118) · [Bài đăng gốc](https://x.com/Anilraok/status/2103087766662009118) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### Trò chơi đạp xe thời gian thực với bồ nông
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Trò chơi đạp xe thời gian thực với bồ nông"></a>
+
+**Prompt**
+
+```text
+Tạo một trò chơi 3D thời gian thực, trong đó một chú bồ nông đạp xe qua thế giới ven biển sống động, với đầy đủ vật lý, sóng biển, câu cá, thời tiết biến đổi, camera điện ảnh, chế độ lái tự động và âm nhạc thích ứng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103083781490176212) · [Bài đăng gốc](https://x.com/code_hiyouga/status/2103083781490176212) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### Xây dựng thành phố đế quốc
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="Xây dựng thành phố đế quốc"></a>
+
+**Prompt**
+
+```text
+DỰNG MỘT THÀNH PHỐ ĐẾ QUỐC
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2103046279253168554) · [Bài đăng gốc](https://x.com/Enzoxbt01/status/2103046279253168554) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### Dựng Bugatti Chiron Super Sport bằng Three.js
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Dựng Bugatti Chiron Super Sport bằng Three.js"></a>
+
+**Prompt**
+
+```text
+dựng Bugatti Chiron Super Sport bằng Three.js.
+
+Không dùng mô hình 3D. Không dùng kết cấu bề mặt. Không dùng tài nguyên.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102828216289566725) · [Bài đăng gốc](https://x.com/srikanthvaluri/status/2102828216289566725) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102788371114246177"></a>
 
 ### Montage huấn luyện quá trình phát triển của Claude

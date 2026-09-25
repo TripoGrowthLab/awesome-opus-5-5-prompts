@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>사례 둘러보기 (18)</summary>
+<summary>사례 둘러보기 (26)</summary>
 
+- [여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상](#claude-opus-5-5-2103145567945986461)
+- [샌프란시스코를 배경으로 한 원신 스타일 게임](#claude-opus-5-5-2103144530157687114)
+- [시네마틱 아우스터리츠 전투 영화](#claude-opus-5-5-2103116235009347650)
+- [Three.js로 에펠탑 만들기](#claude-opus-5-5-2103106070549757960)
+- [Grid Genius를 위한 픽사급 Three.js 애니메이션](#claude-opus-5-5-2103087766662009118)
+- [실시간 펠리컨 자전거 게임](#claude-opus-5-5-2103083781490176212)
+- [제국 도시 건설하기](#claude-opus-5-5-2103046279253168554)
+- [Three.js로 Bugatti Chiron Super Sport 제작하기](#claude-opus-5-5-2102828216289566725)
 - [Claude 성장 훈련 몽타주](#claude-opus-5-5-2102788371114246177)
 - [Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션](#claude-opus-5-5-2102788223835463902)
 - [끊김 없는 코드 기반 물 순환 애니메이션](#claude-opus-5-5-2102781807179735211)
@@ -48,6 +56,328 @@
 - [인터랙티브 3D 선사시대 섬](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### 여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상"></a>
+
+**프롬프트**
+
+```text
+three.js로 세로형 1080×1920, 초당 30프레임, 약 36초 분량의 단편 영상을 제작해 주세요.
+
+【작품명】
+여백
+
+【전달하고 싶은 경험】
+효율화에 쫓기며 시간을 잃어가는 감각과, 여백을 얻는 순간 삶이 풍요로운 빛으로 가득해지는 감각을 인물 없이 온전히 체감하게 하는 영상입니다. 마지막에는 바닥 전체에 떠오르는 스테인드글라스의 빛으로 보는 사람이 저도 모르게 숨을 멈추게 만드는 것을 목표로 합니다.
+
+【배경】
+・어둑한 석조 대성당 내부. 정면 벽에는 높이 15m, 너비 10m의 첨두 아치형 창이 하나만 있습니다
+・창밖에서 45도 비스듬한 각도로 강한 빛이 들어와 석재 바닥에 창 모양의 빛을 드리웁니다
+・창에는 중앙에 성모 마리아, 양옆에 날개를 펼친 두 천사, 위쪽에 장미창을 배치한 스테인드글라스가 끼워져 있습니다. 기존 작품을 모방하지 않은 오리지널 디자인으로, 좌우 대칭 구도를 사용합니다
+
+【시간 구성】
+0~3초: 창으로 들어오는 빛은 아직 색이 없는 흰빛입니다. 바닥에는 부드러운 흰빛이 창 모양으로 드리워집니다
+3~11초: 「바쁘다」, 「효율화」, 「긴급」, 「마감」 등의 문구가 새겨진 회색 큐브가 방 앞쪽에서 연달아 날아와 창을 메워 갑니다. 날아오는 속도는 점점 빨라지고, 창이 막힐수록 공간은 어두워집니다
+11~14초: 창이 완전히 막히고, 어둠과 정적만 남습니다
+14~19초: 「바쁘다」 블록 하나가 창에서 떨어져 나와 아래로 떨어지고, 빛의 입자로 변해 사라집니다. 뚫린 구멍 사이로 선명한 색의 빛줄기 하나가 들어옵니다
+19~26초: 첫 번째 구멍을 중심으로 블록이 연쇄적으로 떨어져 나갑니다. 구멍이 늘어날 때마다 다양한 색의 빛기둥이 늘어나고, 가려져 있던 스테인드글라스가 조금씩 모습을 드러냅니다
+26~33초: 모든 블록이 사라지고, 카메라는 빛기둥 사이를 통과하며 상승해 바로 위에서 바닥을 내려다봅니다. 바닥 전체에 성모 마리아와 천사의 스테인드글라스가 선명하고 다채로운 빛으로 비쳐 보입니다
+33~36초: 화면 전체가 눈부신 빛에 휩싸이고, 마지막 문구가 떠오른 뒤 조용히 끝납니다
+
+【문구(명조체, 은은하게 나타났다가 사라짐)】
+・「매일, 더 빠르게.」
+・「더 효율적으로.」
+・「정신을 차리고 보니, 빛이 들어오지 않게 되어 있었다.」
+・「하나쯤, 놓아 보자.」
+・「비어 있는 곳으로 빛이 들어온다.」
+・「그 빛은 전보다 더 풍요로웠다.」
+・마지막에 크게: 「풍요로움은 여백에 깃든다」
+
+【빛과 질감】
+・빛기둥은 스테인드글라스의 해당 영역 색으로 물들고, 공중의 먼지가 반짝입니다
+・바닥 투영은 창에서 어떤 구멍이 뚫려 있는지를 정확히 반영합니다(블록이 있는 부분은 그림자가 됩니다)
+・블록은 무기질적인 매트 그레이입니다. 문구는 흰색으로 각인되어 있습니다
+・전반부는 차갑고 무채색으로, 후반부는 보석 같은 빨강·파랑·금색으로 표현합니다. 이 색 대비를 통해 「더 풍요로워졌다」는 변화를 전달합니다
+
+【기술 조건】
+・스테인드글라스 도안은 이미지로 생성하고, 바닥의 빛·빛기둥·창의 표현은 모두 동일한 도안에서 계산해 정확히 일치시킵니다
+・시간을 1/30초 단위로 정확히 진행하며 프레임별로 출력한 뒤 MP4로 만듭니다
+
+【마무리】
+각 장면을 실제로 렌더링해 확인하고, 바닥에 비친 스테인드글라스 도안이 성모 마리아와 천사로 알아볼 수 있는지, 문구를 읽을 수 있는지, 움직임이 부자연스럽게 끊기지 않는지를 점검하고 수정한 후 전달해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103145567945986461) · [원본 게시물](https://x.com/AGIOyaZ/status/2103145567945986461) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### 샌프란시스코를 배경으로 한 원신 스타일 게임
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="샌프란시스코를 배경으로 한 원신 스타일 게임"></a>
+
+**프롬프트**
+
+```text
+샌프란시스코를 배경으로 한 원신 스타일의 게임을 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103144530157687114) · [원본 게시물](https://x.com/every/status/2103144530157687114) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### 시네마틱 아우스터리츠 전투 영화
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="시네마틱 아우스터리츠 전투 영화"></a>
+
+**참고 이미지:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**프롬프트**
+
+```text
+1805년 아우스터리츠 전투를 다룬 4~5분 분량의 시네마틱 영상을 전 과정 코드로 제작하세요.
+
+전투를 철저히 조사한 뒤, 이야기를 전달하는 방식과 페이싱 구성, 전략 설명 방법, 사건의 시각화 방식을 직접 결정하세요. 역사적 사실에 충실하면서도 극적이고 이해하기 쉬우며 시각적으로 탁월한 결과물을 원합니다.
+
+첨부된 회화 작품은 엄격한 스타일 규칙이 아니라 시각적 영감으로 활용하세요. 작품에서 느껴지는 규모감, 분위기, 연기, 극적인 하늘, 기병, 밀집 대형, 풍경과 혼돈의 감각을 특히 좋아합니다. 그 느낌을 코드로 옮길 방법을 찾아보세요. 다만 더 강력한 시각 언어를 직접 만들어낼 수 있다면 그렇게 하세요.
+
+전형적인 인포그래픽이나 전략 게임처럼 보이지 않게 하세요. 코드로 렌더링했다는 점만 다를 뿐, 시네마틱 역사 영화처럼 느껴져야 합니다.
+
+창의적인 결정은 전적으로 맡기겠습니다. 기대를 뛰어넘는 결과를 보여주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103116235009347650) · [원본 게시물](https://x.com/WinterArc2125/status/2103116689944502720) · [소스 코드](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Three.js로 에펠탑 만들기
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Three.js로 에펠탑 만들기"></a>
+
+**프롬프트**
+
+```text
+Three.js로 에펠탑을 만드세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103106070549757960) · [원본 게시물](https://x.com/0xPascual/status/2103106070549757960) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Grid Genius를 위한 픽사급 Three.js 애니메이션
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Grid Genius를 위한 픽사급 Three.js 애니메이션"></a>
+
+**프롬프트**
+
+```text
+Grid Genius를 은연중에 홍보하는 이야기를 구상해 주세요. Grid Genius가 직접 등장하지 않아도 괜찮지만, 저희 앱과 연관되고 소셜 미디어에 게시했을 때 더 많은 사람의 관심을 끌 수 있는 내용이어야 합니다. 그런 다음 Three.js/JavaScript를 사용해 구상한 이야기를 바탕으로 픽사급 완성도의 전체 애니메이션을 제작해 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103087766662009118) · [원본 게시물](https://x.com/Anilraok/status/2103087766662009118) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### 실시간 펠리컨 자전거 게임
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="실시간 펠리컨 자전거 게임"></a>
+
+**프롬프트**
+
+```text
+물리 효과, 파도, 낚시, 역동적인 날씨, 시네마틱 카메라, 자동 주행, 적응형 음악을 갖춘 살아 숨 쉬는 해안 세계를 펠리컨이 자전거로 달리는 실시간 3D 게임을 제작하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103083781490176212) · [원본 게시물](https://x.com/code_hiyouga/status/2103083781490176212) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### 제국 도시 건설하기
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="제국 도시 건설하기"></a>
+
+**프롬프트**
+
+```text
+제국 도시를 건설하세요
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2103046279253168554) · [원본 게시물](https://x.com/Enzoxbt01/status/2103046279253168554) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### Three.js로 Bugatti Chiron Super Sport 제작하기
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · 에셋
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Three.js로 Bugatti Chiron Super Sport 제작하기"></a>
+
+**프롬프트**
+
+```text
+Three.js로 Bugatti Chiron Super Sport를 제작하세요.
+
+3D 모델을 사용하지 마세요. 텍스처를 사용하지 마세요. 에셋을 사용하지 마세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102828216289566725) · [원본 게시물](https://x.com/srikanthvaluri/status/2102828216289566725) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102788371114246177"></a>
 
 ### Claude 성장 훈련 몽타주

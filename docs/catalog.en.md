@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**18 examples · 1 model · 14 languages**
+**26 examples · 1 model · 14 languages · 1 with source code**
 
 [Browse by category](#categories) · [Browse by model](#models) · [Source code](with-code.md) · [1](../docs/catalog.en.1.md)
 
@@ -31,20 +31,30 @@
 
 <a id="category-games"></a>
 
-### Games · 3
+### Games · 5
 
+- [Genshin Impact–style game set in San Francisco](../docs/catalog.en.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Real-time pelican cycling game](../docs/catalog.en.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: A 3D Side-Scrolling Cat Game Set in a Nighttime City](../docs/catalog.en.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Interactive Peter Rabbit-style farm animal game](../docs/catalog.en.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Endless procedurally generated Three.js world](../docs/catalog.en.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### Scenes · 4
+### Scenes · 5
 
+- [Build an Imperial City](../docs/catalog.en.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [The Last Train cyberpunk megacity benchmark](../docs/catalog.en.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [360-Degree 3D Rendering of a Handball Court from an Image](../docs/catalog.en.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Procedural Three.js 3D main menu background from an image](../docs/catalog.en.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Cinematic interactive pirate ship at sunset](../docs/catalog.en.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+
+<a id="category-3d-assets"></a>
+
+### Assets · 2
+
+- [Build the Eiffel Tower in Three.js](../docs/catalog.en.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Build a Bugatti Chiron Super Sport in Three.js](../docs/catalog.en.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
 <a id="category-interactive-3d"></a>
 
@@ -56,8 +66,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animation · 8
+### Animation · 11
 
+- [Breathing Room: A Short Film of a Cathedral Filled with Stained-Glass Light](../docs/catalog.en.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Cinematic Battle of Austerlitz Film](../docs/catalog.en.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Pixar-level Three.js animation for Grid Genius](../docs/catalog.en.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
 - [Claude growth training montage](../docs/catalog.en.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Create a Pixar-level 90s cartoon animation in Three.js](../docs/catalog.en.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Seamless coded water-cycle animation](../docs/catalog.en.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -73,8 +86,16 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 18
+### Claude Opus 5.5 · 26
 
+- [Breathing Room: A Short Film of a Cathedral Filled with Stained-Glass Light](../docs/catalog.en.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Genshin Impact–style game set in San Francisco](../docs/catalog.en.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Cinematic Battle of Austerlitz Film](../docs/catalog.en.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Build the Eiffel Tower in Three.js](../docs/catalog.en.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Pixar-level Three.js animation for Grid Genius](../docs/catalog.en.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
+- [Real-time pelican cycling game](../docs/catalog.en.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
+- [Build an Imperial City](../docs/catalog.en.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
+- [Build a Bugatti Chiron Super Sport in Three.js](../docs/catalog.en.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 - [Claude growth training montage](../docs/catalog.en.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Create a Pixar-level 90s cartoon animation in Three.js](../docs/catalog.en.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Seamless coded water-cycle animation](../docs/catalog.en.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -95,4 +116,4 @@
 - [Interactive 3D Prehistoric Island](../docs/catalog.en.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Explore all 18 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Explore all 26 examples and live previews →</a></strong></p>

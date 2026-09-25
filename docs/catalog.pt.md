@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**18 Exemplos · 14 🌐**
+**26 Exemplos · 14 🌐**
 
 [Explorar por categoria](#categories) · [Explorar por modelo](#models) · [Código-fonte](with-code.md) · [1](../docs/catalog.pt.1.md)
 
@@ -31,20 +31,30 @@
 
 <a id="category-games"></a>
 
-### Jogos · 3
+### Jogos · 5
 
+- [Jogo no estilo de Genshin Impact ambientado em San Francisco](../docs/catalog.pt.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Jogo de ciclismo com pelicano em tempo real](../docs/catalog.pt.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: um jogo 3D de plataforma lateral com um gato correndo pela cidade à noite](../docs/catalog.pt.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Jogo interativo de animais de fazenda no estilo de Peter Rabbit](../docs/catalog.pt.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Mundo infinito gerado proceduralmente em Three.js](../docs/catalog.pt.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### Cenas · 4
+### Cenas · 5
 
+- [Crie uma cidade imperial](../docs/catalog.pt.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Benchmark da megacidade cyberpunk O Último Trem](../docs/catalog.pt.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Renderização 3D em 360° de uma quadra de handebol a partir de uma imagem](../docs/catalog.pt.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Plano de fundo procedural 3D para menu principal do Three.js a partir de uma imagem](../docs/catalog.pt.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Navio pirata cinematográfico e interativo ao pôr do sol](../docs/catalog.pt.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+
+<a id="category-3d-assets"></a>
+
+### Recursos · 2
+
+- [Crie a Torre Eiffel em Three.js](../docs/catalog.pt.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Crie um Bugatti Chiron Super Sport no Three.js](../docs/catalog.pt.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
 <a id="category-interactive-3d"></a>
 
@@ -56,8 +66,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animação · 8
+### Animação · 11
 
+- [Respiro: um curta-metragem em uma catedral repleta de luz de vitrais](../docs/catalog.pt.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Filme cinematográfico: Batalha de Austerlitz](../docs/catalog.pt.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Animação em Three.js com qualidade de nível Pixar para o Grid Genius](../docs/catalog.pt.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
 - [Montagem de treinamento da evolução do Claude](../docs/catalog.pt.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Crie uma animação de desenho dos anos 90, com qualidade Pixar, em Three.js](../docs/catalog.pt.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Animação codificada e contínua do ciclo da água](../docs/catalog.pt.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -73,8 +86,16 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 18
+### Claude Opus 5.5 · 26
 
+- [Respiro: um curta-metragem em uma catedral repleta de luz de vitrais](../docs/catalog.pt.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Jogo no estilo de Genshin Impact ambientado em San Francisco](../docs/catalog.pt.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Filme cinematográfico: Batalha de Austerlitz](../docs/catalog.pt.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Crie a Torre Eiffel em Three.js](../docs/catalog.pt.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Animação em Three.js com qualidade de nível Pixar para o Grid Genius](../docs/catalog.pt.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
+- [Jogo de ciclismo com pelicano em tempo real](../docs/catalog.pt.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
+- [Crie uma cidade imperial](../docs/catalog.pt.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
+- [Crie um Bugatti Chiron Super Sport no Three.js](../docs/catalog.pt.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 - [Montagem de treinamento da evolução do Claude](../docs/catalog.pt.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Crie uma animação de desenho dos anos 90, com qualidade Pixar, em Three.js](../docs/catalog.pt.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Animação codificada e contínua do ciclo da água](../docs/catalog.pt.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)

@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**18 作例 · 14 🌐**
+**26 作例 · 14 🌐**
 
 [カテゴリで探す](#categories) · [モデルで探す](#models) · [ソースコード](with-code.md) · [1](../docs/catalog.ja.1.md)
 
@@ -31,20 +31,30 @@
 
 <a id="category-games"></a>
 
-### ゲーム · 3
+### ゲーム · 5
 
+- [サンフランシスコを舞台にした『原神』風ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [リアルタイムのペリカン自転車ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk：夜の街を駆ける3D横スクロール猫ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [インタラクティブなピーターラビット風の農場動物ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [無限にプロシージャル生成されるThree.jsワールド](../docs/catalog.ja.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### シーン · 4
+### シーン · 5
 
+- [帝都を構築する](../docs/catalog.ja.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [『ラストトレイン』サイバーパンク巨大都市ベンチマーク](../docs/catalog.ja.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [画像をもとにしたハンドボールコートの360度3Dレンダリング](../docs/catalog.ja.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [画像から作るプロシージャルなThree.js 3Dメインメニュー背景](../docs/catalog.ja.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [夕暮れを航海する映画的なインタラクティブ海賊船](../docs/catalog.ja.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+
+<a id="category-3d-assets"></a>
+
+### アセット · 2
+
+- [Three.jsでエッフェル塔を作成する](../docs/catalog.ja.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Three.jsでBugatti Chiron Super Sportを制作する](../docs/catalog.ja.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
 <a id="category-interactive-3d"></a>
 
@@ -56,8 +66,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### アニメーション · 8
+### アニメーション · 11
 
+- [余白：ステンドグラスの光が満ちる大聖堂の短編映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [アウステルリッツの戦いを描くシネマティック映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Grid Genius向けのピクサー級Three.jsアニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
 - [Claudeの成長トレーニングモンタージュ](../docs/catalog.ja.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Three.jsでピクサー級の90年代アニメーションを制作](../docs/catalog.ja.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [コードで作るシームレスな水循環アニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -73,8 +86,16 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 18
+### Claude Opus 5.5 · 26
 
+- [余白：ステンドグラスの光が満ちる大聖堂の短編映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [サンフランシスコを舞台にした『原神』風ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [アウステルリッツの戦いを描くシネマティック映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Three.jsでエッフェル塔を作成する](../docs/catalog.ja.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Grid Genius向けのピクサー級Three.jsアニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
+- [リアルタイムのペリカン自転車ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
+- [帝都を構築する](../docs/catalog.ja.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
+- [Three.jsでBugatti Chiron Super Sportを制作する](../docs/catalog.ja.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 - [Claudeの成長トレーニングモンタージュ](../docs/catalog.ja.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Three.jsでピクサー級の90年代アニメーションを制作](../docs/catalog.ja.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [コードで作るシームレスな水循環アニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)

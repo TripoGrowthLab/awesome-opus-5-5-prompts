@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**18 Приклади · 14 🌐**
+**26 Приклади · 14 🌐**
 
 [За категоріями](#categories) · [За моделями](#models) · [Вихідний код](with-code.md) · [1](../docs/catalog.uk.1.md)
 
@@ -31,20 +31,30 @@
 
 <a id="category-games"></a>
 
-### Ігри · 3
+### Ігри · 5
 
+- [Гра в стилі Genshin Impact у Сан-Франциско](../docs/catalog.uk.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Гра про пелікана-велосипедиста в реальному часі](../docs/catalog.uk.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: 3D-гра про кота, який мчить нічним містом у сайд-скролері](../docs/catalog.uk.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»](../docs/catalog.uk.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Нескінченний процедурно згенерований світ на Three.js](../docs/catalog.uk.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### Сцени · 4
+### Сцени · 5
 
+- [Створіть імперське місто](../docs/catalog.uk.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Бенчмарк кіберпанкового мегаполіса «Останній потяг»](../docs/catalog.uk.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [3D-рендеринг гандбольного майданчика на 360° за зображенням](../docs/catalog.uk.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Процедурний 3D-фон головного меню в Three.js за зображенням](../docs/catalog.uk.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Кінематографічний інтерактивний піратський корабель на заході сонця](../docs/catalog.uk.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+
+<a id="category-3d-assets"></a>
+
+### Асети · 2
+
+- [Створіть Ейфелеву вежу в Three.js](../docs/catalog.uk.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Створіть Bugatti Chiron Super Sport у Three.js](../docs/catalog.uk.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
 <a id="category-interactive-3d"></a>
 
@@ -56,8 +66,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Анімація · 8
+### Анімація · 11
 
+- [Простір: короткометражне відео собору, наповненого світлом вітражів](../docs/catalog.uk.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Кінематографічний фільм про битву під Аустерліцем](../docs/catalog.uk.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Анімація рівня Pixar у Three.js для Grid Genius](../docs/catalog.uk.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
 - [Тренувальний монтаж розвитку Claude](../docs/catalog.uk.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js](../docs/catalog.uk.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Безшовна анімація кругообігу води, створена кодом](../docs/catalog.uk.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -73,8 +86,16 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 18
+### Claude Opus 5.5 · 26
 
+- [Простір: короткометражне відео собору, наповненого світлом вітражів](../docs/catalog.uk.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Гра в стилі Genshin Impact у Сан-Франциско](../docs/catalog.uk.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Кінематографічний фільм про битву під Аустерліцем](../docs/catalog.uk.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Створіть Ейфелеву вежу в Three.js](../docs/catalog.uk.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Анімація рівня Pixar у Three.js для Grid Genius](../docs/catalog.uk.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
+- [Гра про пелікана-велосипедиста в реальному часі](../docs/catalog.uk.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
+- [Створіть імперське місто](../docs/catalog.uk.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
+- [Створіть Bugatti Chiron Super Sport у Three.js](../docs/catalog.uk.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 - [Тренувальний монтаж розвитку Claude](../docs/catalog.uk.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Створіть мультфільм у стилі 90-х рівня Pixar за допомогою Three.js](../docs/catalog.uk.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Безшовна анімація кругообігу води, створена кодом](../docs/catalog.uk.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)

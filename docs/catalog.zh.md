@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**18 条案例 · 1 个模型 · 14 种语言**
+**26 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
 
 [按用途浏览](#categories) · [按模型浏览](#models) · [项目源码](with-code.md) · [1](../docs/catalog.zh.1.md)
 
@@ -31,20 +31,30 @@
 
 <a id="category-games"></a>
 
-### 游戏 · 3
+### 游戏 · 5
 
+- [Genshin Impact 风格的旧金山背景游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [实时鹈鹕骑行游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk：奔跑在夜色街头的 3D 横版猫咪游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [彼得兔风格的互动农场动物游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [无限程序生成的 Three.js 世界](../docs/catalog.zh.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### 场景 · 4
+### 场景 · 5
 
+- [打造一座帝国城市](../docs/catalog.zh.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [《末班列车》赛博朋克巨型城市基准项目](../docs/catalog.zh.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [基于图片的手球场 360° 3D 渲染](../docs/catalog.zh.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [根据图片制作程序化 Three.js 3D 主菜单背景](../docs/catalog.zh.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [日落时分的电影感互动海盗船](../docs/catalog.zh.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+
+<a id="category-3d-assets"></a>
+
+### 资产 · 2
+
+- [使用 Three.js 构建埃菲尔铁塔](../docs/catalog.zh.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [在 Three.js 中构建布加迪 Chiron Super Sport](../docs/catalog.zh.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
 <a id="category-interactive-3d"></a>
 
@@ -56,8 +66,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### 动画 · 8
+### 动画 · 11
 
+- [留白：充满彩色玻璃光线的大教堂短片](../docs/catalog.zh.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [电影化呈现：奥斯特里茨战役](../docs/catalog.zh.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Grid Genius 的皮克斯级 Three.js 动画](../docs/catalog.zh.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
 - [Claude 成长训练蒙太奇](../docs/catalog.zh.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [使用 Three.js 制作皮克斯级别的 90 年代卡通动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [无缝循环的代码水循环动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -73,8 +86,16 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 18
+### Claude Opus 5.5 · 26
 
+- [留白：充满彩色玻璃光线的大教堂短片](../docs/catalog.zh.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Genshin Impact 风格的旧金山背景游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [电影化呈现：奥斯特里茨战役](../docs/catalog.zh.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [使用 Three.js 构建埃菲尔铁塔](../docs/catalog.zh.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Grid Genius 的皮克斯级 Three.js 动画](../docs/catalog.zh.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
+- [实时鹈鹕骑行游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
+- [打造一座帝国城市](../docs/catalog.zh.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
+- [在 Three.js 中构建布加迪 Chiron Super Sport](../docs/catalog.zh.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 - [Claude 成长训练蒙太奇](../docs/catalog.zh.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [使用 Three.js 制作皮克斯级别的 90 年代卡通动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [无缝循环的代码水循环动画](../docs/catalog.zh.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -95,4 +116,4 @@
 - [交互式 3D 史前岛屿](../docs/catalog.zh.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 18 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 26 条案例与在线演示 →</a></strong></p>

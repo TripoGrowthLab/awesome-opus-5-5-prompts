@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (18)</summary>
+<summary>Örnekleri keşfet (26)</summary>
 
+- [Boşluk: Vitray ışığıyla dolan katedralde kısa film](#claude-opus-5-5-2103145567945986461)
+- [San Francisco'da geçen Genshin Impact tarzı oyun](#claude-opus-5-5-2103144530157687114)
+- [Austerlitz Muharebesi: Sinematik Film](#claude-opus-5-5-2103116235009347650)
+- [Three.js ile Eyfel Kulesi oluşturun](#claude-opus-5-5-2103106070549757960)
+- [Grid Genius için Pixar kalitesinde Three.js animasyonu](#claude-opus-5-5-2103087766662009118)
+- [Gerçek zamanlı pelikan bisiklet oyunu](#claude-opus-5-5-2103083781490176212)
+- [İmparatorluk Şehri Oluştur](#claude-opus-5-5-2103046279253168554)
+- [Three.js'te Bugatti Chiron Super Sport oluşturun](#claude-opus-5-5-2102828216289566725)
 - [Claude gelişim montajı](#claude-opus-5-5-2102788371114246177)
 - [Three.js'te Pixar kalitesinde 90'lar çizgi film animasyonu oluşturun](#claude-opus-5-5-2102788223835463902)
 - [Kodla oluşturulmuş kesintisiz su döngüsü animasyonu](#claude-opus-5-5-2102781807179735211)
@@ -48,6 +56,328 @@
 - [Etkileşimli 3B Tarih Öncesi Ada](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### Boşluk: Vitray ışığıyla dolan katedralde kısa film
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Boşluk: Vitray ışığıyla dolan katedralde kısa film"></a>
+
+**İstem**
+
+```text
+three.js ile 1080×1920 dikey formatta, saniyede 30 kare ve yaklaşık 36 saniye uzunluğunda bir kısa film oluşturun.
+
+【Eser adı】
+Boşluk
+
+【İzleyiciye yaşatılacak deneyim】
+Verimlilik peşinde koşarken zamanını yitirme hissini ve boşluğa kavuştuğu anda hayatın zengin bir ışıkla dolması duygusunu, hiçbir insan göstermeden izleyiciye yaşatan bir film olsun. Finalde zeminin tamamında beliren vitray ışığıyla izleyicinin hayranlıkla nefesini tutmasını hedefleyin.
+
+【Mekân】
+・Loş, taş duvarlı bir katedralin içi. Ön duvarda yalnızca bir adet, 15 m yüksekliğinde ve 10 m genişliğinde sivri kemerli pencere bulunuyor
+・Pencerenin dışından 45 derecelik açıyla güçlü bir ışık süzülüyor ve taş zemine pencere biçiminde bir ışık düşürüyor
+・Pencerede, merkezde Meryem Ana, iki yanında kanatlarını açmış iki melek ve üst bölümde bir gül pencere bulunan bir vitray yer alıyor. Tasarım mevcut bir eseri taklit etmeyen özgün bir çalışma olacak ve kompozisyonu iki yana simetrik kurulacak
+
+【Zaman akışı】
+0–3 saniye: Pencereden süzülen ışık henüz renksiz, beyaz bir ışık. Zeminde yumuşak beyaz bir ışık şekli
+3–11 saniye: “Meşgul”, “Verimlilik”, “Acil”, “Son teslim tarihi” gibi sözcüklerin kazındığı gri küpler, mekânın ön tarafından art arda uçarak geliyor ve pencereyi dolduruyor. Küplerin geliş hızı giderek artıyor; pencere kapandıkça mekân kararıyor
+11–14 saniye: Pencere tamamen kapanıyor; karanlık ve sessizlik
+14–19 saniye: “Meşgul” yazılı bloklardan yalnızca biri pencereden ayrılıp aşağı düşüyor ve ışık parçacıklarına dönüşerek yok oluyor. Açılan delikten canlı renkli tek bir ışık huzmesi süzülüyor
+19–26 saniye: İlk deliğin merkezinden başlayarak bloklar zincirleme biçimde ayrılıyor. Her yeni delikle birlikte rengârenk ışık sütunları çoğalıyor ve gizlenmiş vitray yavaş yavaş ortaya çıkıyor
+26–33 saniye: Tüm bloklar yok oluyor; kamera ışık sütunlarının arasından geçerek yükseliyor ve zemine tam tepeden bakıyor. Zeminin tamamına, Meryem Ana ile meleklerin bulunduğu vitrayın rengârenk bir ışık yansıması düşmüş durumda
+33–36 saniye: Ekranın tamamı göz kamaştırıcı bir ışıkla kaplanıyor, son sözler beliriyor ve film sessizce sona eriyor
+
+【Sözler (Mincho yazı tipinde, hafifçe belirip kaybolacak)】
+・“Her gün, daha hızlı.”
+・“Daha verimli.”
+・“Fark ettiğimde, ışık artık içeri girmiyordu.”
+・“Bir şeyden vazgeçmeyi denemek.”
+・“Işık, açılan yerden içeri girer.”
+・“O ışık, öncekinden daha zengindi.”
+・Finalde büyük harflerle: “Zenginlik boşlukta saklıdır”
+
+【Işık ve doku】
+・Işık sütunları, vitrayın ilgili bölümünün rengine bürünüyor; havadaki tozlar parıldıyor
+・Zemindeki yansıma, pencerede hangi deliklerin açık olduğunu doğru biçimde yansıtıyor (blokların bulunduğu yerler gölgede kalacak)
+・Bloklar, dokusuz mat gri bir malzemeden oluşuyor. Sözcükler üzerlerine beyaz olarak kazınmış
+・İlk yarı soğuk ve renksiz; ikinci yarı ise mücevherleri andıran kırmızı, mavi ve altın tonlarında olacak. Renk karşıtlığı, “zenginleşme” duygusunu anlatacak
+
+【Teknik koşullar】
+・Vitray deseni bir görsel olarak üretilecek; zemindeki ışık, ışık sütunları ve pencere görüntüsü bu aynı desenden hesaplanarak birbiriyle tam uyumlu olacak
+・Zamanı 1/30 saniyelik adımlarla hassas biçimde ilerletin, kareleri tek tek dışa aktarın ve MP4 olarak birleştirin
+
+【Son rötuşlar】
+Her sahneyi gerçekten render alarak kontrol edin; vitray deseninin zeminde Meryem Ana ve melekler olarak okunup okunmadığını, sözlerin okunabilirliğini ve hareketlerin ani hissettirmediğini kontrol edip gerekli düzeltmeleri yaptıktan sonra teslim edin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103145567945986461) · [Orijinal gönderi](https://x.com/AGIOyaZ/status/2103145567945986461) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### San Francisco'da geçen Genshin Impact tarzı oyun
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="San Francisco'da geçen Genshin Impact tarzı oyun"></a>
+
+**İstem**
+
+```text
+San Francisco'da geçen Genshin Impact tarzı bir oyun geliştir.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103144530157687114) · [Orijinal gönderi](https://x.com/every/status/2103144530157687114) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### Austerlitz Muharebesi: Sinematik Film
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Austerlitz Muharebesi: Sinematik Film"></a>
+
+**Referans görseller:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**İstem**
+
+```text
+Austerlitz Muharebesi (1805) hakkında, tamamı kodla oluşturulmuş 4–5 dakikalık sinematik bir video hazırlayın.
+
+Muharebeyi kapsamlı biçimde araştırın; hikâyeyi nasıl anlatacağınıza, anlatının ritmini nasıl yapılandıracağınıza, stratejiyi nasıl açıklayacağınıza ve olayları nasıl görselleştireceğinize kendiniz karar verin. Tarihsel açıdan doğru, dramatik, anlaşılır ve görsel olarak olağanüstü bir çalışma istiyorum.
+
+Ekli tabloları katı bir stil gerekliliği olarak değil, görsel ilham kaynağı olarak kullanın. Ölçeklerini, atmosferlerini, dumanı, dramatik gökyüzünü, süvari birliklerini, yoğun düzenleri, manzarayı ve kaos hissini çok beğeniyorum. Bu hissi koda aktarmanın bir yolunu bulun; ancak daha güçlü bir görsel dil geliştirebiliyorsanız onu kullanın.
+
+Genel geçer bir infografik veya strateji oyunu hissi vermesin. Kodla oluşturulmuş olsa da sinematik bir tarih filmi gibi hissettirsin.
+
+Tüm yaratıcı kontrol sizde. Beni şaşırtın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103116235009347650) · [Orijinal gönderi](https://x.com/WinterArc2125/status/2103116689944502720) · [Kaynak kodu](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Three.js ile Eyfel Kulesi oluşturun
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Three.js ile Eyfel Kulesi oluşturun"></a>
+
+**İstem**
+
+```text
+Three.js ile Eyfel Kulesi oluşturun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103106070549757960) · [Orijinal gönderi](https://x.com/0xPascual/status/2103106070549757960) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Grid Genius için Pixar kalitesinde Three.js animasyonu
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Grid Genius için Pixar kalitesinde Three.js animasyonu"></a>
+
+**İstem**
+
+```text
+Grid Genius'ı incelikli bir şekilde tanıtan bir hikâye hayal etmeni istiyorum. Hatta hikâyede Grid Genius hiç yer almayabilir; ancak uygulamamızla uyumlu olmalı ve sosyal medyada paylaşıldığında daha fazla kişinin dikkatini çekmemize yardımcı olmalı. Ardından, hayal ettiğin hikâyeden yola çıkarak Three.js/JavaScript kullanıp Pixar kalitesinde eksiksiz bir animasyon oluşturmanı istiyorum.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103087766662009118) · [Orijinal gönderi](https://x.com/Anilraok/status/2103087766662009118) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### Gerçek zamanlı pelikan bisiklet oyunu
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Gerçek zamanlı pelikan bisiklet oyunu"></a>
+
+**İstem**
+
+```text
+Fizik sistemi, dalgalar, balık tutma, dinamik hava durumu, sinematik kameralar, otomatik pilot ve uyarlanabilir müzikle zenginleştirilmiş, pelikanın canlı bir sahil dünyasında bisiklet sürdüğü gerçek zamanlı bir 3B oyun oluştur.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103083781490176212) · [Orijinal gönderi](https://x.com/code_hiyouga/status/2103083781490176212) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### İmparatorluk Şehri Oluştur
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="İmparatorluk Şehri Oluştur"></a>
+
+**İstem**
+
+```text
+BİR İMPARATORLUK ŞEHRİ OLUŞTUR
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2103046279253168554) · [Orijinal gönderi](https://x.com/Enzoxbt01/status/2103046279253168554) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### Three.js'te Bugatti Chiron Super Sport oluşturun
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Three.js'te Bugatti Chiron Super Sport oluşturun"></a>
+
+**İstem**
+
+```text
+Three.js'te Bugatti Chiron Super Sport oluşturun.
+
+3B model yok. Doku yok. Varlık yok.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102828216289566725) · [Orijinal gönderi](https://x.com/srikanthvaluri/status/2102828216289566725) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102788371114246177"></a>
 
 ### Claude gelişim montajı

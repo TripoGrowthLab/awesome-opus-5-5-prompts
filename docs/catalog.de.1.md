@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Beispiele ansehen (18)</summary>
+<summary>Beispiele ansehen (26)</summary>
 
+- [Freiraum: Kurzfilm einer von Buntglaslicht erfüllten Kathedrale](#claude-opus-5-5-2103145567945986461)
+- [Spiel im Stil von Genshin Impact in San Francisco](#claude-opus-5-5-2103144530157687114)
+- [Film über die Schlacht bei Austerlitz – cinematisch erzählt](#claude-opus-5-5-2103116235009347650)
+- [Den Eiffelturm in Three.js erstellen](#claude-opus-5-5-2103106070549757960)
+- [Three.js-Animation auf Pixar-Niveau für Grid Genius](#claude-opus-5-5-2103087766662009118)
+- [Echtzeit-Spiel mit einem Pelikan auf dem Fahrrad](#claude-opus-5-5-2103083781490176212)
+- [Eine Kaiserstadt bauen](#claude-opus-5-5-2103046279253168554)
+- [Einen Bugatti Chiron Super Sport in Three.js erstellen](#claude-opus-5-5-2102828216289566725)
 - [Claudes Trainingsmontage zur Weiterentwicklung](#claude-opus-5-5-2102788371114246177)
 - [Erstelle eine Cartoon-Animation im Stil der 90er auf Pixar-Niveau mit Three.js](#claude-opus-5-5-2102788223835463902)
 - [Nahtlose, per Code erstellte Animation des Wasserkreislaufs](#claude-opus-5-5-2102781807179735211)
@@ -48,6 +56,328 @@
 - [Interaktive 3D-Prähistorikinsel](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### Freiraum: Kurzfilm einer von Buntglaslicht erfüllten Kathedrale
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Freiraum: Kurzfilm einer von Buntglaslicht erfüllten Kathedrale"></a>
+
+**Prompt**
+
+```text
+Erstellen Sie mit three.js einen vertikalen Kurzfilm mit 1080×1920 Pixeln, 30 Bildern pro Sekunde und einer Länge von etwa 36 Sekunden.
+
+【Titel】
+Freiraum
+
+【Gewünschtes Erlebnis】
+Der Film soll spürbar machen, wie man im Streben nach Effizienz seine Zeit verliert – und wie sich das Leben in dem Moment mit reichem Licht erfüllt, in dem man Freiraum gewinnt. Dabei dürfen keinerlei Personen auftreten. Am Ende soll das über den gesamten Boden hinweg erscheinende Buntglaslicht den Betrachter unwillkürlich den Atem anhalten lassen.
+
+【Schauplatz】
+・Innenraum einer dämmrigen steinernen Kathedrale. In der vorderen Wand befindet sich nur ein einziges, 15 m hohes und 10 m breites Spitzbogenfenster
+・Von außen fällt starkes Licht in einem Winkel von 45 Grad ein und wirft die Form des Fensters auf den Steinboden
+・Das Fenster ist mit einem Buntglasfenster versehen: In der Mitte die Gottesmutter, zu beiden Seiten je ein Engel mit ausgebreiteten Flügeln und darüber eine Rosette. Das Design ist original und ahmt kein bestehendes Werk nach; die Komposition ist symmetrisch.
+
+【Zeitlicher Ablauf】
+0–3 Sekunden: Das Licht, das durch das Fenster fällt, ist zunächst farblos und weiß. Eine weiche weiße Lichtform liegt auf dem Boden
+3–11 Sekunden: Graue Würfel mit eingravierten Begriffen wie „Beschäftigt“, „Effizienz“, „Dringend“ und „Frist“ fliegen einer nach dem anderen aus dem Vordergrund des Raums heran und füllen das Fenster. Ihr Tempo beschleunigt sich immer weiter; je stärker das Fenster verschlossen wird, desto dunkler wird der Raum
+11–14 Sekunden: Das Fenster ist vollständig versperrt; Dunkelheit und Stille
+14–19 Sekunden: Ein einziger Block mit dem Wort „Beschäftigt“ löst sich aus dem Fenster, fällt zu Boden und verschwindet als Lichtpartikel. Durch die entstandene Öffnung fällt ein Strahl in leuchtenden Farben
+19–26 Sekunden: Ausgehend von der ersten Öffnung lösen sich die Blöcke nach und nach in einer Kettenreaktion. Mit jeder weiteren Öffnung kommen mehr farbenprächtige Lichtstrahlen hinzu, und das verborgene Buntglasfenster wird allmählich sichtbar
+26–33 Sekunden: Alle Blöcke verschwinden. Die Kamera steigt durch die Lichtstrahlen hindurch nach oben und blickt senkrecht von oben auf den Boden. Über die gesamte Fläche werden die Gottesmutter und die Engel des Buntglasfensters als farbenprächtiges Licht projiziert
+33–36 Sekunden: Der gesamte Bildschirm wird von blendendem Licht erfüllt. Die letzte Botschaft erscheint, dann endet der Film ruhig
+
+【Texteinblendungen (in Minchō-Schrift, dezent ein- und ausblendend)】
+・„Jeden Tag noch schneller.“
+・„Noch effizienter.“
+・„Ehe ich mich versah, fiel kein Licht mehr herein.“
+・„Ich lasse einmal etwas los.“
+・„Wo Raum entsteht, fällt Licht herein.“
+・„Dieses Licht war reicher als zuvor.“
+・Am Ende groß: „Fülle wohnt im Freiraum“
+
+【Licht und Materialität】
+・Die Lichtstrahlen nehmen die Farbe der jeweiligen Stelle im Buntglasfenster an, während Staubpartikel in der Luft glitzern
+・Die Projektion auf dem Boden muss exakt widerspiegeln, welche Öffnungen im Fenster frei sind (an den Stellen mit Blöcken liegt Schatten)
+・Die Blöcke sind in einem sachlichen Matteg​​rau gehalten. Die Begriffe sind weiß eingraviert
+・Die erste Hälfte ist kühl und unbunt, die zweite zeigt juwelenartige Farben in Rot, Blau und Gold. Dieser Kontrast soll vermitteln, dass die Welt reicher geworden ist
+
+【Technische Bedingungen】
+・Das Motiv des Buntglasfensters wird als Bild generiert. Bodenlicht, Lichtstrahlen und die Darstellung im Fenster müssen alle aus demselben Motiv berechnet werden und exakt übereinstimmen
+・Die Zeit wird präzise in Schritten von 1/30 Sekunde fortgeschrieben; jedes Einzelbild wird gerendert und anschließend zu einer MP4-Datei zusammengesetzt
+
+【Fertigstellung】
+Rendern und prüfen Sie jede Szene tatsächlich. Korrigieren Sie sie anschließend, falls das Buntglasmotiv auf dem Boden nicht als Gottesmutter und Engel erkennbar ist, die Texte nicht lesbar sind oder Bewegungen abrupt wirken, und übergeben Sie erst danach das Ergebnis.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103145567945986461) · [Originalbeitrag](https://x.com/AGIOyaZ/status/2103145567945986461) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### Spiel im Stil von Genshin Impact in San Francisco
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Spiel im Stil von Genshin Impact in San Francisco"></a>
+
+**Prompt**
+
+```text
+Erstelle ein Spiel im Stil von Genshin Impact, das in San Francisco spielt.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103144530157687114) · [Originalbeitrag](https://x.com/every/status/2103144530157687114) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### Film über die Schlacht bei Austerlitz – cinematisch erzählt
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Film über die Schlacht bei Austerlitz – cinematisch erzählt"></a>
+
+**Referenzbilder:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**Prompt**
+
+```text
+Erstelle ein 4–5-minütiges cinematisches Video über die Schlacht bei Austerlitz (1805), vollständig per Code umgesetzt.
+
+Recherchiere die Schlacht gründlich und entscheide selbst, wie du die Geschichte erzählst, den Spannungsbogen strukturierst, die Strategie erklärst und die Ereignisse visualisierst. Das Ergebnis soll historisch akkurat, dramatisch, leicht verständlich und visuell herausragend sein.
+
+Nutze die beigefügten Gemälde als visuelle Inspiration, nicht als verbindliche Stilvorgabe. Ich liebe ihren Maßstab, ihre Atmosphäre, den Rauch, die dramatischen Himmel, die Kavallerie, die geschlossenen Formationen, die Landschaft und das Gefühl des Chaos. Finde eine Möglichkeit, dieses Gefühl in Code zu übersetzen – wenn dir jedoch eine noch stärkere visuelle Sprache einfällt, setze sie um.
+
+Es soll nicht wie eine generische Infografik oder ein Strategiespiel wirken. Es soll sich wie ein historischer Kinofilm anfühlen, der zufällig mit Code gerendert wurde.
+
+Du hast vollständige kreative Kontrolle. Überrasche mich.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103116235009347650) · [Originalbeitrag](https://x.com/WinterArc2125/status/2103116689944502720) · [Quellcode](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Den Eiffelturm in Three.js erstellen
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Den Eiffelturm in Three.js erstellen"></a>
+
+**Prompt**
+
+```text
+Erstelle den Eiffelturm in Three.js.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103106070549757960) · [Originalbeitrag](https://x.com/0xPascual/status/2103106070549757960) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Three.js-Animation auf Pixar-Niveau für Grid Genius
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Three.js-Animation auf Pixar-Niveau für Grid Genius"></a>
+
+**Prompt**
+
+```text
+Ich möchte, dass du dir eine Story ausdenkst, die Grid Genius subtil bewirbt. Sie muss Grid Genius nicht einmal erwähnen, sollte aber zu unserer App passen und uns dabei helfen, in den sozialen Medien mehr Aufmerksamkeit zu erzielen. Erstelle anschließend mit Three.js/JavaScript auf Grundlage der von dir entwickelten Story eine vollständige Animation in Pixar-Qualität.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103087766662009118) · [Originalbeitrag](https://x.com/Anilraok/status/2103087766662009118) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### Echtzeit-Spiel mit einem Pelikan auf dem Fahrrad
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Echtzeit-Spiel mit einem Pelikan auf dem Fahrrad"></a>
+
+**Prompt**
+
+```text
+Erstelle ein 3D-Echtzeitspiel, in dem ein Pelikan durch eine lebendige Küstenwelt radelt – mit Physik, Wellen, Angeln, dynamischem Wetter, filmischen Kameras, Autopilot und adaptiver Musik.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103083781490176212) · [Originalbeitrag](https://x.com/code_hiyouga/status/2103083781490176212) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### Eine Kaiserstadt bauen
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="Eine Kaiserstadt bauen"></a>
+
+**Prompt**
+
+```text
+BAUE EINE KAISERSTADT
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2103046279253168554) · [Originalbeitrag](https://x.com/Enzoxbt01/status/2103046279253168554) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### Einen Bugatti Chiron Super Sport in Three.js erstellen
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Assets
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Einen Bugatti Chiron Super Sport in Three.js erstellen"></a>
+
+**Prompt**
+
+```text
+Erstelle einen Bugatti Chiron Super Sport in Three.js.
+
+Kein 3D-Modell. Keine Texturen. Keine Assets.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102828216289566725) · [Originalbeitrag](https://x.com/srikanthvaluri/status/2102828216289566725) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102788371114246177"></a>
 
 ### Claudes Trainingsmontage zur Weiterentwicklung

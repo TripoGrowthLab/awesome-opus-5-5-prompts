@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**18 사례 · 14 🌐**
+**26 사례 · 14 🌐**
 
 [카테고리별 탐색](#categories) · [모델별 탐색](#models) · [소스 코드](with-code.md) · [1](../docs/catalog.ko.1.md)
 
@@ -31,20 +31,30 @@
 
 <a id="category-games"></a>
 
-### 게임 · 3
+### 게임 · 5
 
+- [샌프란시스코를 배경으로 한 원신 스타일 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [실시간 펠리컨 자전거 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [피터 래빗풍 인터랙티브 농장 동물 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [끝없이 절차적으로 생성되는 Three.js 월드](../docs/catalog.ko.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### 장면 · 4
+### 장면 · 5
 
+- [제국 도시 건설하기](../docs/catalog.ko.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [더 라스트 트레인 사이버펑크 메가시티 벤치마크](../docs/catalog.ko.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](../docs/catalog.ko.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](../docs/catalog.ko.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [해 질 무렵의 시네마틱 인터랙티브 해적선](../docs/catalog.ko.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+
+<a id="category-3d-assets"></a>
+
+### 에셋 · 2
+
+- [Three.js로 에펠탑 만들기](../docs/catalog.ko.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Three.js로 Bugatti Chiron Super Sport 제작하기](../docs/catalog.ko.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
 <a id="category-interactive-3d"></a>
 
@@ -56,8 +66,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### 애니메이션 · 8
+### 애니메이션 · 11
 
+- [여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [시네마틱 아우스터리츠 전투 영화](../docs/catalog.ko.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Grid Genius를 위한 픽사급 Three.js 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
 - [Claude 성장 훈련 몽타주](../docs/catalog.ko.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [끊김 없는 코드 기반 물 순환 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -73,8 +86,16 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 18
+### Claude Opus 5.5 · 26
 
+- [여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [샌프란시스코를 배경으로 한 원신 스타일 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [시네마틱 아우스터리츠 전투 영화](../docs/catalog.ko.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Three.js로 에펠탑 만들기](../docs/catalog.ko.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Grid Genius를 위한 픽사급 Three.js 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
+- [실시간 펠리컨 자전거 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
+- [제국 도시 건설하기](../docs/catalog.ko.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
+- [Three.js로 Bugatti Chiron Super Sport 제작하기](../docs/catalog.ko.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 - [Claude 성장 훈련 몽타주](../docs/catalog.ko.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Three.js로 제작하는 픽사급 1990년대 카툰 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [끊김 없는 코드 기반 물 순환 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)

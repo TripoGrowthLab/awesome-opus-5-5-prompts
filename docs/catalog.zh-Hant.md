@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**18 案例 · 14 🌐**
+**26 案例 · 14 🌐**
 
 [依用途瀏覽](#categories) · [依模型瀏覽](#models) · [專案原始碼](with-code.md) · [1](../docs/catalog.zh-Hant.1.md)
 
@@ -31,20 +31,30 @@
 
 <a id="category-games"></a>
 
-### 遊戲 · 3
+### 遊戲 · 5
 
+- [《原神》風格的舊金山背景遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [即時 3D 鵜鶘騎車遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk：奔馳於夜街的 3D 橫向捲軸貓咪遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [互動式彼得兔風格農場動物遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [無限程序生成的 Three.js 世界](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### 場景 · 4
+### 場景 · 5
 
+- [打造帝國城市](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [《末班列車》賽博龐克巨型都市基準測試](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [以圖片為基礎的手球場 360 度 3D 渲染](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [從影像打造程序化 Three.js 3D 主選單背景](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [電影感互動式夕陽海盜船](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+
+<a id="category-3d-assets"></a>
+
+### 資產 · 2
+
+- [使用 Three.js 建立艾菲爾鐵塔](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [使用 Three.js 建立 Bugatti Chiron Super Sport](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
 <a id="category-interactive-3d"></a>
 
@@ -56,8 +66,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### 動畫 · 8
+### 動畫 · 11
 
+- [留白：充滿彩繪玻璃光芒的大教堂短片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [奧斯特里茲戰役電影](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Grid Genius 的 Pixar 級 Three.js 動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
 - [Claude 成長訓練蒙太奇](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [使用 Three.js 製作皮克斯等級的 90 年代卡通動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [無縫程式碼水循環動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -73,8 +86,16 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 18
+### Claude Opus 5.5 · 26
 
+- [留白：充滿彩繪玻璃光芒的大教堂短片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [《原神》風格的舊金山背景遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [奧斯特里茲戰役電影](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [使用 Three.js 建立艾菲爾鐵塔](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Grid Genius 的 Pixar 級 Three.js 動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
+- [即時 3D 鵜鶘騎車遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
+- [打造帝國城市](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
+- [使用 Three.js 建立 Bugatti Chiron Super Sport](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 - [Claude 成長訓練蒙太奇](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [使用 Three.js 製作皮克斯等級的 90 年代卡通動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [無縫程式碼水循環動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)

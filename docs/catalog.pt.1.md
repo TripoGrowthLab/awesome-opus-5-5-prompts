@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Explorar exemplos (18)</summary>
+<summary>Explorar exemplos (26)</summary>
 
+- [Respiro: um curta-metragem em uma catedral repleta de luz de vitrais](#claude-opus-5-5-2103145567945986461)
+- [Jogo no estilo de Genshin Impact ambientado em San Francisco](#claude-opus-5-5-2103144530157687114)
+- [Filme cinematográfico: Batalha de Austerlitz](#claude-opus-5-5-2103116235009347650)
+- [Crie a Torre Eiffel em Three.js](#claude-opus-5-5-2103106070549757960)
+- [Animação em Three.js com qualidade de nível Pixar para o Grid Genius](#claude-opus-5-5-2103087766662009118)
+- [Jogo de ciclismo com pelicano em tempo real](#claude-opus-5-5-2103083781490176212)
+- [Crie uma cidade imperial](#claude-opus-5-5-2103046279253168554)
+- [Crie um Bugatti Chiron Super Sport no Three.js](#claude-opus-5-5-2102828216289566725)
 - [Montagem de treinamento da evolução do Claude](#claude-opus-5-5-2102788371114246177)
 - [Crie uma animação de desenho dos anos 90, com qualidade Pixar, em Three.js](#claude-opus-5-5-2102788223835463902)
 - [Animação codificada e contínua do ciclo da água](#claude-opus-5-5-2102781807179735211)
@@ -48,6 +56,328 @@
 - [Ilha pré-histórica 3D interativa](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### Respiro: um curta-metragem em uma catedral repleta de luz de vitrais
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · Animação
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="Respiro: um curta-metragem em uma catedral repleta de luz de vitrais"></a>
+
+**Prompt**
+
+```text
+Crie em three.js um curta-metragem vertical de 1080×1920, a 30 quadros por segundo, com aproximadamente 36 segundos. 
+
+【Nome da obra】
+Respiro
+
+【Experiência desejada】
+Este vídeo deve fazer o espectador sentir, sem a aparição de nenhum personagem, como é perder tempo ao ser pressionado pela busca por eficiência e como a vida se enche de uma luz abundante no instante em que se conquista espaço para respirar. No final, o objetivo é provocar um suspiro diante da luz dos vitrais que surge por todo o piso.
+
+【Cenário】
+・Interior de uma catedral de pedra pouco iluminada. Na parede frontal, há apenas uma janela em arco ogival, com 15 m de altura e 10 m de largura
+・Do lado de fora da janela, uma luz intensa incide em um ângulo de 45 graus, projetando no piso de pedra uma forma luminosa com o contorno da janela
+・A janela contém um vitral com a Virgem Maria ao centro, dois anjos com as asas abertas nas laterais e uma rosácea na parte superior. O design deve ser original, sem imitar obras existentes, e ter uma composição simétrica
+
+【Estrutura temporal】
+0 a 3 segundos: a luz que entra pela janela ainda é branca e sem cor. Uma forma suave de luz branca aparece no piso
+3 a 11 segundos: cubos cinza com palavras gravadas, como “Ocupado”, “Eficiência”, “Urgente” e “Prazo”, voam um após o outro da parte dianteira da sala e vão preenchendo a janela. O ritmo dos voos acelera cada vez mais; à medida que a janela é bloqueada, a sala escurece
+11 a 14 segundos: a janela fica completamente bloqueada; escuridão e silêncio
+14 a 19 segundos: um único bloco com a palavra “Ocupado” se solta da janela, cai e desaparece transformando-se em partículas de luz. Um feixe de luz de cores vibrantes entra pelo espaço vazio
+19 a 26 segundos: começando pelo primeiro espaço aberto, os blocos se soltam em cadeia. A cada novo espaço, surgem mais colunas de luz multicoloridas, e o vitral oculto vai aparecendo aos poucos
+26 a 33 segundos: todos os blocos desaparecem, e a câmera atravessa as colunas de luz, sobe e passa a observar o piso diretamente de cima. Por toda a superfície, o vitral da Virgem Maria e dos anjos aparece projetado como uma luz de cores vibrantes
+33 a 36 segundos: a tela inteira é envolvida por uma luz ofuscante, a última frase surge e o vídeo termina em silêncio
+
+【Textos (em uma fonte serifada, surgindo e desaparecendo de forma discreta)】
+・“Todo dia, mais rápido.”
+・“Com ainda mais eficiência.”
+・“Quando percebi, a luz já não entrava mais.”
+・“Vou abrir mão de uma coisa.”
+・“A luz entra por onde há espaço.”
+・“Essa luz era mais abundante do que antes.”
+・No final, em destaque: “A riqueza mora no respiro”
+
+【Luz e textura】
+・As colunas de luz assumem as cores do vitral em suas respectivas posições, e a poeira suspensa no ar cintila
+・A projeção no piso deve refletir com precisão quais partes da janela estão abertas (os locais ocupados por blocos ficam na sombra)
+・Os blocos têm um acabamento cinza fosco e inorgânico. As palavras são gravadas em branco
+・A primeira metade deve ser fria e sem cores; a segunda, em vermelho, azul e dourado com aspecto de pedras preciosas. O contraste entre essas cores deve comunicar que tudo se tornou mais abundante
+
+【Requisitos técnicos】
+・Gere a arte do vitral como uma imagem e calcule o brilho no piso, as colunas de luz e a exibição na janela a partir dessa mesma arte, garantindo que tudo coincida
+・Avance o tempo com precisão de 1/30 de segundo, exportando cada quadro individualmente para gerar um MP4
+
+【Finalização】
+Renderize e verifique cada cena de verdade. Antes de entregar, corrija o que for necessário para garantir que a arte do vitral possa ser reconhecida no piso como a Virgem Maria e os anjos, que os textos estejam legíveis e que os movimentos não pareçam bruscos.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103145567945986461) · [Publicação original](https://x.com/AGIOyaZ/status/2103145567945986461) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### Jogo no estilo de Genshin Impact ambientado em San Francisco
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · Jogos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Jogo no estilo de Genshin Impact ambientado em San Francisco"></a>
+
+**Prompt**
+
+```text
+Crie um jogo no estilo de Genshin Impact ambientado em San Francisco.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103144530157687114) · [Publicação original](https://x.com/every/status/2103144530157687114) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### Filme cinematográfico: Batalha de Austerlitz
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · Animação
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="Filme cinematográfico: Batalha de Austerlitz"></a>
+
+**Imagens de referência:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**Prompt**
+
+```text
+Crie um vídeo cinematográfico de 4 a 5 minutos sobre a Batalha de Austerlitz (1805), desenvolvido inteiramente com código.
+
+Pesquise a batalha a fundo e decida por conta própria como contar a história, estruturar o ritmo, explicar a estratégia e visualizar os acontecimentos. Quero que seja historicamente preciso, dramático, fácil de entender e visualmente excepcional.
+
+Use as pinturas anexadas como inspiração visual, não como uma exigência rígida de estilo. Adoro a escala, a atmosfera, a fumaça, os céus dramáticos, a cavalaria, as formações compactas, a paisagem e a sensação de caos presentes nelas. Encontre uma maneira de traduzir essa sensação para o código — mas, se conseguir inventar uma linguagem visual ainda mais marcante, faça isso.
+
+Não deixe que pareça um infográfico genérico ou um jogo de estratégia. Deve transmitir a sensação de um filme histórico cinematográfico que, por acaso, foi renderizado com código.
+
+Você tem total liberdade criativa. Surpreenda-me.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103116235009347650) · [Publicação original](https://x.com/WinterArc2125/status/2103116689944502720) · [Código-fonte](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### Crie a Torre Eiffel em Three.js
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · Recursos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="Crie a Torre Eiffel em Three.js"></a>
+
+**Prompt**
+
+```text
+crie a Torre Eiffel em Three.js.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103106070549757960) · [Publicação original](https://x.com/0xPascual/status/2103106070549757960) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Animação em Three.js com qualidade de nível Pixar para o Grid Genius
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · Animação
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Animação em Three.js com qualidade de nível Pixar para o Grid Genius"></a>
+
+**Prompt**
+
+```text
+Quero que você imagine uma história que promova sutilmente o Grid Genius. Ela também pode nem mencionar o Grid Genius, desde que esteja alinhada ao nosso app e nos ajude a alcançar mais pessoas quando for publicada nas redes sociais. Depois, usando Three.js/JavaScript, quero que você crie uma animação completa, com qualidade de nível Pixar, baseada na história que imaginou.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103087766662009118) · [Publicação original](https://x.com/Anilraok/status/2103087766662009118) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### Jogo de ciclismo com pelicano em tempo real
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · Jogos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="Jogo de ciclismo com pelicano em tempo real"></a>
+
+**Prompt**
+
+```text
+Crie um jogo 3D em tempo real em que um pelicano pedala por um mundo litorâneo vivo, com física, ondas, pesca, clima dinâmico, câmeras cinematográficas, piloto automático e música adaptativa.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103083781490176212) · [Publicação original](https://x.com/code_hiyouga/status/2103083781490176212) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### Crie uma cidade imperial
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · Cenas
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="Crie uma cidade imperial"></a>
+
+**Prompt**
+
+```text
+CRIE UMA CIDADE IMPERIAL
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2103046279253168554) · [Publicação original](https://x.com/Enzoxbt01/status/2103046279253168554) · [Voltar aos exemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### Crie um Bugatti Chiron Super Sport no Three.js
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · Recursos
+
+<a href="https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="Crie um Bugatti Chiron Super Sport no Three.js"></a>
+
+**Prompt**
+
+```text
+crie um Bugatti Chiron Super Sport no Three.js.
+
+Sem modelo 3D. Sem texturas. Sem assets.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[Ver detalhes ↗](https://www.tripo3d.ai/pt/3d-prompts/claude-opus-5-5-2102828216289566725) · [Publicação original](https://x.com/srikanthvaluri/status/2102828216289566725) · [Voltar aos exemplos](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102788371114246177"></a>
 
 ### Montagem de treinamento da evolução do Claude

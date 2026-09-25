@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-**18 Ví dụ · 14 🌐**
+**26 Ví dụ · 14 🌐**
 
 [Theo danh mục](#categories) · [Theo mô hình](#models) · [Mã nguồn](with-code.md) · [1](../docs/catalog.vi.1.md)
 
@@ -31,20 +31,30 @@
 
 <a id="category-games"></a>
 
-### Trò chơi · 3
+### Trò chơi · 5
 
+- [Game phong cách Genshin Impact lấy bối cảnh San Francisco](../docs/catalog.vi.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Trò chơi đạp xe thời gian thực với bồ nông](../docs/catalog.vi.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm](../docs/catalog.vi.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit](../docs/catalog.vi.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Thế giới Three.js vô tận được tạo thủ tục](../docs/catalog.vi.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### Bối cảnh · 4
+### Bối cảnh · 5
 
+- [Xây dựng thành phố đế quốc](../docs/catalog.vi.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [bài benchmark đại đô thị cyberpunk The Last Train](../docs/catalog.vi.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Bản render 3D sân bóng ném 360 độ từ hình ảnh](../docs/catalog.vi.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh](../docs/catalog.vi.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn](../docs/catalog.vi.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+
+<a id="category-3d-assets"></a>
+
+### Tài nguyên 3D · 2
+
+- [Dựng tháp Eiffel bằng Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Dựng Bugatti Chiron Super Sport bằng Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
 <a id="category-interactive-3d"></a>
 
@@ -56,8 +66,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Hoạt ảnh · 8
+### Hoạt ảnh · 11
 
+- [Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu](../docs/catalog.vi.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Phim điện ảnh về Trận Austerlitz](../docs/catalog.vi.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius](../docs/catalog.vi.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
 - [Montage huấn luyện quá trình phát triển của Claude](../docs/catalog.vi.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Hoạt ảnh chu trình nước lập trình liền mạch](../docs/catalog.vi.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -73,8 +86,16 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 18
+### Claude Opus 5.5 · 26
 
+- [Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu](../docs/catalog.vi.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Game phong cách Genshin Impact lấy bối cảnh San Francisco](../docs/catalog.vi.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Phim điện ảnh về Trận Austerlitz](../docs/catalog.vi.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Dựng tháp Eiffel bằng Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius](../docs/catalog.vi.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
+- [Trò chơi đạp xe thời gian thực với bồ nông](../docs/catalog.vi.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
+- [Xây dựng thành phố đế quốc](../docs/catalog.vi.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
+- [Dựng Bugatti Chiron Super Sport bằng Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 - [Montage huấn luyện quá trình phát triển của Claude](../docs/catalog.vi.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Hoạt ảnh chu trình nước lập trình liền mạch](../docs/catalog.vi.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)

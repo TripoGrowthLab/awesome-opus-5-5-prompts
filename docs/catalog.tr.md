@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**18 Örnekler · 14 🌐**
+**26 Örnekler · 14 🌐**
 
 [Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md)
 
@@ -31,20 +31,30 @@
 
 <a id="category-games"></a>
 
-### Oyunlar · 3
+### Oyunlar · 5
 
+- [San Francisco'da geçen Genshin Impact tarzı oyun](../docs/catalog.tr.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Gerçek zamanlı pelikan bisiklet oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: Gece şehrinde ilerleyen 3B yandan kaydırmalı kedi oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
 - [Sonsuz, prosedürel olarak oluşturulan Three.js dünyası](../docs/catalog.tr.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### Sahneler · 4
+### Sahneler · 5
 
+- [İmparatorluk Şehri Oluştur](../docs/catalog.tr.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Son Tren siberpunk mega kent benchmark’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Bir görselden prosedürel Three.js 3B ana menü arka planı](../docs/catalog.tr.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Gün batımında sinematik, etkileşimli korsan gemisi](../docs/catalog.tr.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+
+<a id="category-3d-assets"></a>
+
+### Varlıklar · 2
+
+- [Three.js ile Eyfel Kulesi oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Three.js'te Bugatti Chiron Super Sport oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
 <a id="category-interactive-3d"></a>
 
@@ -56,8 +66,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animasyon · 8
+### Animasyon · 11
 
+- [Boşluk: Vitray ışığıyla dolan katedralde kısa film](../docs/catalog.tr.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [Austerlitz Muharebesi: Sinematik Film](../docs/catalog.tr.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Grid Genius için Pixar kalitesinde Three.js animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
 - [Claude gelişim montajı](../docs/catalog.tr.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Three.js'te Pixar kalitesinde 90'lar çizgi film animasyonu oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Kodla oluşturulmuş kesintisiz su döngüsü animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
@@ -73,8 +86,16 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 18
+### Claude Opus 5.5 · 26
 
+- [Boşluk: Vitray ışığıyla dolan katedralde kısa film](../docs/catalog.tr.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
+- [San Francisco'da geçen Genshin Impact tarzı oyun](../docs/catalog.tr.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
+- [Austerlitz Muharebesi: Sinematik Film](../docs/catalog.tr.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
+- [Three.js ile Eyfel Kulesi oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
+- [Grid Genius için Pixar kalitesinde Three.js animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
+- [Gerçek zamanlı pelikan bisiklet oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
+- [İmparatorluk Şehri Oluştur](../docs/catalog.tr.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
+- [Three.js'te Bugatti Chiron Super Sport oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 - [Claude gelişim montajı](../docs/catalog.tr.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Three.js'te Pixar kalitesinde 90'lar çizgi film animasyonu oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Kodla oluşturulmuş kesintisiz su döngüsü animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)

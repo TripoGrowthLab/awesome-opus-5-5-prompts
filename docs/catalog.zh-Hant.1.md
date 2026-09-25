@@ -26,8 +26,16 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>瀏覽案例 (18)</summary>
+<summary>瀏覽案例 (26)</summary>
 
+- [留白：充滿彩繪玻璃光芒的大教堂短片](#claude-opus-5-5-2103145567945986461)
+- [《原神》風格的舊金山背景遊戲](#claude-opus-5-5-2103144530157687114)
+- [奧斯特里茲戰役電影](#claude-opus-5-5-2103116235009347650)
+- [使用 Three.js 建立艾菲爾鐵塔](#claude-opus-5-5-2103106070549757960)
+- [Grid Genius 的 Pixar 級 Three.js 動畫](#claude-opus-5-5-2103087766662009118)
+- [即時 3D 鵜鶘騎車遊戲](#claude-opus-5-5-2103083781490176212)
+- [打造帝國城市](#claude-opus-5-5-2103046279253168554)
+- [使用 Three.js 建立 Bugatti Chiron Super Sport](#claude-opus-5-5-2102828216289566725)
 - [Claude 成長訓練蒙太奇](#claude-opus-5-5-2102788371114246177)
 - [使用 Three.js 製作皮克斯等級的 90 年代卡通動畫](#claude-opus-5-5-2102788223835463902)
 - [無縫程式碼水循環動畫](#claude-opus-5-5-2102781807179735211)
@@ -48,6 +56,328 @@
 - [互動式 3D 史前島嶼](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### 留白：充滿彩繪玻璃光芒的大教堂短片
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="../assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="留白：充滿彩繪玻璃光芒的大教堂短片"></a>
+
+**提示詞**
+
+```text
+請使用 three.js 製作一部直式 1080×1920、每秒 30 幀、約 36 秒的短片。
+
+【作品名稱】
+留白
+
+【希望帶來的體驗】
+這是一部完全不出現人物的影片，讓觀眾感受到被效率化追著跑、逐漸失去時間的感覺，以及在獲得留白的瞬間，人生被豐饒光芒填滿的感覺。最後，彩繪玻璃的光在整片地板上浮現，目標是讓觀眾不禁屏息。
+
+【場景】
+・昏暗的石造大教堂內部。正面牆上只有一扇高 15 公尺、寬 10 公尺的尖頂拱窗
+・強光從窗外以 45 度斜角照入，在石地板上投射出窗戶形狀的光影
+・窗戶嵌有彩繪玻璃，中央是聖母，兩側是展開雙翼的兩位天使，上方配置玫瑰窗。設計必須原創，不模仿任何既有作品，並採用左右對稱的構圖
+
+【時間結構】
+0～3 秒：從窗戶照入的光仍是沒有色彩的白光。地板上形成柔和的白色光影
+3～11 秒：刻著「忙碌」、「效率化」、「急件」、「截止期限」等字樣的灰色立方體，從房間前方接連飛來，逐漸填滿窗戶。飛來的速度不斷加快，窗戶被填滿的同時，房間也越來越暗
+11～14 秒：窗戶完全被堵住，只剩黑暗與寂靜
+14～19 秒：只有一個刻著「忙碌」的方塊從窗戶脫落，墜下後化為光粒消失。鮮豔色彩的一道光從露出的缺口照入
+19～26 秒：以第一個缺口為中心，方塊接連脫落。每增加一個缺口，五彩繽紛的光柱也隨之增加，原本被遮住的彩繪玻璃逐漸顯現
+26～33 秒：所有方塊消失後，鏡頭穿過光柱向上升起，從正上方俯瞰地板。聖母與天使的彩繪玻璃圖樣，以色彩鮮明的光映照在整片地板上
+33～36 秒：整個畫面被耀眼光芒包圍，最後一句話浮現後，靜靜結束
+
+【文字（明朝體，低調地浮現又消失）】
+・「每天，再快一點。」
+・「再有效率一點。」
+・「回過神來，光已經照不進來了。」
+・「試著放下一件事。」
+・「光會從空出來的地方照進來。」
+・「那道光，比以前更加豐饒。」
+・最後以大字顯示：「豐饒，棲息於留白之中」
+
+【光線與質感】
+・光柱會染上彩繪玻璃對應位置的色彩，空氣中的塵埃閃閃發光
+・地板上的投影必須精確反映窗戶目前有哪些缺口（有方塊遮住的地方就形成陰影）
+・方塊呈無機質的霧面灰色，文字以白色刻印其上
+・前半段採冷色、無彩色調，後半段則使用寶石般的紅、藍、金色。透過這樣的色彩對比，傳達「變得更加豐饒」的感受
+
+【技術條件】
+・將彩繪玻璃圖樣生成为影像，地板上的光、光柱與窗戶顯示都必須從同一個圖樣計算，確保彼此一致
+・時間必須以 1/30 秒為單位精確推進，逐格輸出，再製成 MP4
+
+【收尾】
+請實際渲染並檢查每個場景，確認彩繪玻璃圖樣投射在地板上時，能辨識出聖母與天使、文字清晰可讀，且動作不會顯得突兀；修正完成後再交付。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103145567945986461) · [查看原文](https://x.com/AGIOyaZ/status/2103145567945986461) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### 《原神》風格的舊金山背景遊戲
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="../assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="《原神》風格的舊金山背景遊戲"></a>
+
+**提示詞**
+
+```text
+打造一款以舊金山為背景、採《原神》風格的遊戲。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103144530157687114) · [查看原文](https://x.com/every/status/2103144530157687114) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### 奧斯特里茲戰役電影
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="../assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="奧斯特里茲戰役電影"></a>
+
+**參考圖片:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+**提示詞**
+
+```text
+製作一部以 1805 年奧斯特里茲戰役為主題、長 4–5 分鐘的電影感影片，完全以程式碼打造。
+
+徹底研究這場戰役，並自行決定如何講述故事、安排節奏、解釋戰略，以及呈現事件。我希望作品符合史實、戲劇性十足、易於理解，並具備卓越的視覺表現。
+
+將隨附畫作作為視覺靈感，而非嚴格的風格要求。我喜歡其中的磅礴規模、氛圍、煙霧、戲劇性的天空、騎兵、密集陣形、地景，以及混亂感。想辦法將這種感受轉化為程式碼——但如果你能創造出更強烈的視覺語言，就放手去做。
+
+不要讓它看起來像一般的資訊圖表或策略遊戲。它應該是一部電影感十足的歷史電影，只是恰好以程式碼算繪而成。
+
+完全由你掌握創作方向。給我一個驚喜。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103116235009347650) · [查看原文](https://x.com/WinterArc2125/status/2103116689944502720) · [專案原始碼](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### 使用 Three.js 建立艾菲爾鐵塔
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="../assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="使用 Three.js 建立艾菲爾鐵塔"></a>
+
+**提示詞**
+
+```text
+在 Three.js 中建立艾菲爾鐵塔。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103106070549757960) · [查看原文](https://x.com/0xPascual/status/2103106070549757960) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Grid Genius 的 Pixar 級 Three.js 動畫
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="../assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Grid Genius 的 Pixar 級 Three.js 動畫"></a>
+
+**提示詞**
+
+```text
+我希望你構思一個能巧妙推廣 Grid Genius 的故事。或者故事中甚至不必出現 Grid Genius，但內容應與我們的應用程式定位一致，並協助我們發布到社群媒體時獲得更多關注。接著，請使用 Three.js／JavaScript，根據你構思的故事製作一部完整、具備 Pixar 級品質的動畫
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103087766662009118) · [查看原文](https://x.com/Anilraok/status/2103087766662009118) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### 即時 3D 鵜鶘騎車遊戲
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="../assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="即時 3D 鵜鶘騎車遊戲"></a>
+
+**提示詞**
+
+```text
+打造一款即時 3D 遊戲，讓鵜鶘騎著自行車穿越生動的海濱世界，完整呈現物理效果、海浪、釣魚、動態天氣、電影式鏡頭、自動駕駛與自適應音樂。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103083781490176212) · [查看原文](https://x.com/code_hiyouga/status/2103083781490176212) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### 打造帝國城市
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="../assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="打造帝國城市"></a>
+
+**提示詞**
+
+```text
+打造帝國城市
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2103046279253168554) · [查看原文](https://x.com/Enzoxbt01/status/2103046279253168554) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### 使用 Three.js 建立 Bugatti Chiron Super Sport
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · 資產
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="../assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="使用 Three.js 建立 Bugatti Chiron Super Sport"></a>
+
+**提示詞**
+
+```text
+使用 Three.js 建立 Bugatti Chiron Super Sport。
+
+不要使用 3D 模型。不要使用貼圖。不要使用素材。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102828216289566725) · [查看原文](https://x.com/srikanthvaluri/status/2102828216289566725) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102788371114246177"></a>
 
 ### Claude 成長訓練蒙太奇

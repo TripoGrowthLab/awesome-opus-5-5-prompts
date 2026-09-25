@@ -29,7 +29,7 @@
 
 来自真实作品的 Claude Opus 5.5 提示词，覆盖 Three.js 场景、浏览器游戏、动画与模拟。 每条案例保留作者与来源；先看效果，再复制提示词，改成自己的作品。
 
-**18 条案例 · 1 个模型 · 14 种语言**
+**26 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
 
 [开始使用](#start-here) · [按用途浏览](#browse) · [最新案例](#latest) · [完整目录](docs/catalog.zh.md) · [项目源码](docs/with-code.md)
 
@@ -47,16 +47,17 @@
 
 | 按用途浏览 | 案例 |
 | :--- | ---: |
-| [游戏](docs/catalog.zh.md#category-games) | 3 |
-| [场景](docs/catalog.zh.md#category-3d-scenes) | 4 |
+| [游戏](docs/catalog.zh.md#category-games) | 5 |
+| [场景](docs/catalog.zh.md#category-3d-scenes) | 5 |
+| [资产](docs/catalog.zh.md#category-3d-assets) | 2 |
 | [互动](docs/catalog.zh.md#category-interactive-3d) | 3 |
-| [动画](docs/catalog.zh.md#category-animation-simulation) | 8 |
+| [动画](docs/catalog.zh.md#category-animation-simulation) | 11 |
 
 ### 按模型浏览
 
 | 按模型浏览 | 案例 |
 | :--- | ---: |
-| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 18 |
+| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 26 |
 
 
 
@@ -64,7 +65,353 @@
 
 ## 最新案例
 
-[完整目录 (18) →](docs/catalog.zh.md)
+[完整目录 (26) →](docs/catalog.zh.md)
+
+<a id="claude-opus-5-5-2103145567945986461"></a>
+
+### 留白：充满彩色玻璃光线的大教堂短片
+
+[AGIおやZ](https://x.com/AGIOyaZ) · 2026-09-24 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103145567945986461"><img src="assets/previews/21e8cd44bab594bfcb4637bae28631fc3df9534d348f3771260283814c41ec77.webp" width="840" loading="lazy" alt="留白：充满彩色玻璃光线的大教堂短片"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+请使用 three.js 制作一部竖屏 1080×1920、30 帧/秒、时长约36秒的短片。
+
+【作品名】
+留白
+
+【希望呈现的体验】
+这是一部让观众在完全没有人物出现的情况下，切身感受到被效率化追赶、不断失去时间的压迫感，以及获得留白的瞬间，人生被丰沛光芒填满的感受的影像。最后，地面上铺满彩色玻璃映出的光影，目标是让观众不由得屏住呼吸。
+
+【场景】
+・昏暗的石造大教堂内部。正面墙上只有一扇高15米、宽10米的尖拱形窗户
+・强光从窗外以45度斜角射入，在石质地面上投下窗户形状的光影
+・窗户安装彩色玻璃，中央为圣母，两侧为展开双翼的两位天使，上方设有玫瑰窗。设计必须原创，不得仿制现有作品，并采用左右对称构图
+
+【时间结构】
+0～3秒：从窗户射入的光线仍是没有色彩的白光。地面上出现柔和的白色光影
+3～11秒：刻有“忙碌”“效率化”“紧急”“截止日期”等词语的灰色立方体，从房间前方接连飞来，逐渐填满窗户。飞来的速度不断加快，窗户被填得越满，房间就越暗
+11～14秒：窗户被完全堵住，只剩黑暗与寂静
+14～19秒：只有一个刻着“忙碌”的方块从窗户上脱落，坠下后化为光粒消失。一束鲜艳的彩色光线从空出的缺口射入
+19～26秒：以第一个缺口为中心，方块接连脱落。缺口每增加一个，彩色光柱也随之增多，被遮挡的彩色玻璃逐渐显露出来
+26～33秒：所有方块消失，镜头穿过光柱向上升起，从正上方俯视地面。整片地面上映出圣母与天使彩色玻璃般绚丽多彩的光影
+33～36秒：整个画面被耀眼的光芒包围，最后一句话浮现，随后安静地结束
+
+【文字（明朝体，低调地浮现后消失）】
+・“每天，再快一点。”
+・“再高效一点。”
+・“回过神时，光已经照不进来了。”
+・“试着放下一个吧。”
+・“光会从空出来的地方照进来。”
+・“那道光，比从前更加丰盈。”
+・最后大字显示：“丰盛，栖居于留白之中”
+
+【光线与质感】
+・光柱染上彩色玻璃对应区域的色彩，空中的尘埃闪闪发光
+・地面投影必须准确反映窗户当前打开的缺口（有方块的位置应呈现阴影）
+・方块采用没有质感的哑光灰色，文字以白色刻印其上
+・前半段使用冰冷的无彩色调，后半段使用宝石般的红、蓝、金色。通过色彩对比传达“变得更加丰盛”的感觉
+
+【技术条件】
+・将彩色玻璃图案生成为图像，并基于同一图案计算地面光影、光柱和窗户显示内容，确保三者一致
+・让时间以1/30秒为步进精确推进，逐帧导出并制作成MP4
+
+【收尾】
+请实际渲染并检查每个场景，确认彩色玻璃图案投射到地面后仍能辨认出圣母与天使、文字清晰可读、动作衔接不突兀，修正后再交付。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+three.jsで、縦長1080×1920・30コマ/秒・約36秒の短編映像を作ってください。
+
+【作品名】
+余白
+
+【見せたい体験】
+効率化に追われて時間を失っていく感覚と、余白を手に入れた瞬間に人生が豊かな光で満たされていく感覚を、人物を一切登場させずに体感させる映像です。最後に床一面に浮かび上がるステンドグラスの光で、見た人が思わず息をのむことを目指します。
+
+【舞台】
+・薄暗い石造りの大聖堂の内部。正面の壁に、高さ15m・幅10mの尖頭アーチ型の窓が一つだけある
+・窓の外からは、斜め45度の角度で強い光が差し込み、石の床に窓の形の光を落としている
+・窓には、中央に聖母、両脇に翼を広げた二人の天使、上部にバラ窓を配したステンドグラスがはまっている。デザインは既存の作品を模さずオリジナルで、左右対称の構図にする
+
+【時間の構成】
+0〜3秒：窓から差す光は、まだ色のない白い光。床にやわらかな白い光の形
+3〜11秒：「忙しい」「効率化」「至急」「締切」などの言葉が刻まれた灰色の立方体が、部屋の手前から次々と飛んできて窓を埋めていく。飛来のペースはどんどん加速し、窓が埋まるほど部屋は暗くなる
+11〜14秒：窓は完全にふさがれ、闇と静寂
+14〜19秒：「忙しい」のブロックが一つだけ窓から外れて落ち、光の粒になって消える。空いた穴から、鮮やかな色の一筋の光が差し込む
+19〜26秒：最初の穴を中心に、ブロックが連鎖的に外れていく。穴が増えるたびに色とりどりの光の柱が増え、隠れていたステンドグラスが少しずつ姿を現す
+26〜33秒：すべてのブロックが消え、カメラは光の柱をくぐり抜けて上昇し、真上から床を見下ろす。床一面に、聖母と天使のステンドグラスが色鮮やかな光として映し出されている
+33〜36秒：画面全体がまばゆい光に包まれ、最後の言葉が浮かび、静かに終わる
+
+【言葉（明朝体、控えめに浮かんでは消える）】
+・「毎日、もっと速く。」
+・「もっと、効率よく。」
+・「気づけば、光が入らなくなっていた。」
+・「ひとつ、手放してみる。」
+・「空いたところから、光が入る。」
+・「その光は、前より豊かだった。」
+・最後に大きく：「豊かさは余白に宿る」
+
+【光と質感】
+・光の柱は、ステンドグラスのその場所の色に染まり、空中の塵がきらめく
+・床の投影は、窓のどの穴が空いているかを正確に反映する（ブロックがある場所は影になる）
+・ブロックは無機質なマットグレー。言葉は白く刻印されている
+・前半は冷たく無彩色、後半は宝石のような赤・青・金。この色の対比で「豊かになった」ことを語る
+
+【技術条件】
+・ステンドグラスの絵柄は画像として生成し、床の光・光の柱・窓の表示はすべて同じ絵柄から計算して一致させる
+・時間を1/30秒ずつ正確に進めて1コマずつ書き出し、MP4にする
+
+【仕上げ】
+各場面を実際に描画して確認し、ステンドグラスの絵柄が床の上で聖母と天使として読み取れるか、言葉が読めるか、動きが唐突でないかを直してから渡してください。
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103145567945986461) · [查看原帖](https://x.com/AGIOyaZ/status/2103145567945986461) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2103144530157687114"></a>
+
+### Genshin Impact 风格的旧金山背景游戏
+
+[Every 📧](https://x.com/every) · 2026-09-24 · Claude Opus 5.5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103144530157687114"><img src="assets/previews/548066fe72f4ba94404df3c54f87a9dc1a6881bc8fddf5ef744d5eedd7f7de1b.webp" width="840" loading="lazy" alt="Genshin Impact 风格的旧金山背景游戏"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+构建一款以旧金山为背景的 Genshin Impact 风格游戏。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build a Genshin Impact–style game set in San Francisco.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103144530157687114) · [查看原帖](https://x.com/every/status/2103144530157687114) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2103116235009347650"></a>
+
+### 电影化呈现：奥斯特里茨战役
+
+[Winter](https://x.com/WinterArc2125) · 2026-09-24 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103116235009347650"><img src="assets/previews/806d3e945bb2140845be5bc018f9f07e8fe19f7d0e9a6a0600982f28343fdc8e.webp" width="840" loading="lazy" alt="电影化呈现：奥斯特里茨战役"></a>
+
+**参考图片:** [1](https://media.tripogrowth.space/media/9420c404-1c47-48c2-a7ec-1b5dfdc1f057.jpg) · [2](https://media.tripogrowth.space/media/0e238466-f725-44b7-8cd2-dc436c9e66c2.jpg) · [3](https://pbs.twimg.com/media/HS_FTwwXcAIpMjc.jpg) · [4](https://pbs.twimg.com/media/HS_FWGXXUAA5LrJ.jpg)
+
+<details>
+<summary>提示词</summary>
+
+```text
+制作一部关于 1805 年奥斯特里茨战役、时长 4–5 分钟的电影化视频，完全通过代码生成。
+
+深入研究这场战役，自行决定如何讲述故事、安排节奏、解释战略并呈现事件。我希望作品符合史实、充满戏剧性、易于理解，并在视觉上出类拔萃。
+
+将所附画作作为视觉灵感，而不是必须遵循的严格风格。我很喜欢其中的规模感、氛围、烟雾、戏剧化天空、骑兵、密集军阵、地景以及混乱感。设法将这种感受转化为代码中的视觉效果——但如果你能创造出更出色的视觉语言，就放手去做。
+
+不要让它看起来像普通的信息图或策略游戏。它应该是一部电影化的历史影片，只是恰好通过代码渲染完成。
+
+创作方向完全由你掌控。给我一个惊喜。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create a 4–5 minute cinematic video about the Battle of Austerlitz (1805), built entirely in code.
+
+Research the battle thoroughly and decide for yourself how to tell the story, structure the pacing, explain the strategy, and visualize the events. I want it to be historically accurate, dramatic, easy to understand, and visually exceptional.
+
+Use the attached paintings as visual inspiration, not a strict style requirement. I love their scale, atmosphere, smoke, dramatic skies, cavalry, massed formations, landscape, and sense of chaos. Find a way to translate that feeling into code — but if you can invent a stronger visual language, do it.
+
+Don't make it feel like a generic infographic or strategy game. It should feel like a cinematic historical film that happens to be rendered with code.
+
+You have complete creative control. Surprise me.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103116235009347650) · [查看原帖](https://x.com/WinterArc2125/status/2103116689944502720) · [项目源码](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2103106070549757960"></a>
+
+### 使用 Three.js 构建埃菲尔铁塔
+
+[Pascual ⚡](https://x.com/0xPascual) · 2026-09-24 · Claude Opus 5.5 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103106070549757960"><img src="assets/previews/068bfd13735c1730b0375570824827bb0f3bf2f57e3b6f2b497d25641efb8365.webp" width="840" loading="lazy" alt="使用 Three.js 构建埃菲尔铁塔"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+使用 Three.js 构建埃菲尔铁塔。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+build the Eiffel Tower in Three.js.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103106070549757960) · [查看原帖](https://x.com/0xPascual/status/2103106070549757960) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2103087766662009118"></a>
+
+### Grid Genius 的皮克斯级 Three.js 动画
+
+[Anil Rao K](https://x.com/Anilraok) · 2026-09-24 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103087766662009118"><img src="assets/previews/85efb954ea51ad5d1906f764437209646c1f33c6d2ff031953add1bb2c03e8ce.webp" width="840" loading="lazy" alt="Grid Genius 的皮克斯级 Three.js 动画"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+我希望你构思一个能够巧妙推广 Grid Genius 的故事。故事甚至可以完全不出现 Grid Genius，但需要与我们的应用理念一致，并且发布到社交媒体后能帮助我们获得更多关注。然后，请使用 Three.js/JavaScript，根据你构思的故事制作一部完整的动画，达到皮克斯级别的质量。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+I want you to imagine a story, that subtly promotes grid genius. Or it can not even have grid genius, but something that aligns with our app and helps us get more eyeballs when posted on social media. Then using threejs/javascript I want you to create full animation, Pixar-level quality out of the story you imagine
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103087766662009118) · [查看原帖](https://x.com/Anilraok/status/2103087766662009118) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2103083781490176212"></a>
+
+### 实时鹈鹕骑行游戏
+
+[Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga) · 2026-09-24 · Claude Opus 5.5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103083781490176212"><img src="assets/previews/5dafdceefe90e19a95ef5ea5954d682307c9fbfc144966bbfdf20c8332772db6.webp" width="840" loading="lazy" alt="实时鹈鹕骑行游戏"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+构建一款实时 3D 游戏：玩家操控一只鹈鹕骑车穿行于充满生机的海滨世界，游戏需包含物理效果、海浪、钓鱼、动态天气、电影化镜头、自动驾驶和自适应音乐。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build a real-time 3D game where a pelican cycles through a living seaside world, complete with physics, waves, fishing, dynamic weather, cinematic cameras, autopilot, and adaptive music.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103083781490176212) · [查看原帖](https://x.com/code_hiyouga/status/2103083781490176212) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2103046279253168554"></a>
+
+### 打造一座帝国城市
+
+[EnzoXbt](https://x.com/Enzoxbt01) · 2026-09-24 · Claude Opus 5.5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103046279253168554"><img src="assets/previews/8487045c0c7e7a13ccb3f03bb28d24961fc5c0d314d965d912b7a1150392b158.webp" width="840" loading="lazy" alt="打造一座帝国城市"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+打造一座帝国城市
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+BUILD AN IMPERIAL CITY
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2103046279253168554) · [查看原帖](https://x.com/Enzoxbt01/status/2103046279253168554) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2102828216289566725"></a>
+
+### 在 Three.js 中构建布加迪 Chiron Super Sport
+
+[Sree](https://x.com/srikanthvaluri) · 2026-09-23 · Claude Opus 5.5 · 资产
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102828216289566725"><img src="assets/previews/b22691f63e301fe831e6213b30e1a616ad0068d66b7f29bf300a0a297e07e500.webp" width="840" loading="lazy" alt="在 Three.js 中构建布加迪 Chiron Super Sport"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+在 Three.js 中构建布加迪 Chiron Super Sport。
+
+不使用 3D 模型。不使用纹理。不使用资源。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+build a Bugatti Chiron Super Sport in Three.js.
+
+No 3D model. No textures. No assets.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102828216289566725) · [查看原帖](https://x.com/srikanthvaluri/status/2102828216289566725) · [返回案例导航](#latest)
+
+---
 
 <a id="claude-opus-5-5-2102788371114246177"></a>
 
@@ -989,7 +1336,7 @@ Build a complete scene, not a mockup. Test the final HTML directly in a desktop 
 ---
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 18 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 26 条案例与在线演示 →</a></strong></p>
 
 ## 给你的作品补上角色和道具
 

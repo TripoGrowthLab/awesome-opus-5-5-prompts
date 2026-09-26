@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**26 作例 · 14 🌐**
+**33 作例 · 14 🌐**
 
 [カテゴリで探す](#categories) · [モデルで探す](#models) · [ソースコード](with-code.md) · [1](../docs/catalog.ja.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### ゲーム · 5
+### ゲーム · 6
 
+- [WebGL2サンドボックスサバイバルゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [サンフランシスコを舞台にした『原神』風ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [リアルタイムのペリカン自転車ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk：夜の街を駆ける3D横スクロール猫ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
@@ -58,16 +59,22 @@
 
 <a id="category-interactive-3d"></a>
 
-### インタラクティブ · 3
+### インタラクティブ · 6
 
+- [3D五重塔を探索](../docs/catalog.ja.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [自由に歩き回れる3Dアニメ調の桜の町](../docs/catalog.ja.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Claude Opus 5.5のインタラクティブな中世王国](../docs/catalog.ja.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [想像上の惑星を扱うインタラクティブなウェブサイト](../docs/catalog.ja.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [日本の桜の谷を描くインタラクティブ3D景観Webページ](../docs/catalog.ja.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [インタラクティブな3D先史時代の島](../docs/catalog.ja.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### アニメーション · 11
+### アニメーション · 14
 
+- [ダイナミックな15秒のモーションデザイン・ショーリール](../docs/catalog.ja.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [人生のサイクルを描くモーショングラフィックスアニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [インタラクティブ3D海上ロケット打ち上げシーケンス](../docs/catalog.ja.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
 - [余白：ステンドグラスの光が満ちる大聖堂の短編映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [アウステルリッツの戦いを描くシネマティック映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
 - [Grid Genius向けのピクサー級Three.jsアニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
@@ -86,8 +93,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 26
+### Claude Opus 5.5 · 33
 
+- [ダイナミックな15秒のモーションデザイン・ショーリール](../docs/catalog.ja.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [WebGL2サンドボックスサバイバルゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
+- [3D五重塔を探索](../docs/catalog.ja.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [自由に歩き回れる3Dアニメ調の桜の町](../docs/catalog.ja.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [人生のサイクルを描くモーショングラフィックスアニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [インタラクティブ3D海上ロケット打ち上げシーケンス](../docs/catalog.ja.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
+- [Claude Opus 5.5のインタラクティブな中世王国](../docs/catalog.ja.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [余白：ステンドグラスの光が満ちる大聖堂の短編映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [サンフランシスコを舞台にした『原神』風ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [アウステルリッツの戦いを描くシネマティック映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub

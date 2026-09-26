@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**26 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
+**33 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
 
 [按用途浏览](#categories) · [按模型浏览](#models) · [项目源码](with-code.md) · [1](../docs/catalog.zh.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 游戏 · 5
+### 游戏 · 6
 
+- [WebGL2 沙盒生存游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Genshin Impact 风格的旧金山背景游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [实时鹈鹕骑行游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk：奔跑在夜色街头的 3D 横版猫咪游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
@@ -58,16 +59,22 @@
 
 <a id="category-interactive-3d"></a>
 
-### 互动 · 3
+### 互动 · 6
 
+- [探索三维宝塔](../docs/catalog.zh.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [可自由行走的动漫风樱花小镇 3D 场景](../docs/catalog.zh.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Claude Opus 5.5 的互动中世纪王国](../docs/catalog.zh.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [虚构行星互动网站](../docs/catalog.zh.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [日式樱花山谷交互式 3D 景观网页](../docs/catalog.zh.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [交互式 3D 史前岛屿](../docs/catalog.zh.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### 动画 · 11
+### 动画 · 14
 
+- [动态 15 秒动效作品集短片](../docs/catalog.zh.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [生命循环动态设计动画](../docs/catalog.zh.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [交互式 3D 海上火箭发射序列](../docs/catalog.zh.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
 - [留白：充满彩色玻璃光线的大教堂短片](../docs/catalog.zh.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [电影化呈现：奥斯特里茨战役](../docs/catalog.zh.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
 - [Grid Genius 的皮克斯级 Three.js 动画](../docs/catalog.zh.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
@@ -86,8 +93,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 26
+### Claude Opus 5.5 · 33
 
+- [动态 15 秒动效作品集短片](../docs/catalog.zh.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [WebGL2 沙盒生存游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
+- [探索三维宝塔](../docs/catalog.zh.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [可自由行走的动漫风樱花小镇 3D 场景](../docs/catalog.zh.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [生命循环动态设计动画](../docs/catalog.zh.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [交互式 3D 海上火箭发射序列](../docs/catalog.zh.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
+- [Claude Opus 5.5 的互动中世纪王国](../docs/catalog.zh.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [留白：充满彩色玻璃光线的大教堂短片](../docs/catalog.zh.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [Genshin Impact 风格的旧金山背景游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [电影化呈现：奥斯特里茨战役](../docs/catalog.zh.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
@@ -116,4 +130,4 @@
 - [交互式 3D 史前岛屿](../docs/catalog.zh.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 26 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 33 条案例与在线演示 →</a></strong></p>

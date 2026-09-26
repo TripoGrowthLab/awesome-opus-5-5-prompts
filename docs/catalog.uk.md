@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**26 Приклади · 14 🌐**
+**33 Приклади · 14 🌐**
 
 [За категоріями](#categories) · [За моделями](#models) · [Вихідний код](with-code.md) · [1](../docs/catalog.uk.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Ігри · 5
+### Ігри · 6
 
+- [WebGL2-гра у жанрі «пісочниця» на виживання](../docs/catalog.uk.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Гра в стилі Genshin Impact у Сан-Франциско](../docs/catalog.uk.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Гра про пелікана-велосипедиста в реальному часі](../docs/catalog.uk.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: 3D-гра про кота, який мчить нічним містом у сайд-скролері](../docs/catalog.uk.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
@@ -58,16 +59,22 @@
 
 <a id="category-interactive-3d"></a>
 
-### Інтерактив · 3
+### Інтерактив · 6
 
+- [Навігація 3D-пагодою](../docs/catalog.uk.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [Вільне дослідження 3D-містечка з сакурами в аніме-стилі](../docs/catalog.uk.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Інтерактивне середньовічне королівство для Claude Opus 5.5](../docs/catalog.uk.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Інтерактивний вебсайт про вигадані планети](../docs/catalog.uk.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Інтерактивний 3D-ландшафт японської сакурової долини](../docs/catalog.uk.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Інтерактивний 3D-острів доісторичної епохи](../docs/catalog.uk.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Анімація · 11
+### Анімація · 14
 
+- [Динамічний 15-секундний шоуріл із моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [Моушн-графічна анімація «Життєвий цикл»](../docs/catalog.uk.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [Інтерактивна 3D-послідовність запуску ракети над океаном](../docs/catalog.uk.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
 - [Простір: короткометражне відео собору, наповненого світлом вітражів](../docs/catalog.uk.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [Кінематографічний фільм про битву під Аустерліцем](../docs/catalog.uk.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
 - [Анімація рівня Pixar у Three.js для Grid Genius](../docs/catalog.uk.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
@@ -86,8 +93,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 26
+### Claude Opus 5.5 · 33
 
+- [Динамічний 15-секундний шоуріл із моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [WebGL2-гра у жанрі «пісочниця» на виживання](../docs/catalog.uk.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
+- [Навігація 3D-пагодою](../docs/catalog.uk.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [Вільне дослідження 3D-містечка з сакурами в аніме-стилі](../docs/catalog.uk.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Моушн-графічна анімація «Життєвий цикл»](../docs/catalog.uk.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [Інтерактивна 3D-послідовність запуску ракети над океаном](../docs/catalog.uk.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
+- [Інтерактивне середньовічне королівство для Claude Opus 5.5](../docs/catalog.uk.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Простір: короткометражне відео собору, наповненого світлом вітражів](../docs/catalog.uk.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [Гра в стилі Genshin Impact у Сан-Франциско](../docs/catalog.uk.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Кінематографічний фільм про битву під Аустерліцем](../docs/catalog.uk.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub

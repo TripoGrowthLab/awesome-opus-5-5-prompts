@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**26 案例 · 14 🌐**
+**33 案例 · 14 🌐**
 
 [依用途瀏覽](#categories) · [依模型瀏覽](#models) · [專案原始碼](with-code.md) · [1](../docs/catalog.zh-Hant.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 遊戲 · 5
+### 遊戲 · 6
 
+- [WebGL2 沙盒生存遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [《原神》風格的舊金山背景遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [即時 3D 鵜鶘騎車遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk：奔馳於夜街的 3D 橫向捲軸貓咪遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
@@ -58,16 +59,22 @@
 
 <a id="category-interactive-3d"></a>
 
-### 互動 · 3
+### 互動 · 6
 
+- [在 3D 寶塔中探索](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [可自由行走的 3D 動漫風櫻花小鎮](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Claude Opus 5.5 的互動式中世紀王國](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [虛構行星互動網站](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [日式櫻花山谷互動式 3D 景觀網頁](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [互動式 3D 史前島嶼](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### 動畫 · 11
+### 動畫 · 14
 
+- [動感十足的 15 秒動態設計作品集影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [生命循環動態圖像動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [互動式 3D 海上火箭發射序列](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
 - [留白：充滿彩繪玻璃光芒的大教堂短片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [奧斯特里茲戰役電影](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
 - [Grid Genius 的 Pixar 級 Three.js 動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
@@ -86,8 +93,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 26
+### Claude Opus 5.5 · 33
 
+- [動感十足的 15 秒動態設計作品集影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [WebGL2 沙盒生存遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
+- [在 3D 寶塔中探索](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [可自由行走的 3D 動漫風櫻花小鎮](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [生命循環動態圖像動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [互動式 3D 海上火箭發射序列](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
+- [Claude Opus 5.5 的互動式中世紀王國](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [留白：充滿彩繪玻璃光芒的大教堂短片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [《原神》風格的舊金山背景遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [奧斯特里茲戰役電影](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub

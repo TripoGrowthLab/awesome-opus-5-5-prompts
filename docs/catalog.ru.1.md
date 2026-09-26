@@ -26,8 +26,15 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Посмотреть примеры (26)</summary>
+<summary>Посмотреть примеры (33)</summary>
 
+- [Динамичный 15-секундный шоурил по моушн-дизайну](#claude-opus-5-5-2103504887439065439)
+- [Воксельная survival-игра-песочница на WebGL2](#claude-opus-5-5-2103502454750920925)
+- [Навигация по 3D-пагоде](#claude-opus-5-5-2103483174957597035)
+- [Свободно исследуемый 3D-город с сакурой в стиле аниме](#claude-opus-5-5-2103480081809346597)
+- [Анимация в моушн-графике «Цикл жизни»](#claude-opus-5-5-2103428454355980558)
+- [Интерактивная 3D-сцена запуска ракеты над океаном](#claude-opus-5-5-2103303303358534021)
+- [Интерактивное средневековое королевство для Claude Opus 5.5](#claude-opus-5-5-2103257687492374597)
 - [Пустота: короткометражный фильм о соборе, наполненном светом витражей](#claude-opus-5-5-2103145567945986461)
 - [Игра в стиле Genshin Impact в Сан-Франциско](#claude-opus-5-5-2103144530157687114)
 - [Кинематографичный фильм о битве при Аустерлице](#claude-opus-5-5-2103116235009347650)
@@ -56,6 +63,395 @@
 - [Интерактивный 3D-остров с доисторической природой](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2103504887439065439"></a>
+
+### Динамичный 15-секундный шоурил по моушн-дизайну
+
+[ajith\_io](https://x.com/ajith_io) · 2026-09-25 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103504887439065439"><img src="../assets/previews/bf836f2978107860bbdce244af8638a1b9a0d760bce02b1c950121215a8667b2.webp" width="840" loading="lazy" alt="Динамичный 15-секундный шоурил по моушн-дизайну"></a>
+
+**Промпт**
+
+```text
+создай динамичное 15-секундное видео в жанре моушн-графики, которое покажет, каким невероятным моушн-дизайнером ты являешься, — словно это твой шоурил для резюме. Выложись по полной.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103504887439065439) · [Исходная публикация](https://x.com/ajith_io/status/2103449416325890146) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103502454750920925"></a>
+
+### Воксельная survival-игра-песочница на WebGL2
+
+[kepo](https://x.com/kepochnik) · 2026-09-25 · Claude Opus 5.5 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103502454750920925"><img src="../assets/previews/1e2b609e107d19285dc15d26869ae7b3172e74e9f7782bd724d3d47066d95f38.webp" width="840" loading="lazy" alt="Воксельная survival-игра-песочница на WebGL2"></a>
+
+**Промпт**
+
+```text
+Создай браузерную игру-песочницу в духе Minecraft, максимально близкую к оригиналу по ощущениям. Весь внутриигровой текст должен быть на английском. Управление: клавиатура и мышь (для компьютера).  ТЕХНИЧЕСКИЕ ТРЕБОВАНИЯ — Один HTML-файл, чистый WebGL2, без сторонних библиотек. — Все текстуры размером 16×16 генерируются в коде в виде пиксельной графики (камень, земля, трава, доски, листья, руды, стекло, вода, лава и т. д.). — Звуки синтезируются с помощью WebAudio: копание, шаги, установка блоков, получение урона, мобы, взрывы, спокойная фоновая музыка.  МИР — Бесконечный мир из чанков размером 16×16×128 с использованием сида. — Биомы: равнины, лес, берёзовый лес, тайга, заснеженная тундра, пустыня, горы, океаны, пляжи. — Пещеры (извилистые туннели и большие подземелья), лава на нижних уровнях, руды распределены по глубине: уголь, железо, золото, алмазы. — Три вида деревьев, высокая трава, цветы, кактусы, сахарный тростник, тыквы. — Освещение в стиле Minecraft: небесный свет и блочный свет (факелы, светокамень, лава), распространяющиеся по ячейкам, с плавным освещением и затенением окружающей среды. — Цикл дня и ночи: солнце, луна, звёзды, закаты, объёмные облака, туман вдали, дождь. — Вода и лава текут по уровням; два источника создают бесконечный поток воды; вода + лава образуют обсидиан или булыжник. Песок и гравий падают.  ИГРОК — Вид от первого лица, столкновения, прыжки, бег, скрытное передвижение (персонаж не сходит с краёв), плавание, лестницы, урон от падения. — Разрушение блоков с визуальными стадиями появления трещин и частицами; время разрушения зависит от инструмента. — Видимая рука и предмет в руке с анимацией взмаха. Вид от третьего лица — по клавише F5.  ВЫЖИВАНИЕ — Здоровье, голод, насыщение, запас воздуха под водой. — Инструменты из 5 материалов с прочностью, броня из 4 материалов. — Инвентарь с сеткой крафтинга 2×2, верстаком 3×3, печью с топливом, сундуками и кроватью (пропуск ночи и установка точки возрождения). — Выпадение предметов, смерть и возрождение. — Мобы: свиньи, коровы, овцы, куры (разведение, стрижка); ночью — зомби, скелеты с луками, пауки. Зомби и скелеты сгорают на солнце. — Фермерство: мотыга, семена, рост пшеницы, хлеб. Двери, заборы, калитки, TNT.  ТВОРЧЕСКИЙ РЕЖИМ — Полёт по двойному нажатию Space, мгновенное разрушение блоков, каталог всех блоков с вкладками и поиском.  ИНТЕРФЕЙС — Титульный экран с панорамой мира, список миров (создать / удалить / играть), настройки (угол обзора, дальность прорисовки, чувствительность, звук, яркость, масштаб интерфейса). — Меню паузы, экран смерти, HUD (панель быстрого доступа, сердца, голод, броня, пузырьки воздуха), отладочный экран F3. — Чат с командами: /gamemode, /time, /give, /tp, /summon, /weather. — Миры сохраняются в localStorage.  ОГРАНИЧЕНИЯ — Не используй название, логотип, текстуры или персонажей Minecraft (Steve, Creeper и т. п.): придумай для игры собственное название и разработай собственных мобов.  ТЕСТИРОВАНИЕ — Запусти игру в безголовом браузере, проверь все системы и исправь ошибки до передачи результата.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build a browser sandbox game in the spirit of Minecraft that feels as close to the original as possible. All in-game text in English. Controls: keyboard and mouse (desktop).  TECH - A single HTML file, plain WebGL2, no third-party libraries. - All 16×16 textures generated in code as pixel art (stone, dirt, grass, planks, leaves, ores, glass, water, lava, etc.). - Sounds synthesized with WebAudio: digging, footsteps, placing blocks, damage, mobs, explosions, calm background music.  WORLD - Infinite world made of 16×16×128 chunks, with a seed. - Biomes: plains, forest, birch forest, taiga, snowy tundra, desert, mountains, oceans, beaches. - Caves (winding tunnels and large caverns), lava at the lower levels, ores by depth: coal, iron, gold, diamonds. - Three tree types, tall grass, flowers, cacti, sugar cane, pumpkins. - Minecraft-style lighting: sky light and block light (torches, glowstone, lava) that spreads cell by cell, with smooth lighting and ambient occlusion. - Day/night cycle: sun, moon, stars, sunsets, 3D clouds, distance fog, rain. - Water and lava flow by levels; two sources make infinite water; water + lava make obsidian or cobblestone. Sand and gravel fall.  PLAYER - First person, collisions, jumping, sprinting, sneaking (doesn't fall off edges), swimming, ladders, fall damage. - Block breaking with crack stages and particles; break time depends on the tool. - Visible hand and held item with a swing animation. Third-person view on F5.  SURVIVAL - Health, hunger, saturation, air underwater. - Tools in 5 materials with durability, armor in 4 materials. - Inventory with 2×2 crafting, 3×3 crafting table, furnace with fuel, chests, bed (skip the night and set spawn). - Item drops, death and respawn. - Mobs: pigs, cows, sheep, chickens (breeding, shearing); at night zombies, skeletons with bows, spiders. Zombies and skeletons burn in sunlight. - Farming: hoe, seeds, wheat growth, bread. Doors, fences, fence gates, TNT.  CREATIVE - Flying on double-tap Space, instant block breaking, a catalog of all blocks with tabs and search.  UI - Title screen with a world panorama, world list (create / delete / play), options (FOV, render distance, sensitivity, sound, brightness, GUI scale). - Pause menu, death screen, HUD (hotbar, hearts, hunger, armor, air bubbles), F3 debug screen. - Chat with commands: /gamemode, /time, /give, /tp, /summon, /weather. - Worlds saved in localStorage.  RESTRICTIONS - Do not use Minecraft's name, logo, textures or characters (Steve, Creeper, etc.): give the game its own name and design your own mobs.  TESTING - Run the game in a headless browser, check every system and fix bugs before delivering.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103502454750920925) · [Исходная публикация](https://x.com/kepochnik/status/2103524317443363241) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103483174957597035"></a>
+
+### Навигация по 3D-пагоде
+
+[Build Fast with AI](https://x.com/BuildFastWithAI) · 2026-09-25 · Claude Opus 5.5 · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103483174957597035"><img src="../assets/previews/307d5e62af87e0313ecffe56a9cce7568e351a5bd022912a3da4704b62b00479.webp" width="840" loading="lazy" alt="Навигация по 3D-пагоде"></a>
+
+**Промпт**
+
+```text
+Напишите код, позволяющий перемещаться внутри пагоды в 3D-пространстве.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Implement code to be able to navigate in a pagoda in 3D.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103483174957597035) · [Исходная публикация](https://x.com/BuildFastWithAI/status/2103483174957597035) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103480081809346597"></a>
+
+### Свободно исследуемый 3D-город с сакурой в стиле аниме
+
+[Good FortuneX](https://x.com/pound75423) · 2026-09-25 · Claude Opus 5.5 · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103480081809346597"><img src="../assets/previews/2326513f58d34b7486efb4920a928f08fd53e125a0781f0d405eefe22bfd19c8.webp" width="840" loading="lazy" alt="Свободно исследуемый 3D-город с сакурой в стиле аниме"></a>
+
+**Промпт**
+
+```text
+С помощью Three.js создайте «свободно исследуемый 3D-город с сакурой в стиле аниме» в виде одного HTML-файла, а затем опубликуйте его как веб-страницу, доступную по ссылке.
+
+[Технические ограничения]
+- Используйте только three.js r128 (UMD-сборка) с cdnjs. Не загружайте внешние модели и изображения — процедурно создайте все модели, текстуры и вывески магазинов с помощью кода и Canvas.
+- Используйте оригинальные названия магазинов, вывески и персонажей. Не имитируйте реальные бренды и существующие произведения.
+- Используйте MeshStandardMaterial или MeshPhongMaterial. Избегайте высокой металличности и карт отражения окружения: на некоторых компьютерах из-за них объекты могут отображаться без цвета.
+- Объедините статичные объекты по материалам в небольшое количество мешей, чтобы сцена работала на обычных компьютерах; добавьте переключатель качества High / Medium / Low.
+
+[Сцена: «桜ヶ丘 (Sakuragaoka)», небольшой японский городок весенним днём]
+1. Торговая улица: главная улица, идущая с севера на юг, с более чем 20 магазинами по обеим сторонам (раменная, кафе, веломагазин, книжный магазин, цветочный магазин, магазин японских сладостей, аптека, магазин у дома и т. д.). У каждого магазина должны быть: многострочная вывеска (название магазина + название на английском + номер телефона), полосатый навес с фестончатым краем, утопленный фасад с хорошо видимой глубиной интерьера и уличная витрина (ящики с фруктами, стойка с журналами, витрина с муляжами еды, вращающийся парикмахерский столб). На верхних этажах — окна, кондиционеры, балконы с развешанным бельём и телевизионные антенны на крышах.
+2. Детали улицы: опоры с множеством воздушных проводов, декоративные фонари с баннерами торговой улицы, гирлянды праздничных фонариков, квадратная плитка тротуаров с жёлтой тактильной разметкой, решётки ливневых стоков, знаки «止まれ» и автобусная остановка.
+3. Железнодорожный переезд и поезда: двухпутная железная дорога. При приближении поезда красные огни переезда мигают попеременно, звонит колокол, а шлагбаумы опускаются. Двухвагонный пригородный поезд останавливается на станции примерно на 14 секунд, а затем отправляется. Окна прозрачные, поэтому внутри видны сиденья и поручни.
+4. Станция с островной платформой: табличка с названием станции, навес над платформой, скамейки и торговый автомат.
+5. Площадь с сакурой: столетнее вишнёвое дерево с круглой скамьёй вокруг ствола.
+6. Святилище Инари: большие ярко-красные тории и ряд маленьких тории, каменные фонари, статуи лис, зал поклонения (медно-зелёная крыша, элементы chigi и katsuogi, ящик для подношений, подвесной колокол), фонтан для ритуального омовения (temizuya), статуи Дзидзо, дощечки эма, священное дерево и гравийное покрытие.
+7. Набережная: два ряда вишнёвых деревьев, образующие цветочный тоннель, фонари, река, дома на дальнем берегу и горы вдали.
+
+[Как создать вишнёвые деревья (ключевая часть)]
+- Ориентируйтесь на сорт Сомэй-ёсино: ствол низко разделяется на 3–4 основные ветви, которые рекурсивно ветвятся ещё на три уровня. Ветви расходятся в стороны и слегка поникают на концах, формируя общий зонтичный силуэт.
+- Создайте крону из десятков тысяч «карточек цветочных кластеров»: нарисуйте на Canvas пятилистные цветы с выемками на кончиках лепестков, красноватыми центрами и тычинками, а под цветами добавьте мягкий розовый базовый слой. Для карточек используйте alphaTest и рендеринг с двух сторон.
+- Добавьте несколько розовых объёмных комков внутри кроны. Внешние и верхние участки должны быть светлее, а внутренние и нижние — с тёплыми розовыми тенями.
+- Используйте нежно-розовый цвет, а не неоново-розовый. Крона должна плавно колыхаться на ветру, землю под каждым деревом должен покрывать ковёр из опавших лепестков, а лепестки должны постоянно падать в воздухе — с помощью шейдера.
+
+[Персонажи]
+- Более 20 персонажей в стиле аниме — школьники и жители города: анимация ходьбы с суставами коленей и локтей, лица в стиле аниме, нарисованные на Canvas (большие глаза, блики, румянец), которые моргают, отдельные пряди чёлки, разнообразные причёски (длинные волосы, каре, качающийся хвост, два хвостика), матроски, школьные пиджаки и повседневная одежда. Рендерьте персонажей с двухцветным цел-шейдингом и тёмным контуром.
+- Люди ходят по улице, общаются на площади, ждут на платформе, молятся в святилище и ездят на велосипедах по набережной.
+
+[Транспорт]
+- Создайте автомобили экструзией силуэта в боковой проекции (с колёсными арками, окнами, фарами, японскими номерными знаками и вращающимися колёсами). Автомобили останавливаются перед переездом и во время звонка колокола ждут, пока шлагбаумы не поднимутся.
+
+[Освещение и время суток]
+- Мягкий вид аниме-фона: голубое небо с белыми облаками (шейдер), лёгкая дымка вдали и тени с сине-фиолетовым оттенком.
+- Переключение между режимами Afternoon / Dusk / Night Sakura. Ночью должны загораться окна, фонари и уличные светильники.
+
+[Управление]
+- Вид от первого лица: WASD — ходьба, Shift — бег, Space — прыжок, F — полёт, мышь — осмотр (блокировка указателя), цифровые клавиши — телепортация в каждую локацию, H — скрыть интерфейс, M — выключить звук.
+- Мобильные устройства: проводите пальцем по левой половине экрана для перемещения, по правой — для осмотра.
+- Коллизии включены; игрок может подняться на платформу и преодолевать ступени.
+- Используйте Web Audio для генерации эмбиентного звука: ветра, пения птиц, колокола переезда и шума движущегося поезда.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Please use Three.js to build a "freely walkable 3D anime-style cherry blossom town" as a single HTML file, then publish it as a shareable web page.
+
+[Technical constraints]
+- Use only three.js r128 (UMD build) from cdnjs. Do not load any external models or images — generate all models, textures, and shop signs procedurally with code and Canvas.
+- Use original content for all shop names, signs, and characters. Do not imitate any real brand or existing work.
+- Use MeshStandardMaterial or MeshPhongMaterial. Avoid high metalness and environment reflection maps (on some computers they make objects render with no color).
+- Merge static objects by material into a small number of meshes so it runs on ordinary computers; provide a High / Medium / Low quality switch.
+
+[Scene: "桜ヶ丘 (Sakuragaoka)", a small Japanese town on a spring afternoon]
+1. Shopping street: a north–south main street with 20+ shops on both sides (ramen shop, café, bicycle shop, bookstore, florist, Japanese sweets shop, drugstore, convenience store, etc.). Each shop has: a multi-line sign (shop name + English name + phone number), a striped awning with a scalloped valance, a recessed storefront with an interior that has visible depth, and a sidewalk display (fruit crates, magazine rack, food-sample case, a spinning barber pole). Upper floors have windows, AC units, balconies with hanging laundry, and rooftop TV antennas.
+2. Street details: utility poles with lots of overhead wires, decorative street lamps with shopping-street banners, festival lantern strings, square sidewalk tiles with yellow tactile paving, drain grates, "止まれ" stop signs, and a bus stop.
+3. Level crossing and trains: a double-track railway. When a train approaches, the crossing's red lights flash alternately, the bell rings, and the gates lower. A two-car commuter train stops at the station for about 14 seconds and then departs. The windows are transparent, so the seats and hand straps inside are visible.
+4. Island-platform station: station name board, platform canopy, benches, and a vending machine.
+5. Sakura plaza: a 100-year-old cherry tree with a circular bench around it.
+6. Inari shrine: a large vermilion torii plus a row of small torii, stone lanterns, fox statues, a worship hall (copper-green roof, chigi, katsuogi, offering box, hanging bell), a purification fountain (temizuya), jizo statues, ema plaques, a sacred tree, and gravel ground.
+7. Riverside levee: two rows of cherry trees forming a blossom tunnel, lanterns, a river, houses on the far bank, and distant mountains.
+
+[How to build the cherry trees (key part)]
+- Model them on Somei-Yoshino: the trunk splits low into 3–4 main limbs, which branch recursively three more levels. Branches spread outward and droop slightly at the tips, giving an overall umbrella shape.
+- Build the canopy from tens of thousands of "blossom cluster cards": draw five-petal flowers on Canvas (notched petal tips, reddish centers, stamens) with a soft pink base layer behind the flowers. Use alphaTest and double-sided rendering for the cards.
+- Add a few pink filler clumps inside the canopy for volume. The outer and upper parts are brighter; the inner and lower parts have warm rose-toned shadows.
+- Use pale pink, not neon pink. The canopy sways gently in the wind, a carpet of fallen petals covers the ground under each tree, and petals keep falling through the air (done in a shader).
+
+[Characters]
+- 20+ anime-style students and townspeople: walking animation with knee and elbow joints, anime faces drawn on Canvas (large eyes, highlights, blush) that blink, bangs made of separate strands, a variety of hairstyles (long, bob, swinging ponytail, twin tails), sailor uniforms / blazer uniforms / casual clothes. Render characters with two-tone cel shading and a dark outline.
+- People walk along the street, chat in the plaza, wait on the platform, pray at the shrine, and ride bicycles along the levee.
+
+[Vehicles]
+- Build cars by extruding a side-profile silhouette (with wheel arches, windows, lights, Japanese license plates, and spinning wheels). Cars stop before the level crossing, and while the bell is ringing they wait until the gates rise.
+
+[Lighting and time of day]
+- A soft anime-background look: blue sky with white clouds (shader), light haze in the distance, and shadows with a blue-violet tint.
+- Switchable between Afternoon / Dusk / Night Sakura. At night, windows, lanterns, and street lamps light up.
+
+[Controls]
+- First-person: WASD to walk, Shift to run, Space to jump, F to fly, mouse to look around (pointer lock), number keys to teleport to each location, H to hide the UI, M to mute.
+- Mobile: drag on the left half to walk, drag on the right half to look around.
+- Collision is enabled, and the player can walk up onto the platform and steps.
+- Use Web Audio to generate ambient sound: wind, birdsong, the level-crossing bell, and train running sounds.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103480081809346597) · [Исходная публикация](https://x.com/pound75423/status/2103480085319942353) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103428454355980558"></a>
+
+### Анимация в моушн-графике «Цикл жизни»
+
+[Loïc](https://x.com/loicRambo) · 2026-09-25 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103428454355980558"><img src="../assets/previews/24c74a5c2e6d3c9e640f6d732f61cfae8d598def8a3be81dc1dfc31ffc610770.webp" width="840" loading="lazy" alt="Анимация в моушн-графике «Цикл жизни»"></a>
+
+**Промпт**
+
+```text
+Создай динамичное 20-секундное видео в жанре моушн-дизайна и анимации, которое показывает, насколько ты невероятный моушн-дизайнер и аниматор — словно это твой шоурил для резюме. Расскажи о жизненном цикле одного и того же человека: от детства к подростковому возрасту, затем к офисной рутине с 9 до 17, семейной жизни, старости и смерти. После этого сделай монтажный переход, готовый зациклить видео и вернуть его к началу. Выложись по полной и используй всё необходимое.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+make a dynamic 20-second motion graphics and animation video that shows what an incredible motion designer and animator you are, like it's your showreel for a résumé. make it about the cycle of life showing the same individual going from childhood to adolescence to the 9-5 cycle, to family life to elder life and death, then cutting ready to loop to the beginning.  go all out , use whatever you need.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103428454355980558) · [Исходная публикация](https://x.com/loicRambo/status/2103428454355980558) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103303303358534021"></a>
+
+### Интерактивная 3D-сцена запуска ракеты над океаном
+
+[PEP PEPICH](https://x.com/Artless101) · 2026-09-25 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103303303358534021"><img src="../assets/previews/4280f245a6a684c8e039730492eaa5574c72929de670e838d8cd4227e75e6935.webp" width="840" loading="lazy" alt="Интерактивная 3D-сцена запуска ракеты над океаном"></a>
+
+**Промпт**
+
+```text
+Создайте кинематографичную, высокодетализированную интерактивную 3D-сцену запуска ракеты со стартовой платформы в океане на рассвете. Поставьте весь проект в один HTML-файл, который напрямую открывается в Chrome. Используйте Three.js + WebGL и процедурно создаваемые ресурсы. По возможности встраивайте ресурсы в файл; для библиотеки рендеринга можно использовать надёжный CDN.
+
+ХУДОЖЕСТВЕННОЕ НАПРАВЛЕНИЕ
+Создайте драматичный переход от тёмного сине-фиолетового океана перед рассветом к тёплому солнечному свету над атмосферой. Используйте убедительные пропорции, детализированные материалы, атмосферную перспективу и тщательно выстроенные ракурсы камеры. Результат должен восприниматься как отполированный миниатюрный фильм о космическом полёте.
+РАКЕТА И СТАРТОВАЯ ПЛАТФОРМА
+Создайте убедительную многоступенчатую ракету с оформленным носовым обтекателем, швами панелей, силовыми кольцами, межступенчатыми соединениями, соплами двигателей и головным обтекателем, который разделяется на две половины.
+
+Создайте детализированную плавучую стартовую платформу с опорной башней, убираемой монтажной фермой, сервисными рычагами, ограждениями, лестницами, трубами, оборудованием, прожекторами и мигающими сигнальными маяками. Все конструкции должны быть физически соединены и правильно расположены.
+ПОСЛЕДОВАТЕЛЬНОСТЬ ЗАПУСКА
+Создайте последовательность продолжительностью примерно 46 секунд:
+
+Начальный облёт камеры вокруг платформы.
+
+Сервисные рычаги и монтажная ферма убираются.
+Двигатели запускаются, освещая ракету, платформу и ближайшую воду.
+Дым распространяется по палубе, пока ракета отрывается от платформы и набирает скорость.
+Камера сопровождает подъём ракеты из атмосферы в космос.
+Первая ступень отделяется и отлетает.
+Запускается двигатель второй ступени.
+Половины обтекателя расходятся, открывая спутник.
+Двигатель выключается, спутник отделяется, а его солнечные панели раскрываются.
+Завершите сцену орбитальным видом на спутник на фоне изогнутого горизонта Земли и рассвета.
+Сожмите временную шкалу полёта для презентации, сохранив согласованность движения. Избегайте резких скачков положения, пересечения компонентов и несвязанных эффектов.
+ОКЕАН, АТМОСФЕРА И ЭФФЕКТЫ
+Используйте анимированные волны океана на основе шейдеров с отражениями Френеля и тёплыми отражениями света от двигателей. Создайте многослойный выхлоп: яркое ядро, более мягкое внешнее пламя и дрейфующие частицы дыма.
+Дым должен расширяться, рассеиваться и реагировать на ветер. Выхлоп на всех этапах должен оставаться прикреплённым к соответствующему двигателю. Плавно переходите от атмосферной дымки к тёмному звёздному небу и освещённому краю Земли.
+
+КАМЕРА И ВЗАИМОДЕЙСТВИЕ
+Используйте плавные кинематографичные переходы камеры: общий начальный план, ракурс снизу в момент запуска, сопровождение подъёма, разделение ступеней и крупный план спутника. Главный объект должен оставаться видимым как в портретной, так и в альбомной ориентации.
+
+Добавьте кнопки воспроизведения и паузы, повторный запуск и ползунок перемотки с маркерами событий. Переход к любой позиции должен восстанавливать корректную конфигурацию ракеты, состояние частиц, положение камеры и освещение. Повторное воспроизведение должно полностью и корректно сбрасывать последовательность.
+Интерфейс должен быть минимальным и ненавязчивым. Предусмотрите возможность скрыть его для записи.
+
+ТЕХНИЧЕСКОЕ КАЧЕСТВО
+Используйте анимацию, независимую от частоты кадров, и эффективные системы частиц. По возможности переиспользуйте геометрию и материалы, корректно обрабатывайте изменение размеров окна и находите баланс между визуальной детализацией и плавной производительностью.
+
+Проверьте итоговый HTML в браузере на компьютере. Просмотрите консоль и сделайте скриншоты в моменты запуска двигателей, отрыва от платформы, разделения ступеней и развёртывания спутника. Перед передачей файла исправьте ошибки загрузки, обрезание объектов, проблемы с геометрией, неисправную перемотку и неудачную композицию кадра.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create a cinematic, highly detailed, interactive 3D rocket launch from an ocean platform at dawn. Deliver the complete project in one HTML file that opens directly in Chrome. Use Three.js + WebGL and procedural assets. Embed assets wherever practical; a reliable CDN may be used for the rendering library.
+
+ART DIRECTION
+Create a dramatic transition from a dark, blue-violet ocean before sunrise to warm sunlight above the atmosphere. Use convincing proportions, detailed materials, atmospheric depth, and carefully composed camera angles. The result should feel like a polished miniature spaceflight film.
+ROCKET AND LAUNCH PLATFORM
+Build a convincing multistage rocket with a shaped nose cone, panel seams, structural rings, interstage connections, engine nozzles, and a payload fairing that separates into two halves.
+
+Create a detailed floating launch platform with a support tower, retracting strongback, service arms, railings, ladders, pipes, equipment, floodlights, and blinking warning beacons. Keep all structures physically connected and correctly positioned.
+LAUNCH SEQUENCE
+Create an approximately 46-second sequence:
+
+Establishing camera move around the platform.
+
+Service arms and strongback retract.
+Engines ignite, illuminating the rocket, platform, and nearby water.
+Smoke spreads across the deck as the rocket lifts off and accelerates.
+The camera follows the climb from the atmosphere toward space.
+The first stage separates and falls away.
+The second-stage engine ignites.
+The fairing halves separate, revealing a satellite.
+The engine shuts down, the satellite deploys, and its solar panels unfold.
+Finish with an orbital view of the satellite against Earth’s curved horizon and sunrise.
+Compress the flight timeline for presentation while maintaining coherent motion. Avoid sudden position changes, intersecting components, or disconnected effects.
+OCEAN, ATMOSPHERE, AND EFFECTS
+Use animated shader-driven ocean waves with Fresnel reflections and warm engine-light reflections. Create layered exhaust with a bright core, softer outer flame, and drifting smoke particles.
+Smoke should expand, fade, and respond to wind. Exhaust must remain attached to the correct engine through staging. Transition smoothly from atmospheric haze to a dark star field and Earth’s illuminated limb.
+
+CAMERA AND INTERACTION
+Use smooth cinematic camera transitions: wide establishing view, low-angle ignition shot, ascent tracking, stage separation, and satellite close-up. Keep the main subject visible in both portrait and landscape layouts.
+
+Include play/pause, replay, and a scrubber with event markers. Seeking must reconstruct the correct rocket configuration, particle state, camera position, and lighting. Replaying must reset the entire sequence cleanly.
+Keep the interface minimal and unobtrusive. Allow it to be hidden for recording.
+
+TECHNICAL QUALITY
+Use frame-rate-independent animation and efficient particle systems. Reuse geometry and materials where appropriate, handle resizing correctly, and balance visual detail with smooth performance.
+
+Test the final HTML in a desktop browser. Inspect the console and capture screenshots at ignition, liftoff, staging, and satellite deployment. Fix loading errors, clipping, geometry problems, broken seeking, and poor camera framing before delivering the file.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103303303358534021) · [Исходная публикация](https://x.com/Artless101/status/2103303449831964679) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103257687492374597"></a>
+
+### Интерактивное средневековое королевство для Claude Opus 5.5
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-24 · Claude Opus 5.5 · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103257687492374597"><img src="../assets/previews/ac99617edc0798bcf0f48365bb38aa0361e551828238e2a228e49ec1df051119.webp" width="840" loading="lazy" alt="Интерактивное средневековое королевство для Claude Opus 5.5"></a>
+
+**Промпт**
+
+```text
+Создайте собственное средневековое королевство.
+Ваше королевство представляет Claude Opus 5.5. Спроектируйте великолепный замок, вдохновлённый историей, который выражает индивидуальность этой модели через архитектуру, геральдику, цвета и атмосферу. Вы полностью свободны в художественном выборе, но сеттинг должен оставаться правдоподобным для Средневековья.
+Не ограничивайтесь размещением логотипа на типовом замке. Придайте королевству distinctive архитектурный характер и цельный визуальный образ. Придумайте герб, королевские цвета и оригинальную геральдическую эмблему. Разместите их на анимированных знамёнах, щитах, украшениях ворот и одежде замковой стражи. Поместите название королевства над главным входом.
+Создайте насыщенную деталями интерактивную 3D-сцену с использованием Three.js и WebGL. Всё должно находиться в одном автономном HTML-файле, который можно напрямую открыть в Chrome.
+ЗАМОК
+Постройте убедительную крепость с центральной цитаделью, башнями, зубчатыми стенами, куртинными стенами, внушительными надвратными сооружениями, работающим подъёмным мостом и внутренним двором.
+Добавьте тщательно смоделированную каменную кладку, арочные окна, деревянные двери, конструкции крыш, лестницы, балконы, железные элементы и небольшие архитектурные детали. Сделайте сооружения правдоподобными: у башен должны быть интерьеры или убедительная глубина, лестницы должны вести на доступные этажи, а мосты — иметь надёжные опоры.
+Окружите замок привлекательным ландшафтом, соответствующим вашему королевству: скалами, холмами, рекой, рвом, лесами или небольшой деревней. Выстройте выразительную композицию, которая красиво выглядит с разных ракурсов.
+ЖИЗНЬ И ВЗАИМОДЕЙСТВИЕ
+Оживите королевство: пусть стражники патрулируют стены, жители проходят через внутренний двор, знамёна слегка развеваются, из труб идёт дым, летают птицы, а фонари мерцают.
+Дайте зрителю возможность:
+Открывать и закрывать подъёмный мост и главные ворота.
+Следовать за патрулирующим стражником.
+Переключаться между кинематографичным общим видом, внутренним двором и крепостными стенами.
+Свободно вращать камеру и масштабировать изображение.
+Переключаться между дневным светом, закатом и ночью.
+Перемещайте персонажей только по доступным для ходьбы поверхностям. Не допускайте, чтобы они проходили сквозь стены, двери или друг друга.
+ОСВЕЩЕНИЕ И АТМОСФЕРА
+Создайте кинематографичное освещение, которое чётко раскрывает архитектуру. Используйте мягкие тени, атмосферную глубину, правдоподобную воду там, где это уместно, и сдержанную постобработку.
+Ночью подсветите окна, факелы и фонари, сохранив достаточную видимость, чтобы замок оставался хорошо различимым.
+Стремитесь к сложной, законченной 3D-работе с самобытной архитектурой и множеством деталей. Избегайте набора очевидных примитивов или повторяющихся башен, лишённых архитектурного назначения.
+ТЕХНИЧЕСКОЕ КАЧЕСТВО
+По возможности создавайте ассеты процедурно. Встраивайте текстуры и другие ресурсы непосредственно в HTML. Локальный сервер и этап сборки не должны требоваться.
+Где уместно, используйте инстансинг и объединение геометрии. Обеспечьте плавную анимацию и удобное управление камерой. Добавьте минималистичный элегантный интерфейс на английском языке и кнопку для его скрытия.
+Фактически протестируйте результат в Chrome для компьютера. Сделайте скриншоты, проверьте консоль, протестируйте все взаимодействия и исправьте ошибки рендеринга, парящие объекты, пересечения геометрии и проблемы с камерой.
+Сделайте замок таким, чтобы люди узнавали в нём ИМЕННО ваше королевство ещё до того, как прочитают его название.
+Верните готовый автономный HTML-файл.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build your own medieval kingdom.
+Your kingdom represents Claude Opus 5.5. Design a magnificent, historically inspired castle that expresses this model’s identity through architecture, heraldry, colors and atmosphere. You have complete artistic freedom within a believable medieval setting.
+Do not simply place a logo on a generic castle. Give your kingdom a distinctive architectural character and a coherent visual identity. Invent its coat of arms, royal colors and an original heraldic emblem. Display them on animated banners, shields, gate decorations and the clothing of the castle guards. Place the kingdom’s name above the main entrance.
+Create a richly detailed, interactive 3D scene using Three.js and WebGL. Deliver everything in one standalone HTML file that opens directly in Chrome.
+THE CASTLE
+Build a convincing fortress with a central keep, towers, battlements, curtain walls, an impressive gatehouse, a working drawbridge and a courtyard.
+Include carefully modeled stonework, arched windows, wooden doors, roof structures, stairs, balconies, iron fittings and small architectural details. Make the structures believable: towers need interiors or convincing depth, stairs must connect to accessible floors, and bridges must have proper supports.
+Surround the castle with an attractive landscape that suits your kingdom: cliffs, hills, a river, a moat, forests or a small village. Design a strong composition that looks beautiful from multiple angles.
+LIFE AND INTERACTION
+Bring the kingdom to life with guards patrolling the walls, villagers moving through the courtyard, gently waving banners, chimney smoke, birds and flickering lanterns.
+Let the viewer:
+Open and close the drawbridge and main gate.
+Follow a guard on patrol.
+Switch between a cinematic overview, the courtyard and the battlements.
+Rotate and zoom freely.
+Change between daylight, sunset and night.
+Keep characters on walkable surfaces. Prevent them from passing through walls, doors or one another.
+LIGHTING AND ATMOSPHERE
+Create cinematic lighting that reveals the architecture clearly. Use soft shadows, atmospheric depth, convincing water where appropriate and restrained post-processing.
+At night, illuminate windows, torches and lanterns while preserving enough visibility to appreciate the castle.
+Aim for a sophisticated, finished 3D artwork with distinctive architecture and abundant detail. Avoid a collection of obvious primitive shapes or repetitive towers with no architectural purpose.
+TECHNICAL QUALITY
+Generate assets procedurally wherever practical. Embed textures and other assets inside the HTML. No local server or build step should be required.
+Use instancing and geometry batching where appropriate. Keep animation and camera interaction smooth. Provide a minimal, elegant English interface and a button to hide it.
+Actually test the result in desktop Chrome. Capture screenshots, inspect the console, test every interaction and fix rendering errors, floating objects, geometry intersections and camera problems.
+Make this a castle people would recognize as YOUR kingdom, even before reading its name.
+Return the completed standalone HTML file.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2103257687492374597) · [Исходная публикация](https://x.com/vib3coded/status/2103257873203462412) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103145567945986461"></a>
 
 ### Пустота: короткометражный фильм о соборе, наполненном светом витражей

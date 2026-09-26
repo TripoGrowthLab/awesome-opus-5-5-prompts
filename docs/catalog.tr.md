@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**26 Örnekler · 14 🌐**
+**33 Örnekler · 14 🌐**
 
 [Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Oyunlar · 5
+### Oyunlar · 6
 
+- [WebGL2 sandbox hayatta kalma oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [San Francisco'da geçen Genshin Impact tarzı oyun](../docs/catalog.tr.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Gerçek zamanlı pelikan bisiklet oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: Gece şehrinde ilerleyen 3B yandan kaydırmalı kedi oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
@@ -58,16 +59,22 @@
 
 <a id="category-interactive-3d"></a>
 
-### Etkileşimli · 3
+### Etkileşimli · 6
 
+- [3B Pagodada Gezinme](../docs/catalog.tr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [Serbestçe gezilebilen anime tarzı 3B kiraz çiçekleri kasabası](../docs/catalog.tr.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Claude Opus 5.5 için etkileşimli ortaçağ krallığı](../docs/catalog.tr.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Hayali gezegenler hakkında etkileşimli web sitesi](../docs/catalog.tr.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](../docs/catalog.tr.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Etkileşimli 3B Tarih Öncesi Ada](../docs/catalog.tr.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Animasyon · 11
+### Animasyon · 14
 
+- [Dinamik 15 saniyelik motion design showreel’i](../docs/catalog.tr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [Yaşam döngüsünü anlatan hareketli grafik animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [Etkileşimli 3B okyanus roket fırlatma sekansı](../docs/catalog.tr.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
 - [Boşluk: Vitray ışığıyla dolan katedralde kısa film](../docs/catalog.tr.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [Austerlitz Muharebesi: Sinematik Film](../docs/catalog.tr.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
 - [Grid Genius için Pixar kalitesinde Three.js animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
@@ -86,8 +93,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 26
+### Claude Opus 5.5 · 33
 
+- [Dinamik 15 saniyelik motion design showreel’i](../docs/catalog.tr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [WebGL2 sandbox hayatta kalma oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
+- [3B Pagodada Gezinme](../docs/catalog.tr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [Serbestçe gezilebilen anime tarzı 3B kiraz çiçekleri kasabası](../docs/catalog.tr.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Yaşam döngüsünü anlatan hareketli grafik animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [Etkileşimli 3B okyanus roket fırlatma sekansı](../docs/catalog.tr.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
+- [Claude Opus 5.5 için etkileşimli ortaçağ krallığı](../docs/catalog.tr.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Boşluk: Vitray ışığıyla dolan katedralde kısa film](../docs/catalog.tr.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [San Francisco'da geçen Genshin Impact tarzı oyun](../docs/catalog.tr.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Austerlitz Muharebesi: Sinematik Film](../docs/catalog.tr.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub

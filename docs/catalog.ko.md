@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**26 사례 · 14 🌐**
+**33 사례 · 14 🌐**
 
 [카테고리별 탐색](#categories) · [모델별 탐색](#models) · [소스 코드](with-code.md) · [1](../docs/catalog.ko.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 게임 · 5
+### 게임 · 6
 
+- [WebGL2 샌드박스 생존 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [샌프란시스코를 배경으로 한 원신 스타일 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [실시간 펠리컨 자전거 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
@@ -58,16 +59,22 @@
 
 <a id="category-interactive-3d"></a>
 
-### 인터랙티브 · 3
+### 인터랙티브 · 6
 
+- [3D 불탑 탐색](../docs/catalog.ko.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [자유롭게 걸어 다닐 수 있는 3D 애니메이션풍 벚꽃 마을](../docs/catalog.ko.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Claude Opus 5.5를 위한 인터랙티브 중세 왕국](../docs/catalog.ko.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [상상 속 행성 인터랙티브 웹사이트](../docs/catalog.ko.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지](../docs/catalog.ko.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [인터랙티브 3D 선사시대 섬](../docs/catalog.ko.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### 애니메이션 · 11
+### 애니메이션 · 14
 
+- [다이내믹한 15초 모션 디자인 쇼릴](../docs/catalog.ko.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [생애 주기 모션 그래픽 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [인터랙티브 3D 해상 로켓 발사 시퀀스](../docs/catalog.ko.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
 - [여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [시네마틱 아우스터리츠 전투 영화](../docs/catalog.ko.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
 - [Grid Genius를 위한 픽사급 Three.js 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
@@ -86,8 +93,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 26
+### Claude Opus 5.5 · 33
 
+- [다이내믹한 15초 모션 디자인 쇼릴](../docs/catalog.ko.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [WebGL2 샌드박스 생존 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
+- [3D 불탑 탐색](../docs/catalog.ko.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [자유롭게 걸어 다닐 수 있는 3D 애니메이션풍 벚꽃 마을](../docs/catalog.ko.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [생애 주기 모션 그래픽 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [인터랙티브 3D 해상 로켓 발사 시퀀스](../docs/catalog.ko.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
+- [Claude Opus 5.5를 위한 인터랙티브 중세 왕국](../docs/catalog.ko.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [여백: 스테인드글라스 빛으로 가득한 대성당의 단편 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [샌프란시스코를 배경으로 한 원신 스타일 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [시네마틱 아우스터리츠 전투 영화](../docs/catalog.ko.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub

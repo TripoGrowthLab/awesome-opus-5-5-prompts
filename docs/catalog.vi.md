@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-**26 Ví dụ · 14 🌐**
+**33 Ví dụ · 14 🌐**
 
 [Theo danh mục](#categories) · [Theo mô hình](#models) · [Mã nguồn](with-code.md) · [1](../docs/catalog.vi.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Trò chơi · 5
+### Trò chơi · 6
 
+- [Game sinh tồn sandbox WebGL2](../docs/catalog.vi.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Game phong cách Genshin Impact lấy bối cảnh San Francisco](../docs/catalog.vi.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Trò chơi đạp xe thời gian thực với bồ nông](../docs/catalog.vi.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm](../docs/catalog.vi.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
@@ -58,16 +59,22 @@
 
 <a id="category-interactive-3d"></a>
 
-### Tương tác · 3
+### Tương tác · 6
 
+- [Điều hướng trong một ngôi chùa 3D](../docs/catalog.vi.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [Thị trấn hoa anh đào 3D phong cách anime, tự do khám phá](../docs/catalog.vi.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Vương quốc trung cổ tương tác cho Claude Opus 5.5](../docs/catalog.vi.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Trang web tương tác về các hành tinh tưởng tượng](../docs/catalog.vi.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](../docs/catalog.vi.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hòn đảo tiền sử 3D tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Hoạt ảnh · 11
+### Hoạt ảnh · 14
 
+- [Showreel thiết kế chuyển động 15 giây đầy năng lượng](../docs/catalog.vi.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [Hoạt họa đồ họa chuyển động về vòng đời](../docs/catalog.vi.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [Chuỗi phóng tên lửa 3D tương tác trên đại dương](../docs/catalog.vi.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
 - [Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu](../docs/catalog.vi.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [Phim điện ảnh về Trận Austerlitz](../docs/catalog.vi.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
 - [Hoạt ảnh Three.js chất lượng Pixar cho Grid Genius](../docs/catalog.vi.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
@@ -86,8 +93,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 26
+### Claude Opus 5.5 · 33
 
+- [Showreel thiết kế chuyển động 15 giây đầy năng lượng](../docs/catalog.vi.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [Game sinh tồn sandbox WebGL2](../docs/catalog.vi.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
+- [Điều hướng trong một ngôi chùa 3D](../docs/catalog.vi.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [Thị trấn hoa anh đào 3D phong cách anime, tự do khám phá](../docs/catalog.vi.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Hoạt họa đồ họa chuyển động về vòng đời](../docs/catalog.vi.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [Chuỗi phóng tên lửa 3D tương tác trên đại dương](../docs/catalog.vi.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
+- [Vương quốc trung cổ tương tác cho Claude Opus 5.5](../docs/catalog.vi.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Khoảng trống: Phim ngắn về một thánh đường ngập tràn ánh sáng kính màu](../docs/catalog.vi.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [Game phong cách Genshin Impact lấy bối cảnh San Francisco](../docs/catalog.vi.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Phim điện ảnh về Trận Austerlitz](../docs/catalog.vi.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub

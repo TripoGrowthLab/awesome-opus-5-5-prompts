@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**26 Exemplos · 14 🌐**
+**33 Exemplos · 14 🌐**
 
 [Explorar por categoria](#categories) · [Explorar por modelo](#models) · [Código-fonte](with-code.md) · [1](../docs/catalog.pt.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Jogos · 5
+### Jogos · 6
 
+- [Jogo de sobrevivência sandbox em WebGL2](../docs/catalog.pt.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Jogo no estilo de Genshin Impact ambientado em San Francisco](../docs/catalog.pt.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Jogo de ciclismo com pelicano em tempo real](../docs/catalog.pt.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: um jogo 3D de plataforma lateral com um gato correndo pela cidade à noite](../docs/catalog.pt.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
@@ -58,16 +59,22 @@
 
 <a id="category-interactive-3d"></a>
 
-### Interativo · 3
+### Interativo · 6
 
+- [Navegue por uma pagoda 3D](../docs/catalog.pt.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [Cidade 3D de cerejeiras em estilo anime, com exploração livre](../docs/catalog.pt.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Reino medieval interativo para Claude Opus 5.5](../docs/catalog.pt.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Site interativo sobre planetas imaginários](../docs/catalog.pt.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Página web interativa de paisagem 3D de um vale japonês de cerejeiras](../docs/catalog.pt.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Ilha pré-histórica 3D interativa](../docs/catalog.pt.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Animação · 11
+### Animação · 14
 
+- [Showreel dinâmico de motion design de 15 segundos](../docs/catalog.pt.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [Animação de motion graphics sobre o ciclo da vida](../docs/catalog.pt.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [Sequência interativa de lançamento de foguete em 3D no oceano](../docs/catalog.pt.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
 - [Respiro: um curta-metragem em uma catedral repleta de luz de vitrais](../docs/catalog.pt.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [Filme cinematográfico: Batalha de Austerlitz](../docs/catalog.pt.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub
 - [Animação em Three.js com qualidade de nível Pixar para o Grid Genius](../docs/catalog.pt.1.md#claude-opus-5-5-2103087766662009118) · [Anil Rao K](https://x.com/Anilraok)
@@ -86,8 +93,15 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 26
+### Claude Opus 5.5 · 33
 
+- [Showreel dinâmico de motion design de 15 segundos](../docs/catalog.pt.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
+- [Jogo de sobrevivência sandbox em WebGL2](../docs/catalog.pt.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
+- [Navegue por uma pagoda 3D](../docs/catalog.pt.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
+- [Cidade 3D de cerejeiras em estilo anime, com exploração livre](../docs/catalog.pt.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
+- [Animação de motion graphics sobre o ciclo da vida](../docs/catalog.pt.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
+- [Sequência interativa de lançamento de foguete em 3D no oceano](../docs/catalog.pt.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
+- [Reino medieval interativo para Claude Opus 5.5](../docs/catalog.pt.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Respiro: um curta-metragem em uma catedral repleta de luz de vitrais](../docs/catalog.pt.1.md#claude-opus-5-5-2103145567945986461) · [AGIおやZ](https://x.com/AGIOyaZ)
 - [Jogo no estilo de Genshin Impact ambientado em San Francisco](../docs/catalog.pt.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Filme cinematográfico: Batalha de Austerlitz](../docs/catalog.pt.1.md#claude-opus-5-5-2103116235009347650) · [Winter](https://x.com/WinterArc2125) · GitHub

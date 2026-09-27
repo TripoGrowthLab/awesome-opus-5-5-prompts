@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**33 Exemples · 14 🌐**
+**36 Exemples · 14 🌐**
 
 [Par catégorie](#categories) · [Par modèle](#models) · [Code source](with-code.md) · [1](../docs/catalog.fr.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Jeux · 6
+### Jeux · 7
 
+- [Jeu voxel de style Minecraft avec des shaders avancés](../docs/catalog.fr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Jeu de survie sandbox en WebGL2](../docs/catalog.fr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Jeu dans le style de Genshin Impact, situé à San Francisco](../docs/catalog.fr.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Jeu de cyclisme en temps réel avec un pélican](../docs/catalog.fr.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
@@ -70,8 +71,10 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animation · 14
+### Animation · 16
 
+- [Vidéo graphique animée de 15 secondes, au rendu soigné](../docs/catalog.fr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Vidéo de motion design sur le thème de Spotify](../docs/catalog.fr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Showreel dynamique de motion design — 15 secondes](../docs/catalog.fr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Animation en motion design du cycle de la vie](../docs/catalog.fr.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [Séquence interactive en 3D d’un lancement de fusée depuis l’océan](../docs/catalog.fr.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -93,8 +96,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [Vidéo graphique animée de 15 secondes, au rendu soigné](../docs/catalog.fr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Jeu voxel de style Minecraft avec des shaders avancés](../docs/catalog.fr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Vidéo de motion design sur le thème de Spotify](../docs/catalog.fr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Showreel dynamique de motion design — 15 secondes](../docs/catalog.fr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Jeu de survie sandbox en WebGL2](../docs/catalog.fr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Naviguer dans une pagode en 3D](../docs/catalog.fr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)

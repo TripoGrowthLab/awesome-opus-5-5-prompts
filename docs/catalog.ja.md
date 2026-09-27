@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**33 作例 · 14 🌐**
+**36 作例 · 14 🌐**
 
 [カテゴリで探す](#categories) · [モデルで探す](#models) · [ソースコード](with-code.md) · [1](../docs/catalog.ja.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### ゲーム · 6
+### ゲーム · 7
 
+- [高度なシェーダーを搭載したMinecraft風ボクセルゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2サンドボックスサバイバルゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [サンフランシスコを舞台にした『原神』風ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [リアルタイムのペリカン自転車ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
@@ -70,8 +71,10 @@
 
 <a id="category-animation-simulation"></a>
 
-### アニメーション · 14
+### アニメーション · 16
 
+- [洗練された15秒のモーションデザイン映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Spotifyをテーマにしたモーショングラフィックス動画](../docs/catalog.ja.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [ダイナミックな15秒のモーションデザイン・ショーリール](../docs/catalog.ja.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [人生のサイクルを描くモーショングラフィックスアニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [インタラクティブ3D海上ロケット打ち上げシーケンス](../docs/catalog.ja.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -93,8 +96,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [洗練された15秒のモーションデザイン映像](../docs/catalog.ja.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [高度なシェーダーを搭載したMinecraft風ボクセルゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Spotifyをテーマにしたモーショングラフィックス動画](../docs/catalog.ja.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [ダイナミックな15秒のモーションデザイン・ショーリール](../docs/catalog.ja.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2サンドボックスサバイバルゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [3D五重塔を探索](../docs/catalog.ja.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)

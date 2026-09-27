@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**33 examples · 1 model · 14 languages · 1 with source code**
+**36 examples · 1 model · 14 languages · 1 with source code**
 
 [Browse by category](#categories) · [Browse by model](#models) · [Source code](with-code.md) · [1](../docs/catalog.en.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Games · 6
+### Games · 7
 
+- [Minecraft-style voxel game with advanced shaders](../docs/catalog.en.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 sandbox survival game](../docs/catalog.en.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Genshin Impact–style game set in San Francisco](../docs/catalog.en.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Real-time pelican cycling game](../docs/catalog.en.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
@@ -70,8 +71,10 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animation · 14
+### Animation · 16
 
+- [Polished 15-second motion-design graphic video](../docs/catalog.en.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Spotify-themed motion graphics video](../docs/catalog.en.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dynamic 15-second motion-design showreel](../docs/catalog.en.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Cycle of life motion-graphics animation](../docs/catalog.en.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [Interactive 3D ocean rocket launch sequence](../docs/catalog.en.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -93,8 +96,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [Polished 15-second motion-design graphic video](../docs/catalog.en.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Minecraft-style voxel game with advanced shaders](../docs/catalog.en.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Spotify-themed motion graphics video](../docs/catalog.en.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dynamic 15-second motion-design showreel](../docs/catalog.en.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2 sandbox survival game](../docs/catalog.en.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Navigate a 3D pagoda](../docs/catalog.en.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
@@ -130,4 +136,4 @@
 - [Interactive 3D Prehistoric Island](../docs/catalog.en.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Explore all 33 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Explore all 36 examples and live previews →</a></strong></p>

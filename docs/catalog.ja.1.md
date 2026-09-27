@@ -26,8 +26,11 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>作例を見る (33)</summary>
+<summary>作例を見る (36)</summary>
 
+- [洗練された15秒のモーションデザイン映像](#claude-opus-5-5-2103846630088716687)
+- [高度なシェーダーを搭載したMinecraft風ボクセルゲーム](#claude-opus-5-5-2103822946800165270)
+- [Spotifyをテーマにしたモーショングラフィックス動画](#claude-opus-5-5-2103801834930606193)
 - [ダイナミックな15秒のモーションデザイン・ショーリール](#claude-opus-5-5-2103504887439065439)
 - [WebGL2サンドボックスサバイバルゲーム](#claude-opus-5-5-2103502454750920925)
 - [3D五重塔を探索](#claude-opus-5-5-2103483174957597035)
@@ -63,6 +66,419 @@
 - [インタラクティブな3D先史時代の島](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2103846630088716687"></a>
+
+### 洗練された15秒のモーションデザイン映像
+
+[Tasher](https://x.com/Dannnnnok) · 2026-09-26 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2103846630088716687"><img src="../assets/previews/5ac04e5937cd19c2305122056a57079333c484aac9d3a8551507e3616b0c9a19.webp" width="840" loading="lazy" alt="洗練された15秒のモーションデザイン映像"></a>
+
+**プロンプト**
+
+```text
+モーションデザイナーとしての実力を見てみたいです。その力を証明するために、モーションデザインのスキルを存分に披露する、洗練された15秒のアニメーション・グラフィック動画を制作してください。この作品はXで1万人に向けて発表するため、視覚的に compelling で、プロフェッショナルかつ記憶に残るものにしてください。表現は全面的に自由に発想し、最高の仕上がりを目指してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+I’m curious to see how strong you are as a motion designer. To prove it, create a polished 15-second animated graphic video that showcases your motion design skills. This piece will be presented to 10,000 people on X, so make it visually compelling, professional, and memorable. Take full creative freedom and make the strongest result you can
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2103846630088716687) · [元の投稿](https://x.com/Dannnnnok/status/2103847239885939019) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103822946800165270"></a>
+
+### 高度なシェーダーを搭載したMinecraft風ボクセルゲーム
+
+[DreykØ](https://x.com/dreyk0o0) · 2026-09-26 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2103822946800165270"><img src="../assets/previews/4ef0cface56b3289b525d03044a300a6af2f051a6cd71444a36274edbd44da0e.webp" width="840" loading="lazy" alt="高度なシェーダーを搭載したMinecraft風ボクセルゲーム"></a>
+
+**プロンプト**
+
+```text
+ブラウザで動作するMinecraft風のボクセルゲームを、単一のHTMLファイルで作成してください。
+- 一人称操作：WASD、マウスによる視点操作、ジャンプ
+- 丘、水場、木があるプロシージャルな地形
+- マウスでブロックを設置・破壊、5種類のブロック
+- 高度なシェーダー：動く太陽、ソフトシャドウ、アンビエントオクルージョン、フォグ、水面の反射
+- ノートPCで滑らかな60fps
+CDNからThree.jsを使用してください。テストしてすべてのバグを修正し、見た目が可能な限りリアルになるまでビジュアルを改善し続けてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build a Minecraft-style voxel game in a single HTML file that runs in the browser.
+- First-person controls: WASD, mouse look, jump
+- Procedural terrain with hills, water and trees
+- Place and break blocks with the mouse, 5 block types
+- Advanced shaders: moving sun, soft shadows, ambient occlusion, fog, water reflections
+- Smooth 60 fps on a laptop
+Use Three.js from a CDN. Test it, fix every bug, then keep improving the visuals until it looks as realistic as possible.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2103822946800165270) · [元の投稿](https://x.com/dreyk0o0/status/2103822946800165270) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2103801834930606193"></a>
+
+### Spotifyをテーマにしたモーショングラフィックス動画
+
+[Brain](https://x.com/brainextends) · 2026-09-26 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2103801834930606193"><img src="../assets/previews/75ebc1defe8d18a4ce53a2b3bcae792b69b6d9762c712cc422bf6217726662cb.webp" width="840" loading="lazy" alt="Spotifyをテーマにしたモーショングラフィックス動画"></a>
+
+**プロンプト**
+
+```text
+次のブリーフに基づき、完成度の高いSpotifyテーマのモーショングラフィックス動画を制作してください。このプロンプトは自己完結型です。参照動画や提供アセットは必要ありません。
+
+<deliverables> 1920×1080、真の60 fps、音楽と控えめな効果音を含む18秒のMP4 編集可能なソース一式 納品前にアニメーションを構築、レンダリング、確認、ブラッシュアップする ストーリーボード、静止画、実装計画だけで終わらせない </deliverables>
+<art_direction>
+大きく、ほぼ黒の角丸長方形ステージの中で展開する、プレミアムな音楽プロダクト映像
+ステージはキャンバス幅の約80%、高さの約75%を占め、横方向は中央、縦方向は中心よりやや下に配置する
+ステージの外側には、柔らかな空気感のあるグリーン背景を使用する。左上付近は光を帯びたエメラルド、側面に向かうほど深いフォレストグリーンにし、下部ではほぼ黒へフェードさせる
+ステージ内部：
+ほぼ黒の背景
+白のメインタイポグラフィ
+彩度を抑えたグレーの補助テキスト
+強調とコントロールにはSpotifyグリーン # 1ED760
+GeistやInterなど、クリーンなサンセリフ体を1種類のみ使用
+アイコンの線幅を統一し、シャドウは控えめにする
+構図はコンパクトかつ中央寄せにし、十分なネガティブスペースを確保する
+テキストは大きなプレゼンテーション見出しではなく、音楽プロダクト広告らしく見せる
+外側のキャプション、クリエイターのウォーターマーク、装飾的なフッター、進行カウンターは追加しない
+</art_direction>
+
+<artwork> 「Glass Tides」という架空の楽曲を、「AURA」によるオリジナルの正方形アルバムアートとして制作する
+メインビジュアルのカバーは、真珠光沢のある流動的なシルクと溶けたガラスを表現した、抽象的なマクロ画像にする
+パステルのラベンダー、パウダーブルー、ブラッシュピンク、シャンパンゴールド、控えめなミントを使用する
+幅広い立体的な折り目、リアルな反射ハイライト、繊細な筋、そして目立つ大きなS字の折り目を入れる
+正方形の端から端まで完全に埋める
+メインビジュアルにはテキスト、ロゴ、ボーダーを入れない
+映像全体を通して、この同じアートワークを一貫して使用する
+
+デザイン性のあるプレイリスト用スリーブも追加で制作する：
+「Late Nights」はマスタードイエロー
+「Good Energy」はピンク
+「Deep Focus」はブルー
+「Daily Mix 1」「Daily Mix 2」「Daily Mix 3」は相性のよい補色系で展開する
+
+太めのタイポグラフィとシンプルな幾何学モチーフを使い、完成したグラフィックデザインのカバーに見えるようにする
+</artwork>
+
+<timeline> 0.0～0.6秒：緑のSpotifyアイコンが暗いステージ中央で滑らかに拡大する 最小限のオーバーシュートで、自信のある登場感を出す
+0.6～1.5秒：
+アイコンが、中央揃えの2行の上に配置された小さなSpotifyのブランド表現へ切り替わる：
+「Discover」
+「new music」
+1行目は白、2行目はグリーンにする
+短いマスク付きの縦方向の動きで表示する
+1.5～2.4秒：
+スタイライズされたSpotifyデスクトップUIがせり上がって表示される
+細いサイドバー、「Made for you」、3枚のアルバムカード、小さな補助行を表示する
+登場時は控えめなパースの傾きを使い、正面表示へ落ち着かせる
+2.4～3.2秒：
+3枚の注目カバーに近づく
+その上に「New for you」を表示する
+アートワークは鮮明に保ち、その下に短いアルバムタイトルを置く
+ステージ下部には、細い角丸のプレーヤーバーを配置する
+3.2～4.0秒：
+注目カードが、コンパクトな「Fresh finds」リストへ収まるように退く
+4つの楽曲行を少しずつずらして表示する
+各行にはサムネイル、短い曲名、アーティスト名、小さなメニューアイコンを含める
+4.0～4.9秒：
+カラフルなプレイリストカバーの横長ストリップへ切り替える
+見出し：「Every mood」
+補助テキスト：「Find what moves you」
+ストリップは滑らかに横へスライドさせ、端のカードはステージによって一部がトリミングされるようにする
+4.9～5.8秒：
+コンパクトな検索フィールドを表示する
+「Glass Tides」と入力する
+その下に、虹色のアートワーク、「AURA」、緑の再生アイコンを含む選択済みの検索結果を1件表示する
+
+5.8～6.6秒：
+選択されたアートワークを、中央に大きく配置したカバーへ拡大する
+下に「Glass Tides」を表示し、その後に緑色の「AURA」を置く
+プレーヤーバーは表示したままにする
+6.6～7.5秒：
+同じカバーを左へスライドさせる
+右側に楽曲情報を表示する：
+「Glass Tides」
+「AURA」
+「A new frequency」
+角丸の緑色の「Play」ボタンを追加する
+カバーの移動とテキストの表示を同期させる
+7.5～8.3秒：
+ブランドカラーへの短い変化として、インナーステージをグリーンで満たす
+アートワークを縮小し、中央に小さなタイルとして配置する
+その下に小さな暗色のSpotifyブランド表現を置く
+プレーヤーは一時的に後退させる
+8.3～9.8秒：
+暗いステージに戻る
+同じアートワークがカメラに向かって劇的に拡大し、角丸ステージによって大きくトリミングされた状態になる
+下部にプレーヤーを戻す
+ズームが最速になる部分では、コントロールされたモーションブラーを使用する
+
+9.8～11.2秒：
+アートワークが消え、中央揃えのタイポグラフィ表現に切り替わる：
+「Find your」
+「rhythm」
+1行目は白、2行目はグリーンにする
+その下のプレーヤーは表示したまま、安定させる
+11.2～12.5秒：
+「Made for your every day」を表示する
+3つのプレイリストスリーブが、緩やかなパースと小さな逆方向の傾きを伴って登場する
+それらをステージ全体に6枚の小さなスリーブとして広げる
+補助テキスト：「Your sound, always evolving」
+
+12.5～14.0秒：
+プレイリストのレイアウトを、4枚の浮遊するアルバムカバーへ切り替える
+虹色のメインビジュアルを含める
+回転、パース、前後関係、重なりは控えめに使用する
+ランダムに浮遊させず、動きを連動させる
+14.0～15.2秒：
+カバーが中央へ集まり、緑のSpotifyアイコンを包み込むように折り重なる
+アイコンが主役になるにつれて、アートワークを退かせる
+プレーヤーをフェードアウトさせる
+Spotifyアイコンは、集まってくるカバーと同じ中央位置から現れなければならない
+15.2～18.0秒：
+アイコンが少し左へ移動し、大きな白い「Spotify」ワードマークの横で止まる
+移動中はアイコンと文字の間隔を保つ
+表示する：
+「Discover new music」
+「every day」
+1行目は白、2行目はグリーンにする
+完成した構図を最後までクリーンに保持する
+</timeline>
+<persistent_player>
+中盤の大部分では、インナーステージ下部付近に細い角丸のプレーヤーバーを1つ表示し続ける
+含めるもの：
+小さなメインアートのサムネイル
+「Glass Tides」と「AURA」
+再生およびスキップのコントロール
+細い進行トラック
+小さな音量アイコン
+細いボーダーを備えた、控えめな暗色の半透明スタイル
+この繰り返し表示されるプレーヤーで、変化するショットをつなぐ
+アートワークよりも視覚的に目立たない存在にする
+</persistent_player>
+
+<motion_quality>
+緻密に編集されたプレミアムなプロダクト映像の勢いに合わせる
+ほとんどのビジュアルアイデアは約1秒間見せるが、トランジションは滑らかに保つ
+連続的な加速と減速を使用する
+臨界減衰のスプリング、または入念に調整した滑らかなイージングを優先する
+繰り返すバウンドや大きな弾性オーバーシュートは使用しない
+検索、アルバム詳細、ブランドタイル、ズームを通して、メインアートのアイデンティティと位置関係を維持する
+位置合わせトランジション、連動したスケーリング、マスク付きの表示、パースを使用する
+退場するタイトルは、入場するタイトルが同じ空間を占める前に消す
+テキストの重なり、突然のカメラリセット、長い無表示区間、意図のない全画面クロスフェードは避ける
+大きすぎるカバーやカメラ移動はすべて、角丸ステージの内側で自然にクリップする
+パーティクル、衝撃波リング、レンズフレア、手ブレ、無関係なストック映像は使用しない
+</motion_quality>
+
+<audio> 120 BPM前後の、商用利用可能なエレクトロニックミュージックを制作または選定する クリーンなパルス、温かみのあるベース、控えめなメロディ要素、さりげないトランジションアクセントを使用する 重要な登場、選択、ズーム、ロゴ表示を音楽上のイベントに合わせる 効果音は音楽より小さくする ナレーションは使用しない 許諾なしに著作権のある市販楽曲を使用しない </audio>
+<implementation_and_validation>
+async window. seek(t) 関数を通じて絶対時間で駆動する決定論的なアニメーションを構築する
+すべてのトランスフォーム、透明度、マスク、UI状態は、どの順番でフレームをシークしても再現できなければならない
+書き出し中にライブタイマー、累積する物理演算、CSSトランジションの状態へ依存しない
+
+空間アンチエイリアスを使用し、真の60 fpsでレンダリングする
+控えめなモーションブラーのため、出力フレームごとに3～5個の時間方向サブフレームサンプルを使用する
+静止したテキストとアートワークは鮮明に保つ
+コンタクトシートと動きのある再生を確認する
+高速な見出しの切り替え、アートワークの受け渡し、ズーム、カバーの収束、最終ワードマークの字間を確認する
+フレームのタイムスタンプが均等に配置され、全体の長さが18秒になっていることを確認する
+最終MP4と編集可能なソースを納品する前に、映像上の不具合を修正する
+</implementation_and_validation>
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a complete, polished Spotify-themed motion graphics video from the following brief. This prompt is self-contained: no reference video or supplied assets are required.
+
+<deliverables> An 18-second MP4 at 1920×1080 and true 60 fps, with music and subtle sound effects Complete editable source Build, render, inspect, and refine the animation before delivering it Do not stop at a storyboard, still images, or an implementation plan </deliverables>
+<art_direction>
+A premium music-product film presented inside a large, nearly black rounded rectangular stage
+The stage occupies roughly 80% of the canvas width and 75% of its height, centered horizontally and slightly below the vertical center
+Outside the stage, use a soft atmospheric green background: luminous emerald near the upper-left corner, deeper forest green toward the sides, fading to near-black at the bottom
+Inside the stage:
+Near-black background
+White primary typography
+Muted gray secondary text
+Spotify green # 1ED760 for emphasis and controls
+One clean sans-serif font, such as Geist or Inter
+Consistent icon strokes and restrained shadows
+Keep compositions compact and centered, with substantial negative space
+Text should feel like music-product advertising, not oversized presentation headings
+Do not add an outer caption, creator watermark, decorative footer, or progress counter
+</art_direction>
+
+<artwork> Create original square album artwork for a fictional track called “Glass Tides” by “AURA”
+The hero cover is an abstract macro image of flowing pearlescent liquid silk and molten glass
+Use pastel lavender, powder cyan, blush pink, champagne gold, and subtle mint
+Include broad three-dimensional folds, realistic reflective highlights, delicate striations, and a prominent sweeping S-shaped fold
+Fill the square edge to edge
+No text, logo, or border on this hero artwork
+Use this same artwork consistently throughout the film
+
+Create additional designed playlist sleeves:
+“Late Nights” in mustard yellow
+“Good Energy” in pink
+“Deep Focus” in blue
+“Daily Mix 1”, “Daily Mix 2”, and “Daily Mix 3” in complementary colors
+
+These should look like finished graphic-design covers, with bold typography and simple geometric motifs
+</artwork>
+
+<timeline> 0.0–0.6 seconds: A green Spotify icon grows smoothly into the center of the dark stage Give it a confident arrival with minimal overshoot
+0.6–1.5 seconds:
+The icon transitions into a small Spotify identity above two centered lines:
+“Discover”
+“new music”
+The first line is white; the second is green
+Reveal them with short masked vertical movements
+1.5–2.4 seconds:
+A stylized Spotify desktop interface rises into view
+Show a slim sidebar, “Made for you”, three album cards, and small supporting rows
+Use a subtle perspective tilt during the entrance, settling toward a frontal view
+2.4–3.2 seconds:
+Move closer to the three featured covers
+Show “New for you” above them
+Keep the artwork crisp, with short album titles beneath
+A narrow rounded player bar now anchors the bottom of the stage
+3.2–4.0 seconds:
+The featured cards withdraw into a compact “Fresh finds” list
+Reveal four song rows with a slight stagger
+Each row contains a thumbnail, short track title, artist, and a small menu icon
+4.0–4.9 seconds:
+Transition into a horizontal strip of colorful playlist covers
+Heading: “Every mood”
+Supporting line: “Find what moves you”
+The strip slides smoothly sideways, with edge cards partially cropped by the stage
+4.9–5.8 seconds:
+A compact search field appears
+Type “Glass Tides”
+Reveal one selected result beneath it, with the iridescent artwork, “AURA”, and a green play icon
+
+5.8–6.6 seconds:
+The selected artwork expands into a large centered cover
+Reveal “Glass Tides” underneath, followed by “AURA” in green
+Keep the player bar visible
+6.6–7.5 seconds:
+The same cover slides left
+Track information appears on the right:
+“Glass Tides”
+“AURA”
+“A new frequency”
+Add a rounded green Play button
+Coordinate the cover movement and text reveals
+7.5–8.3 seconds:
+A brief brand-color transformation fills the inner stage with green
+The artwork contracts into a smaller centered tile
+Place a small dark Spotify identity underneath
+The player briefly recedes
+8.3–9.8 seconds:
+Return to the dark stage
+The same artwork expands dramatically toward the camera, becoming oversized and cropped by the rounded stage
+Restore the player at the bottom
+Use controlled motion blur during the fastest part of the zoom
+
+9.8–11.2 seconds:
+The artwork clears into a centered typographic statement:
+“Find your”
+“rhythm”
+Use white for the first line and green for the second
+The player remains visible and stable beneath it
+11.2–12.5 seconds:
+Show “Made for your every day”
+Three playlist sleeves enter with gentle perspective and small opposing tilts
+They spread into six smaller sleeves across the stage
+Supporting line: “Your sound, always evolving”
+
+12.5–14.0 seconds:
+The playlist layout transitions into four floating album covers
+Include the iridescent hero artwork
+Use restrained rotation, perspective, depth ordering, and overlap
+Keep their movement coordinated rather than randomly floating
+14.0–15.2 seconds:
+The covers converge toward the center and fold around a green Spotify icon
+The artwork withdraws as the icon becomes the focal point
+Fade the player away
+The Spotify icon must emerge from the same central position as the converging covers
+15.2–18.0 seconds:
+The icon moves slightly left and settles beside a large white “Spotify” wordmark
+Keep the icon and letters separated throughout the movement
+Reveal:
+“Discover new music”
+“every day”
+The first line is white; the second is green
+Hold the finished composition cleanly through the end
+</timeline>
+<persistent_player>
+For most of the middle sequence, keep one narrow rounded player bar near the bottom of the inner stage
+Include:
+Small hero-art thumbnail
+“Glass Tides” and “AURA”
+Play and skip controls
+A thin progress track
+A small volume icon
+Subdued dark translucent styling with a fine border
+This recurring player connects the changing shots
+It must remain visually secondary to the artwork
+</persistent_player>
+
+<motion_quality>
+Match the energy of a tightly edited premium product film
+Most visual ideas last approximately one second, but transitions remain smooth
+Use continuous acceleration and deceleration
+Favor critically damped springs or carefully tuned smooth easing
+No repeated bouncing or large elastic overshoots
+Preserve the hero artwork’s identity and position relationships through search, album detail, brand tile, and zoom
+Use match-position transitions, coordinated scaling, masked reveals, and perspective
+Outgoing titles must disappear before incoming titles occupy the same space
+Avoid overlapping text, sudden camera resets, long blank intervals, and arbitrary full-frame crossfades
+Clip every oversized cover and camera move cleanly to the rounded stage
+No particles, shockwave rings, lens flares, camera shake, or unrelated stock footage
+</motion_quality>
+
+<audio> Create or select commercially usable electronic music around 120 BPM Use a clean pulse, warm bass, restrained melodic elements, and subtle transition accents Align important entrances, selections, zooms, and the logo reveal with musical events Keep effects quieter than the music No voiceover Do not use copyrighted commercial tracks without permission </audio>
+<implementation_and_validation>
+Build a deterministic animation driven by absolute time through an async window. seek(t) function
+Every transform, opacity, mask, and UI state must be reproducible when seeking frames in any order
+Do not depend on live timers, accumulated physics, or CSS transition state during export
+
+Render true 60 fps with spatial antialiasing
+Use 3–5 temporal subframe samples per output frame for restrained motion blur
+Keep stationary text and artwork sharp
+Inspect contact sheets and moving playback
+Check the fast heading changes, artwork handoffs, zoom, cover convergence, and final wordmark spacing
+Verify evenly spaced frame timestamps and the full 18-second duration
+Fix visual defects before delivering the final MP4 and editable source
+</implementation_and_validation>
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2103801834930606193) · [元の投稿](https://x.com/brainextends/status/2103801834930606193) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103504887439065439"></a>
 
 ### ダイナミックな15秒のモーションデザイン・ショーリール

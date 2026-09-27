@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**33 사례 · 14 🌐**
+**36 사례 · 14 🌐**
 
 [카테고리별 탐색](#categories) · [모델별 탐색](#models) · [소스 코드](with-code.md) · [1](../docs/catalog.ko.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 게임 · 6
+### 게임 · 7
 
+- [마인크래프트 스타일 복셀 게임과 고급 셰이더](../docs/catalog.ko.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 샌드박스 생존 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [샌프란시스코를 배경으로 한 원신 스타일 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [실시간 펠리컨 자전거 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
@@ -70,8 +71,10 @@
 
 <a id="category-animation-simulation"></a>
 
-### 애니메이션 · 14
+### 애니메이션 · 16
 
+- [완성도 높은 15초 모션 디자인 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Spotify 테마 모션 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [다이내믹한 15초 모션 디자인 쇼릴](../docs/catalog.ko.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [생애 주기 모션 그래픽 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [인터랙티브 3D 해상 로켓 발사 시퀀스](../docs/catalog.ko.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -93,8 +96,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [완성도 높은 15초 모션 디자인 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [마인크래프트 스타일 복셀 게임과 고급 셰이더](../docs/catalog.ko.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Spotify 테마 모션 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [다이내믹한 15초 모션 디자인 쇼릴](../docs/catalog.ko.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2 샌드박스 생존 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [3D 불탑 탐색](../docs/catalog.ko.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)

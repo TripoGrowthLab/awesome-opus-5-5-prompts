@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-**33 Ví dụ · 14 🌐**
+**36 Ví dụ · 14 🌐**
 
 [Theo danh mục](#categories) · [Theo mô hình](#models) · [Mã nguồn](with-code.md) · [1](../docs/catalog.vi.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Trò chơi · 6
+### Trò chơi · 7
 
+- [Game voxel phong cách Minecraft với shader nâng cao](../docs/catalog.vi.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Game sinh tồn sandbox WebGL2](../docs/catalog.vi.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Game phong cách Genshin Impact lấy bối cảnh San Francisco](../docs/catalog.vi.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Trò chơi đạp xe thời gian thực với bồ nông](../docs/catalog.vi.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
@@ -70,8 +71,10 @@
 
 <a id="category-animation-simulation"></a>
 
-### Hoạt ảnh · 14
+### Hoạt ảnh · 16
 
+- [Video đồ họa motion design 15 giây, hoàn thiện chỉn chu](../docs/catalog.vi.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Video motion graphics theo chủ đề Spotify](../docs/catalog.vi.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Showreel thiết kế chuyển động 15 giây đầy năng lượng](../docs/catalog.vi.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Hoạt họa đồ họa chuyển động về vòng đời](../docs/catalog.vi.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [Chuỗi phóng tên lửa 3D tương tác trên đại dương](../docs/catalog.vi.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -93,8 +96,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [Video đồ họa motion design 15 giây, hoàn thiện chỉn chu](../docs/catalog.vi.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Game voxel phong cách Minecraft với shader nâng cao](../docs/catalog.vi.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Video motion graphics theo chủ đề Spotify](../docs/catalog.vi.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Showreel thiết kế chuyển động 15 giây đầy năng lượng](../docs/catalog.vi.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Game sinh tồn sandbox WebGL2](../docs/catalog.vi.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Điều hướng trong một ngôi chùa 3D](../docs/catalog.vi.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)

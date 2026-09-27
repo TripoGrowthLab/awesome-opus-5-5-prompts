@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**33 Örnekler · 14 🌐**
+**36 Örnekler · 14 🌐**
 
 [Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Oyunlar · 6
+### Oyunlar · 7
 
+- [Gelişmiş shader'lara sahip Minecraft tarzı voksel oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 sandbox hayatta kalma oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [San Francisco'da geçen Genshin Impact tarzı oyun](../docs/catalog.tr.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Gerçek zamanlı pelikan bisiklet oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
@@ -70,8 +71,10 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animasyon · 14
+### Animasyon · 16
 
+- [Profesyonel 15 saniyelik motion design grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Spotify temalı hareketli grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dinamik 15 saniyelik motion design showreel’i](../docs/catalog.tr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Yaşam döngüsünü anlatan hareketli grafik animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [Etkileşimli 3B okyanus roket fırlatma sekansı](../docs/catalog.tr.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -93,8 +96,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [Profesyonel 15 saniyelik motion design grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Gelişmiş shader'lara sahip Minecraft tarzı voksel oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Spotify temalı hareketli grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dinamik 15 saniyelik motion design showreel’i](../docs/catalog.tr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2 sandbox hayatta kalma oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [3B Pagodada Gezinme](../docs/catalog.tr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)

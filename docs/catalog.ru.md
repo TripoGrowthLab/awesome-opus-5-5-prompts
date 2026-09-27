@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**33 Примеры · 14 🌐**
+**36 Примеры · 14 🌐**
 
 [По категориям](#categories) · [По моделям](#models) · [Исходный код](with-code.md) · [1](../docs/catalog.ru.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Игры · 6
+### Игры · 7
 
+- [Воксельная игра в стиле Minecraft с продвинутыми шейдерами](../docs/catalog.ru.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Воксельная survival-игра-песочница на WebGL2](../docs/catalog.ru.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Игра в стиле Genshin Impact в Сан-Франциско](../docs/catalog.ru.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Игра в реальном времени: пеликан на велосипеде](../docs/catalog.ru.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
@@ -70,8 +71,10 @@
 
 <a id="category-animation-simulation"></a>
 
-### Анимация · 14
+### Анимация · 16
 
+- [Профессиональный 15-секундный ролик с моушн-дизайном и графикой](../docs/catalog.ru.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Моушн-дизайн-видео в стиле Spotify](../docs/catalog.ru.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Динамичный 15-секундный шоурил по моушн-дизайну](../docs/catalog.ru.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Анимация в моушн-графике «Цикл жизни»](../docs/catalog.ru.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [Интерактивная 3D-сцена запуска ракеты над океаном](../docs/catalog.ru.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -93,8 +96,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [Профессиональный 15-секундный ролик с моушн-дизайном и графикой](../docs/catalog.ru.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Воксельная игра в стиле Minecraft с продвинутыми шейдерами](../docs/catalog.ru.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Моушн-дизайн-видео в стиле Spotify](../docs/catalog.ru.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Динамичный 15-секундный шоурил по моушн-дизайну](../docs/catalog.ru.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [Воксельная survival-игра-песочница на WebGL2](../docs/catalog.ru.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Навигация по 3D-пагоде](../docs/catalog.ru.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)

@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**33 案例 · 14 🌐**
+**36 案例 · 14 🌐**
 
 [依用途瀏覽](#categories) · [依模型瀏覽](#models) · [專案原始碼](with-code.md) · [1](../docs/catalog.zh-Hant.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 遊戲 · 6
+### 遊戲 · 7
 
+- [Minecraft 風格體素遊戲，搭載進階著色器](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 沙盒生存遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [《原神》風格的舊金山背景遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [即時 3D 鵜鶘騎車遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
@@ -70,8 +71,10 @@
 
 <a id="category-animation-simulation"></a>
 
-### 動畫 · 14
+### 動畫 · 16
 
+- [精緻的 15 秒動態設計圖像影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Spotify 主題動態圖像影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [動感十足的 15 秒動態設計作品集影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [生命循環動態圖像動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [互動式 3D 海上火箭發射序列](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -93,8 +96,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [精緻的 15 秒動態設計圖像影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Minecraft 風格體素遊戲，搭載進階著色器](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Spotify 主題動態圖像影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [動感十足的 15 秒動態設計作品集影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2 沙盒生存遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [在 3D 寶塔中探索](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)

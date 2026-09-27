@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**33 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
+**36 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
 
 [按用途浏览](#categories) · [按模型浏览](#models) · [项目源码](with-code.md) · [1](../docs/catalog.zh.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 游戏 · 6
+### 游戏 · 7
 
+- [Minecraft 风格体素游戏，搭配高级着色器](../docs/catalog.zh.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 沙盒生存游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Genshin Impact 风格的旧金山背景游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [实时鹈鹕骑行游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
@@ -70,8 +71,10 @@
 
 <a id="category-animation-simulation"></a>
 
-### 动画 · 14
+### 动画 · 16
 
+- [精致的 15 秒动态图形视频](../docs/catalog.zh.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Spotify 主题动态图形视频](../docs/catalog.zh.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [动态 15 秒动效作品集短片](../docs/catalog.zh.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [生命循环动态设计动画](../docs/catalog.zh.1.md#claude-opus-5-5-2103428454355980558) · [Loïc](https://x.com/loicRambo)
 - [交互式 3D 海上火箭发射序列](../docs/catalog.zh.1.md#claude-opus-5-5-2103303303358534021) · [PEP PEPICH](https://x.com/Artless101)
@@ -93,8 +96,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 33
+### Claude Opus 5.5 · 36
 
+- [精致的 15 秒动态图形视频](../docs/catalog.zh.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
+- [Minecraft 风格体素游戏，搭配高级着色器](../docs/catalog.zh.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
+- [Spotify 主题动态图形视频](../docs/catalog.zh.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [动态 15 秒动效作品集短片](../docs/catalog.zh.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
 - [WebGL2 沙盒生存游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [探索三维宝塔](../docs/catalog.zh.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
@@ -130,4 +136,4 @@
 - [交互式 3D 史前岛屿](../docs/catalog.zh.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 33 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 36 条案例与在线演示 →</a></strong></p>

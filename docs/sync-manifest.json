@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "repository": "TripoGrowthLab/awesome-opus-5-5-prompts",
   "model": "claude-opus-5-5",
-  "count": 33,
+  "count": 36,
   "sourceCodeCount": 1,
   "locales": [
     "en",
@@ -21,6 +21,9 @@
     "vi"
   ],
   "promptIds": [
+    "claude-opus-5-5-2103846630088716687",
+    "claude-opus-5-5-2103822946800165270",
+    "claude-opus-5-5-2103801834930606193",
     "claude-opus-5-5-2103504887439065439",
     "claude-opus-5-5-2103502454750920925",
     "claude-opus-5-5-2103483174957597035",
@@ -57,6 +60,9 @@
   ],
   "pages": [
     [
+      "claude-opus-5-5-2103846630088716687",
+      "claude-opus-5-5-2103822946800165270",
+      "claude-opus-5-5-2103801834930606193",
       "claude-opus-5-5-2103504887439065439",
       "claude-opus-5-5-2103502454750920925",
       "claude-opus-5-5-2103483174957597035",
@@ -93,6 +99,9 @@
     ]
   ],
   "readmePromptIds": [
+    "claude-opus-5-5-2103846630088716687",
+    "claude-opus-5-5-2103822946800165270",
+    "claude-opus-5-5-2103801834930606193",
     "claude-opus-5-5-2103504887439065439",
     "claude-opus-5-5-2103502454750920925",
     "claude-opus-5-5-2103483174957597035",
@@ -129,6 +138,9 @@
   ],
   "featuredPromptIds": [],
   "imagePromptIds": [
+    "claude-opus-5-5-2103846630088716687",
+    "claude-opus-5-5-2103822946800165270",
+    "claude-opus-5-5-2103801834930606193",
     "claude-opus-5-5-2103504887439065439",
     "claude-opus-5-5-2103502454750920925",
     "claude-opus-5-5-2103483174957597035",
@@ -164,160 +176,160 @@
     "claude-opus-5-5-2102450239923720440"
   ],
   "categories": {
-    "games": 6,
+    "games": 7,
     "3d-scenes": 5,
     "3d-assets": 2,
     "interactive-3d": 6,
-    "animation-simulation": 14
+    "animation-simulation": 16
   },
   "models": {
-    "claude-opus-5-5": 33
+    "claude-opus-5-5": 36
   },
   "files": [
     {
       "path": "assets/manifest.json",
-      "sha256": "be9b0efd4aa9c86818235946ba843b0a702c7cc429f25e3e2347e09cc233e55c",
-      "bytes": 16438
+      "sha256": "552657259e2dc8201ce05cd890ddd50fd5b7c3be8229079acc5bfd126ebbcab0",
+      "bytes": 17921
     },
     {
       "path": "docs/catalog.de.1.md",
-      "sha256": "3b1c10f6183012bb6517fca75cd7cae2c29730a0619aa8fb38e3350de75cbb0f",
-      "bytes": 126703
+      "sha256": "c1c59940ed88cf48f99554a6ba7fe896fd4f8715ac3e79a01984cca699ffc26b",
+      "bytes": 149392
     },
     {
       "path": "docs/catalog.de.md",
-      "sha256": "0c489d4df2fd2dc979c9faf4dc927d172a50a807ee567eaa6c0f7dcb8952e434",
-      "bytes": 13593
+      "sha256": "ab2b934383d16b30e6107319f72db82fb0505ddd1fae91bc3553d78d8f23b161",
+      "bytes": 14553
     },
     {
       "path": "docs/catalog.en.1.md",
-      "sha256": "c6c6cdd27b3c9e3e73d3e3d1b6e3422a69dff7ea3a31574465c864d53445a688",
-      "bytes": 84281
+      "sha256": "231f9d47e731c8a60b94fa71f12013f334b4e74822b768a43b111818be82d232",
+      "bytes": 95675
     },
     {
       "path": "docs/catalog.en.md",
-      "sha256": "f854277b68bc4f6b0c6e73242d0511becb49db7b267c7115c7eedb1ccdf4d8a5",
-      "bytes": 13206
+      "sha256": "658e93ba73534498f08799dffc1f74ecac2eba1f96dd7d8453e827e1163eadb3",
+      "bytes": 14088
     },
     {
       "path": "docs/catalog.es.1.md",
-      "sha256": "ae0d50d1825788920bcd9d699a47856e1be123e5fd135ce5aa71448f96ec25f9",
-      "bytes": 126883
+      "sha256": "dc2ecd63b7fd2338b1db0cff18c07e3bad0f427ed3df8cd94fa4c59d601a617f",
+      "bytes": 149804
     },
     {
       "path": "docs/catalog.es.md",
-      "sha256": "4b287127471800afc1754952a9c690b4d1d2a06b2ee4e5f82b0ecd14e67246ea",
-      "bytes": 13960
+      "sha256": "1d648b4f31d1b838a73a7d98254d2bbfb06cea76ae8f58025992fb07a2a379b4",
+      "bytes": 14894
     },
     {
       "path": "docs/catalog.fr.1.md",
-      "sha256": "2427bdf72bfbfc693027a70956290c2a8a991db6ee5dcf5ba0b7efe94a4ae22d",
-      "bytes": 131035
+      "sha256": "ed0033594ed7c116e2bb23fc17eae03385766249adb276e1a98a6be1e77049c5",
+      "bytes": 154475
     },
     {
       "path": "docs/catalog.fr.md",
-      "sha256": "6cd9be7b106b10b0018258d40ab339271e97261938399926194bb6ab65677930",
-      "bytes": 13929
+      "sha256": "b50d5baa802117cbd0e6188c9a1f4c39ee05c131ac4448194e6f356251e08d35",
+      "bytes": 14869
     },
     {
       "path": "docs/catalog.it.1.md",
-      "sha256": "66280ac93716e24b7f065ff465a7dc8db0f3a6c80cf28c36bdc059c452643b30",
-      "bytes": 125094
+      "sha256": "6e902d6f37fdf3404fde885cbab19ef6fe95e6cc3ac0310d8049735890ad0bd9",
+      "bytes": 147426
     },
     {
       "path": "docs/catalog.it.md",
-      "sha256": "30b3c6a14fa070724c33c7c717fe54fe0316f533f7947a03e6ac5f0b3a088e2f",
-      "bytes": 13808
+      "sha256": "c6a939a13bf46ecd54f760763047a64b8ba6b49d299e748a68cefc920c1a132c",
+      "bytes": 14730
     },
     {
       "path": "docs/catalog.ja.1.md",
-      "sha256": "9bc42b11df5f360c90c433787bad57668894a91905bd28b27fe3cc4ea63aafad",
-      "bytes": 131079
+      "sha256": "2ce7e4a18ca4bc0435852c0e56420ccc9e641382dbd08d779a87398ddebecf1b",
+      "bytes": 155543
     },
     {
       "path": "docs/catalog.ja.md",
-      "sha256": "2db9c8be2a541acf25f8d91a042ee66170c0a54cc8cec5b5d679c3fc392ca4ee",
-      "bytes": 14463
+      "sha256": "0de2b31409990f1884acacb44faf637c38dff2ca27c5e7b3dc2b3f121a2525a3",
+      "bytes": 15481
     },
     {
       "path": "docs/catalog.ko.1.md",
-      "sha256": "93398ffc636f0434afb2f233ed2a4908158ae31377e12f0d5ea38a4e27c08c9c",
-      "bytes": 129703
+      "sha256": "cacecaffe95cf268384e2eacc547b3be0767b495544c6ddfd9aee8009ea81cbd",
+      "bytes": 152594
     },
     {
       "path": "docs/catalog.ko.md",
-      "sha256": "ba293fd8879a963694af3f3a10d73354cd0f6f5e41e580750c4f1b9309c9e5e5",
-      "bytes": 13683
+      "sha256": "5cbbd0bd932a6bf6c618d481074e952db654aaad55de6f95384ae6c16957e5c9",
+      "bytes": 14617
     },
     {
       "path": "docs/catalog.pt.1.md",
-      "sha256": "aaf9eb5d756461c3b5b791368e85a38a47b779e6fda3f46d982d6496f0ef4e2e",
-      "bytes": 124247
+      "sha256": "a725bc7f05de879531dddc9ad40f6c469b7f8528a132f5e9882acd3820ac99f3",
+      "bytes": 146608
     },
     {
       "path": "docs/catalog.pt.md",
-      "sha256": "4d36e329a2f47ae5c48eeff1753e68d3cd541e0ac6015312a4dc94bc872183e4",
-      "bytes": 13819
+      "sha256": "fe495b9dad33457a5148e1e1b48783a8da2318ab79ca1767ad2bfabdc41ed07a",
+      "bytes": 14789
     },
     {
       "path": "docs/catalog.ru.1.md",
-      "sha256": "4e1eca86792d4ae9c025f3f5784dbfd3680cb9c460ca79a247839853c33f6ce1",
-      "bytes": 167561
+      "sha256": "51050aa118b3a9197554fb5ef376650052a7b98235f7f13ae7bd42855f178b00",
+      "bytes": 198465
     },
     {
       "path": "docs/catalog.ru.md",
-      "sha256": "e34f2ccc57ff2053dba56a16d6fd4b7e349010cb0d577bf1dacc264435395e91",
-      "bytes": 16018
+      "sha256": "a27040c0215340a0a5c11562f960553c64251c82b20d86e8e99b332a6bb42fb4",
+      "bytes": 17184
     },
     {
       "path": "docs/catalog.tr.1.md",
-      "sha256": "0380d6e00ca940a911c9d02d9f8fb222f933ee922168781eda1cc6b86731e6a1",
-      "bytes": 125729
+      "sha256": "da69771c0336305416b1f96731ffc48006b3778bf53e1fda1679081d2edc4fc5",
+      "bytes": 148171
     },
     {
       "path": "docs/catalog.tr.md",
-      "sha256": "4b5bf9fb08e383e19b76a813df42635054d8e9fde488929561a5d1673d2be54a",
-      "bytes": 13544
+      "sha256": "f4954671f3469b0c7c853f9250ab4222e9be7e854427daedfe49682fd25ca807",
+      "bytes": 14468
     },
     {
       "path": "docs/catalog.uk.1.md",
-      "sha256": "e8a8d50dcc67b06cc5e1eec8b8bdfc7bc0a59f5d9db7d0c7d7c4a19368d7426f",
-      "bytes": 166186
+      "sha256": "4cfc42d260a62491acdbb6413d231758c35fde5b724622d8eab7374c0d6f0406",
+      "bytes": 196919
     },
     {
       "path": "docs/catalog.uk.md",
-      "sha256": "115fa8f67481b2072cfd00761c08d84a6545815d5d2c0b684b2ef4597e681713",
-      "bytes": 16011
+      "sha256": "900a9daa70caa5a7f20ac0775134ef94cc1242583530e7ba7464c0b483957106",
+      "bytes": 17143
     },
     {
       "path": "docs/catalog.vi.1.md",
-      "sha256": "ba73c8df38057a2a3e9becb5eff041e0a8c8b43f7ac2efb723af3ff5e12bbc67",
-      "bytes": 134252
+      "sha256": "0a58d817a3307ed4d7ed85291f8b2318936c97d1a6f57bed8f22e233ab813ddd",
+      "bytes": 157787
     },
     {
       "path": "docs/catalog.vi.md",
-      "sha256": "ce148c45f7160510d100308a86c75b2cdc69ea5fad42a4f161bb49d3d913f479",
-      "bytes": 14230
+      "sha256": "e00fde3c54b502bab4d713e887b1beac74d4ccbf411fe82040cb17f205f0f00d",
+      "bytes": 15186
     },
     {
       "path": "docs/catalog.zh-Hant.1.md",
-      "sha256": "e5b58fa9314810597d7186ee48fa6b4a0e067f9b102b9b6e89ece47c84302584",
-      "bytes": 113491
+      "sha256": "a3a8bafb27e941e485961e05671da3c9a38080ee778024bf9a7d8a2a46d0deca",
+      "bytes": 133657
     },
     {
       "path": "docs/catalog.zh-Hant.md",
-      "sha256": "ed07eb123504df8cce602ad36939b0c1a86d7e2d424b6fb9c7af4651f16e76e6",
-      "bytes": 13141
+      "sha256": "53fb02dcfc8900809b5aeb166e4c25e1b185d4243248a2a30bb178b6aadd8bc6",
+      "bytes": 14041
     },
     {
       "path": "docs/catalog.zh.1.md",
-      "sha256": "1c3a0a59ca101a8b716f13cd69c46406741cc25137a7f1a5d7363349dea1e73b",
-      "bytes": 106417
+      "sha256": "47806b6baeed2f3f4b95ffa86908db99640a0981a073ce51ac19fa4011257edf",
+      "bytes": 126619
     },
     {
       "path": "docs/catalog.zh.md",
-      "sha256": "59bb8d536b0899a644cfcafc0519bc45fd242a7cc82a3fe45259e52fd6138bf3",
-      "bytes": 12899
+      "sha256": "a17bd4a850d90ab327803ccd57a0d6c6b27946441731f6a4dada0cbbfa830c0e",
+      "bytes": 13757
     },
     {
       "path": "docs/with-code.md",
@@ -326,13 +338,13 @@
     },
     {
       "path": "README.md",
-      "sha256": "549579d1e41fb8ae926d186397dfb8ee47888810e35a91d45c26e5db86b3c64d",
-      "bytes": 86038
+      "sha256": "e2d35a601b60502ecd37dfefd194202cfb4099fa931120506a824d86221c438d",
+      "bytes": 97260
     },
     {
       "path": "README.zh-CN.md",
-      "sha256": "80670d14882e1b8c913ecd0e874cdb4a0a8960369347d66b1a8190604d0ebbed",
-      "bytes": 108176
+      "sha256": "dfce0364cd8c6551f6002815608ea2ee1f1a86a5503ddc49097c6234210b6fc7",
+      "bytes": 128218
     }
   ]
 }

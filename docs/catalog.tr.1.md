@@ -26,8 +26,14 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (36)</summary>
+<summary>Örnekleri keşfet (42)</summary>
 
+- [Tüm özellikleri eksiksiz LEGO Ford Model T seti](#claude-opus-5-5-2104232297167716457)
+- [Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS](#claude-opus-5-5-2104232013578617241)
+- [55 saniyelik veri merkezinden atoma 3B sahne](#claude-opus-5-5-2104223449849761837)
+- [Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı](#claude-opus-5-5-2104204312624918810)
+- [Dönüşüp birleşen üç aracın anime tarzı 3B CG’si](#claude-opus-5-5-2104193522715029657)
+- [Claude Code için yapay zekâ küresi arayüz hareketi — Opus 5.5](#claude-opus-5-5-2104162483888062945)
 - [Profesyonel 15 saniyelik motion design grafik videosu](#claude-opus-5-5-2103846630088716687)
 - [Gelişmiş shader'lara sahip Minecraft tarzı voksel oyunu](#claude-opus-5-5-2103822946800165270)
 - [Spotify temalı hareketli grafik videosu](#claude-opus-5-5-2103801834930606193)
@@ -66,6 +72,176 @@
 - [Etkileşimli 3B Tarih Öncesi Ada](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104232297167716457"></a>
+
+### Tüm özellikleri eksiksiz LEGO Ford Model T seti
+
+[Alex Lieberman](https://x.com/businessbarista) · 2026-09-27 · Claude Opus 5.5 · Varlıklar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104232297167716457"><img src="../assets/previews/da9f4a4b393505130f91bf61b59fb0fd8911d4f2b7e9b55ea26ad6d1dc953c26.webp" width="840" loading="lazy" alt="Tüm özellikleri eksiksiz LEGO Ford Model T seti"></a>
+
+**İstem**
+
+```text
+Orijinal Ford Model T'nin LEGO setini yapmak istiyorum.
+
+Setin tüm özellikleri eksiksiz olsun; mümkün olan yerlerde hareketli ve etkileşimli özellikler içersin ve bir LEGO ustasının gurur duyacağı kalitede olsun.
+
+Son çıktıda LEGO'dan sipariş etmem gereken tüm parçaların listesini, LEGO setinin bir render'ını ve seti kurmak için gereken kullanım kılavuzunu istiyorum.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+I want to build a lego set of the original ford motel T.
+
+I want it to be feature complete, include motion/interactivity where possible, and be of the quality a lego master builder would be proud of.
+
+I want the final output to include a rendering of the lego set, all of the pieces i need to order from lego, and the instruction manual to build it.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104232297167716457) · [Orijinal gönderi](https://x.com/businessbarista/status/2104233375791718456) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104232013578617241"></a>
+
+### Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS
+
+[Zen](https://x.com/zenvnt) · 2026-09-27 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104232013578617241"><img src="../assets/previews/1bed9c3bbdcd40bf229e58e043a9251787678dc426ccfc370a642377431f1aab.webp" width="840" loading="lazy" alt="Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS"></a>
+
+**İstem**
+
+```text
+Hiper gerçekçi bir çok oyunculu FPS oluştur. Oyunu, tuğla binalarla çevrili karlı bir şehir ara sokağında geçir. Belirgin geri tepmeye ve havaya saçılan mermi kovanlarına sahip bir saldırı tüfeği ekle. Ateş edilecek düşmanlar, engel aşma mekanikleri ve kanlı ekran hasarı efektleri ekle. Silah kullanımında isabet kaydı kusursuz olsun; akışına bırakıp bunu eksiksiz bir oyuna dönüştür.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build me a hyper-realistic multiplayer FPS. Set it in a snowy city alleyway with brick buildings. Give me an assault rifle with crispy recoil and flying bullet casings. Add enemies to shoot, vaulting mechanics, and bloody screen damage effects. Make the gunplay hit-reg immaculate and just vibe it out into a full game.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104232013578617241) · [Orijinal gönderi](https://x.com/zenvnt/status/2104232358811676833) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104223449849761837"></a>
+
+### 55 saniyelik veri merkezinden atoma 3B sahne
+
+[Crane](https://x.com/Cranefomo) · 2026-09-27 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104223449849761837"><img src="../assets/previews/db935ef25aec1b82e7c0fa1d8d4380e6d91c056b31d7dab67a27830f2037b8cd.webp" width="840" loading="lazy" alt="55 saniyelik veri merkezinden atoma 3B sahne"></a>
+
+**İstem**
+
+```text
+Bana 55 saniyelik bir 3B sahne oluştur. Kamera bir veri merkezinin içine uçsun, bir rafı açsın, bir GPU'yu söksün, çipe yakınlaşsın, transistörlerin içinden geçsin ve tek bir silikon atomuna ulaşsın. Sağ tarafta metre cinsinden bir ölçek çubuğu bulunsun. Etiketler müşterinin dilinde olsun. Tarayıcıda çalışsın; tek dosya olsun ve bağımlılık içermesin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Give me a 55 second 3D scene. Camera flies into a data center, opens a rack, disassembles a GPU, zooms into the chip, passes through the transistors, lands on a single silicon atom. Scale rail on the right in meters. Labels in the client's language. Runs in a browser, one file, no dependencies.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104223449849761837) · [Orijinal gönderi](https://x.com/Cranefomo/status/2104223449849761837) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104204312624918810"></a>
+
+### Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı
+
+[Iniyan (ini)](https://x.com/iniyanai) · 2026-09-27 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104204312624918810"><img src="../assets/previews/9603584271e652deb0c8f256f136889cef4c0c1d43a13a2eea2447dee2e04ce4.webp" width="840" loading="lazy" alt="Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı"></a>
+
+**İstem**
+
+```text
+https://t.co/fCRvqmOamH. için ne kadar yetenekli bir hareketli grafik tasarımcısı olduğunuzu gösteren dinamik, 30 saniyelik bir hareketli grafik videosu oluşturun
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are for https://t.co/fCRvqmOamH.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104204312624918810) · [Orijinal gönderi](https://x.com/iniyanai/status/2104204318085931054) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104193522715029657"></a>
+
+### Dönüşüp birleşen üç aracın anime tarzı 3B CG’si
+
+[風の民@](https://x.com/allforbigfire) · 2026-09-27 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104193522715029657"><img src="../assets/previews/96750421e0dcbc0ba425a0d0adf869841f93a6a742f88e86bfbac0c372c20dcc.webp" width="840" loading="lazy" alt="Dönüşüp birleşen üç aracın anime tarzı 3B CG’si"></a>
+
+**İstem**
+
+```text
+Robot animesindeki gibi üç aracın dönüşüp birleşerek robota dönüştüğü bir sahneyi de anime tarzı 3B CG olarak oluşturabilir misin?
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104193522715029657) · [Orijinal gönderi](https://x.com/allforbigfire/status/2104193522715029657) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104162483888062945"></a>
+
+### Claude Code için yapay zekâ küresi arayüz hareketi — Opus 5.5
+
+[leolee](https://x.com/listudio) · 2026-09-27 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104162483888062945"><img src="../assets/previews/2b698460f02fd8ccc7a8ff74e61e28fa5b6189c6e81e131013d42058c34b1227.webp" width="840" loading="lazy" alt="Claude Code için yapay zekâ küresi arayüz hareketi — Opus 5.5"></a>
+
+**İstem**
+
+```text
+Benden şunları iste: yapay zekâ aracısının kullanıcı için tamamladığı görev (varsayılan: 3 günlük Kyoto gezisi planla + rezerve et), renk paleti (varsayılan: sıcak gri tuval #E6E3DE, saf siyah/beyaz arayüz; renkli olan tek şey küre — inci ışıltılı mavi → mor → şeftali) ve yaklaşık 120 BPM'lik telifsiz bir şarkı (Mixkit'te kendin ara, BPM'i numpy ile ölç, parçanın tamamını indirmeden önce önizleme bağlantılarıyla 3 aday göster). Yapay zekâ sohbet aracısı için Dribbble düzeyinde arayüz konsept hareketi. Tek bir beyaz şekil, asla kesme: her durum, boyutunu, yarıçapını ve rengini değiştirirken içeriğini kısa bir bulanıklıkla değiştiren aynı öğedir. Yıldız, şeklin DIŞINDA bir süreklilik öğesi olarak yaşayan bir GLSL "yapay zekâ küresi"dir (akışkan, nefes alan, iridescent blob — ChatGPT / Siri ses küresi gibi) ve film boyunca rol değiştirir: bekleme kahramanı → dinlerken sese tepki verir → avatar olarak giriş çubuğunun içine küçülür → düşünürken daha hızlı döner → yanıtta avatar olur → görev tamamlandığında açılır → beklemeye döner. Her değişimi gerçek tıklamalar ve sürüklemelerle bir imleç yönetir. Tek ve temiz bir arayüz yazı tipi (Geist). Her yerde spring animasyonları, en fazla küçük bir taşma. Kamera, her durum karenin yaklaşık %60–75'ini dolduracak şekilde yakınlaşır. Küre her vuruşta hafifçe titreşir. Son kare ilk karedir; böylece döngü oluşur. Yasaklar: zıplayan easing, parçacık patlamaları, arayüz kabuğunda glow veya gradient (küre içeriktir, arayüz kabuğu değil), eşleşmeyen ikon çizgi kalınlıkları, boş bekleme süresi, şablon gibi görünen her şey. 120 BPM, 8 ölçü = 32 vuruş = 16 sn; her vuruşta bir şey olur (n. vuruş (n-1)*0.5 sn'de): 1. ölçü: küre beklemede, imleç yaklaşır | küreye tıkla → şekil "LISTENING" hapine uzanır, küre soluna taşınır ve hece zarfıyla sallanır | canlı döküm "Plan 3 days in Kyoto" yazar | "…under 1,500, the value rolls live | 1,248'i geçene kadar sürükle "cheapest plan" 6. ölçü: kaydırıcı → siyah kaydırarak onayla "Book trip · $1,248" | düğmeyi tut, sağa sürükle | sonu geç → lastik bant | bırak → sona oturur, ok spinner'a dönüşür 7. ölçü: → bildirim "Trip booked" | "Flights ✓" "Ryokan ✓" çipleri belirir | küre açılır (renk + ölçek) | bildirim küreye doğru çöker 8. ölçü: şekil solar, küre kahraman boyutuna geri büyür | yerleşir | vuruşla nefes alır, imleç dışarı süzülür | beklemeye döner (döngü) 1. Kendi içinde çalışan tek bir HTML dosyası; kare 1440x1440, yazı tipleri ve ses içermeyen varlıklar data URI olarak satır içine gömülü. Her stil, saf bir `seek(t)` içinde zamandan hesaplanır: CSS transition yok, timer yok, kareler arasında taşınan durum yok, seek içinde asla track oluşturma. 2. Spring animasyonları kapalı biçimli step response'larıdır. Hedefi birçok kez değişen bir değer, her değişim için bir spring'in toplamıdır; döngü için SON hedefi başlangıç değeri olarak al ve önceki iki döngünün (t + L, t + 2L) spring kuyruklarını da ekle; böylece dikişte hem konum hem hız eşleşir. Sönüm oranı ≥ 0.72. 3. İçerik katmanlarının kendilerine ait giriş/çıkış pencereleri vardır: çıkış tam olarak vuruşta tamamlanır, giriş yaklaşık 80 ms sonra başlar (opaklık + yaklaşık 12 px ekran bulanıklığı + 0.965→1 ölçek) veya metinler üst üste biner. 4. Sürüklemeler doğrudan manipülasyondur: basılı tutulurken değer = başlangıç + (cursorX − basıldığı andaki cursorX); bir sınır aşılırsa rubber(over, R) = R·(1 − e^(−over/R)) uygula; bırakıldığında, bırakma konumu VE hızından snap hedefine doğru serbest bir spring çalışır. İmleç ara noktaları bir spring üzerindeki [ayrılma zamanı, x, y] değerleridir; son ara nokta ilkine eşittir, böylece imlecin konumu ve hızı döngü boyunca süreklidir. 5. Küre: OFFSCREEN 640×640 canvas'a çizilen WebGL fragment shader, ardından seek içinde görünür 2D canvas'a eşzamanlı olarak drawImage edilir (WebGL canvas'ın doğrudan ekran görüntüsünü almak başsız ortamda güvenilir değildir). Zaman periyodik olmalıdır: uniforms için tam sayı k değerleriyle (ör. k=2 ve k=5) (cos, sin)(2π·k·t/L) kullan; ham t kullanma. Silüet yarıçapı = birim yön vektöründe örneklenen direction·1.4 + T üzerindeki amp·noise ile 0.74 + amp·noise (merkez dikişi yok); yüzey = küre normaline uygulanan düşük frekanslı, domain-warp edilmiş 3B noise → büyük ve yumuşak renk bantları; %16 inci beyazı, parlak bir iç çekirdek, küçük ve keskin bir specular (pow 70), soluk lila fresnel kenarı; hacim hissi için daha koyu alt yarı; beklemedeki kürenin altında yumuşak eliptik gölge. Uniforms: amp (beklemede 0.08, dinlerken + hece zarfı, düşünürken biraz +), think (daha güçlü/hızlı warp), bloom (tamamlanma renk patlaması). Piksel başına ≤5 noise çağrısı kullan. 6. Ses: şarkıyı numpy ile analiz et (spectral-flux onset, phase-locked BPM, kick + chroma change ile downbeat, ölçü başına RMS). Tam enerjili 8 ölçülük bir cümlenin downbeat'inde başlat; böylece ses döngüsü bir cümle sınırında birleşir. Büyük analiz pencereleri vuruşları yaklaşık 15–25 ms erken tahmin eder: kesmeyi 256 örnekli pencereyle yeniden ölç ve medyan artık < 2 ms olana kadar başlangıcı kaydır. Son 60 ms'yi başlangıçtan önceki 60 ms ile crossfade et. Arayüz seslerini numpy ile sentezle (click, send swoosh, grab/drop, tick, success, chime) ve her birini olay zamanında ÖLÇÜLMÜŞ TEPE noktasına yerleştir; çok notalı seslerde ilk notayı en yüksek sesli tut. 7. Playwright Chromium ile render al: her kare için yarım kareye yayılan 4 alt kare (180° shutter, kare zamanının merkezinde), 16 paralel worker. Her seek işleminden sonra ekran görüntüsünü almadan önce iki requestAnimationFrame bekle; screenshot(animations='disabled') KULLANMA. Sahne WebGL kullandığı için  --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog ile başlat (varsayılan SwiftShader-Vulkan yolu çoğu zaman WebGL context'ini kaybeder). RGBA ekran görüntülerini RGB'ye dönüştür. 8. ffmpeg ile kodla: -reinit_filter 0, tmix=frames=4 ardından her 4. kareyi seç, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, süreyi tam olarak -t ile belirt. tmix'in ffmpeg sürümünde gerçekten hangi alt karelerin ortalamasını aldığını doğrula ve select offset'ini buna göre seç. Ayrıca paylaşım için crf 20 sürümü ve 3× döngülü bir kopya oluştur. 9. Tam render'dan önce her vuruşta bir kare ve vuruştan 0.3 sn sonra bir kare render al, bunları contact sheet'lerde döşe ve ızgara dışında, sıkışık, kırpılmış, okunaksız veya kürenin eksik olduğu her şeyi düzelt. Ardından geçiş karelerini tam çözünürlükte örnekleyerek kontrol et. 10. Doğrula ve raporla: t=0 ve t=L ekran görüntüleri piksel düzeyinde aynı; kare sayısı = 960 ve video/ses tam olarak 16.000 sn; dikiş karesi farkı komşularıyla aynı mertebede; RGBA alt kare yok; son sesin vuruş ofseti < 10 ms; kürenin her birinde bulunduğunu doğrulamak için bekleme karelerinden örnek al. - e0 > e1 olan smoothstep(e0, e1, x) GLSL'de tanımsızdır — SwiftShader 0 döndürür ve küre kaybolur. Her zaman 1.0 - smoothstep(lo, hi, x) yaz. - Yazılım GL üzerinde ağır bir shader GPU watchdog'u tetikler (CONTEXT_LOST_WEBGL): canvas'ı 640²'de tut ve noise sayısını düşük tut; her testte console context-loss mesajlarını dinle. - Kameranın ölçeklediği hiçbir öğeye will-change ekleme; aksi hâlde metin bulanık render edilir. - Takipçiler (küre, avatarlar), şekilden biraz daha yavaş bir spring kullanır; böylece şeklin kenarı tarafından asla kırpılmazlar. - Katman sırası: arka plan plakası olan her şey, üzerinde duran metin/ikonlardan ÖNCE gelir. - Bir merkezleme translate() işlevini animasyonlu bir transform ile geçersiz kılma — bunun yerine bir katmana sar. - ffmpeg -shortest son kareyi düşürebilir; -t'yi açıkça ayarla. - Son kareyi, imleç konumu ve hızı da dâhil olmak üzere ilk kareyle aynı yap; aksi hâlde döngü takılır. Girdileri benden iste, önce yalnızca küre shader'ının prototipini oluştur (t=0, t=4, t=8 render'larını al ve 8 yeni sayfa yüklemesi boyunca context kaybı olmadan t=0 == t=16 piksel piksele eşit olduğunu kanıtla), ardından 8 ölçülük vuruş ızgarasındaki durum listesini tablo olarak göster ve tam sahneyi yazmadan önce OK'imi bekle.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Ask me for: the task the AI agent completes for the user (default: plan + book a 3-day Kyoto trip), the palette (default: warm-gray canvas #E6E3DE, pure black/white UI, the orb is the only colored thing — pearl iridescent blue → violet → peach), and a royalty-free song around 120 BPM (search Mixkit yourself, measure BPM with numpy, show me 3 candidates with preview links before downloading the full track). Use AskUserQuestion, max 4 questions per round, recommended option first. Dribbble-level UI concept motion for an AI chat agent tool. One white shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. The star is a GLSL "AI orb" (fluid, breathing, iridescent blob — like the ChatGPT / Siri voice orb) that lives OUTSIDE the shape as a continuity element and changes role through the film: idle hero → reacts to voice while listening → shrinks into the input bar as an avatar → swirls faster while thinking → avatar on the answer → blooms when the task completes → back to idle. A cursor drives every change with real clicks and drags. One clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills ~60–75% of the frame. The orb pulses subtly on every beat. The last frame is the first frame, so it loops. Banned: bouncy easing, particle bursts, glows or gradients on UI chrome (the orb is content, not chrome), mismatched icon strokes, dead time, anything that looks like a template. 120 BPM, 8 bars = 32 beats = 16s, something happens on every beat (beat n at (n-1)*0.5s): Bar 1: orb idle, cursor approaches | click orb → shape stretches into a "LISTENING" pill, orb moves to its left and wobbles with a syllable envelope | live transcript types "Plan 3 days in Kyoto" | "…under 1,500, the value rolls live | drag past the 1,248 "cheapest plan" Bar 6: slider → black swipe-to-confirm "Book trip · $1,248" | grab the knob, drag right | past the end → rubber band | release → snaps to the end, arrow becomes a spinner Bar 7: → toast "Trip booked" | chips "Flights ✓" "Ryokan ✓" pop in | orb blooms (color + scale) | toast collapses toward the orb Bar 8: shape fades, orb grows back to hero size | settles | breathes on the beat, cursor drifts out | back to idle (loop) 1. One self-contained HTML file, square 1440x1440, fonts and audio-free assets inlined as data URIs. Every style is computed from time inside a pure `seek(t)`: no CSS transitions, no timers, no state carried between frames, never create tracks inside seek. 2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change; to loop, take the LAST target as the start value and also add the spring tails of the previous two cycles (t + L, t + 2L) so position AND velocity match at the seam. Damping ratio ≥ 0.72. 3. Content layers have their own enter/exit windows: exit lands exactly on the beat, enter starts ~80ms later (opacity + ~12px screen blur + 0.965→1 scale), or text overlaps. 4. Drags are direct manipulation: while held, the value = start + (cursorX − cursorX at press); past a limit apply rubber(over, R) = R·(1 − e^(−over/R)); on release a free spring runs from the release position AND velocity to the snap target. Cursor waypoints are [departure time, x, y] on a spring; the final waypoint equals the first so the cursor's position and speed are continuous across the loop. 5. The orb: WebGL fragment shader drawn on an OFFSCREEN 640×640 canvas, then synchronously drawImage'd into a visible 2D canvas inside seek (screenshotting the WebGL canvas directly is unreliable headless). Time must be periodic: uniforms (cos, sin)(2π·k·t/L) with integer k (e.g. k=2 and k=5), never raw t. Silhouette radius = 0.74 + amp·noise(direction·1.4 + T) sampled on the unit direction vector (no center seam); surface = low-frequency domain-warped 3D noise on the sphere normal → large smooth color bands; 16% pearl white, a bright inner core, a small sharp specular (pow 70), a pale lilac fresnel rim; darker lower half for volume; soft elliptical shadow under the idle orb. Uniforms: amp (idle 0.08, + syllable envelope while listening, + a bit while thinking), think (stronger/faster warp), bloom (completion color burst). Keep ≤5 noise calls per pixel. 6. Audio: analyze the song with numpy (spectral-flux onset, phase-locked BPM, downbeat by kick + chroma change, per-bar RMS). Start on the downbeat of a full-energy 8-bar phrase so the audio loop lands on a phrase boundary. Large analysis windows estimate beats ~15–25ms early: re-measure the cut with a 256-sample window and shift the start until the median residual is < 2ms. Crossfade the last 60ms with the 60ms before the start. Synthesize UI sounds with numpy (click, send swoosh, grab/drop, tick, success, chime) and place each by its MEASURED PEAK on the event time; multi-note sounds keep the first note loudest. 7. Render with Playwright Chromium: 4 subframes per frame spread over half a frame (180° shutter, centered on the frame time), 16 parallel workers. After each seek, await two requestAnimationFrames before the screenshot; do NOT use screenshot(animations='disabled'). Because the scene uses WebGL, launch with --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (the default SwiftShader-Vulkan path loses the WebGL context most of the time). Convert any RGBA screenshot to RGB. 8. Encode with ffmpeg: -reinit_filter 0, tmix=frames=4 then select every 4th frame, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t exactly the duration. Verify which subframes tmix actually averages on your ffmpeg version before choosing the select offset. Also make a crf 20 share version and a 3× looped copy. 9. Before the full render: render one frame on each beat and one 0.3s after it, tile them into contact sheets, and fix anything off the grid, cramped, clipped, unreadable, or with the orb missing. Then spot-check transition frames at full resolution. 10. Verify and report: t=0 and t=L screenshots are pixel-identical; frame count = 960 and video/audio are exactly 16.000s; seam frame-diff is the same order as its neighbors; no RGBA subframes; beat offset of the final audio < 10ms; sample the idle frames to confirm the orb is present in every one. - smoothstep(e0, e1, x) with e0 > e1 is undefined in GLSL — SwiftShader returns 0 and the orb vanishes. Always write 1.0 - smoothstep(lo, hi, x). - A heavy shader on software GL triggers the GPU watchdog (CONTEXT_LOST_WEBGL): keep the canvas at 640² and the noise count low; listen for console context-loss messages in every test. - Never put will-change on anything the camera scales, or text renders blurry. - Followers (the orb, avatars) use a slightly slower spring than the shape so they never get clipped by its edge. - Layer order: anything with a background plate goes BEFORE the text/icons that sit on it. - Don't override a centering translate() with an animated transform — wrap it in a layer instead. - ffmpeg -shortest can drop the last frame; set -t explicitly. - Make the last frame identical to the first, cursor position and speed included, or the loop stutters. Ask me for the inputs, prototype the orb shader alone first (render t=0, t=4, t=8 and prove t=0 == t=16 pixel-for-pixel, with no context loss across 8 fresh page loads), then show me the state list on the 8-bar beat grid as a table and wait for my OK before writing the full scene.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104162483888062945) · [Orijinal gönderi](https://x.com/listudio/status/2104162483888062945) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103846630088716687"></a>
 
 ### Profesyonel 15 saniyelik motion design grafik videosu

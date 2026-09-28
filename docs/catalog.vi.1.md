@@ -26,8 +26,14 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (36)</summary>
+<summary>Khám phá ví dụ (42)</summary>
 
+- [Bộ LEGO Ford Model T đầy đủ tính năng](#claude-opus-5-5-2104232297167716457)
+- [FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết](#claude-opus-5-5-2104232013578617241)
+- [Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây](#claude-opus-5-5-2104223449849761837)
+- [Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng](#claude-opus-5-5-2104204312624918810)
+- [Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể](#claude-opus-5-5-2104193522715029657)
+- [Chuyển động UI quả cầu AI cho Claude Code — Opus 5.5](#claude-opus-5-5-2104162483888062945)
 - [Video đồ họa motion design 15 giây, hoàn thiện chỉn chu](#claude-opus-5-5-2103846630088716687)
 - [Game voxel phong cách Minecraft với shader nâng cao](#claude-opus-5-5-2103822946800165270)
 - [Video motion graphics theo chủ đề Spotify](#claude-opus-5-5-2103801834930606193)
@@ -66,6 +72,176 @@
 - [Hòn đảo tiền sử 3D tương tác](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104232297167716457"></a>
+
+### Bộ LEGO Ford Model T đầy đủ tính năng
+
+[Alex Lieberman](https://x.com/businessbarista) · 2026-09-27 · Claude Opus 5.5 · Tài nguyên 3D
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104232297167716457"><img src="../assets/previews/da9f4a4b393505130f91bf61b59fb0fd8911d4f2b7e9b55ea26ad6d1dc953c26.webp" width="840" loading="lazy" alt="Bộ LEGO Ford Model T đầy đủ tính năng"></a>
+
+**Prompt**
+
+```text
+Tôi muốn xây dựng một bộ LEGO về chiếc Ford Model T nguyên bản.
+
+Bộ xe cần có đầy đủ tính năng, bao gồm các chuyển động hoặc tương tác khi có thể, và đạt chất lượng mà một bậc thầy lắp ráp LEGO có thể tự hào.
+
+Đầu ra cuối cùng cần bao gồm bản dựng hình của bộ LEGO, tất cả các linh kiện tôi cần đặt mua từ LEGO và sách hướng dẫn lắp ráp.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+I want to build a lego set of the original ford motel T.
+
+I want it to be feature complete, include motion/interactivity where possible, and be of the quality a lego master builder would be proud of.
+
+I want the final output to include a rendering of the lego set, all of the pieces i need to order from lego, and the instruction manual to build it.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104232297167716457) · [Bài đăng gốc](https://x.com/businessbarista/status/2104233375791718456) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104232013578617241"></a>
+
+### FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết
+
+[Zen](https://x.com/zenvnt) · 2026-09-27 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104232013578617241"><img src="../assets/previews/1bed9c3bbdcd40bf229e58e043a9251787678dc426ccfc370a642377431f1aab.webp" width="840" loading="lazy" alt="FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết"></a>
+
+**Prompt**
+
+```text
+Hãy xây dựng cho tôi một game FPS nhiều người chơi siêu chân thực. Đặt game trong một con hẻm thành phố phủ tuyết, với các tòa nhà gạch. Trang bị cho tôi một khẩu súng trường tấn công có độ giật rõ ràng, đã tay và vỏ đạn bay ra khi bắn. Thêm kẻ địch để đấu súng, cơ chế trèo vượt và hiệu ứng màn hình dính máu khi bị thương. Hãy khiến cơ chế đấu súng ghi nhận đòn đánh thật chính xác, rồi tự do hoàn thiện thành một game đầy đủ.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build me a hyper-realistic multiplayer FPS. Set it in a snowy city alleyway with brick buildings. Give me an assault rifle with crispy recoil and flying bullet casings. Add enemies to shoot, vaulting mechanics, and bloody screen damage effects. Make the gunplay hit-reg immaculate and just vibe it out into a full game.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104232013578617241) · [Bài đăng gốc](https://x.com/zenvnt/status/2104232358811676833) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104223449849761837"></a>
+
+### Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây
+
+[Crane](https://x.com/Cranefomo) · 2026-09-27 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104223449849761837"><img src="../assets/previews/db935ef25aec1b82e7c0fa1d8d4380e6d91c056b31d7dab67a27830f2037b8cd.webp" width="840" loading="lazy" alt="Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây"></a>
+
+**Prompt**
+
+```text
+Tạo cho tôi một cảnh 3D dài 55 giây. Camera bay vào một trung tâm dữ liệu, mở một tủ rack, tháo rời một GPU, phóng to vào chip, đi xuyên qua các transistor rồi dừng ở một nguyên tử silicon. Bên phải có thước tỷ lệ theo đơn vị mét. Nhãn hiển thị bằng ngôn ngữ của khách hàng. Chạy trên trình duyệt, chỉ một tệp, không có dependency.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Give me a 55 second 3D scene. Camera flies into a data center, opens a rack, disassembles a GPU, zooms into the chip, passes through the transistors, lands on a single silicon atom. Scale rail on the right in meters. Labels in the client's language. Runs in a browser, one file, no dependencies.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104223449849761837) · [Bài đăng gốc](https://x.com/Cranefomo/status/2104223449849761837) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104204312624918810"></a>
+
+### Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng
+
+[Iniyan (ini)](https://x.com/iniyanai) · 2026-09-27 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104204312624918810"><img src="../assets/previews/9603584271e652deb0c8f256f136889cef4c0c1d43a13a2eea2447dee2e04ce4.webp" width="840" loading="lazy" alt="Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng"></a>
+
+**Prompt**
+
+```text
+tạo một video đồ họa chuyển động dài 30 giây, đầy năng lượng, thể hiện bạn là một nhà thiết kế đồ họa chuyển động xuất sắc đến mức nào cho https://t.co/fCRvqmOamH.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are for https://t.co/fCRvqmOamH.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104204312624918810) · [Bài đăng gốc](https://x.com/iniyanai/status/2104204318085931054) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104193522715029657"></a>
+
+### Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể
+
+[風の民@](https://x.com/allforbigfire) · 2026-09-27 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104193522715029657"><img src="../assets/previews/96750421e0dcbc0ba425a0d0adf869841f93a6a742f88e86bfbac0c372c20dcc.webp" width="840" loading="lazy" alt="Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể"></a>
+
+**Prompt**
+
+```text
+Liệu có thể tạo một cảnh đồ họa 3D phong cách anime, trong đó 3 phương tiện giống như trong anime robot biến hình, hợp thể thành một robot không?
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104193522715029657) · [Bài đăng gốc](https://x.com/allforbigfire/status/2104193522715029657) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104162483888062945"></a>
+
+### Chuyển động UI quả cầu AI cho Claude Code — Opus 5.5
+
+[leolee](https://x.com/listudio) · 2026-09-27 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104162483888062945"><img src="../assets/previews/2b698460f02fd8ccc7a8ff74e61e28fa5b6189c6e81e131013d42058c34b1227.webp" width="840" loading="lazy" alt="Chuyển động UI quả cầu AI cho Claude Code — Opus 5.5"></a>
+
+**Prompt**
+
+```text
+Hãy hỏi tôi: tác vụ mà tác nhân AI hoàn tất cho người dùng (mặc định: lên kế hoạch và đặt chuyến đi Kyoto 3 ngày), bảng màu (mặc định: nền xám ấm #E6E3DE, UI đen/trắng thuần, quả cầu là thành phần duy nhất có màu — xanh lam óng ánh ngọc trai → tím violet → đào), và một bài hát miễn phí bản quyền khoảng 120 BPM (tự tìm trên Mixkit, đo BPM bằng numpy, hiển thị 3 ứng viên kèm liên kết nghe thử trước khi tải toàn bộ bản nhạc). Tạo chuyển động concept UI ở cấp độ Dribbble cho công cụ tác nhân trò chuyện AI. Một hình trắng, không bao giờ bị cắt: mọi trạng thái đều là cùng một phần tử biến đổi kích thước, bán kính và màu sắc, trong khi nội dung thay đổi kèm hiệu ứng mờ ngắn. Điểm nhấn là một "quả cầu AI" GLSL (khối chất lỏng, phập phồng, óng ánh — giống quả cầu giọng nói của ChatGPT / Siri), nằm BÊN NGOÀI hình để duy trì tính liên tục và thay đổi vai trò xuyên suốt phim: nhân vật chính ở trạng thái chờ → phản ứng với giọng nói khi đang lắng nghe → thu nhỏ vào thanh nhập liệu thành avatar → xoáy nhanh hơn khi đang suy nghĩ → avatar trên câu trả lời → nở rộ khi hoàn tất tác vụ → trở về trạng thái chờ. Một con trỏ điều khiển mọi thay đổi bằng các thao tác nhấp và kéo thực. Chỉ dùng một font UI gọn gàng (Geist). Dùng spring ở mọi nơi, độ vượt quá điểm đích tối đa chỉ một chút. Camera phóng to để mỗi trạng thái chiếm khoảng 60–75% khung hình. Quả cầu nhịp nhẹ theo từng beat. Khung hình cuối là khung hình đầu tiên để tạo vòng lặp. Cấm: easing nảy, bùng hạt, glow hoặc gradient trên phần khung UI (quả cầu là nội dung, không phải khung), nét icon không đồng nhất, khoảng trống chết, bất kỳ thứ gì trông như template. 120 BPM, 8 ô nhịp = 32 beat = 16 giây, beat nào cũng phải có sự kiện (beat n tại (n-1)*0.5 giây): Ô nhịp 1: quả cầu chờ, con trỏ tiến lại gần | nhấp vào quả cầu → hình kéo dài thành pill "ĐANG LẮNG NGHE", quả cầu di chuyển sang trái và lắc theo đường bao âm tiết | bản chép lời trực tiếp gõ "Lên kế hoạch 3 ngày ở Kyoto" | "…dưới 1.500, giá trị cuộn trực tiếp | kéo vượt qua 1.248 "phương án rẻ nhất" Ô nhịp 6: thanh trượt → thao tác vuốt màu đen để xác nhận "Đặt chuyến đi · $1,248" | nắm nút kéo sang phải | kéo vượt quá điểm cuối → dây cao su | thả ra → bật về điểm cuối, mũi tên biến thành spinner Ô nhịp 7: → toast "Đã đặt chuyến đi" | các chip "Chuyến bay ✓" "Ryokan ✓" hiện ra | quả cầu nở rộ (màu + tỷ lệ) | toast thu lại về phía quả cầu Ô nhịp 8: hình mờ dần, quả cầu lớn trở lại kích thước nhân vật chính | ổn định | phập phồng theo beat, con trỏ trôi ra ngoài | trở về trạng thái chờ (lặp) 1. Một tệp HTML độc lập duy nhất, hình vuông 1440x1440, font và tài nguyên không chứa âm thanh được nhúng dưới dạng data URI. Mọi style được tính từ thời gian bên trong một `seek(t)` thuần: không dùng CSS transition, không dùng timer, không giữ state giữa các frame, không bao giờ tạo track bên trong seek. 2. Spring là các đáp ứng bước dạng đóng. Giá trị thay đổi target nhiều lần là tổng của một spring cho mỗi lần thay đổi; để lặp, lấy target CUỐI CÙNG làm giá trị bắt đầu và cộng thêm phần đuôi spring của hai chu kỳ trước (t + L, t + 2L) để cả vị trí VÀ vận tốc khớp nhau tại điểm nối. Tỷ số damping ≥ 0.72. 3. Các layer nội dung có cửa sổ vào/ra riêng: hiệu ứng ra kết thúc chính xác tại beat, hiệu ứng vào bắt đầu sau khoảng 80ms (opacity + độ mờ màn hình khoảng 12px + scale 0.965→1), hoặc chồng lấp văn bản. 4. Kéo là thao tác trực tiếp: khi đang giữ, giá trị = giá trị bắt đầu + (cursorX − cursorX tại thời điểm nhấn); vượt quá giới hạn thì áp dụng rubber(over, R) = R·(1 − e^(−over/R)); khi thả, một free spring chạy từ vị trí VÀ vận tốc lúc thả đến target snap. Các waypoint của con trỏ có dạng [thời điểm rời đi, x, y] trên một spring; waypoint cuối bằng waypoint đầu tiên để vị trí và tốc độ của con trỏ liên tục qua điểm nối vòng lặp. 5. Quả cầu: shader phân mảnh WebGL được vẽ trên canvas 640×640 OFFSCREEN, sau đó gọi drawImage đồng bộ để đưa vào canvas 2D hiển thị bên trong seek (chụp trực tiếp canvas WebGL không đáng tin cậy khi kết xuất không giao diện). Thời gian phải tuần hoàn: uniforms (cos, sin)(2π·k·t/L) với k nguyên (ví dụ k=2 và k=5), tuyệt đối không dùng t thô. Bán kính silhouette = 0.74 + amp·noise(direction·1.4 + T) được lấy mẫu trên vector hướng đơn vị (không có đường nối ở tâm); bề mặt = noise 3D tần số thấp, biến dạng miền theo pháp tuyến hình cầu → các dải màu lớn, mượt; 16% trắng ngọc trai, lõi trong sáng, một điểm specular nhỏ và sắc (pow 70), viền fresnel tím lilac nhạt; nửa dưới tối hơn để tạo thể tích; bóng elip mềm bên dưới quả cầu chờ. Uniforms: amp (chờ 0.08, + đường bao âm tiết khi lắng nghe, + thêm một chút khi suy nghĩ), think (biến dạng mạnh/nhanh hơn), bloom (bùng màu khi hoàn tất). Giữ ≤5 lần gọi noise trên mỗi pixel. 6. Âm thanh: phân tích bài hát bằng numpy (onset spectral-flux, BPM khóa pha, downbeat dựa trên kick + thay đổi chroma, RMS theo từng ô nhịp). Bắt đầu tại downbeat của một đoạn 8 ô nhịp đầy năng lượng để vòng lặp âm thanh rơi đúng ranh giới đoạn nhạc. Các cửa sổ phân tích lớn ước tính beat sớm khoảng 15–25ms: đo lại điểm cắt bằng cửa sổ 256 mẫu và dịch thời điểm bắt đầu cho đến khi residual trung vị < 2ms. Crossfade 60ms cuối với 60ms trước thời điểm bắt đầu. Tổng hợp âm thanh UI bằng numpy (click, swoosh gửi, nắm/thả, tick, thành công, chime) và đặt từng âm theo ĐỈNH ĐO ĐƯỢC của nó tại thời điểm sự kiện; âm thanh nhiều nốt phải giữ nốt đầu tiên lớn nhất. 7. Kết xuất bằng Playwright Chromium: 4 subframe cho mỗi frame, trải đều trong nửa frame (màn trập 180°, căn giữa theo thời điểm frame), 16 worker chạy song song. Sau mỗi seek, await hai requestAnimationFrames trước khi chụp màn hình; KHÔNG dùng screenshot(animations='disabled'). Vì cảnh sử dụng WebGL, khởi chạy với --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (đường dẫn SwiftShader-Vulkan mặc định thường làm mất context WebGL). Chuyển mọi ảnh chụp RGBA sang RGB. 8. Mã hóa bằng ffmpeg: -reinit_filter 0, tmix=frames=4 rồi chọn mỗi frame thứ 4, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t đúng bằng thời lượng. Xác minh phiên bản ffmpeg của bạn thực sự lấy trung bình những subframe nào bằng tmix trước khi chọn offset select. Đồng thời tạo bản chia sẻ crf 20 và bản sao lặp 3×. 9. Trước khi kết xuất toàn bộ: kết xuất một frame tại mỗi beat và một frame sau đó 0.3 giây, xếp chúng thành contact sheet, sửa mọi thứ lệch grid, chật, bị cắt, khó đọc hoặc thiếu quả cầu. Sau đó kiểm tra ngẫu nhiên các frame chuyển cảnh ở độ phân giải đầy đủ. 10. Xác minh và báo cáo: ảnh chụp tại t=0 và t=L giống hệt nhau theo từng pixel; số frame = 960 và video/âm thanh đều chính xác 16.000 giây; độ chênh frame tại điểm nối cùng bậc với các frame lân cận; không có subframe RGBA; độ lệch beat của âm thanh cuối < 10ms; lấy mẫu các frame chờ để xác nhận quả cầu xuất hiện trong tất cả frame. - smoothstep(e0, e1, x) với e0 > e1 là không xác định trong GLSL — SwiftShader trả về 0 và quả cầu biến mất. Luôn viết 1.0 - smoothstep(lo, hi, x). - Shader nặng trên GL phần mềm sẽ kích hoạt watchdog GPU (CONTEXT_LOST_WEBGL): giữ canvas ở 640² và số lần gọi noise thấp; kiểm tra các thông báo mất context trong console ở mọi lần test. - Không bao giờ đặt will-change trên đối tượng bị camera scale, nếu không văn bản sẽ bị mờ. - Các phần tử bám theo (quả cầu, avatar) dùng spring chậm hơn một chút so với hình để không bao giờ bị mép hình cắt mất. - Thứ tự layer: mọi thứ có plate nền phải nằm TRƯỚC văn bản/icon đặt trên đó. - Không ghi đè translate() căn giữa bằng transform động — hãy bọc nó trong một layer khác. - ffmpeg -shortest có thể làm mất frame cuối; hãy đặt -t một cách tường minh. - Làm cho frame cuối giống hệt frame đầu tiên, bao gồm cả vị trí và tốc độ con trỏ, nếu không vòng lặp sẽ bị giật. Hãy hỏi tôi các đầu vào, trước tiên prototype riêng shader của quả cầu (kết xuất t=0, t=4, t=8 và chứng minh t=0 == t=16 theo từng pixel, không mất context trong 8 lần tải trang mới), sau đó hiển thị danh sách trạng thái trên grid beat 8 ô nhịp dưới dạng bảng và chờ tôi OK trước khi viết toàn bộ cảnh.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Ask me for: the task the AI agent completes for the user (default: plan + book a 3-day Kyoto trip), the palette (default: warm-gray canvas #E6E3DE, pure black/white UI, the orb is the only colored thing — pearl iridescent blue → violet → peach), and a royalty-free song around 120 BPM (search Mixkit yourself, measure BPM with numpy, show me 3 candidates with preview links before downloading the full track). Use AskUserQuestion, max 4 questions per round, recommended option first. Dribbble-level UI concept motion for an AI chat agent tool. One white shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. The star is a GLSL "AI orb" (fluid, breathing, iridescent blob — like the ChatGPT / Siri voice orb) that lives OUTSIDE the shape as a continuity element and changes role through the film: idle hero → reacts to voice while listening → shrinks into the input bar as an avatar → swirls faster while thinking → avatar on the answer → blooms when the task completes → back to idle. A cursor drives every change with real clicks and drags. One clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills ~60–75% of the frame. The orb pulses subtly on every beat. The last frame is the first frame, so it loops. Banned: bouncy easing, particle bursts, glows or gradients on UI chrome (the orb is content, not chrome), mismatched icon strokes, dead time, anything that looks like a template. 120 BPM, 8 bars = 32 beats = 16s, something happens on every beat (beat n at (n-1)*0.5s): Bar 1: orb idle, cursor approaches | click orb → shape stretches into a "LISTENING" pill, orb moves to its left and wobbles with a syllable envelope | live transcript types "Plan 3 days in Kyoto" | "…under 1,500, the value rolls live | drag past the 1,248 "cheapest plan" Bar 6: slider → black swipe-to-confirm "Book trip · $1,248" | grab the knob, drag right | past the end → rubber band | release → snaps to the end, arrow becomes a spinner Bar 7: → toast "Trip booked" | chips "Flights ✓" "Ryokan ✓" pop in | orb blooms (color + scale) | toast collapses toward the orb Bar 8: shape fades, orb grows back to hero size | settles | breathes on the beat, cursor drifts out | back to idle (loop) 1. One self-contained HTML file, square 1440x1440, fonts and audio-free assets inlined as data URIs. Every style is computed from time inside a pure `seek(t)`: no CSS transitions, no timers, no state carried between frames, never create tracks inside seek. 2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change; to loop, take the LAST target as the start value and also add the spring tails of the previous two cycles (t + L, t + 2L) so position AND velocity match at the seam. Damping ratio ≥ 0.72. 3. Content layers have their own enter/exit windows: exit lands exactly on the beat, enter starts ~80ms later (opacity + ~12px screen blur + 0.965→1 scale), or text overlaps. 4. Drags are direct manipulation: while held, the value = start + (cursorX − cursorX at press); past a limit apply rubber(over, R) = R·(1 − e^(−over/R)); on release a free spring runs from the release position AND velocity to the snap target. Cursor waypoints are [departure time, x, y] on a spring; the final waypoint equals the first so the cursor's position and speed are continuous across the loop. 5. The orb: WebGL fragment shader drawn on an OFFSCREEN 640×640 canvas, then synchronously drawImage'd into a visible 2D canvas inside seek (screenshotting the WebGL canvas directly is unreliable headless). Time must be periodic: uniforms (cos, sin)(2π·k·t/L) with integer k (e.g. k=2 and k=5), never raw t. Silhouette radius = 0.74 + amp·noise(direction·1.4 + T) sampled on the unit direction vector (no center seam); surface = low-frequency domain-warped 3D noise on the sphere normal → large smooth color bands; 16% pearl white, a bright inner core, a small sharp specular (pow 70), a pale lilac fresnel rim; darker lower half for volume; soft elliptical shadow under the idle orb. Uniforms: amp (idle 0.08, + syllable envelope while listening, + a bit while thinking), think (stronger/faster warp), bloom (completion color burst). Keep ≤5 noise calls per pixel. 6. Audio: analyze the song with numpy (spectral-flux onset, phase-locked BPM, downbeat by kick + chroma change, per-bar RMS). Start on the downbeat of a full-energy 8-bar phrase so the audio loop lands on a phrase boundary. Large analysis windows estimate beats ~15–25ms early: re-measure the cut with a 256-sample window and shift the start until the median residual is < 2ms. Crossfade the last 60ms with the 60ms before the start. Synthesize UI sounds with numpy (click, send swoosh, grab/drop, tick, success, chime) and place each by its MEASURED PEAK on the event time; multi-note sounds keep the first note loudest. 7. Render with Playwright Chromium: 4 subframes per frame spread over half a frame (180° shutter, centered on the frame time), 16 parallel workers. After each seek, await two requestAnimationFrames before the screenshot; do NOT use screenshot(animations='disabled'). Because the scene uses WebGL, launch with --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (the default SwiftShader-Vulkan path loses the WebGL context most of the time). Convert any RGBA screenshot to RGB. 8. Encode with ffmpeg: -reinit_filter 0, tmix=frames=4 then select every 4th frame, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t exactly the duration. Verify which subframes tmix actually averages on your ffmpeg version before choosing the select offset. Also make a crf 20 share version and a 3× looped copy. 9. Before the full render: render one frame on each beat and one 0.3s after it, tile them into contact sheets, and fix anything off the grid, cramped, clipped, unreadable, or with the orb missing. Then spot-check transition frames at full resolution. 10. Verify and report: t=0 and t=L screenshots are pixel-identical; frame count = 960 and video/audio are exactly 16.000s; seam frame-diff is the same order as its neighbors; no RGBA subframes; beat offset of the final audio < 10ms; sample the idle frames to confirm the orb is present in every one. - smoothstep(e0, e1, x) with e0 > e1 is undefined in GLSL — SwiftShader returns 0 and the orb vanishes. Always write 1.0 - smoothstep(lo, hi, x). - A heavy shader on software GL triggers the GPU watchdog (CONTEXT_LOST_WEBGL): keep the canvas at 640² and the noise count low; listen for console context-loss messages in every test. - Never put will-change on anything the camera scales, or text renders blurry. - Followers (the orb, avatars) use a slightly slower spring than the shape so they never get clipped by its edge. - Layer order: anything with a background plate goes BEFORE the text/icons that sit on it. - Don't override a centering translate() with an animated transform — wrap it in a layer instead. - ffmpeg -shortest can drop the last frame; set -t explicitly. - Make the last frame identical to the first, cursor position and speed included, or the loop stutters. Ask me for the inputs, prototype the orb shader alone first (render t=0, t=4, t=8 and prove t=0 == t=16 pixel-for-pixel, with no context loss across 8 fresh page loads), then show me the state list on the 8-bar beat grid as a table and wait for my OK before writing the full scene.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104162483888062945) · [Bài đăng gốc](https://x.com/listudio/status/2104162483888062945) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103846630088716687"></a>
 
 ### Video đồ họa motion design 15 giây, hoàn thiện chỉn chu

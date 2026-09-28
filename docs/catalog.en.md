@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**36 examples · 1 model · 14 languages · 1 with source code**
+**42 examples · 1 model · 14 languages · 1 with source code**
 
 [Browse by category](#categories) · [Browse by model](#models) · [Source code](with-code.md) · [1](../docs/catalog.en.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Games · 7
+### Games · 8
 
+- [Hyper-realistic multiplayer FPS in a snowy alleyway](../docs/catalog.en.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Minecraft-style voxel game with advanced shaders](../docs/catalog.en.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 sandbox survival game](../docs/catalog.en.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Genshin Impact–style game set in San Francisco](../docs/catalog.en.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
@@ -43,8 +44,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### Scenes · 5
+### Scenes · 6
 
+- [55-second data center-to-atom 3D scene](../docs/catalog.en.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Build an Imperial City](../docs/catalog.en.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [The Last Train cyberpunk megacity benchmark](../docs/catalog.en.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [360-Degree 3D Rendering of a Handball Court from an Image](../docs/catalog.en.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
@@ -53,8 +55,9 @@
 
 <a id="category-3d-assets"></a>
 
-### Assets · 2
+### Assets · 3
 
+- [Feature-complete LEGO Ford Model T set](../docs/catalog.en.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [Build the Eiffel Tower in Three.js](../docs/catalog.en.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
 - [Build a Bugatti Chiron Super Sport in Three.js](../docs/catalog.en.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
@@ -71,8 +74,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animation · 16
+### Animation · 19
 
+- [Dynamic 30-second Kiiwi motion-graphics promo](../docs/catalog.en.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Anime-style 3D CG of three vehicles transforming and combining](../docs/catalog.en.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [AI orb UI motion for Claude Code — Opus 5.5](../docs/catalog.en.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Polished 15-second motion-design graphic video](../docs/catalog.en.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Spotify-themed motion graphics video](../docs/catalog.en.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dynamic 15-second motion-design showreel](../docs/catalog.en.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
@@ -96,8 +102,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 36
+### Claude Opus 5.5 · 42
 
+- [Feature-complete LEGO Ford Model T set](../docs/catalog.en.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
+- [Hyper-realistic multiplayer FPS in a snowy alleyway](../docs/catalog.en.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
+- [55-second data center-to-atom 3D scene](../docs/catalog.en.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
+- [Dynamic 30-second Kiiwi motion-graphics promo](../docs/catalog.en.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Anime-style 3D CG of three vehicles transforming and combining](../docs/catalog.en.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [AI orb UI motion for Claude Code — Opus 5.5](../docs/catalog.en.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Polished 15-second motion-design graphic video](../docs/catalog.en.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Minecraft-style voxel game with advanced shaders](../docs/catalog.en.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Spotify-themed motion graphics video](../docs/catalog.en.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
@@ -136,4 +148,4 @@
 - [Interactive 3D Prehistoric Island](../docs/catalog.en.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Explore all 36 examples and live previews →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Explore all 42 examples and live previews →</a></strong></p>

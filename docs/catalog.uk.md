@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**36 Приклади · 14 🌐**
+**42 Приклади · 14 🌐**
 
 [За категоріями](#categories) · [За моделями](#models) · [Вихідний код](with-code.md) · [1](../docs/catalog.uk.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Ігри · 7
+### Ігри · 8
 
+- [Гіперреалістичний багатокористувацький шутер від першої особи в засніженому провулку](../docs/catalog.uk.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Воксельна гра в стилі Minecraft із просунутими шейдерами](../docs/catalog.uk.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2-гра у жанрі «пісочниця» на виживання](../docs/catalog.uk.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Гра в стилі Genshin Impact у Сан-Франциско](../docs/catalog.uk.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
@@ -43,8 +44,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### Сцени · 5
+### Сцени · 6
 
+- [55-секундна 3D-сцена від дата-центру до атома](../docs/catalog.uk.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Створіть імперське місто](../docs/catalog.uk.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Бенчмарк кіберпанкового мегаполіса «Останній потяг»](../docs/catalog.uk.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [3D-рендеринг гандбольного майданчика на 360° за зображенням](../docs/catalog.uk.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
@@ -53,8 +55,9 @@
 
 <a id="category-3d-assets"></a>
 
-### Асети · 2
+### Асети · 3
 
+- [Повнофункціональний набір LEGO Ford Model T](../docs/catalog.uk.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [Створіть Ейфелеву вежу в Three.js](../docs/catalog.uk.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
 - [Створіть Bugatti Chiron Super Sport у Three.js](../docs/catalog.uk.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
@@ -71,8 +74,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Анімація · 16
+### Анімація · 19
 
+- [Динамічний 30-секундний проморолик Kiiwi у стилі моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Аніме-стилізована 3D CG-сцена, у якій три транспортні засоби трансформуються й об’єднуються](../docs/catalog.uk.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Моушн-дизайн інтерфейсу AI-орба для Claude Code — Opus 5.5](../docs/catalog.uk.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Відшліфоване 15-секундне графічне відео в стилі моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Моушн-графіка у стилі Spotify](../docs/catalog.uk.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Динамічний 15-секундний шоуріл із моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
@@ -96,8 +102,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 36
+### Claude Opus 5.5 · 42
 
+- [Повнофункціональний набір LEGO Ford Model T](../docs/catalog.uk.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
+- [Гіперреалістичний багатокористувацький шутер від першої особи в засніженому провулку](../docs/catalog.uk.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
+- [55-секундна 3D-сцена від дата-центру до атома](../docs/catalog.uk.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
+- [Динамічний 30-секундний проморолик Kiiwi у стилі моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Аніме-стилізована 3D CG-сцена, у якій три транспортні засоби трансформуються й об’єднуються](../docs/catalog.uk.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Моушн-дизайн інтерфейсу AI-орба для Claude Code — Opus 5.5](../docs/catalog.uk.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Відшліфоване 15-секундне графічне відео в стилі моушн-дизайну](../docs/catalog.uk.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Воксельна гра в стилі Minecraft із просунутими шейдерами](../docs/catalog.uk.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Моушн-графіка у стилі Spotify](../docs/catalog.uk.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)

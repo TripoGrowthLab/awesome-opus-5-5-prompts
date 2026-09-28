@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**36 Exemples · 14 🌐**
+**42 Exemples · 14 🌐**
 
 [Par catégorie](#categories) · [Par modèle](#models) · [Code source](with-code.md) · [1](../docs/catalog.fr.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Jeux · 7
+### Jeux · 8
 
+- [FPS multijoueur hyperréaliste dans une ruelle enneigée](../docs/catalog.fr.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Jeu voxel de style Minecraft avec des shaders avancés](../docs/catalog.fr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Jeu de survie sandbox en WebGL2](../docs/catalog.fr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Jeu dans le style de Genshin Impact, situé à San Francisco](../docs/catalog.fr.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
@@ -43,8 +44,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### Scènes · 5
+### Scènes · 6
 
+- [Scène 3D de 55 secondes, du data center à l’atome](../docs/catalog.fr.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Construire une ville impériale](../docs/catalog.fr.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Benchmark de mégalopole cyberpunk — The Last Train](../docs/catalog.fr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Rendu 3D à 360° d’un terrain de handball à partir d’une image](../docs/catalog.fr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
@@ -53,8 +55,9 @@
 
 <a id="category-3d-assets"></a>
 
-### Ressources · 2
+### Ressources · 3
 
+- [Set LEGO Ford Model T complet et fonctionnel](../docs/catalog.fr.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [Construire la tour Eiffel avec Three.js](../docs/catalog.fr.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
 - [Créer une Bugatti Chiron Super Sport avec Three.js](../docs/catalog.fr.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
@@ -71,8 +74,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animation · 16
+### Animation · 19
 
+- [Promo dynamique en motion design de 30 secondes pour Kiiwi](../docs/catalog.fr.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Une animation 3D au style anime où trois véhicules se transforment et fusionnent](../docs/catalog.fr.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Animation d’interface pour un orb IA dans Claude Code — Opus 5.5](../docs/catalog.fr.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Vidéo graphique animée de 15 secondes, au rendu soigné](../docs/catalog.fr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Vidéo de motion design sur le thème de Spotify](../docs/catalog.fr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Showreel dynamique de motion design — 15 secondes](../docs/catalog.fr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
@@ -96,8 +102,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 36
+### Claude Opus 5.5 · 42
 
+- [Set LEGO Ford Model T complet et fonctionnel](../docs/catalog.fr.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
+- [FPS multijoueur hyperréaliste dans une ruelle enneigée](../docs/catalog.fr.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
+- [Scène 3D de 55 secondes, du data center à l’atome](../docs/catalog.fr.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
+- [Promo dynamique en motion design de 30 secondes pour Kiiwi](../docs/catalog.fr.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Une animation 3D au style anime où trois véhicules se transforment et fusionnent](../docs/catalog.fr.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Animation d’interface pour un orb IA dans Claude Code — Opus 5.5](../docs/catalog.fr.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Vidéo graphique animée de 15 secondes, au rendu soigné](../docs/catalog.fr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Jeu voxel de style Minecraft avec des shaders avancés](../docs/catalog.fr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Vidéo de motion design sur le thème de Spotify](../docs/catalog.fr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)

@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-**36 Ví dụ · 14 🌐**
+**42 Ví dụ · 14 🌐**
 
 [Theo danh mục](#categories) · [Theo mô hình](#models) · [Mã nguồn](with-code.md) · [1](../docs/catalog.vi.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Trò chơi · 7
+### Trò chơi · 8
 
+- [FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết](../docs/catalog.vi.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Game voxel phong cách Minecraft với shader nâng cao](../docs/catalog.vi.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Game sinh tồn sandbox WebGL2](../docs/catalog.vi.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Game phong cách Genshin Impact lấy bối cảnh San Francisco](../docs/catalog.vi.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
@@ -43,8 +44,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### Bối cảnh · 5
+### Bối cảnh · 6
 
+- [Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây](../docs/catalog.vi.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Xây dựng thành phố đế quốc](../docs/catalog.vi.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [bài benchmark đại đô thị cyberpunk The Last Train](../docs/catalog.vi.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Bản render 3D sân bóng ném 360 độ từ hình ảnh](../docs/catalog.vi.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
@@ -53,8 +55,9 @@
 
 <a id="category-3d-assets"></a>
 
-### Tài nguyên 3D · 2
+### Tài nguyên 3D · 3
 
+- [Bộ LEGO Ford Model T đầy đủ tính năng](../docs/catalog.vi.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [Dựng tháp Eiffel bằng Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
 - [Dựng Bugatti Chiron Super Sport bằng Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
@@ -71,8 +74,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Hoạt ảnh · 16
+### Hoạt ảnh · 19
 
+- [Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng](../docs/catalog.vi.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể](../docs/catalog.vi.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Chuyển động UI quả cầu AI cho Claude Code — Opus 5.5](../docs/catalog.vi.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Video đồ họa motion design 15 giây, hoàn thiện chỉn chu](../docs/catalog.vi.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Video motion graphics theo chủ đề Spotify](../docs/catalog.vi.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Showreel thiết kế chuyển động 15 giây đầy năng lượng](../docs/catalog.vi.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
@@ -96,8 +102,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 36
+### Claude Opus 5.5 · 42
 
+- [Bộ LEGO Ford Model T đầy đủ tính năng](../docs/catalog.vi.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
+- [FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết](../docs/catalog.vi.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
+- [Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây](../docs/catalog.vi.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
+- [Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng](../docs/catalog.vi.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể](../docs/catalog.vi.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Chuyển động UI quả cầu AI cho Claude Code — Opus 5.5](../docs/catalog.vi.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Video đồ họa motion design 15 giây, hoàn thiện chỉn chu](../docs/catalog.vi.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Game voxel phong cách Minecraft với shader nâng cao](../docs/catalog.vi.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Video motion graphics theo chủ đề Spotify](../docs/catalog.vi.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)

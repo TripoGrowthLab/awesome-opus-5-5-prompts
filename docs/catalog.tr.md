@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**36 Örnekler · 14 🌐**
+**42 Örnekler · 14 🌐**
 
 [Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Oyunlar · 7
+### Oyunlar · 8
 
+- [Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS](../docs/catalog.tr.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Gelişmiş shader'lara sahip Minecraft tarzı voksel oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 sandbox hayatta kalma oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [San Francisco'da geçen Genshin Impact tarzı oyun](../docs/catalog.tr.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
@@ -43,8 +44,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### Sahneler · 5
+### Sahneler · 6
 
+- [55 saniyelik veri merkezinden atoma 3B sahne](../docs/catalog.tr.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [İmparatorluk Şehri Oluştur](../docs/catalog.tr.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Son Tren siberpunk mega kent benchmark’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
@@ -53,8 +55,9 @@
 
 <a id="category-3d-assets"></a>
 
-### Varlıklar · 2
+### Varlıklar · 3
 
+- [Tüm özellikleri eksiksiz LEGO Ford Model T seti](../docs/catalog.tr.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [Three.js ile Eyfel Kulesi oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
 - [Three.js'te Bugatti Chiron Super Sport oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
@@ -71,8 +74,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animasyon · 16
+### Animasyon · 19
 
+- [Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı](../docs/catalog.tr.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Dönüşüp birleşen üç aracın anime tarzı 3B CG’si](../docs/catalog.tr.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Claude Code için yapay zekâ küresi arayüz hareketi — Opus 5.5](../docs/catalog.tr.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Profesyonel 15 saniyelik motion design grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Spotify temalı hareketli grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [Dinamik 15 saniyelik motion design showreel’i](../docs/catalog.tr.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
@@ -96,8 +102,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 36
+### Claude Opus 5.5 · 42
 
+- [Tüm özellikleri eksiksiz LEGO Ford Model T seti](../docs/catalog.tr.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
+- [Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS](../docs/catalog.tr.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
+- [55 saniyelik veri merkezinden atoma 3B sahne](../docs/catalog.tr.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
+- [Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı](../docs/catalog.tr.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [Dönüşüp birleşen üç aracın anime tarzı 3B CG’si](../docs/catalog.tr.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Claude Code için yapay zekâ küresi arayüz hareketi — Opus 5.5](../docs/catalog.tr.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [Profesyonel 15 saniyelik motion design grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Gelişmiş shader'lara sahip Minecraft tarzı voksel oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Spotify temalı hareketli grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)

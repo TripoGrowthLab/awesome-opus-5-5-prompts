@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**36 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
+**42 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
 
 [按用途浏览](#categories) · [按模型浏览](#models) · [项目源码](with-code.md) · [1](../docs/catalog.zh.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 游戏 · 7
+### 游戏 · 8
 
+- [雪地小巷中的超写实多人第一人称射击游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Minecraft 风格体素游戏，搭配高级着色器](../docs/catalog.zh.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 沙盒生存游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [Genshin Impact 风格的旧金山背景游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
@@ -43,8 +44,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### 场景 · 5
+### 场景 · 6
 
+- [55 秒数据中心到原子的 3D 场景](../docs/catalog.zh.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [打造一座帝国城市](../docs/catalog.zh.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [《末班列车》赛博朋克巨型城市基准项目](../docs/catalog.zh.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [基于图片的手球场 360° 3D 渲染](../docs/catalog.zh.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
@@ -53,8 +55,9 @@
 
 <a id="category-3d-assets"></a>
 
-### 资产 · 2
+### 资产 · 3
 
+- [功能齐全的 LEGO Ford Model T 套装](../docs/catalog.zh.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [使用 Three.js 构建埃菲尔铁塔](../docs/catalog.zh.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
 - [在 Three.js 中构建布加迪 Chiron Super Sport](../docs/catalog.zh.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
@@ -71,8 +74,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### 动画 · 16
+### 动画 · 19
 
+- [动感十足的 30 秒 Kiiwi 动态设计宣传片](../docs/catalog.zh.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [三台载具变形合体的动画风格 3D CG](../docs/catalog.zh.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Claude Code 的 AI 球体 UI 动效 — Opus 5.5](../docs/catalog.zh.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [精致的 15 秒动态图形视频](../docs/catalog.zh.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Spotify 主题动态图形视频](../docs/catalog.zh.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [动态 15 秒动效作品集短片](../docs/catalog.zh.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
@@ -96,8 +102,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 36
+### Claude Opus 5.5 · 42
 
+- [功能齐全的 LEGO Ford Model T 套装](../docs/catalog.zh.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
+- [雪地小巷中的超写实多人第一人称射击游戏](../docs/catalog.zh.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
+- [55 秒数据中心到原子的 3D 场景](../docs/catalog.zh.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
+- [动感十足的 30 秒 Kiiwi 动态设计宣传片](../docs/catalog.zh.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [三台载具变形合体的动画风格 3D CG](../docs/catalog.zh.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Claude Code 的 AI 球体 UI 动效 — Opus 5.5](../docs/catalog.zh.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [精致的 15 秒动态图形视频](../docs/catalog.zh.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Minecraft 风格体素游戏，搭配高级着色器](../docs/catalog.zh.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Spotify 主题动态图形视频](../docs/catalog.zh.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
@@ -136,4 +148,4 @@
 - [交互式 3D 史前岛屿](../docs/catalog.zh.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 36 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 42 条案例与在线演示 →</a></strong></p>

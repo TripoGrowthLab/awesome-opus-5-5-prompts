@@ -26,8 +26,14 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Explorar ejemplos (36)</summary>
+<summary>Explorar ejemplos (42)</summary>
 
+- [Set de LEGO del Ford Model T con todas sus funciones](#claude-opus-5-5-2104232297167716457)
+- [FPS multijugador hiperrealista en un callejón nevado](#claude-opus-5-5-2104232013578617241)
+- [Escena 3D de 55 segundos: del centro de datos al átomo](#claude-opus-5-5-2104223449849761837)
+- [Promo dinámica de motion graphics de 30 segundos](#claude-opus-5-5-2104204312624918810)
+- [CG 3D de estilo anime con tres vehículos que se transforman y se combinan](#claude-opus-5-5-2104193522715029657)
+- [Animación de interfaz de una esfera de IA para Claude Code — Opus 5.5](#claude-opus-5-5-2104162483888062945)
 - [Vídeo gráfico de motion design pulido de 15 segundos](#claude-opus-5-5-2103846630088716687)
 - [Juego de vóxeles estilo Minecraft con shaders avanzados](#claude-opus-5-5-2103822946800165270)
 - [Vídeo de motion graphics inspirado en Spotify](#claude-opus-5-5-2103801834930606193)
@@ -66,6 +72,176 @@
 - [Isla prehistórica 3D interactiva](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104232297167716457"></a>
+
+### Set de LEGO del Ford Model T con todas sus funciones
+
+[Alex Lieberman](https://x.com/businessbarista) · 2026-09-27 · Claude Opus 5.5 · Recursos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104232297167716457"><img src="../assets/previews/da9f4a4b393505130f91bf61b59fb0fd8911d4f2b7e9b55ea26ad6d1dc953c26.webp" width="840" loading="lazy" alt="Set de LEGO del Ford Model T con todas sus funciones"></a>
+
+**Prompt**
+
+```text
+Quiero construir un set de LEGO del Ford Model T original.
+
+Quiero que tenga todas sus funciones, que incluya movimiento e interactividad siempre que sea posible y que ofrezca una calidad de la que un maestro constructor de LEGO se sentiría orgulloso.
+
+Quiero que el resultado final incluya un renderizado del set de LEGO, todas las piezas que necesito pedir a LEGO y el manual de instrucciones para montarlo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+I want to build a lego set of the original ford motel T.
+
+I want it to be feature complete, include motion/interactivity where possible, and be of the quality a lego master builder would be proud of.
+
+I want the final output to include a rendering of the lego set, all of the pieces i need to order from lego, and the instruction manual to build it.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104232297167716457) · [Publicación original](https://x.com/businessbarista/status/2104233375791718456) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104232013578617241"></a>
+
+### FPS multijugador hiperrealista en un callejón nevado
+
+[Zen](https://x.com/zenvnt) · 2026-09-27 · Claude Opus 5.5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104232013578617241"><img src="../assets/previews/1bed9c3bbdcd40bf229e58e043a9251787678dc426ccfc370a642377431f1aab.webp" width="840" loading="lazy" alt="FPS multijugador hiperrealista en un callejón nevado"></a>
+
+**Prompt**
+
+```text
+Crea un FPS multijugador hiperrealista. Ambientado en un callejón urbano nevado, rodeado de edificios de ladrillo. Incluye un fusil de asalto con un retroceso contundente y casquillos que salgan despedidos. Añade enemigos a los que disparar, mecánicas para saltar obstáculos y efectos de daño con sangre en pantalla. Haz que el registro de impactos del tiroteo sea impecable y conviértelo, con ese estilo, en un juego completo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build me a hyper-realistic multiplayer FPS. Set it in a snowy city alleyway with brick buildings. Give me an assault rifle with crispy recoil and flying bullet casings. Add enemies to shoot, vaulting mechanics, and bloody screen damage effects. Make the gunplay hit-reg immaculate and just vibe it out into a full game.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104232013578617241) · [Publicación original](https://x.com/zenvnt/status/2104232358811676833) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104223449849761837"></a>
+
+### Escena 3D de 55 segundos: del centro de datos al átomo
+
+[Crane](https://x.com/Cranefomo) · 2026-09-27 · Claude Opus 5.5 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104223449849761837"><img src="../assets/previews/db935ef25aec1b82e7c0fa1d8d4380e6d91c056b31d7dab67a27830f2037b8cd.webp" width="840" loading="lazy" alt="Escena 3D de 55 segundos: del centro de datos al átomo"></a>
+
+**Prompt**
+
+```text
+Crea una escena 3D de 55 segundos. La cámara entra en un centro de datos, abre un rack, desmonta una GPU, se acerca al chip, atraviesa los transistores y llega hasta un solo átomo de silicio. Incluye a la derecha una escala métrica en metros. Usa etiquetas en el idioma del cliente. Debe ejecutarse en un navegador, en un solo archivo y sin dependencias.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Give me a 55 second 3D scene. Camera flies into a data center, opens a rack, disassembles a GPU, zooms into the chip, passes through the transistors, lands on a single silicon atom. Scale rail on the right in meters. Labels in the client's language. Runs in a browser, one file, no dependencies.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104223449849761837) · [Publicación original](https://x.com/Cranefomo/status/2104223449849761837) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104204312624918810"></a>
+
+### Promo dinámica de motion graphics de 30 segundos
+
+[Iniyan (ini)](https://x.com/iniyanai) · 2026-09-27 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104204312624918810"><img src="../assets/previews/9603584271e652deb0c8f256f136889cef4c0c1d43a13a2eea2447dee2e04ce4.webp" width="840" loading="lazy" alt="Promo dinámica de motion graphics de 30 segundos"></a>
+
+**Prompt**
+
+```text
+crea un video dinámico de motion graphics de 30 segundos que demuestre lo increíble que eres como diseñador de motion graphics para https://t.co/fCRvqmOamH.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+make a dynamic 30-second motion graphics video that shows what an incredible motion designer you are for https://t.co/fCRvqmOamH.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104204312624918810) · [Publicación original](https://x.com/iniyanai/status/2104204318085931054) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104193522715029657"></a>
+
+### CG 3D de estilo anime con tres vehículos que se transforman y se combinan
+
+[風の民@](https://x.com/allforbigfire) · 2026-09-27 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104193522715029657"><img src="../assets/previews/96750421e0dcbc0ba425a0d0adf869841f93a6a742f88e86bfbac0c372c20dcc.webp" width="840" loading="lazy" alt="CG 3D de estilo anime con tres vehículos que se transforman y se combinan"></a>
+
+**Prompt**
+
+```text
+¿Sería posible crear también en CG 3D de estilo anime una escena en la que tres vehículos, como en un anime de robots, se transformen y se combinen para convertirse en un robot?
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+もしかしてロボットアニメみたいな3機の乗り物が変形合体してロボットになるシーンもアニメ風3D CGで作れますか。
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104193522715029657) · [Publicación original](https://x.com/allforbigfire/status/2104193522715029657) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104162483888062945"></a>
+
+### Animación de interfaz de una esfera de IA para Claude Code — Opus 5.5
+
+[leolee](https://x.com/listudio) · 2026-09-27 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104162483888062945"><img src="../assets/previews/2b698460f02fd8ccc7a8ff74e61e28fa5b6189c6e81e131013d42058c34b1227.webp" width="840" loading="lazy" alt="Animación de interfaz de una esfera de IA para Claude Code — Opus 5.5"></a>
+
+**Prompt**
+
+```text
+Pregúntame por: la tarea que el agente de IA completa para el usuario (por defecto: planificar y reservar un viaje de 3 días a Kioto), la paleta (por defecto: lienzo gris cálido #E6E3DE, interfaz en blanco y negro puros; la esfera es el único elemento con color: azul iridiscente perlado → violeta → melocotón) y una canción libre de regalías de unos 120 BPM (busca tú mismo en Mixkit, mide los BPM con numpy y muéstrame 3 candidatas con enlaces de vista previa antes de descargar la pista completa). Animación conceptual de interfaz para una herramienta de agente de chat de IA, con nivel de Dribbble. Una forma blanca, nunca se corta: cada estado es el mismo elemento, que cambia de tamaño, radio y color mientras su contenido se intercambia con un desenfoque breve. La protagonista es una «esfera de IA» creada con GLSL (una masa fluida, palpitante e iridiscente, como la esfera de voz de ChatGPT / Siri) que vive FUERA de la forma como elemento de continuidad y cambia de función a lo largo de la pieza: protagonista en reposo → reacciona a la voz mientras escucha → se encoge y entra en la barra de entrada como avatar → gira más rápido mientras piensa → avatar en la respuesta → florece al completar la tarea → vuelve al reposo. Un cursor controla cada cambio con clics y arrastres reales. Una sola fuente de interfaz limpia (Geist). Muelles en todas partes, con un pequeño sobreimpulso como máximo. La cámara hace zoom para que cada estado ocupe aproximadamente entre el 60 y el 75 % del encuadre. La esfera pulsa sutilmente en cada beat. El último fotograma es el primero, para crear un bucle. Prohibido: easing rebotado, estallidos de partículas, brillos o degradados en la interfaz (la esfera es contenido, no interfaz), trazos de iconos desparejados, tiempos muertos o cualquier cosa que parezca una plantilla. 120 BPM, 8 compases = 32 beats = 16 s; ocurre algo en cada beat (el beat n está en (n-1)*0,5 s): Compás 1: esfera en reposo, el cursor se acerca | clic en la esfera → la forma se estira hasta convertirse en una píldora «LISTENING», la esfera se desplaza a su izquierda y se balancea siguiendo una envolvente silábica | la transcripción en directo escribe «Plan 3 days in Kyoto» | «…por debajo de 1.500», el valor se actualiza en directo | arrastra más allá de 1.248, el «cheapest plan» Compás 6: control deslizante → gesto negro de deslizar para confirmar «Book trip · $1,248» | agarra el control y arrástralo a la derecha | al superar el final → banda elástica | suelta → se ajusta al final y la flecha se convierte en un indicador de carga Compás 7: → aviso «Trip booked» | aparecen los chips «Flights ✓» y «Ryokan ✓» | la esfera florece (color + escala) | el aviso se contrae hacia la esfera Compás 8: la forma se desvanece y la esfera recupera su tamaño protagonista | se estabiliza | respira al ritmo, el cursor se aleja | vuelve al reposo (bucle) 1. Un único archivo HTML autocontenido, cuadrado de 1440×1440, con las fuentes y los recursos sin audio integrados como URI de datos. Cada estilo se calcula a partir del tiempo dentro de un `seek(t)` puro: sin transiciones CSS, sin temporizadores, sin estado conservado entre fotogramas y nunca crees pistas dentro de seek. 2. Los muelles son respuestas escalonadas en forma cerrada. Un valor cuyo objetivo cambia muchas veces es la suma de un muelle por cada cambio; para crear el bucle, toma el ÚLTIMO objetivo como valor inicial y añade también las colas de los muelles de los dos ciclos anteriores (t + L, t + 2L), de modo que la posición Y la velocidad coincidan en la unión. Relación de amortiguación ≥ 0,72. 3. Las capas de contenido tienen sus propias ventanas de entrada y salida: la salida termina exactamente en el beat, la entrada comienza unos 80 ms después (opacidad + desenfoque de pantalla de unos 12 px + escala de 0,965→1), o el texto se superpone. 4. Los arrastres son manipulación directa: mientras se mantiene pulsado, el valor = inicio + (cursorX − cursorX al pulsar); al superar un límite, aplica rubber(over, R) = R·(1 − e^(−over/R)); al soltar, un muelle libre parte de la posición Y velocidad de liberación hasta el objetivo de ajuste. Los puntos de paso del cursor son [tiempo de salida, x, y] en un muelle; el punto de paso final es igual al primero para que la posición y la velocidad del cursor sean continuas a través del bucle. 5. La esfera: un shader de fragmentos WebGL dibujado en un lienzo OFFSCREEN de 640×640, que después se dibuja sincrónicamente mediante drawImage en un lienzo 2D visible dentro de seek (capturar directamente el lienzo WebGL no es fiable en un entorno sin interfaz). El tiempo debe ser periódico: uniforms (cos, sin)(2π·k·t/L) con k entero (por ejemplo, k=2 y k=5), nunca t sin transformar. El radio de la silueta = 0,74 + amp·noise(direction·1.4 + T), muestreado sobre el vector de dirección unitario (sin unión central); la superficie = ruido 3D de baja frecuencia con deformación de dominio sobre la normal de la esfera → grandes bandas de color suaves; 16 % de blanco perlado, un núcleo interior brillante, un pequeño brillo especular definido (pow 70), un borde fresnel lila pálido; mitad inferior más oscura para dar volumen; sombra elíptica suave bajo la esfera en reposo. Uniformes: amp (en reposo 0,08, + envolvente silábica mientras escucha, + un poco mientras piensa), think (deformación más intensa y rápida), bloom (estallido de color al completar). Mantén ≤5 llamadas a noise por píxel. 6. Audio: analiza la canción con numpy (inicio por flujo espectral, BPM sincronizados por fase, primer beat de cada compás mediante kick + cambio de cromagrama, RMS por compás). Empieza en el primer beat de una frase de 8 compases con toda la energía, para que el bucle de audio termine en el límite de una frase. Las ventanas de análisis grandes estiman los beats unos 15–25 ms antes: vuelve a medir el corte con una ventana de 256 muestras y desplaza el inicio hasta que el residuo mediano sea < 2 ms. Aplica un fundido cruzado de los últimos 60 ms con los 60 ms anteriores al inicio. Sintetiza sonidos de interfaz con numpy (clic, swoosh de envío, agarre/soltado, tic, éxito, campanilla) y coloca cada uno según su PICO MEDIDO en el momento del evento; en los sonidos de varias notas, la primera nota debe ser la más fuerte. 7. Renderiza con Playwright Chromium: 4 subfotogramas por fotograma distribuidos en la mitad de un fotograma (obturador de 180°, centrado en el tiempo del fotograma), con 16 trabajadores en paralelo. Después de cada seek, espera dos requestAnimationFrames antes de la captura de pantalla; NO uses screenshot(animations='disabled'). Como la escena usa WebGL, inicia con --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (la ruta predeterminada SwiftShader-Vulkan pierde el contexto WebGL la mayoría de las veces). Convierte a RGB cualquier captura RGBA. 8. Codifica con ffmpeg: -reinit_filter 0, tmix=frames=4 y después selecciona cada cuarto fotograma, 60 fps, libx264 -crf 10 -x264-params aq-mode=3, AAC a 256k, -t con la duración exacta. Verifica qué subfotogramas promedia realmente tmix en tu versión de ffmpeg antes de elegir el desplazamiento de select. Crea también una versión para compartir con crf 20 y una copia con 3 bucles. 9. Antes del renderizado completo: renderiza un fotograma en cada beat y otro 0,3 s después, compón hojas de contacto y corrige todo lo que esté fuera de la cuadrícula, apretado, recortado, ilegible o sin la esfera. Después, comprueba visualmente fotogramas de transición a resolución completa. 10. Verifica e informa: las capturas en t=0 y t=L son idénticas píxel por píxel; el número de fotogramas = 960 y el vídeo/audio duran exactamente 16,000 s; la diferencia entre fotogramas en la unión es del mismo orden que la de sus vecinos; no hay subfotogramas RGBA; el desfase del beat del audio final es < 10 ms; muestrea los fotogramas en reposo para confirmar que la esfera aparece en todos. - smoothstep(e0, e1, x) con e0 > e1 no está definido en GLSL — SwiftShader devuelve 0 y la esfera desaparece. Escribe siempre 1.0 - smoothstep(lo, hi, x). - Un shader pesado en GL por software activa el watchdog de la GPU (CONTEXT_LOST_WEBGL): mantén el lienzo en 640² y bajo el número de llamadas a noise; busca mensajes de pérdida de contexto en la consola en cada prueba. - No pongas nunca will-change en nada que la cámara escale, o el texto se renderizará borroso. - Los elementos seguidores (la esfera, los avatares) usan un muelle ligeramente más lento que la forma para que nunca queden recortados por su borde. - Orden de las capas: cualquier elemento con una placa de fondo va ANTES que el texto o los iconos colocados sobre ella. - No anules un translate() de centrado con un transform animado; envuélvelo en una capa. - ffmpeg -shortest puede omitir el último fotograma; establece -t explícitamente. - Haz que el último fotograma sea idéntico al primero, incluida la posición y la velocidad del cursor, o el bucle dará un tirón. Pregúntame por los datos de entrada, crea primero un prototipo del shader de la esfera por separado (renderiza t=0, t=4, t=8 y demuestra que t=0 == t=16 píxel por píxel, sin pérdida de contexto durante 8 cargas de página nuevas), después muéstrame la lista de estados en la cuadrícula de beats de 8 compases como tabla y espera mi OK antes de escribir la escena completa.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Ask me for: the task the AI agent completes for the user (default: plan + book a 3-day Kyoto trip), the palette (default: warm-gray canvas #E6E3DE, pure black/white UI, the orb is the only colored thing — pearl iridescent blue → violet → peach), and a royalty-free song around 120 BPM (search Mixkit yourself, measure BPM with numpy, show me 3 candidates with preview links before downloading the full track). Use AskUserQuestion, max 4 questions per round, recommended option first. Dribbble-level UI concept motion for an AI chat agent tool. One white shape, never cut: every state is the same element morphing its size, radius and color while its content swaps with a short blur. The star is a GLSL "AI orb" (fluid, breathing, iridescent blob — like the ChatGPT / Siri voice orb) that lives OUTSIDE the shape as a continuity element and changes role through the film: idle hero → reacts to voice while listening → shrinks into the input bar as an avatar → swirls faster while thinking → avatar on the answer → blooms when the task completes → back to idle. A cursor drives every change with real clicks and drags. One clean UI font (Geist). Springs everywhere, a tiny overshoot at most. The camera zooms so each state fills ~60–75% of the frame. The orb pulses subtly on every beat. The last frame is the first frame, so it loops. Banned: bouncy easing, particle bursts, glows or gradients on UI chrome (the orb is content, not chrome), mismatched icon strokes, dead time, anything that looks like a template. 120 BPM, 8 bars = 32 beats = 16s, something happens on every beat (beat n at (n-1)*0.5s): Bar 1: orb idle, cursor approaches | click orb → shape stretches into a "LISTENING" pill, orb moves to its left and wobbles with a syllable envelope | live transcript types "Plan 3 days in Kyoto" | "…under 1,500, the value rolls live | drag past the 1,248 "cheapest plan" Bar 6: slider → black swipe-to-confirm "Book trip · $1,248" | grab the knob, drag right | past the end → rubber band | release → snaps to the end, arrow becomes a spinner Bar 7: → toast "Trip booked" | chips "Flights ✓" "Ryokan ✓" pop in | orb blooms (color + scale) | toast collapses toward the orb Bar 8: shape fades, orb grows back to hero size | settles | breathes on the beat, cursor drifts out | back to idle (loop) 1. One self-contained HTML file, square 1440x1440, fonts and audio-free assets inlined as data URIs. Every style is computed from time inside a pure `seek(t)`: no CSS transitions, no timers, no state carried between frames, never create tracks inside seek. 2. Springs are closed-form step responses. A value that changes target many times is the sum of one spring per change; to loop, take the LAST target as the start value and also add the spring tails of the previous two cycles (t + L, t + 2L) so position AND velocity match at the seam. Damping ratio ≥ 0.72. 3. Content layers have their own enter/exit windows: exit lands exactly on the beat, enter starts ~80ms later (opacity + ~12px screen blur + 0.965→1 scale), or text overlaps. 4. Drags are direct manipulation: while held, the value = start + (cursorX − cursorX at press); past a limit apply rubber(over, R) = R·(1 − e^(−over/R)); on release a free spring runs from the release position AND velocity to the snap target. Cursor waypoints are [departure time, x, y] on a spring; the final waypoint equals the first so the cursor's position and speed are continuous across the loop. 5. The orb: WebGL fragment shader drawn on an OFFSCREEN 640×640 canvas, then synchronously drawImage'd into a visible 2D canvas inside seek (screenshotting the WebGL canvas directly is unreliable headless). Time must be periodic: uniforms (cos, sin)(2π·k·t/L) with integer k (e.g. k=2 and k=5), never raw t. Silhouette radius = 0.74 + amp·noise(direction·1.4 + T) sampled on the unit direction vector (no center seam); surface = low-frequency domain-warped 3D noise on the sphere normal → large smooth color bands; 16% pearl white, a bright inner core, a small sharp specular (pow 70), a pale lilac fresnel rim; darker lower half for volume; soft elliptical shadow under the idle orb. Uniforms: amp (idle 0.08, + syllable envelope while listening, + a bit while thinking), think (stronger/faster warp), bloom (completion color burst). Keep ≤5 noise calls per pixel. 6. Audio: analyze the song with numpy (spectral-flux onset, phase-locked BPM, downbeat by kick + chroma change, per-bar RMS). Start on the downbeat of a full-energy 8-bar phrase so the audio loop lands on a phrase boundary. Large analysis windows estimate beats ~15–25ms early: re-measure the cut with a 256-sample window and shift the start until the median residual is < 2ms. Crossfade the last 60ms with the 60ms before the start. Synthesize UI sounds with numpy (click, send swoosh, grab/drop, tick, success, chime) and place each by its MEASURED PEAK on the event time; multi-note sounds keep the first note loudest. 7. Render with Playwright Chromium: 4 subframes per frame spread over half a frame (180° shutter, centered on the frame time), 16 parallel workers. After each seek, await two requestAnimationFrames before the screenshot; do NOT use screenshot(animations='disabled'). Because the scene uses WebGL, launch with --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --disable-gpu-watchdog (the default SwiftShader-Vulkan path loses the WebGL context most of the time). Convert any RGBA screenshot to RGB. 8. Encode with ffmpeg: -reinit_filter 0, tmix=frames=4 then select every 4th frame, 60fps, libx264 -crf 10 -x264-params aq-mode=3, AAC 256k, -t exactly the duration. Verify which subframes tmix actually averages on your ffmpeg version before choosing the select offset. Also make a crf 20 share version and a 3× looped copy. 9. Before the full render: render one frame on each beat and one 0.3s after it, tile them into contact sheets, and fix anything off the grid, cramped, clipped, unreadable, or with the orb missing. Then spot-check transition frames at full resolution. 10. Verify and report: t=0 and t=L screenshots are pixel-identical; frame count = 960 and video/audio are exactly 16.000s; seam frame-diff is the same order as its neighbors; no RGBA subframes; beat offset of the final audio < 10ms; sample the idle frames to confirm the orb is present in every one. - smoothstep(e0, e1, x) with e0 > e1 is undefined in GLSL — SwiftShader returns 0 and the orb vanishes. Always write 1.0 - smoothstep(lo, hi, x). - A heavy shader on software GL triggers the GPU watchdog (CONTEXT_LOST_WEBGL): keep the canvas at 640² and the noise count low; listen for console context-loss messages in every test. - Never put will-change on anything the camera scales, or text renders blurry. - Followers (the orb, avatars) use a slightly slower spring than the shape so they never get clipped by its edge. - Layer order: anything with a background plate goes BEFORE the text/icons that sit on it. - Don't override a centering translate() with an animated transform — wrap it in a layer instead. - ffmpeg -shortest can drop the last frame; set -t explicitly. - Make the last frame identical to the first, cursor position and speed included, or the loop stutters. Ask me for the inputs, prototype the orb shader alone first (render t=0, t=4, t=8 and prove t=0 == t=16 pixel-for-pixel, with no context loss across 8 fresh page loads), then show me the state list on the 8-bar beat grid as a table and wait for my OK before writing the full scene.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104162483888062945) · [Publicación original](https://x.com/listudio/status/2104162483888062945) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2103846630088716687"></a>
 
 ### Vídeo gráfico de motion design pulido de 15 segundos

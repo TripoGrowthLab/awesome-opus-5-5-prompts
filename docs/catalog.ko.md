@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**36 사례 · 14 🌐**
+**42 사례 · 14 🌐**
 
 [카테고리별 탐색](#categories) · [모델별 탐색](#models) · [소스 코드](with-code.md) · [1](../docs/catalog.ko.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 게임 · 7
+### 게임 · 8
 
+- [눈 내리는 골목을 배경으로 한 초현실적 멀티플레이어 FPS](../docs/catalog.ko.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [마인크래프트 스타일 복셀 게임과 고급 셰이더](../docs/catalog.ko.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 샌드박스 생존 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
 - [샌프란시스코를 배경으로 한 원신 스타일 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
@@ -43,8 +44,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### 장면 · 5
+### 장면 · 6
 
+- [데이터센터에서 원자까지 이어지는 55초 3D 장면](../docs/catalog.ko.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [제국 도시 건설하기](../docs/catalog.ko.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [더 라스트 트레인 사이버펑크 메가시티 벤치마크](../docs/catalog.ko.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](../docs/catalog.ko.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
@@ -53,8 +55,9 @@
 
 <a id="category-3d-assets"></a>
 
-### 에셋 · 2
+### 에셋 · 3
 
+- [기능을 모두 갖춘 LEGO Ford Model T 세트](../docs/catalog.ko.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [Three.js로 에펠탑 만들기](../docs/catalog.ko.1.md#claude-opus-5-5-2103106070549757960) · [Pascual ⚡](https://x.com/0xPascual)
 - [Three.js로 Bugatti Chiron Super Sport 제작하기](../docs/catalog.ko.1.md#claude-opus-5-5-2102828216289566725) · [Sree](https://x.com/srikanthvaluri)
 
@@ -71,8 +74,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### 애니메이션 · 16
+### 애니메이션 · 19
 
+- [다이내믹한 30초 Kiiwi 모션 그래픽 프로모션](../docs/catalog.ko.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [3대의 탈것이 변형·합체하는 애니메이션풍 3D CG](../docs/catalog.ko.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Claude Code용 AI 오브 UI 모션 — Opus 5.5](../docs/catalog.ko.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [완성도 높은 15초 모션 디자인 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [Spotify 테마 모션 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)
 - [다이내믹한 15초 모션 디자인 쇼릴](../docs/catalog.ko.1.md#claude-opus-5-5-2103504887439065439) · [ajith\_io](https://x.com/ajith_io)
@@ -96,8 +102,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 36
+### Claude Opus 5.5 · 42
 
+- [기능을 모두 갖춘 LEGO Ford Model T 세트](../docs/catalog.ko.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
+- [눈 내리는 골목을 배경으로 한 초현실적 멀티플레이어 FPS](../docs/catalog.ko.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
+- [데이터센터에서 원자까지 이어지는 55초 3D 장면](../docs/catalog.ko.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
+- [다이내믹한 30초 Kiiwi 모션 그래픽 프로모션](../docs/catalog.ko.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
+- [3대의 탈것이 변형·합체하는 애니메이션풍 3D CG](../docs/catalog.ko.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
+- [Claude Code용 AI 오브 UI 모션 — Opus 5.5](../docs/catalog.ko.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
 - [완성도 높은 15초 모션 디자인 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103846630088716687) · [Tasher](https://x.com/Dannnnnok)
 - [마인크래프트 스타일 복셀 게임과 고급 셰이더](../docs/catalog.ko.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Spotify 테마 모션 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2103801834930606193) · [Brain](https://x.com/brainextends)

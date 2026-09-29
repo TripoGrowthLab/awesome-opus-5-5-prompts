@@ -26,8 +26,11 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (42)</summary>
+<summary>Khám phá ví dụ (45)</summary>
 
+- [Kiến trúc biết đi](#claude-opus-5-5-2104590334152056983)
+- [Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại](#claude-opus-5-5-2104571944842498150)
+- [Bánh dâu WebGPU tương tác](#claude-opus-5-5-2104514806443303238)
 - [Bộ LEGO Ford Model T đầy đủ tính năng](#claude-opus-5-5-2104232297167716457)
 - [FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết](#claude-opus-5-5-2104232013578617241)
 - [Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây](#claude-opus-5-5-2104223449849761837)
@@ -72,6 +75,105 @@
 - [Hòn đảo tiền sử 3D tương tác](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### Kiến trúc biết đi
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="Kiến trúc biết đi"></a>
+
+**Prompt**
+
+```text
+Tạo một công trình kiến trúc biết đi
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104590334152056983) · [Bài đăng gốc](https://x.com/shion_takk/status/2104590334152056983) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại"></a>
+
+**Prompt**
+
+```text
+Sử dụng Magnific MCP, hãy xây dựng một game beat ’em up pixel art chơi được, lấy bối cảnh La Mã cổ đại, dưới dạng một tệp HTML duy nhất hoạt động trên thiết bị di động. Trước tiên, hãy tạo một ảnh chủ đạo và dùng ảnh đó làm tham chiếu phong cách cho mọi thành phần: màn chơi, nhân vật chính, kẻ địch, trùm voi chiến và vật phẩm. Tạo hoạt ảnh cho nhân vật bằng image-to-video trên phông xanh, chọn các khung hình có thể lặp, tách nền xanh và giữ mọi hoạt ảnh cùng tỉ lệ cũng như bảng màu. Thêm điều khiển cảm ứng, combo, khiên, né đòn, lao pilum có thể ném, vật phẩm nhặt được, chế độ chơi thử 1 phút và nhạc nền chiptune. Hãy cho tôi biết chi phí credit trước mỗi lần tạo.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104571944842498150) · [Bài đăng gốc](https://x.com/koldo2k/status/2104571946989985812) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### Bánh dâu WebGPU tương tác
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="Bánh dâu WebGPU tương tác"></a>
+
+**Prompt**
+
+```text
+Lập tức xây dựng một trang web WebGPU tương tác hoàn chỉnh có tên “Strawberry Cake.” 
+Sử dụng WebGPU + WGSL thực thụ, hình học dựng theo quy trình, chuột/cảm ứng và vật lý thân mềm thể tích theo thời gian thực. Không dùng Three.js/Babylon.js, Canvas2D, tài nguyên bên ngoài, video/GIF hoặc biến dạng chỉ bằng CSS.
+Hình ảnh: bánh shortcake dâu kiểu Hàn/Nhật cao cấp—thấp, bè rộng, bo tròn, mềm như gối, với cốt bánh màu hồng, các lớp kem, lớp phủ nhạt màu, kem bắt bông và dâu tây. Nền màu ngà ấm, ánh sáng studio dịu, vật liệu ẩm mọng như có thể ăn được.
+Bố cục: góc trên bên trái hiển thị “SOFT STUDIES / NO.001” + “Strawberry Cake” in nghiêng. Góc trên bên phải hiển thị “WEBGPU · LIVE”. Bánh lớn đặt chính giữa. Điều khiển bên phải: Bàn tay/Dao, preset, Độ cứng, Giảm chấn, Thả, Đặt lại, Tạm dừng, tốc độ ¼, Hiện lưới. Góc dưới bên trái: Khối lượng, Thể tích, Động năng, Số miếng.
+Vật lý: thân mềm XPBD/đồng quay ổn định với lưới mô phỏng tứ diện, lưới hiển thị mượt, bảo toàn thể tích, giảm chấn, trọng lực, ma sát sàn và va chạm giữa các miếng. Bánh phải cho cảm giác mềm nhưng nặng, đồng thời lắc lư sau khi thả.
+Bàn tay: giữ=Ấn, kéo vào=Bóp, kéo ra=Nắm, thả nhanh=Ném. Sử dụng thao tác nắm có trọng số, mục tiêu 3D được làm mượt, vận tốc con trỏ và động lượng. Bánh vẫn tự do chuyển động; thao tác với bánh được ưu tiên hơn xoay góc nhìn.
+Dao: dao 3D dựng theo quy trình. Vẽ một đường cắt; tạo hoạt ảnh theo trình tự tiếp xúc→nén→xuyên qua→đột phá→nhấc lên. Làm biến dạng trước khi tách; giữ đường ráp thật mảnh.
+Bắt buộc hỗ trợ cắt lặp lại: sử dụng danh sách miếng động; mọi miếng đều tiếp tục có thể cắt. Chuyển nét vẽ thành các mặt phẳng cắt dọc, tách những miếng bị cắt qua, tạo lưới thân mềm/lưới hiển thị mới, truyền biến dạng/vận tốc, bảo toàn phần phủ bên trên, giữ hai nửa thẳng hàng và cập nhật Số miếng. Hỗ trợ từ 14 miếng trở lên và cắt qua nhiều miếng. Không dùng các trạng thái cố định kiểu nguyên chiếc/trái/phải.
+Thả sẽ giải phóng tất cả các miếng. Đặt lại khôi phục một chiếc bánh nguyên vẹn và Số miếng=1. Sử dụng bước thời gian cố định/các bước con, DPR≤2, giới hạn tình trạng mất ổn định, tránh NaN/lỗi GPU. Cung cấp window.__cake.
+Chạy cục bộ, kiểm thử các tương tác và việc cắt lặp lại, rồi tinh chỉnh đến khi hoàn thiện.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2104514806443303238) · [Bài đăng gốc](https://x.com/ImaStudio_ai/status/2104517586092458039) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### Bộ LEGO Ford Model T đầy đủ tính năng

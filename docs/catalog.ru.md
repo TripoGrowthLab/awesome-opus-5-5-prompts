@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**42 Примеры · 14 🌐**
+**45 Примеры · 14 🌐**
 
 [По категориям](#categories) · [По моделям](#models) · [Исходный код](with-code.md) · [1](../docs/catalog.ru.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Игры · 8
+### Игры · 9
 
+- [Играбельный пиксельный beat ’em up в Древнем Риме](../docs/catalog.ru.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [Гиперреалистичный многопользовательский FPS в заснеженном переулке](../docs/catalog.ru.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Воксельная игра в стиле Minecraft с продвинутыми шейдерами](../docs/catalog.ru.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Воксельная survival-игра-песочница на WebGL2](../docs/catalog.ru.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
@@ -63,8 +64,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### Интерактив · 6
+### Интерактив · 7
 
+- [Интерактивный клубничный торт на WebGPU](../docs/catalog.ru.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Навигация по 3D-пагоде](../docs/catalog.ru.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Свободно исследуемый 3D-город с сакурой в стиле аниме](../docs/catalog.ru.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Интерактивное средневековое королевство для Claude Opus 5.5](../docs/catalog.ru.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
@@ -74,8 +76,9 @@
 
 <a id="category-animation-simulation"></a>
 
-### Анимация · 19
+### Анимация · 20
 
+- [Ходячая архитектура](../docs/catalog.ru.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Динамичный 30-секундный проморолик Kiiwi в формате моушн-графики](../docs/catalog.ru.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [Аниме-стилизованная 3D-сцена с тремя транспортными средствами, которые трансформируются и объединяются](../docs/catalog.ru.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
 - [Моушен UI с ИИ-орбом для Claude Code — Opus 5.5](../docs/catalog.ru.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
@@ -102,8 +105,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 42
+### Claude Opus 5.5 · 45
 
+- [Ходячая архитектура](../docs/catalog.ru.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
+- [Играбельный пиксельный beat ’em up в Древнем Риме](../docs/catalog.ru.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
+- [Интерактивный клубничный торт на WebGPU](../docs/catalog.ru.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Полнофункциональный набор LEGO Ford Model T](../docs/catalog.ru.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [Гиперреалистичный многопользовательский FPS в заснеженном переулке](../docs/catalog.ru.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [55-секундная 3D-сцена: от дата-центра до атома](../docs/catalog.ru.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)

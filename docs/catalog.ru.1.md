@@ -26,8 +26,11 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Посмотреть примеры (42)</summary>
+<summary>Посмотреть примеры (45)</summary>
 
+- [Ходячая архитектура](#claude-opus-5-5-2104590334152056983)
+- [Играбельный пиксельный beat ’em up в Древнем Риме](#claude-opus-5-5-2104571944842498150)
+- [Интерактивный клубничный торт на WebGPU](#claude-opus-5-5-2104514806443303238)
 - [Полнофункциональный набор LEGO Ford Model T](#claude-opus-5-5-2104232297167716457)
 - [Гиперреалистичный многопользовательский FPS в заснеженном переулке](#claude-opus-5-5-2104232013578617241)
 - [55-секундная 3D-сцена: от дата-центра до атома](#claude-opus-5-5-2104223449849761837)
@@ -72,6 +75,105 @@
 - [Интерактивный 3D-остров с доисторической природой](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### Ходячая архитектура
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="Ходячая архитектура"></a>
+
+**Промпт**
+
+```text
+Создай ходячую архитектуру
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104590334152056983) · [Исходная публикация](https://x.com/shion_takk/status/2104590334152056983) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### Играбельный пиксельный beat ’em up в Древнем Риме
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="Играбельный пиксельный beat ’em up в Древнем Риме"></a>
+
+**Промпт**
+
+```text
+С помощью Magnific MCP создай играбельный пиксельный beat ’em up в сеттинге Древнего Рима — одним HTML-файлом, который работает на мобильных устройствах. Сначала создай ключевой арт и используй его как референс стиля для всех ассетов: уровня, героя, врагов, босса — боевого слона — и предметов. Анимируй персонажей с помощью image-to-video на зелёном фоне, выбери кадры, образующие зацикленные анимации, убери зелёный фон хромакеем и сохрани для всех анимаций одинаковые масштаб и палитру. Добавь сенсорное управление, комбо, щит, уклонение, метательное копьё-пилум, предметы для подбора, демонстрационный режим длительностью 1 минуту и саундтрек в стиле чиптюн. Перед каждой генерацией сообщай стоимость в кредитах.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104571944842498150) · [Исходная публикация](https://x.com/koldo2k/status/2104571946989985812) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### Интерактивный клубничный торт на WebGPU
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="Интерактивный клубничный торт на WebGPU"></a>
+
+**Промпт**
+
+```text
+Сразу создайте полноценный интерактивный сайт на WebGPU под названием «Strawberry Cake». 
+Используйте настоящий WebGPU + WGSL, процедурную геометрию, управление мышью и касаниями, а также физику мягкого тела в реальном времени с объёмной симуляцией. Не используйте Three.js/Babylon.js, Canvas2D, внешние ресурсы, видео/GIF или деформацию только средствами CSS.
+Визуальный стиль: премиальный корейский/японский клубничный бисквитный торт — низкий, широкий, округлый, мягкий, как подушка; с розовым бисквитом, слоями крема, светлой глазурью, отсаженным кремом и клубникой. Тёплый фон цвета слоновой кости, мягкий студийный свет, аппетитные влажные материалы.
+Компоновка: в левом верхнем углу — «SOFT STUDIES / NO.001» и курсивом «Strawberry Cake». В правом верхнем углу — «WEBGPU · LIVE». Большой торт по центру. Панель управления справа: Рука/Нож, пресеты, Жёсткость, Демпфирование, Бросок, Сброс, Пауза, ¼ скорости, Показать сетку. В левом нижнем углу: Масса, Объём, Кинетическая энергия, Куски.
+Физика: стабильная XPBD/коротационная модель мягкого тела с тетраэдральной расчётной сеткой, сглаженной сеткой для рендера, сохранением объёма, демпфированием, гравитацией, трением о поверхность и столкновениями между кусками. Торт должен ощущаться мягким и тяжёлым и покачиваться после отпускания.
+Рука: удержание = Нажатие, движение внутрь = Сжатие, движение наружу = Захват, быстрое отпускание = Бросок. Используйте взвешенные захваты, сглаженную трёхмерную цель, скорость указателя и импульс. Торт остаётся свободным; ввод для взаимодействия с тортом имеет приоритет над вращением сцены.
+Нож: процедурный 3D-нож. Нарисуйте линию разреза и анимируйте последовательность «контакт → сжатие → проникновение → прорезание → подъём». Сначала деформируйте торт, затем разделяйте его; шов должен оставаться тонким.
+Повторные разрезы обязательны: используйте динамический список кусков; каждый кусок должен оставаться доступным для разрезания. Преобразуйте штрихи в вертикальные плоскости разреза, разделяйте пересечённые куски, создавайте новые мягкотельные и рендер-сетки, переносите деформацию и скорость, сохраняйте топпинги, удерживайте половинки выровненными и обновляйте показатель «Куски». Поддерживайте 14 и более кусков, а также разрезы сразу нескольких кусков. Не используйте фиксированные состояния целого торта, левой и правой частей.
+Кнопка «Бросок» должна отпускать все куски. «Сброс» восстанавливает один целый торт и значение «Куски» = 1. Используйте фиксированный шаг времени и подшаги, DPR≤2, ограничивайте нестабильность и не допускайте NaN/ошибок GPU. Откройте window.__cake.
+Запустите проект локально, протестируйте взаимодействия и повторные разрезы, затем дорабатывайте его, пока результат не станет полностью отполированным.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104514806443303238) · [Исходная публикация](https://x.com/ImaStudio_ai/status/2104517586092458039) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### Полнофункциональный набор LEGO Ford Model T

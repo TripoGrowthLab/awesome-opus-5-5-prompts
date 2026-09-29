@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**42 案例 · 14 🌐**
+**45 案例 · 14 🌐**
 
 [依用途瀏覽](#categories) · [依模型瀏覽](#models) · [專案原始碼](with-code.md) · [1](../docs/catalog.zh-Hant.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 遊戲 · 8
+### 遊戲 · 9
 
+- [可遊玩的像素風古羅馬橫向捲軸格鬥遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [雪地巷弄中的超寫實多人第一人稱射擊遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Minecraft 風格體素遊戲，搭載進階著色器](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 沙盒生存遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
@@ -63,8 +64,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### 互動 · 6
+### 互動 · 7
 
+- [互動式 WebGPU 草莓蛋糕](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [在 3D 寶塔中探索](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [可自由行走的 3D 動漫風櫻花小鎮](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Claude Opus 5.5 的互動式中世紀王國](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
@@ -74,8 +76,9 @@
 
 <a id="category-animation-simulation"></a>
 
-### 動畫 · 19
+### 動畫 · 20
 
+- [會走路的建築](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [動態十足的 30 秒 Kiiwi 動態圖像宣傳片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [三台載具變形合體的動畫風 3D CG](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
 - [Claude Code 的 AI 球體 UI 動態 — Opus 5.5](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
@@ -102,8 +105,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 42
+### Claude Opus 5.5 · 45
 
+- [會走路的建築](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
+- [可遊玩的像素風古羅馬橫向捲軸格鬥遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
+- [互動式 WebGPU 草莓蛋糕](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [功能完整的 LEGO Ford Model T 套裝](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [雪地巷弄中的超寫實多人第一人稱射擊遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [55 秒資料中心到原子的 3D 場景](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)

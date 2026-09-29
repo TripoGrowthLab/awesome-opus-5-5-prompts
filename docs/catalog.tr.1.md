@@ -26,8 +26,11 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (42)</summary>
+<summary>Örnekleri keşfet (45)</summary>
 
+- [Yürüyen Mimari](#claude-opus-5-5-2104590334152056983)
+- [Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu](#claude-opus-5-5-2104571944842498150)
+- [Etkileşimli WebGPU Çilekli Pasta](#claude-opus-5-5-2104514806443303238)
 - [Tüm özellikleri eksiksiz LEGO Ford Model T seti](#claude-opus-5-5-2104232297167716457)
 - [Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS](#claude-opus-5-5-2104232013578617241)
 - [55 saniyelik veri merkezinden atoma 3B sahne](#claude-opus-5-5-2104223449849761837)
@@ -72,6 +75,105 @@
 - [Etkileşimli 3B Tarih Öncesi Ada](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### Yürüyen Mimari
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="Yürüyen Mimari"></a>
+
+**İstem**
+
+```text
+Yürüyen bir mimari yapı oluştur
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104590334152056983) · [Orijinal gönderi](https://x.com/shion_takk/status/2104590334152056983) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu"></a>
+
+**İstem**
+
+```text
+Magnific MCP'yi kullanarak Antik Roma'da geçen, mobil cihazlarda çalışan tek bir HTML dosyası olarak oynanabilir bir piksel sanatlı beat 'em up oyunu oluştur. Önce bir ana konsept görseli üret ve bunu tüm varlıklar için stil referansı olarak kullan: bölüm, kahraman, düşmanlar, savaş fili boss'u ve eşyalar. Karakterleri yeşil perde üzerinde görüntüden videoya yöntemiyle canlandır; döngü oluşturacak kareleri seç, yeşil perdeyi kaldır ve tüm animasyonların aynı ölçek ile renk paletini korumasını sağla. Dokunmatik kontroller, kombolar, kalkan, kaçınma hareketi, fırlatılabilir bir pilum, toplanabilir eşyalar, 1 dakikalık demo modu ve çip müziği ekle. Her üretimden önce kredi maliyetini bana bildir.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104571944842498150) · [Orijinal gönderi](https://x.com/koldo2k/status/2104571946989985812) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### Etkileşimli WebGPU Çilekli Pasta
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="Etkileşimli WebGPU Çilekli Pasta"></a>
+
+**İstem**
+
+```text
+“Strawberry Cake” adlı eksiksiz ve etkileşimli bir WebGPU sitesini hemen oluşturun. 
+Gerçek WebGPU + WGSL, prosedürel geometri, fare/dokunma ve gerçek zamanlı hacimsel yumuşak cisim fiziği kullanın. Three.js/Babylon.js, Canvas2D, harici varlıklar, video/GIF veya yalnızca CSS ile deformasyon kullanmayın.
+Görsel: premium Kore/Japon tarzı çilekli kremalı pasta—alçak, geniş, yuvarlak ve yastık gibi yumuşak; pembe kek, krema katmanları, açık renkli frosting, sıkma torbasıyla şekillendirilmiş krema ve çileklerden oluşsun. Sıcak fildişi arka plan, yumuşak stüdyo ışığı ve iştah açıcı, nemli malzemeler kullanın.
+Yerleşim: sol üstte “SOFT STUDIES / NO.001” ve italik “Strawberry Cake”. Sağ üstte “WEBGPU · LIVE”. Ortada büyük pasta. Sağdaki kontroller: El/Bıçak, hazır ayarlar, Sertlik, Sönümleme, Bırak, Sıfırla, Duraklat, ¼ hız, Ağı göster. Sol altta: Kütle, Hacim, Kinetik, Parçalar.
+Fizik: tetrahedral simülasyon ağı, pürüzsüz render ağı, hacim korunumu, sönümleme, yerçekimi, zemin sürtünmesi ve parçaların çarpışmalarını içeren kararlı XPBD/ko-rotasyonel yumuşak cisim sistemi kullanın. Pasta yumuşak ve ağır hissettirmeli, bırakıldıktan sonra sallanmalıdır.
+El: basılı tutma=Press, içe sürükleme=Squeeze, dışa sürükleme=Grab, hızlı bırakma=Throw. Ağırlıklı tutma, yumuşatılmış 3B hedef, işaretçi hızı ve momentumu kullanın. Pasta serbest kalmalı; pasta girdisi yörünge kontrolüne öncelik vermelidir.
+Bıçak: prosedürel 3B bıçak. Bir kesim çizgisi çizin; temas→sıkışma→nüfuz etme→yarıp geçme→kaldırma aşamalarını canlandırın. Parçalamadan önce deformasyon uygulayın; dikişi ince tutun.
+Tekrarlanan kesimler zorunludur: dinamik bir parça listesi kullanın; her parça kesilebilir kalmalıdır. Çizimleri dikey kesim düzlemlerine dönüştürün, kesişen parçaları ayırın, yeni yumuşak cisim/render ağları oluşturun, deformasyonu ve hızı aktarın, üst malzemeleri koruyun, yarımları hizalı tutun ve Parçalar değerini güncelleyin. 14 veya daha fazla parçayı ve çok parçalı kesimleri destekleyin. Sabit bütün/sol/sağ durumları kullanmayın.
+Bırak, tüm parçaları serbest bırakır. Sıfırla, tek ve bütün bir pastayı geri yükler ve Parçalar=1 yapar. Sabit zaman adımı/alt adımlar kullanın, DPR≤2 değerini koruyun, kararsızlığı sınırlayın ve NaN/GPU hatalarından kaçının. window.__cake nesnesini dışa açın.
+Yerel olarak çalıştırın, etkileşimleri ve tekrarlanan kesimleri test edin; sonuçlar kusursuz olana kadar yineleyin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104514806443303238) · [Orijinal gönderi](https://x.com/ImaStudio_ai/status/2104517586092458039) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### Tüm özellikleri eksiksiz LEGO Ford Model T seti

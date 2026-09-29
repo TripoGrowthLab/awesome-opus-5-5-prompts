@@ -26,8 +26,11 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>作例を見る (42)</summary>
+<summary>作例を見る (45)</summary>
 
+- [歩く建築](#claude-opus-5-5-2104590334152056983)
+- [プレイ可能なドット絵の古代ローマ・ベルトスクロールアクション](#claude-opus-5-5-2104571944842498150)
+- [インタラクティブなWebGPUいちごケーキ](#claude-opus-5-5-2104514806443303238)
 - [機能を網羅したLEGO フォード・モデルTセット](#claude-opus-5-5-2104232297167716457)
 - [雪の路地を舞台にした超リアルなマルチプレイFPS](#claude-opus-5-5-2104232013578617241)
 - [データセンターから原子までを描く55秒の3Dシーン](#claude-opus-5-5-2104223449849761837)
@@ -72,6 +75,96 @@
 - [インタラクティブな3D先史時代の島](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### 歩く建築
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="歩く建築"></a>
+
+**プロンプト**
+
+```text
+歩く建築作って
+```
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104590334152056983) · [元の投稿](https://x.com/shion_takk/status/2104590334152056983) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### プレイ可能なドット絵の古代ローマ・ベルトスクロールアクション
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="プレイ可能なドット絵の古代ローマ・ベルトスクロールアクション"></a>
+
+**プロンプト**
+
+```text
+Magnific MCPを使い、古代ローマを舞台にしたプレイ可能なドット絵のベルトスクロールアクションを、モバイルで動作する1つのHTMLファイルとして制作してください。まずキーアートを生成し、すべてのアセット（ステージ、ヒーロー、敵、戦象のボス、アイテム）のスタイルリファレンスとして使用してください。キャラクターはグリーンバックでimage-to-video生成し、ループするフレームを選んで、緑を抜きます。すべてのアニメーションでスケールとパレットを統一してください。タッチ操作、コンボ、盾、回避、投げられるピルム、アイテムピックアップ、1分間のデモモード、チップチューンのサウンドトラックを追加してください。生成する前に、必要なクレジット数を知らせてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104571944842498150) · [元の投稿](https://x.com/koldo2k/status/2104571946989985812) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### インタラクティブなWebGPUいちごケーキ
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="インタラクティブなWebGPUいちごケーキ"></a>
+
+**プロンプト**
+
+```text
+「Strawberry Cake」という完全なインタラクティブWebGPUサイトを、すぐに構築してください。
+本物のWebGPU＋WGSL、プロシージャルジオメトリ、マウス／タッチ操作、リアルタイムのボリュームベース・ソフトボディ物理を使用してください。Three.js／Babylon.js、Canvas2D、外部アセット、動画／GIF、CSSだけによる変形は禁止です。
+ビジュアル：上質な韓国風／日本風のいちごショートケーキ。低く幅広で丸みがあり、クッションのように柔らかい形状にします。ピンク色のスポンジ、クリームの層、淡いフロスティング、絞りクリーム、いちごを配置してください。背景は温かみのあるアイボリー、照明は柔らかなスタジオライト、マテリアルはみずみずしく食欲をそそる質感にします。
+レイアウト：左上に「SOFT STUDIES / NO.001」とイタリック体の「Strawberry Cake」。右上に「WEBGPU · LIVE」。中央に大きなケーキを配置します。右側のコントロールには、Hand／Knife、プリセット、硬さ、ダンピング、落下、リセット、一時停止、¼速度、メッシュ表示を用意してください。左下には、質量、体積、運動量、ピース数を表示します。
+物理：四面体シミュレーションメッシュと滑らかなレンダーメッシュを使った、安定したXPBD／コ回転ソフトボディを実装します。体積保持、ダンピング、重力、床との摩擦、ピース同士の衝突に対応してください。ケーキは柔らかく重量感があり、手を放した後に揺れます。
+Hand：長押し＝押す、内向きのドラッグ＝つぶす、外向きのドラッグ＝つかむ、素早く放す＝投げる。重み付きのつかみ処理、平滑化した3Dターゲット、ポインター速度、運動量を使用してください。ケーキは自由に動ける状態を保ち、ケーキへの入力をカメラ軌道操作より優先します。
+Knife：プロシージャルな3Dナイフを用意します。カットラインを描くと、接触→圧縮→貫通→切断→持ち上げのアニメーションを再生してください。分割前に変形させ、切れ目は薄く保ちます。
+繰り返しカットは必須です。動的なピースリストを使用し、すべてのピースをカット可能な状態に保ってください。ストロークを垂直なカット平面に変換し、交差したピースを分割して、新しいソフトボディ／レンダーメッシュを生成します。変形と速度を引き継ぎ、トッピングを保持し、分割された半分の位置を揃え、Piecesを更新してください。14個以上のピースと、複数ピースを横断するカットに対応します。固定された全体／左／右の状態は使用しないでください。
+Dropですべてのピースを解放します。Resetでは、ケーキをひとつの intact な状態に戻し、Pieces=1にします。固定タイムステップ／サブステップを使用し、DPR≤2に制限し、不安定な挙動をクランプして、NaNやGPUエラーを避けてください。window.__cakeを公開します。
+ローカルで実行し、操作と繰り返しカットをテストして、完成度が上がるまで反復調整してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2104514806443303238) · [元の投稿](https://x.com/ImaStudio_ai/status/2104517586092458039) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### 機能を網羅したLEGO フォード・モデルTセット

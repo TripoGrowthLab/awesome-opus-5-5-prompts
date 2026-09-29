@@ -26,8 +26,11 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>사례 둘러보기 (42)</summary>
+<summary>사례 둘러보기 (45)</summary>
 
+- [걸어 다니는 건축물](#claude-opus-5-5-2104590334152056983)
+- [플레이 가능한 픽셀 아트 고대 로마 벨트스크롤 액션 게임](#claude-opus-5-5-2104571944842498150)
+- [인터랙티브 WebGPU 딸기 케이크](#claude-opus-5-5-2104514806443303238)
 - [기능을 모두 갖춘 LEGO Ford Model T 세트](#claude-opus-5-5-2104232297167716457)
 - [눈 내리는 골목을 배경으로 한 초현실적 멀티플레이어 FPS](#claude-opus-5-5-2104232013578617241)
 - [데이터센터에서 원자까지 이어지는 55초 3D 장면](#claude-opus-5-5-2104223449849761837)
@@ -72,6 +75,105 @@
 - [인터랙티브 3D 선사시대 섬](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### 걸어 다니는 건축물
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="걸어 다니는 건축물"></a>
+
+**프롬프트**
+
+```text
+걸어 다니는 건축물 만들어 줘
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104590334152056983) · [원본 게시물](https://x.com/shion_takk/status/2104590334152056983) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### 플레이 가능한 픽셀 아트 고대 로마 벨트스크롤 액션 게임
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="플레이 가능한 픽셀 아트 고대 로마 벨트스크롤 액션 게임"></a>
+
+**프롬프트**
+
+```text
+Magnific MCP를 사용해 고대 로마를 배경으로 한 플레이 가능한 픽셀 아트 벨트스크롤 액션 게임을 제작하세요. 모바일에서 작동하는 단일 HTML 파일로 구현하세요. 먼저 키 아트를 생성하고, 이를 모든 에셋의 스타일 레퍼런스로 사용하세요. 에셋에는 스테이지, 주인공, 적, 전쟁 코끼리 보스, 아이템이 포함됩니다. 그린 스크린에서 이미지-투-비디오 기능으로 캐릭터를 애니메이션화하고, 반복 재생에 적합한 프레임을 선택하세요. 그린 스크린을 크로마 키로 제거하고 모든 애니메이션의 스케일과 팔레트를 동일하게 유지하세요. 터치 조작, 콤보, 방패, 회피, 투척 가능한 필룸, 아이템 획득 요소, 1분 데모 모드, 칩튠 사운드트랙을 추가하세요. 생성하기 전에 매번 크레딧 비용을 알려 주세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104571944842498150) · [원본 게시물](https://x.com/koldo2k/status/2104571946989985812) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### 인터랙티브 WebGPU 딸기 케이크
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="인터랙티브 WebGPU 딸기 케이크"></a>
+
+**프롬프트**
+
+```text
+지금 바로 “Strawberry Cake”라는 이름의 완전한 인터랙티브 WebGPU 사이트를 제작하세요. 
+순수 WebGPU + WGSL, 절차적 지오메트리, 마우스/터치 입력, 실시간 볼류메트릭 소프트 바디 물리를 사용하세요. Three.js/Babylon.js, Canvas2D, 외부 에셋, 동영상/GIF, CSS만으로 구현한 변형은 사용하지 마세요.
+비주얼: 고급스러운 한국/일본식 딸기 쇼트케이크—낮고 넓으며 둥글고, 폭신한 쿠션처럼 부드러운 형태. 분홍색 스펀지, 크림 레이어, 옅은 프로스팅, 짜서 올린 크림, 딸기를 사용하세요. 따뜻한 아이보리색 배경과 부드러운 스튜디오 조명, 촉촉하고 먹음직스러운 재질을 적용하세요.
+레이아웃: 왼쪽 상단에 “SOFT STUDIES / NO.001”과 이탤릭체 “Strawberry Cake”. 오른쪽 상단에 “WEBGPU · LIVE”. 케이크는 중앙에 크게 배치하세요. 오른쪽 컨트롤에는 Hand/Knife, 프리셋, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh를 배치하세요. 왼쪽 하단에는 Mass, Volume, Kinetic, Pieces를 표시하세요.
+물리: 사면체 시뮬레이션 메시와 매끄러운 렌더링 메시를 사용하는 안정적인 XPBD/공회전 소프트 바디를 구현하세요. 부피 보존, 감쇠, 중력, 바닥 마찰, 조각 간 충돌을 지원하세요. 케이크는 부드럽고 묵직하게 느껴져야 하며, 놓은 뒤에는 흔들려야 합니다.
+손: 누르고 있으면 Press, 안쪽으로 드래그하면 Squeeze, 바깥쪽으로 드래그하면 Grab, 빠르게 놓으면 Throw가 되게 하세요. 가중치가 적용된 잡기, 평활화된 3D 타깃, 포인터 속도와 운동량을 사용하세요. 케이크는 자유롭게 움직이는 상태를 유지하고, 케이크 입력이 오비트 조작보다 우선하도록 하세요.
+칼: 절차적으로 생성된 3D 칼을 사용하세요. 절단선을 그리면 접촉→압축→관통→절단 완료→들어 올리기의 순서로 애니메이션을 재생하세요. 분할하기 전에 변형을 적용하고, 절단면은 얇게 유지하세요.
+반복 절단은 필수입니다. 동적 조각 목록을 사용하고, 모든 조각을 계속 절단할 수 있게 하세요. 스트로크를 수직 절단 평면으로 변환하고, 절단면이 교차한 조각을 분할하며, 새로운 소프트 바디/렌더링 메시를 생성하세요. 변형과 속도를 전달하고, 토핑을 보존하며, 양쪽 조각을 정렬하고, Pieces를 업데이트하세요. 14개 이상의 조각과 여러 조각을 가로지르는 절단을 지원하세요. 고정된 전체/왼쪽/오른쪽 상태는 사용하지 마세요.
+Drop은 모든 조각을 놓아야 합니다. Reset은 온전한 케이크 하나와 Pieces=1 상태로 복원해야 합니다. 고정 타임스텝/서브스텝을 사용하고, DPR≤2로 제한하며, 불안정성을 클램프하고, NaN/GPU 오류를 방지하세요. window.__cake을 노출하세요.
+로컬에서 실행하고, 상호작용과 반복 절단을 테스트한 뒤, 완성도가 높아질 때까지 반복 개선하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2104514806443303238) · [원본 게시물](https://x.com/ImaStudio_ai/status/2104517586092458039) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### 기능을 모두 갖춘 LEGO Ford Model T 세트

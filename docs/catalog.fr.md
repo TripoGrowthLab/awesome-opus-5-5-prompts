@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**42 Exemples · 14 🌐**
+**45 Exemples · 14 🌐**
 
 [Par catégorie](#categories) · [Par modèle](#models) · [Code source](with-code.md) · [1](../docs/catalog.fr.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Jeux · 8
+### Jeux · 9
 
+- [Beat'em up jouable en pixel art dans la Rome antique](../docs/catalog.fr.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [FPS multijoueur hyperréaliste dans une ruelle enneigée](../docs/catalog.fr.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Jeu voxel de style Minecraft avec des shaders avancés](../docs/catalog.fr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Jeu de survie sandbox en WebGL2](../docs/catalog.fr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
@@ -63,8 +64,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### Interactif · 6
+### Interactif · 7
 
+- [Gâteau aux fraises WebGPU interactif](../docs/catalog.fr.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Naviguer dans une pagode en 3D](../docs/catalog.fr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Ville japonaise 3D de cerisiers en fleurs, de style anime et librement explorable](../docs/catalog.fr.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Royaume médiéval interactif pour Claude Opus 5.5](../docs/catalog.fr.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
@@ -74,8 +76,9 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animation · 19
+### Animation · 20
 
+- [Architecture ambulante](../docs/catalog.fr.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Promo dynamique en motion design de 30 secondes pour Kiiwi](../docs/catalog.fr.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [Une animation 3D au style anime où trois véhicules se transforment et fusionnent](../docs/catalog.fr.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
 - [Animation d’interface pour un orb IA dans Claude Code — Opus 5.5](../docs/catalog.fr.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
@@ -102,8 +105,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 42
+### Claude Opus 5.5 · 45
 
+- [Architecture ambulante](../docs/catalog.fr.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
+- [Beat'em up jouable en pixel art dans la Rome antique](../docs/catalog.fr.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
+- [Gâteau aux fraises WebGPU interactif](../docs/catalog.fr.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Set LEGO Ford Model T complet et fonctionnel](../docs/catalog.fr.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [FPS multijoueur hyperréaliste dans une ruelle enneigée](../docs/catalog.fr.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Scène 3D de 55 secondes, du data center à l’atome](../docs/catalog.fr.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)

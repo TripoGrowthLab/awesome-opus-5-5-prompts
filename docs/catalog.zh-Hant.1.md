@@ -26,8 +26,11 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>瀏覽案例 (42)</summary>
+<summary>瀏覽案例 (45)</summary>
 
+- [會走路的建築](#claude-opus-5-5-2104590334152056983)
+- [可遊玩的像素風古羅馬橫向捲軸格鬥遊戲](#claude-opus-5-5-2104571944842498150)
+- [互動式 WebGPU 草莓蛋糕](#claude-opus-5-5-2104514806443303238)
 - [功能完整的 LEGO Ford Model T 套裝](#claude-opus-5-5-2104232297167716457)
 - [雪地巷弄中的超寫實多人第一人稱射擊遊戲](#claude-opus-5-5-2104232013578617241)
 - [55 秒資料中心到原子的 3D 場景](#claude-opus-5-5-2104223449849761837)
@@ -72,6 +75,105 @@
 - [互動式 3D 史前島嶼](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### 會走路的建築
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="會走路的建築"></a>
+
+**提示詞**
+
+```text
+製作一座會走路的建築
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104590334152056983) · [查看原文](https://x.com/shion_takk/status/2104590334152056983) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### 可遊玩的像素風古羅馬橫向捲軸格鬥遊戲
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="可遊玩的像素風古羅馬橫向捲軸格鬥遊戲"></a>
+
+**提示詞**
+
+```text
+使用 Magnific MCP，製作一款以古羅馬為背景、可在行動裝置上運作的像素風橫向捲軸格鬥遊戲，並將其整合在單一 HTML 檔案中。先生成一張主視覺，並將其作為所有素材的風格參考，包括關卡、主角、敵人、戰象頭目和道具。使用綠幕背景的影像轉影片功能製作角色動畫，挑選能夠循環播放的影格，去除綠幕，並讓每個動畫維持一致的比例和色盤。加入觸控操作、連段、盾牌、閃避、可投擲的標槍、道具拾取、1 分鐘示範模式和晶片音樂配樂。每次生成前，告訴我所需的點數成本。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104571944842498150) · [查看原文](https://x.com/koldo2k/status/2104571946989985812) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### 互動式 WebGPU 草莓蛋糕
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="互動式 WebGPU 草莓蛋糕"></a>
+
+**提示詞**
+
+```text
+立即建立名為「Strawberry Cake」的完整互動式 WebGPU 網站。 
+使用真正的 WebGPU + WGSL、程序化幾何、滑鼠／觸控，以及即時體積式軟體物理。不使用 Three.js／Babylon.js、Canvas2D、外部素材、影片／GIF，也不要只用 CSS 變形。
+視覺：高質感韓式／日式草莓鮮奶油蛋糕——低矮、寬扁、圓潤，像枕頭般柔軟，具有粉紅色蛋糕體、奶油夾層、淡色糖霜、擠花奶油與草莓。暖象牙色背景、柔和棚拍光線，以及濕潤、宛如食物的材質。
+版面：左上角顯示「SOFT STUDIES / NO.001」＋斜體「Strawberry Cake」。右上角顯示「WEBGPU · LIVE」。中央放置大型蛋糕。右側控制項：手／刀、預設、硬度、阻尼、丟下、重設、暫停、¼ 倍速、顯示網格。左下角顯示：質量、體積、動能、塊數。
+物理：使用穩定的 XPBD／共旋轉軟體，搭配四面體模擬網格與平滑渲染網格、體積保持、阻尼、重力、地面摩擦力及碎塊碰撞。蛋糕應呈現柔軟且有重量的感覺，放開後會持續搖晃。
+手部操作：按住＝按壓，向內拖曳＝擠壓，向外拖曳＝抓取，快速放開＝丟擲。使用加權抓取、平滑化的 3D 目標、指標速度與動量。蛋糕保持自由狀態；蛋糕輸入優先於視角旋轉。
+刀具：程序化建立 3D 刀具。畫出切線後，依序播放接觸→壓縮→切入→穿透→抬起的動畫。分裂前先產生變形；讓切縫保持細窄。
+必須支援重複切割：使用動態塊件清單；每一塊都必須持續可切割。將筆劃轉換為垂直切割平面，分割被切割平面穿過的塊件，建立新的軟體／渲染網格，轉移變形與速度，保留配料，讓兩半維持對齊，並更新塊數。支援 14 塊以上及多塊切割。不得使用固定的整體／左半／右半狀態。
+丟下會釋放所有塊件。重設會還原成一整塊蛋糕，並將塊數設為 1。使用固定時間步長／子步驟，DPR≤2，限制不穩定性，避免 NaN／GPU 錯誤。公開 window.__cake。
+在本機執行，測試互動與重複切割，並持續迭代直到成品精緻完善。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2104514806443303238) · [查看原文](https://x.com/ImaStudio_ai/status/2104517586092458039) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### 功能完整的 LEGO Ford Model T 套裝

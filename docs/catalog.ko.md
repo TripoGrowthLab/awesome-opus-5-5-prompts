@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**42 사례 · 14 🌐**
+**45 사례 · 14 🌐**
 
 [카테고리별 탐색](#categories) · [모델별 탐색](#models) · [소스 코드](with-code.md) · [1](../docs/catalog.ko.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 게임 · 8
+### 게임 · 9
 
+- [플레이 가능한 픽셀 아트 고대 로마 벨트스크롤 액션 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [눈 내리는 골목을 배경으로 한 초현실적 멀티플레이어 FPS](../docs/catalog.ko.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [마인크래프트 스타일 복셀 게임과 고급 셰이더](../docs/catalog.ko.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 샌드박스 생존 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
@@ -63,8 +64,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### 인터랙티브 · 6
+### 인터랙티브 · 7
 
+- [인터랙티브 WebGPU 딸기 케이크](../docs/catalog.ko.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [3D 불탑 탐색](../docs/catalog.ko.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [자유롭게 걸어 다닐 수 있는 3D 애니메이션풍 벚꽃 마을](../docs/catalog.ko.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Claude Opus 5.5를 위한 인터랙티브 중세 왕국](../docs/catalog.ko.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
@@ -74,8 +76,9 @@
 
 <a id="category-animation-simulation"></a>
 
-### 애니메이션 · 19
+### 애니메이션 · 20
 
+- [걸어 다니는 건축물](../docs/catalog.ko.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [다이내믹한 30초 Kiiwi 모션 그래픽 프로모션](../docs/catalog.ko.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [3대의 탈것이 변형·합체하는 애니메이션풍 3D CG](../docs/catalog.ko.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
 - [Claude Code용 AI 오브 UI 모션 — Opus 5.5](../docs/catalog.ko.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
@@ -102,8 +105,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 42
+### Claude Opus 5.5 · 45
 
+- [걸어 다니는 건축물](../docs/catalog.ko.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
+- [플레이 가능한 픽셀 아트 고대 로마 벨트스크롤 액션 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
+- [인터랙티브 WebGPU 딸기 케이크](../docs/catalog.ko.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [기능을 모두 갖춘 LEGO Ford Model T 세트](../docs/catalog.ko.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [눈 내리는 골목을 배경으로 한 초현실적 멀티플레이어 FPS](../docs/catalog.ko.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [데이터센터에서 원자까지 이어지는 55초 3D 장면](../docs/catalog.ko.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)

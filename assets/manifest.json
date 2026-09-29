@@ -3,6 +3,16 @@
   "note": "Optimized first preview or video cover; complete frame preserved. Videos and full galleries are available on the linked detail page.",
   "files": [
     {
+      "path": "assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp",
+      "fingerprint": "327b0c934884d05e90e05de3edba92113ac224a151f197fd6cff2ca2baeb0d4e",
+      "sha256": "00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca",
+      "bytes": 31584,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104570798413398016/img/n1UqDLzpBt_eIyNR.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2104571944842498150"
+      ]
+    },
+    {
       "path": "assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp",
       "fingerprint": "d24d5381c1ecd2c45bc59f400cfebafcb84fbea350a28258506ccf2ecf4effcc",
       "sha256": "00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93",
@@ -150,6 +160,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2103482006965534720/img/WiHFU-VNbZV2axST.jpg",
       "promptIds": [
         "claude-opus-5-5-2103483174957597035"
+      ]
+    },
+    {
+      "path": "assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp",
+      "fingerprint": "5e4f40bfdab3ddd9b3cd6cc975db51affedc11998c447d094c02c91aebbcf134",
+      "sha256": "3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b",
+      "bytes": 22316,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104514528990187520/img/WOIMQfLjqpM11SC1.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2104514806443303238"
       ]
     },
     {
@@ -420,6 +440,16 @@
       "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2102787398966927360/img/QRd92HJSVkpgAoy2.jpg",
       "promptIds": [
         "claude-opus-5-5-2102788371114246177"
+      ]
+    },
+    {
+      "path": "assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp",
+      "fingerprint": "9d42db944288feb674b55fea1c98e273456d9ccaf2ec343eaa7573b4674e04c4",
+      "sha256": "fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840",
+      "bytes": 28042,
+      "sourceUrl": "https://pbs.twimg.com/amplify_video_thumb/2104589237081509888/img/mvk78GFMimVAw7cL.jpg",
+      "promptIds": [
+        "claude-opus-5-5-2104590334152056983"
       ]
     }
   ]

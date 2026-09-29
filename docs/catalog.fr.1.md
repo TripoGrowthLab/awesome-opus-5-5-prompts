@@ -26,8 +26,11 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Parcourir les exemples (42)</summary>
+<summary>Parcourir les exemples (45)</summary>
 
+- [Architecture ambulante](#claude-opus-5-5-2104590334152056983)
+- [Beat'em up jouable en pixel art dans la Rome antique](#claude-opus-5-5-2104571944842498150)
+- [Gâteau aux fraises WebGPU interactif](#claude-opus-5-5-2104514806443303238)
 - [Set LEGO Ford Model T complet et fonctionnel](#claude-opus-5-5-2104232297167716457)
 - [FPS multijoueur hyperréaliste dans une ruelle enneigée](#claude-opus-5-5-2104232013578617241)
 - [Scène 3D de 55 secondes, du data center à l’atome](#claude-opus-5-5-2104223449849761837)
@@ -72,6 +75,105 @@
 - [Île préhistorique 3D interactive](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104590334152056983"></a>
+
+### Architecture ambulante
+
+[KOBATAKA｜Vibe Modeling](https://x.com/shion_takk) · 2026-09-28 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2104590334152056983"><img src="../assets/previews/fde1882cc0948b7e2d827875bdeb3ae3d9b34521f1f29ec8860ae5dfe9b45840.webp" width="840" loading="lazy" alt="Architecture ambulante"></a>
+
+**Prompt**
+
+```text
+Crée une architecture qui marche
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+歩く建築作って
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2104590334152056983) · [Publication originale](https://x.com/shion_takk/status/2104590334152056983) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104571944842498150"></a>
+
+### Beat'em up jouable en pixel art dans la Rome antique
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-09-28 · Claude Opus 5.5 · Jeux
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2104571944842498150"><img src="../assets/previews/00c6745504642b2fd7268f01ba045181674f7ee46b8e7885ea43241c2c3431ca.webp" width="840" loading="lazy" alt="Beat'em up jouable en pixel art dans la Rome antique"></a>
+
+**Prompt**
+
+```text
+À l'aide de Magnific MCP, crée un beat'em up en pixel art jouable, situé dans la Rome antique, sous la forme d'un fichier HTML unique compatible avec les appareils mobiles. Commence par générer un visuel clé et utilise-le comme référence de style pour chaque élément : décor, héros, ennemis, boss éléphant de guerre et objets. Anime les personnages avec la fonction image-to-video sur fond vert, sélectionne les images qui permettent une boucle, détourne le vert et conserve la même échelle et la même palette pour toutes les animations. Ajoute des commandes tactiles, des combos, un bouclier, une esquive, un pilum à lancer, des objets à ramasser, un mode démo d'une minute et une bande-son chiptune. Indique-moi le coût en crédits avant chaque génération.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Using the Magnific MCP, build a playable pixel-art beat 'em up set in ancient Rome, as one HTML file that works on mobile. Generate a key art first and use it as style reference for every asset: stage, hero, enemies, a war-elephant boss, items. Animate the characters with image-to-video on green screen, pick the frames that loop, key out the green and keep every animation on the same scale and palette. Add touch controls, combos, shield, dodge, a throwable pilum, pickups, a 1-minute demo mode and a chiptune soundtrack. Tell me the credit cost before each generation.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2104571944842498150) · [Publication originale](https://x.com/koldo2k/status/2104571946989985812) · [Retour aux exemples](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104514806443303238"></a>
+
+### Gâteau aux fraises WebGPU interactif
+
+[Ima Studio](https://x.com/ImaStudio_ai) · 2026-09-28 · Claude Opus 5.5 · Interactif
+
+<a href="https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2104514806443303238"><img src="../assets/previews/3118d33a2b10797baeacfa593cad15152ce8a26f1bcb1be8c67097853387962b.webp" width="840" loading="lazy" alt="Gâteau aux fraises WebGPU interactif"></a>
+
+**Prompt**
+
+```text
+Créez immédiatement un site WebGPU interactif complet appelé « Strawberry Cake ». 
+Utilisez du véritable WebGPU + WGSL, une géométrie procédurale, la souris et le tactile, ainsi qu’une simulation volumique en temps réel de corps mou. N’utilisez pas Three.js/Babylon.js, Canvas2D, de ressources externes, de vidéo/GIF ni de déformation uniquement en CSS.
+Visuel : un shortcake aux fraises coréen/japonais haut de gamme — bas, large, arrondi, moelleux comme un coussin, avec une génoise rose, des couches de crème, un glaçage pâle, de la crème pochée et des fraises. Arrière-plan ivoire chaleureux, lumière douce de studio, matériaux évoquant une texture moelleuse et humide.
+Mise en page : en haut à gauche, « SOFT STUDIES / NO.001 » + « Strawberry Cake » en italique. En haut à droite, « WEBGPU · LIVE ». Grand gâteau centré. Contrôles à droite : Main/Couteau, préréglages, Rigidité, Amortissement, Lancer, Réinitialiser, Pause, vitesse ¼, Afficher le maillage. En bas à gauche : Masse, Volume, Énergie cinétique, Morceaux.
+Physique : corps mou XPBD/co-rotationnel stable avec maillage de simulation tétraédrique, maillage de rendu lisse, conservation du volume, amortissement, gravité, friction avec le sol et collisions entre morceaux. Le gâteau doit sembler mou et lourd, puis osciller après avoir été relâché.
+Main : maintenir = Presser, faire glisser vers l’intérieur = Comprimer, faire glisser vers l’extérieur = Saisir, relâcher rapidement = Lancer. Utilisez des saisies pondérées, une cible 3D lissée, la vitesse du pointeur et la quantité de mouvement. Le gâteau reste libre ; les interactions avec le gâteau sont prioritaires sur la rotation de la vue.
+Couteau : couteau 3D procédural. Tracez une ligne de coupe ; animez les étapes contact → compression → pénétration → traversée → retrait. Déformez avant de séparer ; gardez la jointure fine.
+Les découpes répétées sont obligatoires : utilisez une liste dynamique de morceaux ; chaque morceau doit rester découpable. Convertissez les tracés en plans de coupe verticaux, séparez les morceaux traversés, créez de nouveaux maillages de corps mou et de rendu, transférez la déformation et la vitesse, préservez les garnitures, gardez les moitiés alignées et mettez à jour le compteur de morceaux. Prenez en charge au moins 14 morceaux et les coupes traversant plusieurs morceaux. N’utilisez pas d’états fixes pour l’ensemble, la gauche ou la droite.
+Lancer libère tous les morceaux. Réinitialiser restaure un gâteau intact et définit Pieces=1. Utilisez un pas de temps fixe avec sous-pas, DPR≤2, limitez les instabilités et évitez les valeurs NaN/les erreurs GPU. Exposez window.__cake.
+Exécutez le projet en local, testez les interactions et les découpes répétées, puis itérez jusqu’à obtenir un résultat soigné.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build immediately a complete interactive WebGPU site called “Strawberry Cake.” 
+Use genuine WebGPU + WGSL, procedural geometry, mouse/touch, and real-time volumetric soft-body physics. No Three.js/Babylon.js, Canvas2D, external assets, video/GIF, or CSS-only deformation.
+Visual: premium Korean/Japanese strawberry shortcake—low, wide, rounded, pillow-soft, with pink sponge, cream layers, pale frosting, piped cream, and strawberries. Warm ivory background, soft studio light, edible moist materials.
+Layout: top-left “SOFT STUDIES / NO.001” + italic “Strawberry Cake.” Top-right “WEBGPU · LIVE”. Large centered cake. Right controls: Hand/Knife, presets, Firmness, Damping, Drop, Reset, Pause, ¼ speed, Show mesh. Bottom-left: Mass, Volume, Kinetic, Pieces.
+Physics: stable XPBD/co-rotational soft body with tetrahedral sim mesh, smooth render mesh, volume preservation, damping, gravity, floor friction, and piece collisions. Cake feels soft/heavy and wobbles after release.
+Hand: hold=Press, inward drag=Squeeze, outward drag=Grab, fast release=Throw. Use weighted grabs, smoothed 3D target, pointer velocity and momentum. Cake remains free; cake input overrides orbit.
+Knife: procedural 3D knife. Draw a cut line; animate contact→compression→penetration→breakthrough→lift. Deform before splitting; keep seam thin.
+Repeated cutting is mandatory: use a dynamic pieces list; every piece stays cuttable. Convert strokes to vertical cut planes, split crossed pieces, create new soft-body/render meshes, transfer deformation/velocity, preserve toppings, keep halves aligned, update Pieces. Support 14+ pieces and multi-piece cuts. No fixed whole/left/right states.
+Drop releases all pieces. Reset restores one intact cake and Pieces=1. Use fixed timestep/substeps, DPR≤2, clamp instability, avoid NaNs/GPU errors. Expose window.__cake.
+Run locally, test interactions and repeated cutting, and iterate until polished.
+```
+
+</details>
+
+[Voir les détails ↗](https://www.tripo3d.ai/fr/3d-prompts/claude-opus-5-5-2104514806443303238) · [Publication originale](https://x.com/ImaStudio_ai/status/2104517586092458039) · [Retour aux exemples](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104232297167716457"></a>
 
 ### Set LEGO Ford Model T complet et fonctionnel

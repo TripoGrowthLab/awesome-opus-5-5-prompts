@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**42 作例 · 14 🌐**
+**45 作例 · 14 🌐**
 
 [カテゴリで探す](#categories) · [モデルで探す](#models) · [ソースコード](with-code.md) · [1](../docs/catalog.ja.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### ゲーム · 8
+### ゲーム · 9
 
+- [プレイ可能なドット絵の古代ローマ・ベルトスクロールアクション](../docs/catalog.ja.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [雪の路地を舞台にした超リアルなマルチプレイFPS](../docs/catalog.ja.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [高度なシェーダーを搭載したMinecraft風ボクセルゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2サンドボックスサバイバルゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
@@ -63,8 +64,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### インタラクティブ · 6
+### インタラクティブ · 7
 
+- [インタラクティブなWebGPUいちごケーキ](../docs/catalog.ja.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [3D五重塔を探索](../docs/catalog.ja.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [自由に歩き回れる3Dアニメ調の桜の町](../docs/catalog.ja.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Claude Opus 5.5のインタラクティブな中世王国](../docs/catalog.ja.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
@@ -74,8 +76,9 @@
 
 <a id="category-animation-simulation"></a>
 
-### アニメーション · 19
+### アニメーション · 20
 
+- [歩く建築](../docs/catalog.ja.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Kiiwi向け、躍動感あふれる30秒モーショングラフィックスプロモーション](../docs/catalog.ja.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [3機の乗り物が変形合体するアニメ風3D CG](../docs/catalog.ja.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
 - [Claude Code向けAIオーブUIモーション — Opus 5.5](../docs/catalog.ja.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
@@ -102,8 +105,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 42
+### Claude Opus 5.5 · 45
 
+- [歩く建築](../docs/catalog.ja.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
+- [プレイ可能なドット絵の古代ローマ・ベルトスクロールアクション](../docs/catalog.ja.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
+- [インタラクティブなWebGPUいちごケーキ](../docs/catalog.ja.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [機能を網羅したLEGO フォード・モデルTセット](../docs/catalog.ja.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [雪の路地を舞台にした超リアルなマルチプレイFPS](../docs/catalog.ja.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [データセンターから原子までを描く55秒の3Dシーン](../docs/catalog.ja.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)

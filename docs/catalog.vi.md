@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-**42 Ví dụ · 14 🌐**
+**45 Ví dụ · 14 🌐**
 
 [Theo danh mục](#categories) · [Theo mô hình](#models) · [Mã nguồn](with-code.md) · [1](../docs/catalog.vi.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Trò chơi · 8
+### Trò chơi · 9
 
+- [Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại](../docs/catalog.vi.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết](../docs/catalog.vi.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Game voxel phong cách Minecraft với shader nâng cao](../docs/catalog.vi.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [Game sinh tồn sandbox WebGL2](../docs/catalog.vi.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
@@ -63,8 +64,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### Tương tác · 6
+### Tương tác · 7
 
+- [Bánh dâu WebGPU tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Điều hướng trong một ngôi chùa 3D](../docs/catalog.vi.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Thị trấn hoa anh đào 3D phong cách anime, tự do khám phá](../docs/catalog.vi.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Vương quốc trung cổ tương tác cho Claude Opus 5.5](../docs/catalog.vi.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
@@ -74,8 +76,9 @@
 
 <a id="category-animation-simulation"></a>
 
-### Hoạt ảnh · 19
+### Hoạt ảnh · 20
 
+- [Kiến trúc biết đi](../docs/catalog.vi.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng](../docs/catalog.vi.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể](../docs/catalog.vi.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
 - [Chuyển động UI quả cầu AI cho Claude Code — Opus 5.5](../docs/catalog.vi.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
@@ -102,8 +105,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 42
+### Claude Opus 5.5 · 45
 
+- [Kiến trúc biết đi](../docs/catalog.vi.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
+- [Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại](../docs/catalog.vi.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
+- [Bánh dâu WebGPU tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Bộ LEGO Ford Model T đầy đủ tính năng](../docs/catalog.vi.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết](../docs/catalog.vi.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây](../docs/catalog.vi.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)

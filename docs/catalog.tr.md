@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**42 Örnekler · 14 🌐**
+**45 Örnekler · 14 🌐**
 
 [Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Oyunlar · 8
+### Oyunlar · 9
 
+- [Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS](../docs/catalog.tr.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Gelişmiş shader'lara sahip Minecraft tarzı voksel oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
 - [WebGL2 sandbox hayatta kalma oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103502454750920925) · [kepo](https://x.com/kepochnik)
@@ -63,8 +64,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### Etkileşimli · 6
+### Etkileşimli · 7
 
+- [Etkileşimli WebGPU Çilekli Pasta](../docs/catalog.tr.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [3B Pagodada Gezinme](../docs/catalog.tr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Serbestçe gezilebilen anime tarzı 3B kiraz çiçekleri kasabası](../docs/catalog.tr.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Claude Opus 5.5 için etkileşimli ortaçağ krallığı](../docs/catalog.tr.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
@@ -74,8 +76,9 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animasyon · 19
+### Animasyon · 20
 
+- [Yürüyen Mimari](../docs/catalog.tr.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı](../docs/catalog.tr.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [Dönüşüp birleşen üç aracın anime tarzı 3B CG’si](../docs/catalog.tr.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
 - [Claude Code için yapay zekâ küresi arayüz hareketi — Opus 5.5](../docs/catalog.tr.1.md#claude-opus-5-5-2104162483888062945) · [leolee](https://x.com/listudio)
@@ -102,8 +105,11 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 42
+### Claude Opus 5.5 · 45
 
+- [Yürüyen Mimari](../docs/catalog.tr.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
+- [Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
+- [Etkileşimli WebGPU Çilekli Pasta](../docs/catalog.tr.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Tüm özellikleri eksiksiz LEGO Ford Model T seti](../docs/catalog.tr.1.md#claude-opus-5-5-2104232297167716457) · [Alex Lieberman](https://x.com/businessbarista)
 - [Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS](../docs/catalog.tr.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [55 saniyelik veri merkezinden atoma 3B sahne](../docs/catalog.tr.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)

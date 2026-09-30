@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome Opus 5.5 Prompts — 1 / 1
+# Awesome Opus 5.5 Prompts — 1 / 2
 
 [← Awesome Opus 5.5 Prompts](../README.md)
 
@@ -21,13 +21,19 @@
   <a href="../docs/catalog.vi.1.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Catálogo completo](catalog.es.md) · **1 / 1**
+[Catálogo completo](catalog.es.md) · **1 / 2** · [→](catalog.es.2.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>Explorar ejemplos (45)</summary>
+<summary>Explorar ejemplos (50)</summary>
 
+- [Máquina mecánica de Rube Goldberg en Blender](#claude-opus-5-5-2104953406708175097)
+- [Crea un juego de carreras al estilo de Mario Kart con 3JS](#claude-opus-5-5-2104947552328261810)
+- [Planeta 3D caricaturesco interactivo](#claude-opus-5-5-2104919117262389255)
+- [Vídeo de motion graphics 3D de marca](#claude-opus-5-5-2104896325255037196)
+- [ATLAS DE LA TIERRA: EL PLANETA VIVO](#claude-opus-5-5-2104837836507955401)
+- [Laboratorio interactivo de simulación de una línea de producción en serie](#claude-opus-5-5-2104831049020674144)
 - [Arquitectura andante](#claude-opus-5-5-2104590334152056983)
 - [Beat 'em up jugable de pixel art ambientado en la Antigua Roma](#claude-opus-5-5-2104571944842498150)
 - [Tarta de fresa interactiva con WebGPU](#claude-opus-5-5-2104514806443303238)
@@ -72,9 +78,446 @@
 - [Barco pirata cinematográfico interactivo al atardecer](#claude-opus-5-5-2102533729746882985)
 - [Mundo infinito generado proceduralmente con Three.js](#claude-opus-5-5-2102529695908806728)
 - [Simulación interactiva de evacuación de multitudes](#claude-opus-5-5-2102467667978572092)
-- [Isla prehistórica 3D interactiva](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104953406708175097"></a>
+
+### Máquina mecánica de Rube Goldberg en Blender
+
+[Atarax](https://x.com/Kwazikot) · 2026-09-29 · Claude Opus 5.5 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104953406708175097"><img src="../assets/previews/94786a1f71886b43ad88256a5a922e3b0b21527d626f06dd47070eb1037233e4.webp" width="840" loading="lazy" alt="Máquina mecánica de Rube Goldberg en Blender"></a>
+
+**Prompt**
+
+```text
+Crea una máquina mecánica de Rube Goldberg en Blender. Usa engranajes, rampas, bolas y plataformas móviles. Constrúyela mediante modelado procedural, inspecciona la escena después de cada paso importante y corrige los problemas evidentes de geometría.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104953406708175097) · [Publicación original](https://x.com/Kwazikot/status/2104953406708175097) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104947552328261810"></a>
+
+### Crea un juego de carreras al estilo de Mario Kart con 3JS
+
+[Tony](https://x.com/EnvolDev) · 2026-09-29 · Claude Opus 5.5 · Juegos
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104947552328261810"><img src="../assets/previews/1dfed000876f4710fe765cd6e1961952cd91d4fd5a6060dea3a58c4c09c42d98.webp" width="840" loading="lazy" alt="Crea un juego de carreras al estilo de Mario Kart con 3JS"></a>
+
+**Prompt**
+
+```text
+Necesito que pongas en marcha cinco subagentes (Model) y me ayudes a crear un juego de calidad AAA que sea un clon de Mario Kart. Quiero que pongas en marcha estos subagentes, desarrolles el juego sin hacerme ninguna pregunta y uses 3JS para crearlo. Cuando hayas terminado, infórmame.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+I need you to launch five(Model) sub-agents and help me build a triple A quality game that is a clone of Mario Kart. What I want you to do is I want you to launch these sub-agents, build the game without asking me any questions at all, and use 3JS to build the game. And once you're done, report back to me.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104947552328261810) · [Publicación original](https://x.com/EnvolDev/status/2104947905442505205) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104919117262389255"></a>
+
+### Planeta 3D caricaturesco interactivo
+
+[Aman](https://x.com/mdaman010) · 2026-09-29 · Claude Opus 5.5 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104919117262389255"><img src="../assets/previews/b2d6e10a07a3d741cc7949bf5bd7aaa3f20d698d42e958b211be129b320a032b.webp" width="840" loading="lazy" alt="Planeta 3D caricaturesco interactivo"></a>
+
+**Prompt**
+
+```text
+Genera un planeta 3D caricaturesco, con estilo de cómic, en ThreeJS, lleno de vida: nubes, montañas, edificios urbanos, coches y un avión que lo recorra. Debe ser posible orbitarlo y ampliar la vista para apreciar los detalles. No se debe utilizar ningún arnés.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Output a ThreeJS 3D cartoony/comics-like planet, with vibrant life on it: clouds, mountains, city buildings, cars and plane romaing it. It should be possible to orbit around and zoom and see the details. No harness is to be used
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104919117262389255) · [Publicación original](https://x.com/mdaman010/status/2104919846953869421) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104896325255037196"></a>
+
+### Vídeo de motion graphics 3D de marca
+
+[Awa K. Penn](https://x.com/TawohAwa) · 2026-09-29 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104896325255037196"><img src="../assets/previews/e5106bf0ebb4e02f1a1c069e64fc3cee97a376e611c304d52b2459777d1d287d.webp" width="840" loading="lazy" alt="Vídeo de motion graphics 3D de marca"></a>
+
+**Prompt**
+
+```text
+Crea un impresionante vídeo de motion graphics de 30 segundos para https://t.co/71rvEGmB6D que transmita la calidad del showreel de un diseñador de motion graphics de élite. Estudia primero el sitio web y utiliza la marca, la interfaz real del producto, los colores y los mensajes. Usa tipografía contundente, movimiento 3D, interfaz de usuario animada, transiciones rápidas y una potente revelación del logotipo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a stunning 30-second motion graphics video for https://t.co/71rvEGmB6D that feels like an elite motion designer’s showreel. Study the website first and use the real brand, product UI, colours, and messaging. Use bold typography, 3D motion, animated UI, fast transitions, and a strong logo reveal.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104896325255037196) · [Publicación original](https://x.com/TawohAwa/status/2104896328300134868) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104837836507955401"></a>
+
+### ATLAS DE LA TIERRA: EL PLANETA VIVO
+
+[Gadgetify](https://x.com/Gdgtify) · 2026-09-29 · Claude Opus 5.5 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104837836507955401"><img src="../assets/previews/7ec941dc7200421e5136be18f6b07e6e21be86a4c1dc96f5a31170c09585c09e.webp" width="840" loading="lazy" alt="ATLAS DE LA TIERRA: EL PLANETA VIVO"></a>
+
+**Prompt**
+
+```text
+Crea una experiencia SVG interactiva extraordinaria titulada «ATLAS DE LA TIERRA: EL PLANETA VIVO». Crea un observatorio completo y profundamente explorable de ciencias de la Tierra en UN ÚNICO archivo HTML autónomo. Debo poder pegar toda tu respuesta en un archivo, abrirlo directamente en Chrome y usarlo sin servidor ni conexión de red. Usa las bibliotecas que necesites, pero incluye todo el código de ejecución y los datos seleccionados necesarios dentro de ese único archivo HTML. El globo, los mapas regionales, el terreno, el fondo oceánico, las vistas seccionadas, los instrumentos, los gráficos, las anotaciones y las ilustraciones de detalle deben renderizarse principalmente en SVG. Devuelve ÚNICAMENTE el HTML completo y funcional EN UN SOLO BLOQUE DE CÓDIGO.
+
+LA AMBICIÓN
+Crea la calidad visual de una exposición emblemática de ciencias de la Tierra de la NASA, combinada con la profundidad de un atlas interactivo. El espectador comienza en órbita ante una Tierra magnífica. Puede girar el globo, desplazarse entre el día y la noche, elegir un lugar real, acercarse a su geografía, dibujar un transecto, descender por su superficie o su océano y comprender cómo encaja ese lugar en el planeta entero.
+
+La experiencia debe recompensar diez minutos de exploración. Debe incluir descubrimientos impactantes, interacciones precisas y vistas conectadas; no solo un globo giratorio con ventanas emergentes informativas. El primer fotograma debe ser lo bastante bello como para funcionar como una ilustración científica independiente.
+
+UN VERDADERO SISTEMA DE EXPLORACIÓN MULTIESCALA
+Crea una jerarquía de escalas diseñada expresamente:
+
+1. TIERRA ORBITAL — el globo completo, la atmósfera, el límite entre el día y la noche, las grandes formas geográficas y las capas globales.
+2. CONTINENTAL — costas reconocibles, relieve, ríos principales, cuencas oceánicas y determinadas características científicas.
+3. REGIONAL — terreno detallado, batimetría, curvas de nivel, etiquetas y herramientas de medición.
+4. ESCENA LOCAL — un paisaje o entorno oceánico ricamente ilustrado y específico del lugar seleccionado.
+5. VISTA SECCIONAL — una sección transversal geográficamente conectada a través de tierra, hielo, océano o corteza.
+6. VISTA DE DETALLE — examen cercano de una característica como una capa glaciar, un cauce fluvial, una falla, un lecho sedimentario o una formación del fondo oceánico.
+
+Cada nivel de zoom debe revelar nuevos detalles SVG diseñados para la escala correspondiente. No te limites a ampliar la misma geometría de baja resolución hasta que quede vacía. Conserva la identidad geográfica durante las transiciones. Un punto seleccionado en el globo debe corresponderse con el mapa regional, la escena local, su transecto y su sección.
+
+Implementa zoom hacia el puntero, arrastre para girar el globo, arrastre para desplazar las vistas regionales, zoom con pellizco, navegación mediante teclado y las acciones Atrás, Inicio y Restablecer vista. Mantén el movimiento de la cámara acotado y fluido. Muestra una barra de escala discreta y una ruta de navegación de ubicación. La interacción manual debe interrumpir con elegancia cualquier recorrido automatizado de la cámara.
+
+DIRECCIÓN VISUAL
+Haz que la Tierra sea el elemento visual dominante. Usa azul océano profundo, turquesa para aguas someras, verdes variados para la vegetación, ocre desértico, carbón volcánico, grises minerales, blanco glaciar y líneas de anotación finas en blanco cálido.
+
+Crea un volumen planetario convincente mediante geometría proyectada de las costas, iluminación cambiante, efectos de dispersión atmosférica, capas de nubes y un tratamiento de luces nocturnas cuidadosamente controlado, con una fuente fechada apropiada integrada en el archivo.
+
+Usa trazos cartográficos precisos, curvas de nivel elegantes, patrones materiales sutiles, sombreado de profundidad legible y líneas guía finas. Haz que la información aparezca cuando sea útil para el nivel de zoom actual, en lugar de cubrir el globo con etiquetas.
+
+La interfaz debe transmitir la sensación de un instrumento científico refinado. Evita las tarjetas genéricas de panel, el exceso de neón y los grandes paneles de texto flotantes.
+
+LA TIERRA GLOBAL
+Proporciona un globo SVG giratorio con una proyección geográfica y un tratamiento coherente de las coordenadas. Al girar el globo, proyecta correctamente las formas terrestres, los elementos oceánicos, las etiquetas, los marcadores seleccionados, las rutas y el terminador. Oculta la geometría de la cara posterior en lugar de dibujarla atravesando el planeta.
+
+Incluye capas activables para:
+• Relieve físico.
+• Profundidad oceánica y estructura del fondo marino.
+• Ríos principales y cuencas de drenaje.
+• Límites de placas.
+• Determinados terremotos históricos de una muestra fechada integrada en el archivo.
+• Retícula de latitud y longitud.
+• Muestras fechadas de observación de la Tierra, únicamente donde los datos integrados las respalden.
+• Vista cinematográfica limpia.
+
+Todas las capas deben utilizar el mismo sistema de coordenadas. Incluye su fuente, fecha, resolución, unidades y leyenda. No llames «en tiempo real» ni «actual» a ninguna capa cuando el archivo utilice una instantánea integrada.
+
+SEIS EXPEDICIONES COMPLETAMENTE DISEÑADAS
+Crea experiencias completas y distintas para:
+
+HIMALAYA
+Cadenas montañosas estratificadas, valles, glaciares, un perfil regional de elevación con su fuente y una sección del terreno visualmente clara.
+
+CUENCA DEL AMAZONAS
+Estructura fluvial reconocible, llanura de inundación y afluentes, una sección transversal ilustrada del bosque y una demostración educativa del recorrido del agua.
+
+SÁHARA
+Dunas, terreno rocoso, cauces secos, materiales superficiales diferenciados y un transecto del terreno. Distingue el detalle ilustrado de las dunas de la elevación a gran escala obtenida de una fuente.
+
+FOSA AFRICANA ORIENTAL
+Lagos y terreno regionales, una sección transversal orientada según la falla y una demostración tectónica conceptual claramente etiquetada.
+
+REGIÓN DE LA FOSA DE LAS MARIANAS
+Superficie oceánica, geometría de la plataforma y del océano profundo cuando corresponda al transecto elegido, un perfil de profundidad arrastrable, un descenso a través de la columna de agua y una escena detallada e ilustrada del fondo marino.
+
+ANTÁRTIDA
+Superficie de hielo, contexto del hielo y el terreno obtenido de una fuente cuando esté disponible, una interpretación seccional y una demostración de la luz solar estacional.
+
+Proporciona a cada expedición:
+• Una composición inicial potente y diseñada expresamente.
+• Ubicación correcta en el globo.
+• Un mapa regional.
+• Al menos una escena local.
+• Al menos una sección transversal o perfil conectado.
+• Una interacción funcional única.
+• Un recorrido fluido de regreso a la órbita.
+
+No reutilices un dibujo genérico de montaña, bosque, desierto u océano como sustituto de la identidad geográfica.
+
+CINCO MODOS DE VISTA CONECTADOS
+SUPERFICIE
+Explora la topografía, las características del terreno, los ríos, el hielo y las costas con detalles que dependan del zoom.
+
+DESDE ARRIBA
+Explora la luz solar, la geometría estacional, la atmósfera y cualquier observación fechada integrada. Si las nubes o el tiempo son ilustrativos, indícalo como escenario ilustrativo.
+
+POR DEBAJO
+Abre una sección del terreno, el hielo, la corteza o el océano a lo largo del transecto geográfico seleccionado.
+
+PLANETA
+Aléjate para mostrar una vista seccionada global que explique cómo se relaciona el punto seleccionado con las capas de la Tierra. Muestra la posición correspondiente del lugar seleccionado tanto en el globo como en la vista seccionada.
+
+EVIDENCIAS
+Muestra la muestra de datos, la fuente, la fecha, la resolución, la incertidumbre o limitación conocida y el cálculo que sustenta la característica o medición seleccionada.
+
+Al cambiar de modo, conserva el lugar seleccionado, el contexto del zoom cuando sea razonable y el estado de la línea temporal.
+
+HERRAMIENTAS DE EXPLORACIÓN CONECTADAS
+MEDIR
+Selecciona dos puntos en el globo o en un mapa regional compatible. Traza la ruta del círculo máximo, muestra las coordenadas y la distancia y mantén la ruta proyectada correctamente durante la rotación del globo.
+
+TRANSECTO
+Dibuja o ajusta una línea a través de una región compatible. Toma muestras de sus datos integrados de elevación o batimetría para generar un perfil. Al mover un cursor en el mapa, mueve también su homólogo en el perfil y en la vista seccional.
+
+COMPARAR
+Coloca dos lugares seleccionados uno junto al otro. Usa unidades coincidentes y controles de escala explícitos. Compara su elevación o profundidad, latitud, contexto regional y datos ambientales disponibles.
+
+HORA Y LUZ SOLAR
+Desplaza la hora del día y el día del año. Actualiza la iluminación global y la geometría solar estacional mediante un modelo documentado. Mantén el tiempo ilustrativo independiente de este reloj.
+
+EXPEDICIÓN GUIADA
+Ofrece un breve recorrido cinematográfico por los seis entornos. Cada parada debe revelar una interacción, no limitarse a mostrar un pie de texto. El recorrido debe poder omitirse.
+
+DENSIDAD DE ANOTACIONES
+Cambia entre niveles de etiquetas cinematográfico, guiado y técnico sin modificar la geografía subyacente.
+
+EXPLORACIÓN OCEÁNICA
+Trata el fondo marino como un paisaje completo.
+
+Muestra plataformas, taludes, regiones abisales, dorsales y fosas cuando la muestra de relieve integrada lo permita. Usa una escala vertical explícita y etiqueta cualquier exageración.
+
+En la expedición de la Fosa de las Marianas, permite que el espectador descienda por la columna de agua. Actualiza conjuntamente la profundidad, la luz, el color, una estimación de la presión basada en un modelo simplificado indicado y el cursor de ubicación.
+
+El primer plano de las profundidades puede contener vida y geología bellamente ilustradas, pero sus organismos exactos y su microterreno deben identificarse como una interpretación. La batimetría obtenida de una fuente y el paisaje local ilustrado deben seguir siendo distinguibles.
+
+EL INTERIOR DE LA TIERRA
+Proporciona un control deslizante de sección del 0 al 100 % que revele suavemente la corteza, el manto, el núcleo externo y el núcleo interno. El globo debe mantener la coherencia visual en las posiciones intermedias del control.
+
+Muestra el lugar geográfico seleccionado en la superficie exterior y una guía radial alineada hacia el interior.
+
+Incluye una demostración educativa de ondas sísmicas con un modelo simplificado indicado claramente. Sus trayectorias de onda, marcadores en movimiento y lecturas de tiempo deben derivarse del mismo estado de la demostración.
+
+Etiqueta explícitamente el grosor exagerado de las capas, los colores de los materiales o el tiempo comprimido.
+
+TRES EXPERIMENTOS CIENTÍFICOS INTERACTIVOS
+1. LABORATORIO DE LUZ SOLAR
+Elige dos latitudes y compara la trayectoria solar diaria modelada y la duración de la luz diurna a lo largo del año. Vincula los diagramas con el globo iluminado.
+
+2. LABORATORIO DE RELIEVE Y NIVEL DEL MAR
+En una región costera compatible, ajusta un nivel de agua hipotético y compáralo con el perfil de elevación integrado. Etiquétalo como demostración topográfica estática; no lo presentes como una predicción de inundación costera.
+
+3. LABORATORIO DE TRAYECTORIAS SÍSMICAS
+Elige los puntos de origen y de observación para una demostración educativa simplificada de ondas. Muestra las trayectorias y el tiempo relativo de llegada según el modelo indicado. Mantén los marcadores de terremotos históricos separados del experimento hipotético.
+
+Cada experimento debe incluir Restablecer, entradas reproducibles, unidades coherentes y un vínculo claro de regreso al globo o al lugar seleccionado.
+
+DATOS Y HONESTIDAD CIENTÍFICA
+Usa fuentes autorizadas y citadas para las afirmaciones numéricas y las muestras integradas. Entre las fuentes apropiadas se incluyen NASA Earthdata para determinadas observaciones fechadas, NOAA ETOPO para el relieve terrestre y oceánico, y USGS para determinados registros históricos de terremotos.
+
+Usa datos seleccionados y reducidos que quepan en un único archivo HTML. Muestra la resolución real integrada. No afirmes nunca que una ilustración regional tiene la precisión del conjunto de datos de origen cuando sus detalles hayan sido diseñados o simplificados.
+
+Mantén visibles estas tres categorías:
+DATOS OBSERVADOS — una medición con fuente o una muestra de un conjunto de datos publicado.
+VALOR DERIVADO — calculado a partir de entradas identificadas y un método inspeccionable.
+ILUSTRACIÓN O EXPERIMENTO — paisaje diseñado o modelo hipotético.
+
+No inventes elevaciones, profundidades, posiciones de terremotos, patrones de nubes en tiempo real ni valores ambientales medidos con precisión. Incluye un panel de Fuentes y métodos con enlaces, versiones y fechas de los conjuntos de datos, sistema de referencia de coordenadas, unidades, método de reducción de datos, ecuaciones, incertidumbres o limitaciones y atribución.
+
+Usa una convención coherente de latitud y longitud en todas las características. Mantén separadas las coordenadas geográficas, las mediciones físicas y la geometría de visualización exagerada.
+
+PEQUEÑOS DETALLES Y DESCUBRIMIENTOS VISUALES
+Incluye descubrimientos cuidadosamente coreografiados:
+• Transiciones de la órbita a la región que mantengan el punto elegido a la vista.
+• Curvas de nivel y etiquetas que aparezcan solo cuando el espectador alcance su escala útil.
+• Un río que siga siendo reconocible desde el mapa global hasta la cuenca local.
+• Un cursor de elevación que se mueva sincronizadamente por el mapa, el perfil y el paisaje.
+• Una costa que se transforme visualmente al activar la capa de batimetría.
+• Capas de hielo que se revelen progresivamente en la sección antártica.
+• Un descenso al océano profundo en el que el fondo marino aparezca gradualmente, en lugar de cambiar de escena de forma repentina.
+• Una sección del globo al interior que conserve la ubicación geográfica seleccionada.
+• Un terminador cambiante que sumerja la expedición elegida en la luz del día o en la noche.
+• Un descubrimiento de evidencias que conecte un elemento visual bello con los datos o el modelo que lo sustenta.
+
+Da prioridad a los detalles que profundicen la exploración por encima de las partículas decorativas.
+
+RENDIMIENTO Y VERIFICACIÓN
+Usa un grafo de escena SVG acotado, símbolos reutilizables, recortes, máscaras y renderizado dependiente del zoom. Evita mantener activas las seis escenas de alto detalle cuando solo una sea visible.
+
+Admite ordenadores de escritorio, dispositivos táctiles, navegación mediante teclado, foco visible y preferencias de movimiento reducido.
+
+Verifica que:
+• Cada lugar destacado esté ubicado correctamente desde el punto de vista geográfico.
+• Las características de la cara oculta del globo estén realmente ocultas.
+• Las rutas permanezcan vinculadas a sus coordenadas durante la rotación.
+• Las distancias de medición utilicen las coordenadas seleccionadas.
+• Los valores de los transectos procedan de las muestras integradas.
+• Los cursores del mapa, el perfil y la sección permanezcan sincronizados.
+• Restablecer devuelva los experimentos a sus estados iniciales.
+• Los controles de tiempo modifiquen el modelo previsto sin alterar silenciosamente otros datos.
+• Las etiquetas de fuente y fecha coincidan con las capas integradas.
+
+Muestra los resultados reales de cualquier comprobación automatizada. No codifiques una fila de etiquetas con «superado».
+
+Haz que la ruta completa, desde el globo hasta la escena local y la sección, funcione en las seis expediciones. Si el alcance de la implementación obliga a elegir, completa ese recorrido conectado y las herramientas científicas esenciales antes de añadir efectos visuales opcionales.
+
+ENTREGA FINAL
+El resultado terminado debe transmitir la sensación de un planeta explorable dentro de un único archivo: impresionante desde la órbita, gratificante de cerca y claro respecto a qué se ha observado, calculado o ilustrado.
+
+Devuelve ÚNICAMENTE UN BLOQUE DE CÓDIGO que contenga el documento HTML COMPLETO y funcional, empezando por <!DOCTYPE html>. Debo poder pegarlo en un único archivo .html, abrirlo en Chrome, girar y ampliar la Tierra, entrar en cualquiera de las seis expediciones, dibujar un transecto conectado, explorar el océano y el interior, comparar lugares, ejecutar los tres experimentos, consultar las fuentes y regresar sin problemas a la órbita.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create an extraordinary interactive SVG experience titled “EARTH ATLAS: THE LIVING PLANET.”  Build a complete, deeply explorable Earth science observatory in ONE self-contained HTML file. I must be able to paste your entire output into a file, open it directly in Chrome, and use it without a server or network connection.  Use whatever libraries help, but bundle all required runtime code and curated data inside that one HTML file. The globe, regional maps, terrain, seafloor, cutaways, instruments, charts, annotations, and close-up illustrations must be rendered primarily in SVG.  Return ONLY the complete working HTML in ONE code block.  THE AMBITION  Create the visual quality of a flagship NASA Earth-science exhibition combined with the depth of an interactive atlas.  The viewer begins in orbit before a magnificent Earth. They can rotate the globe, move through daylight and darkness, choose a real place, zoom into its geography, draw a transect, descend through its surface or ocean, and understand how that location fits into the whole planet.  The experience must reward ten minutes of exploration. It should contain striking reveals, precise interactions, and connected views—not merely a rotating globe with informational popups.  The first frame must be beautiful enough to serve as a standalone scientific illustration.  A TRUE MULTISCALE EXPLORATION SYSTEM  Build an authored hierarchy of scales:  1. ORBITAL EARTH — the full globe, atmosphere, day–night boundary, large geographic forms, and global overlays. 2. CONTINENTAL — recognizable coastlines, relief, major rivers, ocean basins, and selected scientific features. 3. REGIONAL — detailed terrain, bathymetry, contours, labels, and measurement tools. 4. LOCAL SCENE — a richly illustrated landscape or ocean environment specific to the selected place. 5. SECTIONAL VIEW — a geographically linked cross-section through land, ice, ocean, or crust. 6. DETAIL VIEW — close examination of a feature such as a glacier layer, river channel, fault, sediment bed, or seafloor formation.  Each zoom level must reveal newly authored SVG detail appropriate to its scale. Do not simply magnify the same low-resolution geometry until it becomes empty.  Preserve geographic identity across transitions. A selected point on the globe must correspond to the regional map, the local scene, its transect, and its section.  Implement zoom toward the pointer, drag-to-rotate the globe, drag-to-pan regional views, pinch zoom, keyboard navigation, Back, Home, and Reset View. Keep camera movement bounded and smooth.  Show a discreet scale bar and location breadcrumb. Manual interaction must interrupt any automated camera journey gracefully.  VISUAL DIRECTION  Make Earth the dominant visual element.  Use deep ocean blue, shallow-water turquoise, varied vegetation greens, desert ochre, volcanic charcoal, mineral grays, glacial white, and fine warm-white annotation lines.  Build convincing planetary volume through projected coastline geometry, changing illumination, atmospheric scattering effects, cloud layers, and a carefully controlled night-light treatment where an appropriate dated source is embedded.  Use precise cartographic linework, elegant contours, subtle material patterns, readable depth shading, and thin leader lines. Make information appear when useful at the current zoom level rather than covering the globe with labels.  The interface should feel like a refined scientific instrument. Avoid generic dashboard cards, excessive neon, and large floating text panels.  GLOBAL EARTH  Provide a rotatable SVG globe with consistent geographic projection and coordinate handling.  As the globe turns, correctly project landforms, ocean features, labels, selected markers, routes, and the terminator. Hide geometry on the far side rather than drawing it through the planet.  Include switchable overlays for:  • Physical relief. • Ocean depth and seafloor structure. • Major rivers and drainage basins. • Plate boundaries. • Selected historical earthquake events from an embedded dated sample. • Latitude–longitude grid. • Dated Earth-observation samples, only where embedded data supports them. • Clean cinematic view.  Every overlay must use the same coordinate system. Include its source, date, resolution, units, and legend.  Do not call any layer “live” or “current” when the file uses an embedded snapshot.  SIX FULLY AUTHORED EXPEDITIONS  Build complete, distinct experiences for:  HIMALAYA Layered mountain ranges, valleys, glaciers, a sourced regional elevation profile, and a visually clear section through the terrain.  AMAZON BASIN Recognizable river structure, floodplain and tributaries, an illustrated forest cross-section, and an educational water-path demonstration.  SAHARA Dunes, rocky terrain, dry channels, distinct surface materials, and a terrain transect. Distinguish illustrated dune detail from sourced large-scale elevation.  EAST AFRICAN RIFT Regional lakes and terrain, a fault-oriented cross-section, and a clearly labeled conceptual tectonic demonstration.  MARIANA TRENCH REGION Ocean surface, shelf and deep-ocean geometry where appropriate to the chosen transect, a draggable depth profile, a descent through the water column, and a detailed illustrated seafloor scene.  ANTARCTICA Ice surface, a sourced ice/terrain context where available, a sectional interpretation, and a seasonal sunlight demonstration.  Give every expedition:  • A strong authored opening composition. • Correct placement on the globe. • A regional map. • At least one local scene. • At least one linked cross-section or profile. • A unique working interaction. • A smooth journey back to orbit.  Do not reuse a generic mountain, forest, desert, or ocean drawing as a substitute for geographic identity.  FIVE CONNECTED VIEW MODES  SURFACE Explore topography, terrain features, rivers, ice, and coastlines with zoom-dependent detail.  ABOVE Explore sunlight, seasonal geometry, atmosphere, and any embedded dated observation. If clouds or weather are illustrative, label them as an illustrative scenario.  BELOW Open a section through terrain, ice, crust, or ocean along the selected geographic transect.  PLANET Pull back to a global cutaway showing how the selected point relates to Earth’s layers. Show the selected location’s corresponding position on the globe and cutaway.  EVIDENCE Reveal the data sample, source, date, resolution, uncertainty or known limitation, and calculation behind the selected feature or measurement.  Changing modes must preserve the selected location, zoom context where sensible, and timeline state.  LINKED EXPLORATION TOOLS  MEASURE Select two points on the globe or a supported regional map. Draw the great-circle route, display coordinates and distance, and keep the route correctly projected during globe rotation.  TRANSECT Draw or adjust a line across a supported region. Sample its embedded elevation or bathymetry data to produce a profile. Moving a cursor on the map must move its counterpart on the profile and sectional view.  COMPARE Place two selected locations side by side. Use matching units and explicit scale controls. Compare their elevation or depth, latitude, regional context, and supported environmental data.  TIME AND SUNLIGHT Scrub time of day and day of year. Update the global illumination and seasonal sun geometry with a documented model. Keep illustrative weather independent of this clock.  GUIDED EXPEDITION Offer a short cinematic journey through the six environments. Each stop must reveal an interaction, not merely display a caption. The tour must be skippable.  ANNOTATION DENSITY Switch between cinematic, guided, and technical label levels without altering the underlying geography.  OCEAN EXPLORATION  Treat the seafloor as a complete landscape.  Reveal shelves, slopes, abyssal regions, ridges, and trenches where supported by the embedded relief sample. Use an explicit vertical scale and label any exaggeration.  In the Mariana expedition, let the viewer descend through the water column. Update depth, light, color, pressure estimate under a stated simplified model, and the location cursor together.  The deep-sea close-up may contain beautiful illustrated life and geology, but its exact organisms and microterrain must be identified as interpretation. Sourced bathymetry and illustrated local scenery must remain distinguishable.  EARTH’S INTERIOR  Provide a 0–100% cutaway slider that smoothly reveals the crust, mantle, outer core, and inner core. The globe should remain visually coherent at intermediate slider positions.  Show the selected geographic location on the outer surface and an aligned radial guide into the interior.  Include an educational seismic-wave demonstration with a clearly stated simplified model. Its wave paths, moving markers, and timing readouts must derive from the same demonstration state.  Label exaggerated layer thickness, material colors, or compressed time explicitly.  THREE INTERACTIVE SCIENCE EXPERIMENTS  1. SUNLIGHT LAB Choose two latitudes and compare the modeled daily solar path and length of daylight across the year. Link the diagrams to the illuminated globe.  2. RELIEF AND SEA-LEVEL LAB At a supported coastal region, adjust a hypothetical water level and compare it with the embedded elevation profile. Label this a static topographic demonstration; do not present it as a coastal flood forecast.  3. SEISMIC PATH LAB Choose a source and observation points for a simplified educational wave demonstration. Show paths and relative arrival timing according to the stated model. Keep historical earthquake markers separate from the hypothetical experiment.  Each experiment must have Reset, reproducible inputs, consistent units, and a clear link back to the globe or selected place.  DATA AND SCIENTIFIC HONESTY  Use authoritative, cited sources for numerical claims and embedded samples. Appropriate sources include NASA Earthdata for selected dated observations, NOAA ETOPO for land and ocean relief, and USGS for selected historical earthquake records.  Use curated, downsampled data that fits inside one HTML file. Show the actual embedded resolution. Never claim that a regional illustration has the precision of the source dataset when its detail was authored or simplified.  Keep three categories visible:  OBSERVED DATA — a sourced measurement or published dataset sample. DERIVED VALUE — calculated from named inputs and an inspectable method. ILLUSTRATION OR EXPERIMENT — authored scenery or a hypothetical model.  Do not invent precise elevations, depths, earthquake positions, live cloud patterns, or measured environmental values.  Include a Sources and Methods panel with links, dataset versions and dates, coordinate reference, units, downsampling method, equations, uncertainty or limitations, and attribution.  Use a consistent latitude–longitude convention across every feature. Keep geographic coordinates, physical measurements, and exaggerated display geometry separate.  SMALL DETAILS AND VISUAL REVEALS  Include carefully choreographed discoveries:  • Orbit-to-region transitions that keep the chosen point in view. • Contours and labels that emerge only when the viewer reaches their useful scale. • A river that remains recognizable from global map to local basin. • An elevation cursor moving in synchrony across map, profile, and landscape. • A coastline that transforms visually when the bathymetry layer activates. • Ice layers that reveal themselves progressively in the Antarctic section. • A deep-ocean descent in which the seafloor appears gradually rather than as a sudden scene swap. • A globe-to-interior cutaway that preserves the selected geographic location. • A changing terminator that casts the chosen expedition into daylight or night. • An evidence reveal connecting a beautiful visual element to the data or model behind it.  Prioritize details that deepen exploration over decorative particles.  PERFORMANCE AND VERIFICATION  Use a bounded SVG scene graph, reusable symbols, clipping, masks, and zoom-dependent rendering. Avoid keeping all six high-detail scenes active when only one is visible.  Support desktop, touch devices, keyboard navigation, visible focus, and reduced-motion preferences.  Verify that:  • Every featured location is geographically placed correctly. • Hidden-side globe features are actually hidden. • Routes remain attached to their coordinates through rotation. • Measurement distances use the selected coordinates. • Transect values come from the embedded samples. • Map, profile, and section cursors remain synchronized. • Reset returns experiments to their initial states. • Time controls alter the intended model without silently modifying unrelated data. • Source and date labels match the embedded layers.  Show actual results for any automated checks. Do not hardcode a row of “passed” labels.  Make the complete path from globe to local scene to section work for all six expeditions. If implementation scope forces a tradeoff, complete that connected journey and the essential science tools before adding optional visual effects.  FINAL DELIVERY  The finished result should feel like an explorable planet inside a single file: stunning from orbit, rewarding at close range, and clear about what is observed, calculated, or illustrated.  Return ONLY ONE code block containing the ENTIRE working HTML document, beginning with <!DOCTYPE html>.  I should be able to paste it into one .html file, open it in Chrome, rotate and zoom Earth, enter any of the six expeditions, draw a linked transect, explore the ocean and interior, compare locations, run the three experiments, inspect the sources, and return smoothly to orbit.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104837836507955401) · [Publicación original](https://x.com/Gdgtify/status/2104837836507955401) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104831049020674144"></a>
+
+### Laboratorio interactivo de simulación de una línea de producción en serie
+
+[أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari) · 2026-09-29 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104831049020674144"><img src="../assets/previews/df3e821a18ca5ebe1e54f5a0ee5a132d1f3c53b566296ce4d5c502a4e5e4f3dd.webp" width="840" loading="lazy" alt="Laboratorio interactivo de simulación de una línea de producción en serie"></a>
+
+**Prompt**
+
+```text
+Crea una simulación animada e interactiva de eventos discretos de una línea de producción en serie en un único archivo HTML autocontenido (JavaScript puro + Canvas, sin bibliotecas externas, salvo Chart.js desde cdnjs). Objetivo: enseñar a estudiantes de [Sistemas de fabricación] cómo afectan la variabilidad, los buffers y las averías al rendimiento de la línea.
+
+CONFIGURACIÓN DE LA LÍNEA (ajustable por el usuario)
+- Número de estaciones: [2–6], valor predeterminado [3]; cada una con un nombre (por ejemplo, Mecanizado, Montaje, Inspección)
+- Por estación: tiempo de ciclo medio, distribución (Determinista, Uniforme, Normal, Triangular, Exponencial, Lognormal), CV
+- Averías por estación: MTBF y MTTR (exponenciales), con interruptor de activación/desactivación
+- Calidad por estación: tasa de defectos (%), con opción de desecho o bucle de retrabajo
+- Buffers entre estaciones: capacidad de 0 a 10 (0 = bloqueo después del servicio)
+- Llegadas: materia prima ilimitada O llegadas de Poisson con tasa λ
+- Demanda del cliente para calcular el tiempo takt
+
+ANIMATION
+- Las piezas avanzan por transportadores y cambian de color según la etapa (materia prima, WIP, producto terminado, desecho)
+- Los bordes de las máquinas muestran colores según su estado: En funcionamiento (verde), Bloqueada (ámbar), Sin alimentación (rojo), Averiada (gris); además, muestran un icono de engranaje giratorio y una barra de progreso
+- Las posiciones de los buffers muestran la ocupación y se resaltan cuando están llenos
+- Controles: Reproducir/Pausar, Paso, Restablecer, velocidad de 1x a 50x y periodo de calentamiento
+
+INDICADORES CLAVE DE RENDIMIENTO (panel en tiempo real)
+1. Producción (piezas/h) frente a la tasa teórica del cuello de botella
+2. WIP medio y WIP a lo largo del tiempo
+3. Tiempo de flujo / plazo de fabricación (media y percentil 95)
+4. Comprobación de la ley de Little: WIP ≈ Producción × Tiempo de flujo
+5. Utilización por estación, con desglose temporal: en funcionamiento / bloqueada / sin alimentación / averiada (barra apilada)
+6. OEE por estación = Disponibilidad × Rendimiento × Calidad
+7. Detección del cuello de botella (método del periodo activo) y resaltado del cuello de botella
+8. Tiempo takt frente a los tiempos de ciclo de las estaciones (gráfico de equilibrado de línea)
+9. Eficiencia del equilibrado de línea = Σ tiempos de ciclo / (N × tiempo de ciclo máximo)
+10. Rendimiento a la primera pasada, rendimiento acumulado de la línea y cantidad de desechos
+11. Ocupación media de cada buffer
+12. Media y CV del tiempo de ciclo observado frente al configurado para cada estación
+
+FUNCIONES DE ANÁLISIS
+- Modo de réplicas: ejecutar N réplicas de duración T después del calentamiento e informar de la media ± el intervalo de confianza del 95 % para la producción, el WIP y el tiempo de flujo
+- Modo de experimento: variar el tamaño del buffer (o el CV de una estación) y representar la producción frente al parámetro
+- Exportar los resultados a CSV
+- Escenarios predefinidos: Línea equilibrada, Cuello de botella claro, Alta variabilidad, Máquina poco fiable
+
+DESIGN
+- Diseño limpio y adaptable que funcione en móviles; modo claro/oscuro
+- Breve información sobre herramientas que explique cada KPI y su fórmula
+- Selector de etiquetas bilingües (inglés/árabe)
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Build an animated, interactive discrete-event simulation of a serial production line as a single self-contained HTML file (vanilla JS + Canvas, no external libraries except Chart.js from cdnjs). Purpose: teaching [Manufacturing Systems] students how variability, buffers, and breakdowns affect line performance.
+
+LINE CONFIGURATION (user-adjustable)
+- Number of stations: [2–6], default [3], each with a name (e.g., Machining, Assembly, Inspection)
+- Per station: mean cycle time, distribution (Deterministic, Uniform, Normal, Triangular, Exponential, Lognormal), CV
+- Breakdowns per station: MTBF and MTTR (exponential), on/off toggle
+- Quality per station: defect rate (%), with scrap or rework-loop option
+- Buffers between stations: capacity 0–10 (0 = blocking after service)
+- Arrivals: unlimited raw material OR Poisson arrivals with rate λ
+- Customer demand to compute takt time
+
+ANIMATION
+- Parts move along conveyors and change color by stage (raw, WIP, finished, scrap)
+- Machine borders show state colors: Working (green), Blocked (amber), Starved (red), Down (gray), plus a rotating gear icon and a progress bar
+- Buffer slots show occupancy and highlight when full
+- Controls: Play/Pause, Step, Reset, speed 1x–50x, warm-up period
+
+KEY PERFORMANCE MEASURES (live dashboard)
+1. Throughput (parts/hr) vs theoretical bottleneck rate
+2. Average WIP and WIP over time
+3. Flow time / manufacturing lead time (mean and 95th percentile)
+4. Little's Law check: WIP ≈ Throughput × Flow time
+5. Per-station utilization with a time breakdown: working / blocked / starved / down (stacked bar)
+6. OEE per station = Availability × Performance × Quality
+7. Bottleneck detection (active-period method) and highlight the bottleneck
+8. Takt time vs station cycle times (line balance chart)
+9. Line balance efficiency = Σ cycle times / (N × max cycle time)
+10. First-pass yield, rolled throughput yield, scrap count
+11. Average buffer occupancy per buffer
+12. Observed vs set cycle-time mean and CV per station
+
+ANALYSIS FEATURES
+- Replication mode: run N replications of length T after warm-up, report mean ± 95% confidence interval for throughput, WIP, and flow time
+- Experiment mode: sweep buffer size (or one station's CV) and plot throughput vs parameter
+- Export results to CSV
+- Preset scenarios: Balanced line, Clear bottleneck, High variability, Unreliable machine
+
+DESIGN
+- Clean, responsive layout that works on mobile; light/dark mode
+- Brief tooltip explaining each KPI and its formula
+- Bilingual labels (English/Arabic) toggle
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2104831049020674144) · [Publicación original](https://x.com/am_alahmari/status/2104831051776335994) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104590334152056983"></a>
 
 ### Arquitectura andante
@@ -2379,120 +2822,7 @@ build an interactive crowd evacuation sim and see where it jams
 
 ---
 
-<a id="claude-opus-5-5-2102450239923720440"></a>
 
-### Isla prehistórica 3D interactiva
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Interactivo
-
-<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="Isla prehistórica 3D interactiva"></a>
-
-**Prompt**
-
-```text
-Crea una hermosa isla prehistórica 3D, muy detallada y totalmente interactiva, utilizando Three.js y WebGL. Entrégalo todo en un único archivo HTML independiente que se abra directamente en Chrome. Inserta los recursos siempre que sea posible.
-
-DIRECCIÓN VISUAL
-Construye una isla grande y redondeada, rodeada por un océano con una sección transversal submarina transparente. El resultado debe transmitir la sensación de un mundo en miniatura de calidad premium: vegetación frondosa, dinosaurios expresivos, materiales ricos, iluminación atmosférica y animaciones pulidas. Utiliza una dirección artística estilizada y coherente, en lugar de formas geométricas básicas.
-ISLAND
-Crea un terreno variado con playas, acantilados rocosos, bosques prehistóricos densos, helechos gigantes, una cascada, un estanque de agua dulce y un volcán. Añade una pequeña estación de investigación, pasarelas de madera, plataformas de observación, cajas de suministros y nidos de dinosaurio. La isla debe ser lo bastante espaciosa para que los dinosaurios se desplacen de forma natural entre zonas diferenciadas.
-
-SECCIÓN TRANSVERSAL DEL AGUA
-El agua debe formar un volumen profundo y redondeado alrededor de la isla, con paisajes submarinos claramente visibles a través de sus laterales. Incluye un fondo marino texturizado, rocas, plantas acuáticas, peces, burbujas y un reptil marino verde nadando bajo la superficie. No coloques dinosaurios terrestres comunes bajo el agua ni añadas un submarino.
-Utiliza olas animadas, reflejos de Fresnel, patrones de luz submarina, espuma en la orilla y salpicaduras. Evita los artefactos del ordenamiento de transparencias y los huecos visibles entre la isla y el agua.
-
-DINOSAURS
-Incluye varias especies diferenciadas, como un saurópodo de cuello largo, un Triceratops, un Stegosaurus, un terópodo grande y animales de manada más pequeños. Añade pterosaurios volando en círculos sobre la isla.
-Dota a cada especie de una anatomía reconocible, cuerpos bien definidos, extremidades articuladas, cabezas detalladas, colas y patrones de piel apropiados. Evita construir los dinosaurios terminados a partir de cubos evidentes o esferas desconectadas.
-
-ANIMACIÓN NATURAL
-Utiliza esqueletos jerárquicos con articulaciones colocadas correctamente. La marcha debe tener fases de apoyo y balanceo diferenciadas: los pies deben permanecer apoyados durante el contacto y levantarse limpiamente en cada paso. Ajusta la longitud de la zancada a la velocidad de movimiento.
-
-Utiliza muestreo del terreno y cinemática inversa para mantener los pies sobre el suelo. Añade cambios de peso, movimientos corporales sutiles, balanceo equilibrado de la cola, giros de cabeza y respiración. Los dinosaurios no deben flotar, deslizarse, atravesar el suelo ni caminar a través de edificios, rocas, árboles o entre sí.
-Utiliza evasión de obstáculos y rutas seguras. Las distintas especies deben tener diferentes velocidades de movimiento, patrones de marcha y comportamientos. Los animales marinos deben estar orientados en la dirección de desplazamiento.
-
-INTERACTION
-Permite a los usuarios:
-
-Girar la cámara libremente, hacer zoom e inspeccionar la sección transversal submarina.
-Seleccionar un dinosaurio y seguirlo con una cámara de movimiento fluido.
-
-Colocar comida en lugares adecuados y observar cómo se acercan a comer los dinosaurios cercanos.
-
-Activar acciones de beber, descansar y llamar, así como el desplazamiento de la manada.
-
-Explorar los nidos y observar cómo sale una cría del cascarón.
-Activar la salida a la superficie de un reptil marino con una salpicadura.
-Cambiar entre el día, el atardecer y la noche.
-Ajustar la lluvia, el viento y la actividad volcánica.
-Pausar la simulación y restablecer la escena.
-Haz que cada control produzca una respuesta clara y visible. Mantén las interacciones repetibles y evita que las animaciones superpuestas rompan las poses de los personajes.
-ATMÓSFERA Y AUDIO
-Añade vegetación en movimiento, nubes a la deriva, aves, insectos, partículas de lluvia y cálidas luces de la estación de investigación durante la noche. Incluye música ambiental tranquila y sonidos del entorno, con un interruptor de música y un control deslizante de volumen funcionales. Inicia el audio solo después de que el usuario interactúe.
-INTERFACE
-Utiliza una interfaz compacta y elegante con etiquetas en inglés. Mantén la escena como elemento dominante y evita que los paneles grandes cubran la isla. Haz que el diseño se adapte a ordenadores y dispositivos móviles.
-CALIDAD TÉCNICA
-Utiliza instanciación para la vegetación y los elementos repetidos, geometría eficiente, sombras adecuadas y posprocesado moderado. Equilibra la riqueza visual con un rendimiento fluido en tiempo real.
-Construye una escena completa, no una maqueta. Prueba el HTML final directamente en un navegador de escritorio, revisa las capturas de pantalla y la consola, prueba todas las interacciones y corrige antes de la entrega los errores de carga, los dinosaurios flotantes, el deslizamiento de los pies, las colisiones defectuosas, los artefactos del agua y los problemas de cámara.
-```
-
-<details>
-<summary>Prompt original</summary>
-
-```text
-Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
-
-VISUAL DIRECTION
-Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
-ISLAND
-Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
-
-WATER CROSS-SECTION
-The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
-Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
-
-DINOSAURS
-Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
-Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
-
-NATURAL ANIMATION
-Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
-
-Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
-Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
-
-INTERACTION
-Allow users to:
-
-Rotate the camera freely, zoom, and inspect the underwater cross-section.
-Select a dinosaur and follow it with a smoothly moving camera.
-
-Place food in suitable locations and watch nearby dinosaurs approach and eat.
-
-Trigger drinking, resting, calling, and herd movement.
-
-Explore nests and watch a hatchling emerge.
-Trigger a marine reptile surfacing with a splash.
-Switch between daylight, sunset, and night.
-Adjust rain, wind, and volcanic activity.
-Pause the simulation and reset the scene.
-Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
-ATMOSPHERE AND AUDIO
-Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
-INTERFACE
-Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
-TECHNICAL QUALITY
-Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
-Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
-```
-
-</details>
-
-[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102450239923720440) · [Publicación original](https://x.com/vib3coded/status/2102450842070569099) · [Volver a los ejemplos](#all-prompts)
-
----
-
-
-[Catálogo completo](catalog.es.md) · **1 / 1**
+[Catálogo completo](catalog.es.md) · **1 / 2** · [→](catalog.es.2.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/es/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Catálogo completo →</a></strong></p>

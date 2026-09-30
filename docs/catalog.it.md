@@ -21,9 +21,9 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**45 Esempi · 14 🌐**
+**51 Esempi · 14 🌐**
 
-[Per categoria](#categories) · [Per modello](#models) · [Codice sorgente](with-code.md) · [1](../docs/catalog.it.1.md)
+[Per categoria](#categories) · [Per modello](#models) · [Codice sorgente](with-code.md) · [1](../docs/catalog.it.1.md) · [2](../docs/catalog.it.2.md)
 
 <a id="categories"></a>
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Giochi · 9
+### Giochi · 10
 
+- [Realizza un gioco di corse in stile Mario Kart con 3JS](../docs/catalog.it.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [Picchiaduro pixel art giocabile nell’antica Roma](../docs/catalog.it.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [FPS multiplayer iperrealistico in un vicolo innevato](../docs/catalog.it.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Gioco voxel in stile Minecraft con shader avanzati](../docs/catalog.it.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
@@ -45,8 +46,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### Scene · 6
+### Scene · 7
 
+- [Macchina meccanica di Rube Goldberg in Blender](../docs/catalog.it.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [Scena 3D dal data center all’atomo in 55 secondi](../docs/catalog.it.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Costruisci una città imperiale](../docs/catalog.it.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Benchmark della meg metropoli cyberpunk «The Last Train»](../docs/catalog.it.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
@@ -64,20 +66,24 @@
 
 <a id="category-interactive-3d"></a>
 
-### Interattivo · 7
+### Interattivo · 9
 
+- [Pianeta 3D interattivo in stile cartone animato](../docs/catalog.it.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [ATLANTE DELLA TERRA: IL PIANETA VIVENTE](../docs/catalog.it.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
 - [Torta alle fragole interattiva in WebGPU](../docs/catalog.it.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Esplora una pagoda in 3D](../docs/catalog.it.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Cittadina 3D in stile anime con ciliegi in fiore, esplorabile liberamente](../docs/catalog.it.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Regno medievale interattivo per Claude Opus 5.5](../docs/catalog.it.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Sito web interattivo sui pianeti immaginari](../docs/catalog.it.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Paesaggio 3D interattivo di una valle giapponese in fiore](../docs/catalog.it.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
-- [Isola preistorica 3D interattiva](../docs/catalog.it.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [Isola preistorica 3D interattiva](../docs/catalog.it.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Animazione · 20
+### Animazione · 22
 
+- [Video di motion graphics 3D brandizzato di 30 secondi](../docs/catalog.it.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [Laboratorio interattivo per la simulazione di una linea di produzione seriale](../docs/catalog.it.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [Architettura ambulante](../docs/catalog.it.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Promo Kiiwi dinamica in motion graphics — 30 secondi](../docs/catalog.it.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [CG 3D in stile anime con tre veicoli che si trasformano e si combinano](../docs/catalog.it.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
@@ -105,8 +111,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 45
+### Claude Opus 5.5 · 51
 
+- [Macchina meccanica di Rube Goldberg in Blender](../docs/catalog.it.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
+- [Realizza un gioco di corse in stile Mario Kart con 3JS](../docs/catalog.it.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
+- [Pianeta 3D interattivo in stile cartone animato](../docs/catalog.it.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [Video di motion graphics 3D brandizzato di 30 secondi](../docs/catalog.it.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [ATLANTE DELLA TERRA: IL PIANETA VIVENTE](../docs/catalog.it.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
+- [Laboratorio interattivo per la simulazione di una linea di produzione seriale](../docs/catalog.it.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [Architettura ambulante](../docs/catalog.it.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Picchiaduro pixel art giocabile nell’antica Roma](../docs/catalog.it.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [Torta alle fragole interattiva in WebGPU](../docs/catalog.it.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
@@ -151,7 +163,7 @@
 - [Nave pirata cinematografica interattiva al tramonto](../docs/catalog.it.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [Mondo infinito generato proceduralmente con Three.js](../docs/catalog.it.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Simulazione interattiva dell’evacuazione di una folla](../docs/catalog.it.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
-- [Isola preistorica 3D interattiva](../docs/catalog.it.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [Isola preistorica 3D interattiva](../docs/catalog.it.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/it/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Catalogo completo →</a></strong></p>

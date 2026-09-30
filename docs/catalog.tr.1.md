@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome Opus 5.5 Prompts — 1 / 1
+# Awesome Opus 5.5 Prompts — 1 / 2
 
 [← Awesome Opus 5.5 Prompts](../README.md)
 
@@ -21,13 +21,19 @@
   <a href="../docs/catalog.vi.1.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Tam katalog](catalog.tr.md) · **1 / 1**
+[Tam katalog](catalog.tr.md) · **1 / 2** · [→](catalog.tr.2.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>Örnekleri keşfet (45)</summary>
+<summary>Örnekleri keşfet (50)</summary>
 
+- [Blender’da mekanik Rube Goldberg makinesi](#claude-opus-5-5-2104953406708175097)
+- [3JS ile Mario Kart tarzı yarış oyunu oluşturun](#claude-opus-5-5-2104947552328261810)
+- [Etkileşimli çizgi film tarzında 3B gezegen](#claude-opus-5-5-2104919117262389255)
+- [30 saniyelik markalı 3B hareketli grafik videosu](#claude-opus-5-5-2104896325255037196)
+- [DÜNYA ATLASI: YAŞAYAN GEZEGEN](#claude-opus-5-5-2104837836507955401)
+- [Seri Üretim Hattı için Etkileşimli Simülasyon Laboratuvarı](#claude-opus-5-5-2104831049020674144)
 - [Yürüyen Mimari](#claude-opus-5-5-2104590334152056983)
 - [Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu](#claude-opus-5-5-2104571944842498150)
 - [Etkileşimli WebGPU Çilekli Pasta](#claude-opus-5-5-2104514806443303238)
@@ -72,9 +78,471 @@
 - [Gün batımında sinematik, etkileşimli korsan gemisi](#claude-opus-5-5-2102533729746882985)
 - [Sonsuz, prosedürel olarak oluşturulan Three.js dünyası](#claude-opus-5-5-2102529695908806728)
 - [Etkileşimli kalabalık tahliye simülasyonu](#claude-opus-5-5-2102467667978572092)
-- [Etkileşimli 3B Tarih Öncesi Ada](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104953406708175097"></a>
+
+### Blender’da mekanik Rube Goldberg makinesi
+
+[Atarax](https://x.com/Kwazikot) · 2026-09-29 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104953406708175097"><img src="../assets/previews/94786a1f71886b43ad88256a5a922e3b0b21527d626f06dd47070eb1037233e4.webp" width="840" loading="lazy" alt="Blender’da mekanik Rube Goldberg makinesi"></a>
+
+**İstem**
+
+```text
+Blender’da mekanik bir Rube Goldberg makinesi oluştur. Dişliler, rampalar, toplar ve hareketli platformlar kullan. Makineyi prosedürel olarak oluştur, her önemli adımdan sonra sahneyi incele ve belirgin geometri sorunlarını düzelt.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104953406708175097) · [Orijinal gönderi](https://x.com/Kwazikot/status/2104953406708175097) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104947552328261810"></a>
+
+### 3JS ile Mario Kart tarzı yarış oyunu oluşturun
+
+[Tony](https://x.com/EnvolDev) · 2026-09-29 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104947552328261810"><img src="../assets/previews/1dfed000876f4710fe765cd6e1961952cd91d4fd5a6060dea3a58c4c09c42d98.webp" width="840" loading="lazy" alt="3JS ile Mario Kart tarzı yarış oyunu oluşturun"></a>
+
+**İstem**
+
+```text
+Beş(Model) alt ajanını başlatmanı ve Mario Kart klonu olan AAA kalitesinde bir oyun oluşturmama yardım etmeni istiyorum. Bu alt ajanları başlatmanı, bana hiç soru sormadan oyunu geliştirmeni ve oyunu 3JS kullanarak oluşturmanı istiyorum. İşin bittiğinde de bana bilgi ver.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+I need you to launch five(Model) sub-agents and help me build a triple A quality game that is a clone of Mario Kart. What I want you to do is I want you to launch these sub-agents, build the game without asking me any questions at all, and use 3JS to build the game. And once you're done, report back to me.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104947552328261810) · [Orijinal gönderi](https://x.com/EnvolDev/status/2104947905442505205) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104919117262389255"></a>
+
+### Etkileşimli çizgi film tarzında 3B gezegen
+
+[Aman](https://x.com/mdaman010) · 2026-09-29 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104919117262389255"><img src="../assets/previews/b2d6e10a07a3d741cc7949bf5bd7aaa3f20d698d42e958b211be129b320a032b.webp" width="840" loading="lazy" alt="Etkileşimli çizgi film tarzında 3B gezegen"></a>
+
+**İstem**
+
+```text
+Bulutlar, dağlar, şehir binaları, arabalar ve üzerinde dolaşan bir uçakla canlı bir görünüme sahip, çizgi film/çizgi roman tarzında 3B bir ThreeJS gezegeni oluştur. Gezegenin çevresinde dolaşmak, yakınlaştırmak ve ayrıntıları görmek mümkün olmalı. Harness kullanılmamalı.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Output a ThreeJS 3D cartoony/comics-like planet, with vibrant life on it: clouds, mountains, city buildings, cars and plane romaing it. It should be possible to orbit around and zoom and see the details. No harness is to be used
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104919117262389255) · [Orijinal gönderi](https://x.com/mdaman010/status/2104919846953869421) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104896325255037196"></a>
+
+### 30 saniyelik markalı 3B hareketli grafik videosu
+
+[Awa K. Penn](https://x.com/TawohAwa) · 2026-09-29 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104896325255037196"><img src="../assets/previews/e5106bf0ebb4e02f1a1c069e64fc3cee97a376e611c304d52b2459777d1d287d.webp" width="840" loading="lazy" alt="30 saniyelik markalı 3B hareketli grafik videosu"></a>
+
+**İstem**
+
+```text
+https://t.co/71rvEGmB6D için, üst düzey bir motion designer'ın showreeli hissini veren etkileyici bir 30 saniyelik hareketli grafik videosu oluştur. Önce web sitesini incele ve gerçek marka kimliğini, ürün arayüzünü, renklerini ve mesajlarını kullan. Çarpıcı tipografi, 3B hareket, animasyonlu arayüz, hızlı geçişler ve güçlü bir logo açılışı kullan.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a stunning 30-second motion graphics video for https://t.co/71rvEGmB6D that feels like an elite motion designer’s showreel. Study the website first and use the real brand, product UI, colours, and messaging. Use bold typography, 3D motion, animated UI, fast transitions, and a strong logo reveal.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104896325255037196) · [Orijinal gönderi](https://x.com/TawohAwa/status/2104896328300134868) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104837836507955401"></a>
+
+### DÜNYA ATLASI: YAŞAYAN GEZEGEN
+
+[Gadgetify](https://x.com/Gdgtify) · 2026-09-29 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104837836507955401"><img src="../assets/previews/7ec941dc7200421e5136be18f6b07e6e21be86a4c1dc96f5a31170c09585c09e.webp" width="840" loading="lazy" alt="DÜNYA ATLASI: YAŞAYAN GEZEGEN"></a>
+
+**İstem**
+
+```text
+“DÜNYA ATLASI: YAŞAYAN GEZEGEN” başlıklı olağanüstü bir etkileşimli SVG deneyimi oluştur. TEK bir kendi kendine yeten HTML dosyasında, derinlemesine keşfedilebilen eksiksiz bir Dünya bilimi gözlemevi tasarla. Tüm çıktını bir dosyaya yapıştırabilmeli, dosyayı doğrudan Chrome’da açabilmeli ve sunucu ya da ağ bağlantısı olmadan kullanabilmeliyim. İşine yarayan kütüphaneleri kullanabilirsin; ancak gerekli tüm çalışma zamanı kodunu ve seçilmiş verileri bu tek HTML dosyasına göm. Küre, bölgesel haritalar, arazi, deniz tabanı, kesitler, araçlar, grafikler, açıklamalar ve yakın plan çizimler öncelikle SVG ile oluşturulmalı.
+
+Yalnızca tek bir kod bloğu içinde, çalışır durumdaki TAM HTML’yi döndür.
+
+HEDEF
+
+NASA’nın amiral gemisi niteliğindeki bir Dünya bilimi sergisinin görsel kalitesini, etkileşimli bir atlasın derinliğiyle birleştir. İzleyici, görkemli bir Dünya’nın karşısında yörüngede başlar. Küreyi döndürebilmeli, gündüz ve gece arasında ilerleyebilmeli, gerçek bir yer seçebilmeli, o yerin coğrafyasına yakınlaşabilmeli, transekt çizebilmeli, yüzeyin ya da okyanusun derinliklerine inebilmeli ve bu konumun gezegenin bütünüyle nasıl ilişkili olduğunu anlayabilmeli.
+
+Deneyim, on dakikalık keşfi ödüllendirmeli. Yalnızca bilgi açılır pencereleri olan dönen bir küreden ibaret olmamalı; çarpıcı keşif anları, hassas etkileşimler ve birbiriyle bağlantılı görünümler içermeli. İlk kare, tek başına kullanılabilecek kadar etkileyici bir bilimsel illüstrasyon niteliğinde olmalı.
+
+GERÇEK BİR ÇOK ÖLÇEKLİ KEŞİF SİSTEMİ
+
+Önceden tasarlanmış bir ölçekler hiyerarşisi oluştur:
+
+1. YÖRÜNGEDEKİ DÜNYA — tam küre, atmosfer, gündüz–gece sınırı, büyük coğrafi oluşumlar ve küresel katmanlar.
+2. KITASAL ÖLÇEK — tanınabilir kıyı çizgileri, yükselti, büyük akarsular, okyanus havzaları ve seçilmiş bilimsel özellikler.
+3. BÖLGESEL ÖLÇEK — ayrıntılı arazi, batimetri, eşyükselti eğrileri, etiketler ve ölçüm araçları.
+4. YEREL SAHNE — seçilen yere özgü, zengin biçimde resmedilmiş bir kara veya okyanus ortamı.
+5. KESİT GÖRÜNÜMÜ — kara, buz, okyanus veya kabuk içinden, coğrafi olarak bağlantılı bir kesit.
+6. AYRINTI GÖRÜNÜMÜ — buzul katmanı, nehir kanalı, fay, tortul tabaka veya deniz tabanı oluşumu gibi bir özelliğin yakından incelenmesi.
+
+Her yakınlaştırma düzeyi, kendi ölçeğine uygun, yeni tasarlanmış SVG ayrıntıları ortaya çıkarmalı. Aynı düşük çözünürlüklü geometriyi boş kalana kadar büyütmekle yetinme.
+
+Geçişler boyunca coğrafi kimliği koru. Küre üzerinde seçilen bir nokta; bölgesel haritadaki, yerel sahnedeki, transektteki ve kesitteki karşılığıyla eşleşmeli.
+
+İşaretçiye doğru yakınlaştırmayı, küreyi sürükleyerek döndürmeyi, bölgesel görünümleri sürükleyerek kaydırmayı, pinch zoom’u, klavye ile gezinmeyi, Geri, Ana Sayfa ve Görünümü Sıfırla işlevlerini uygula. Kamera hareketini sınırlı ve akıcı tut. İnce bir ölçek çubuğu ve konum kırıntı gezintisi göster. Manuel etkileşim, otomatik kamera yolculuğunu zarif biçimde kesintiye uğratmalı.
+
+GÖRSEL YÖN
+
+Dünya, baskın görsel unsur olmalı.
+
+Derin okyanus mavisi, sığ su turkuazı, farklı bitki örtüsü yeşilleri, çöl aşı boyası, volkanik kömür grisi, mineral grileri, buzul beyazı ve ince sıcak beyaz açıklama çizgileri kullan.
+
+İzdüşümlü kıyı çizgisi geometrisi, değişen aydınlatma, atmosferik saçılma efektleri, bulut katmanları ve uygun tarihli bir kaynağın gömüldüğü, dikkatle kontrol edilen gece ışıkları uygulamasıyla ikna edici bir gezegen hacmi oluştur.
+
+Hassas kartografik çizimler, zarif eşyükselti eğrileri, ince malzeme desenleri, okunabilir derinlik gölgelendirmesi ve ince kılavuz çizgileri kullan. Bilgileri küreyi etiketlerle kaplamak yerine, mevcut yakınlaştırma düzeyinde yararlı oldukları anda göster.
+
+Arayüz, rafine bir bilimsel araç hissi vermeli. Genel amaçlı gösterge paneli kartlarından, aşırı neon kullanımından ve büyük yüzen metin panellerinden kaçın.
+
+KÜRESEL DÜNYA
+
+Tutarlı bir coğrafi izdüşüm ve koordinat işleme kullanan, döndürülebilir bir SVG küresi sun. Küre dönerken kara şekillerini, okyanus özelliklerini, etiketleri, seçili işaretçileri, rotaları ve terminatörü doğru biçimde izdüşür. Uzak taraftaki geometrileri gezegenin içinden çizmek yerine gizle.
+
+Şunlar için açılıp kapatılabilir katmanlar ekle:
+• Fiziksel rölyef.
+• Okyanus derinliği ve deniz tabanı yapısı.
+• Büyük nehirler ve drenaj havzaları.
+• Levha sınırları.
+• Gömülü, tarihli bir örnekten seçilmiş tarihsel deprem olayları.
+• Enlem–boylam ağı.
+• Yalnızca gömülü verilerin desteklediği yerlerde tarihli Dünya gözlem örnekleri.
+• Sade, sinematik görünüm.
+
+Her katman aynı koordinat sistemini kullanmalı. Kaynağını, tarihini, çözünürlüğünü, birimlerini ve lejandını ekle.
+
+Dosya gömülü bir anlık görüntü kullanıyorsa hiçbir katmana “canlı” ya da “güncel” deme.
+
+TAM OLARAK TASARLANMIŞ ALTI KEŞİF GEZİSİ
+
+Şunlar için eksiksiz ve birbirinden belirgin deneyimler oluştur:
+
+HİMALAYALAR
+Katmanlı dağ sıraları, vadiler, buzullar, kaynaklandırılmış bölgesel yükselti profili ve arazi içinden görsel olarak anlaşılır bir kesit.
+
+AMAZON HAVZASI
+Tanınabilir nehir yapısı, taşkın ovası ve kollar, resimli bir orman kesiti ve eğitici bir su yolu gösterimi.
+
+SAHRA
+Kumullar, kayalık arazi, kuru kanallar, belirgin yüzey malzemeleri ve arazi transekti. Resimli kumul ayrıntısını kaynaklı büyük ölçekli yükseltiden ayır.
+
+DOĞU AFRİKA RİFTİ
+Bölgesel göller ve arazi, fay doğrultulu bir kesit ve açıkça etiketlenmiş kavramsal bir tektonik gösterim.
+
+MARIANA ÇUKURU BÖLGESİ
+Seçilen transekt için uygun olduğu ölçüde okyanus yüzeyi, kıta sahanlığı ve derin okyanus geometrisi, sürüklenebilir bir derinlik profili, su sütununda bir iniş ve ayrıntılı biçimde resmedilmiş bir deniz tabanı sahnesi.
+
+ANTARKTİKA
+Buz yüzeyi, mevcut olduğu yerlerde kaynaklandırılmış buz/arazi bağlamı, kesitsel yorum ve mevsimsel güneş ışığı gösterimi.
+
+Her keşif gezisine şunları ekle:
+• Güçlü, özgün bir açılış kompozisyonu.
+• Küre üzerinde doğru konumlandırma.
+• Bölgesel bir harita.
+• En az bir yerel sahne.
+• En az bir bağlantılı kesit veya profil.
+• Kendine özgü, çalışan bir etkileşim.
+• Yörüngeye akıcı bir dönüş.
+
+Coğrafi kimliğin yerine genel amaçlı bir dağ, orman, çöl veya okyanus çizimini tekrar kullanma.
+
+BAĞLANTILI BEŞ GÖRÜNÜM MODU
+
+YÜZEY
+Topografyayı, arazi özelliklerini, nehirleri, buzları ve kıyı çizgilerini yakınlaştırma düzeyine bağlı ayrıntılarla keşfet.
+
+ÜSTÜ
+Güneş ışığını, mevsimsel geometriyi, atmosferi ve gömülü tarihli gözlemleri keşfet. Bulutlar veya hava durumu resimsel ise bunları resimli bir senaryo olarak etiketle.
+
+ALTI
+Seçilen coğrafi transekt boyunca arazi, buz, kabuk veya okyanus içinden bir kesit aç.
+
+GEZEGEN
+Seçilen noktanın Dünya’nın katmanlarıyla ilişkisini gösteren küresel bir kesiti görmek için uzaklaş. Seçilen konumun küre ve kesit üzerindeki karşılık gelen konumunu göster.
+
+KANIT
+Seçilen özellik veya ölçümün veri örneğini, kaynağını, tarihini, çözünürlüğünü, belirsizliğini ya da bilinen sınırlamasını ve arkasındaki hesaplamayı göster.
+
+Mod değiştirmek; seçilen konumu, makul olduğu ölçüde yakınlaştırma bağlamını ve zaman çizelgesi durumunu korumalı.
+
+BAĞLANTILI KEŞİF ARAÇLARI
+
+ÖLÇ
+Küre veya desteklenen bir bölgesel harita üzerinde iki nokta seç. Büyük çember rotasını çiz, koordinatları ve mesafeyi göster ve küre dönerken rotanın doğru izdüşürülmesini sağla.
+
+TRANSEKT
+Desteklenen bir bölge boyunca bir çizgi çiz veya çizgiyi ayarla. Profil oluşturmak için gömülü yükselti ya da batimetri verilerinden örnekle. Harita üzerindeki imlecin hareketi, profil ve kesit görünümündeki karşılığını da hareket ettirmeli.
+
+KARŞILAŞTIR
+Seçilen iki konumu yan yana yerleştir. Aynı birimleri ve açık ölçek kontrollerini kullan. Yükseltiyi veya derinliği, enlemi, bölgesel bağlamı ve desteklenen çevresel verileri karşılaştır.
+
+ZAMAN VE GÜNEŞ IŞIĞI
+Günün saatini ve yılın gününü zaman çizelgesi üzerinde ayarla. Belgelenmiş bir modelle küresel aydınlatmayı ve mevsimsel güneş geometrisini güncelle. Resimli hava durumunu bu saatten bağımsız tut.
+
+REHBERLİ KEŞİF GEZİSİ
+Altı ortam boyunca kısa, sinematik bir yolculuk sun. Her durak yalnızca bir açıklama göstermemeli, bir etkileşimi de ortaya çıkarmalı. Tur atlanabilir olmalı.
+
+AÇIKLAMA YOĞUNLUĞU
+Temel coğrafyayı değiştirmeden sinematik, rehberli ve teknik etiket düzeyleri arasında geçiş yap.
+
+OKYANUS KEŞFİ
+
+Deniz tabanını eksiksiz bir peyzaj olarak ele al.
+
+Gömülü rölyef örneğinin desteklediği yerlerde kıta sahanlıklarını, yamaçları, abisal bölgeleri, sırtları ve çukurları göster. Açık bir düşey ölçek kullan ve her türlü abartıyı etiketle.
+
+Mariana keşif gezisinde izleyicinin su sütununda aşağı inmesine izin ver. Derinliği, ışığı, rengi, belirtilen basitleştirilmiş model altındaki basınç tahminini ve konum imlecini birlikte güncelle.
+
+Derin deniz yakın planı güzel, resimli canlılar ve jeoloji içerebilir; ancak tam organizmalar ve mikro arazi, yorum olarak tanımlanmalı. Kaynaklı batimetri ile resimli yerel manzara birbirinden ayırt edilebilir kalmalı.
+
+DÜNYA’NIN İÇİ
+
+Kabuk, manto, dış çekirdek ve iç çekirdeği akıcı biçimde ortaya çıkaran %0–100 arası bir kesit sürgüsü sun. Ara değerlerde küre görsel bütünlüğünü korumalı.
+
+Seçilen coğrafi konumu dış yüzeyde göster ve iç kısma uzanan, onunla hizalı radyal bir kılavuz ekle.
+
+Açıkça belirtilmiş basitleştirilmiş bir model içeren eğitici bir sismik dalga gösterimi ekle. Dalga yolları, hareketli işaretçiler ve zaman okumaları aynı gösterim durumundan türetilmeli.
+
+Abartılmış katman kalınlığını, malzeme renklerini veya sıkıştırılmış zamanı açıkça etiketle.
+
+ÜÇ ETKİLEŞİMLİ BİLİM DENEYİ
+
+1. GÜNEŞ IŞIĞI LABORATUVARI
+İki enlem seç ve modellenmiş günlük güneş yolunu ve yıl boyunca gün ışığı süresini karşılaştır. Diyagramları aydınlatılmış küreyle ilişkilendir.
+
+2. RÖLYEF VE DENİZ SEVİYESİ LABORATUVARI
+Desteklenen bir kıyı bölgesinde varsayımsal su seviyesini ayarla ve gömülü yükselti profiliyle karşılaştır. Bunu statik bir topografya gösterimi olarak etiketle; kıyı taşkını tahmini gibi sunma.
+
+3. SİSMİK YOL LABORATUVARI
+Basitleştirilmiş eğitici bir dalga gösterimi için kaynak ve gözlem noktaları seç. Belirtilen modele göre yolları ve göreli varış zamanını göster. Tarihsel deprem işaretçilerini varsayımsal deneyden ayrı tut.
+
+Her deneyde Sıfırla işlevi, yeniden üretilebilir girdiler, tutarlı birimler ve küreye ya da seçilen yere açık bir dönüş bağlantısı bulunmalı.
+
+VERİ VE BİLİMSEL DÜRÜSTLÜK
+
+Sayısal iddialar ve gömülü örnekler için yetkili, kaynak gösterilmiş veriler kullan. Uygun kaynaklar arasında seçilmiş tarihli gözlemler için NASA Earthdata, kara ve okyanus rölyefi için NOAA ETOPO ve seçilmiş tarihsel deprem kayıtları için USGS bulunur.
+
+Tek bir HTML dosyasına sığacak, seçilmiş ve alt örneklemesi yapılmış veriler kullan. Gömülü gerçek çözünürlüğü göster. Bölgesel bir illüstrasyonun ayrıntı düzeyi yazarak oluşturulmuş veya basitleştirilmişse, kaynak veri kümesinin hassasiyetine sahip olduğunu asla iddia etme.
+
+Şu üç kategoriyi görünür tut:
+
+GÖZLEMLENEN VERİ — kaynak gösterilmiş bir ölçüm veya yayımlanmış veri kümesi örneği.
+TÜRETİLMİŞ DEĞER — adı belirtilen girdilerden ve incelenebilir bir yöntemle hesaplanmış değer.
+İLLÜSTRASYON VEYA DENEY — tasarlanmış bir manzara veya varsayımsal bir model.
+
+Kesin yükseltiler, derinlikler, deprem konumları, canlı bulut desenleri veya ölçülmüş çevresel değerler uydurma.
+
+Bağlantılar, veri kümesi sürümleri ve tarihleri, koordinat referansı, birimler, alt örnekleme yöntemi, denklemler, belirsizlikler ya da sınırlamalar ve atıf bilgilerini içeren Kaynaklar ve Yöntemler paneli ekle.
+
+Her özellikte tutarlı bir enlem–boylam gösterimi kullan. Coğrafi koordinatları, fiziksel ölçümleri ve abartılmış görüntü geometrisini birbirinden ayrı tut.
+
+KÜÇÜK AYRINTILAR VE GÖRSEL KEŞİFLER
+
+Dikkatle kurgulanmış şu keşif anlarını ekle:
+• Seçilen noktayı görünür tutan yörüngeden bölgeye geçişler.
+• Yalnızca izleyici yararlı ölçeğe ulaştığında beliren eşyükselti eğrileri ve etiketler.
+• Küresel haritadan yerel havzaya kadar tanınabilirliğini koruyan bir nehir.
+• Harita, profil ve manzara boyunca eş zamanlı hareket eden bir yükselti imleci.
+• Batimetri katmanı etkinleştirildiğinde görsel olarak dönüşen bir kıyı çizgisi.
+• Antarktika kesitinde kendini aşamalı olarak açığa çıkaran buz katmanları.
+• Deniz tabanının ani bir sahne değişimiyle değil, kademeli olarak göründüğü derin okyanus inişi.
+• Seçilen coğrafi konumu koruyan küre–iç kesit geçişi.
+• Seçilen keşif gezisini gündüze veya geceye taşıyan değişken bir terminatör.
+• Güzel bir görsel unsuru, arkasındaki veriye veya modele bağlayan bir kanıt gösterimi.
+
+Dekoratif parçacıklar yerine keşfi derinleştiren ayrıntılara öncelik ver.
+
+PERFORMANS VE DOĞRULAMA
+
+Sınırlı bir SVG sahne grafiği, yeniden kullanılabilir semboller, kırpma, maskeler ve yakınlaştırma düzeyine bağlı çizim kullan. Yalnızca biri görünürken altı yüksek ayrıntılı sahneyi birden etkin tutma.
+
+Masaüstünü, dokunmatik cihazları, klavye ile gezinmeyi, görünür odak durumunu ve hareket azaltma tercihlerini destekle.
+
+Şunları doğrula:
+• Öne çıkarılan her konumun coğrafi olarak doğru yerleştirilmesi.
+• Kürenin gizli tarafındaki özelliklerin gerçekten gizli olması.
+• Rotasyon sırasında rotaların koordinatlarına bağlı kalması.
+• Ölçüm mesafelerinin seçilen koordinatları kullanması.
+• Transekt değerlerinin gömülü örneklerden gelmesi.
+• Harita, profil ve kesit imleçlerinin eşzamanlı kalması.
+• Sıfırlamanın deneyleri başlangıç durumlarına döndürmesi.
+• Zaman kontrollerinin ilgisiz verileri sessizce değiştirmeden amaçlanan modeli etkilemesi.
+• Kaynak ve tarih etiketlerinin gömülü katmanlarla eşleşmesi.
+
+Otomatik kontrollerin gerçek sonuçlarını göster. “Başarılı” etiketlerinden oluşan bir satırı sabit olarak kodlama.
+
+Küreden yerel sahneye ve oradan kesite uzanan eksiksiz yolu altı keşif gezisinin tamamında çalışır hâle getir. Uygulama kapsamı bir ödünleşmeyi zorunlu kılarsa, isteğe bağlı görsel efektleri eklemeden önce bu bağlantılı yolculuğu ve temel bilim araçlarını tamamla.
+
+SON TESLİM
+
+Ortaya çıkan sonuç, tek bir dosyanın içine sığan ve keşfedilebilir bir gezegen hissi vermeli: yörüngeden bakıldığında büyüleyici, yakından incelendiğinde ödüllendirici ve neyin gözlemlendiği, hesaplandığı veya resmedildiği konusunda açık.
+
+Yalnızca <!DOCTYPE html> ile başlayan, çalışan HTML belgesinin TAMAMINI içeren TEK bir kod bloğu döndür. Tek bir .html dosyasına yapıştırıp Chrome’da açabilmeli, Dünya’yı döndürüp yakınlaştırabilmeli, altı keşif gezisinden herhangi birine girebilmeli, bağlantılı bir transekt çizebilmeli, okyanusu ve Dünya’nın içini keşfedebilmeli, konumları karşılaştırabilmeli, üç deneyi çalıştırabilmeli, kaynakları inceleyebilmeli ve akıcı biçimde yörüngeye dönebilmeliyim.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create an extraordinary interactive SVG experience titled “EARTH ATLAS: THE LIVING PLANET.”  Build a complete, deeply explorable Earth science observatory in ONE self-contained HTML file. I must be able to paste your entire output into a file, open it directly in Chrome, and use it without a server or network connection.  Use whatever libraries help, but bundle all required runtime code and curated data inside that one HTML file. The globe, regional maps, terrain, seafloor, cutaways, instruments, charts, annotations, and close-up illustrations must be rendered primarily in SVG.  Return ONLY the complete working HTML in ONE code block.  THE AMBITION  Create the visual quality of a flagship NASA Earth-science exhibition combined with the depth of an interactive atlas.  The viewer begins in orbit before a magnificent Earth. They can rotate the globe, move through daylight and darkness, choose a real place, zoom into its geography, draw a transect, descend through its surface or ocean, and understand how that location fits into the whole planet.  The experience must reward ten minutes of exploration. It should contain striking reveals, precise interactions, and connected views—not merely a rotating globe with informational popups.  The first frame must be beautiful enough to serve as a standalone scientific illustration.  A TRUE MULTISCALE EXPLORATION SYSTEM  Build an authored hierarchy of scales:  1. ORBITAL EARTH — the full globe, atmosphere, day–night boundary, large geographic forms, and global overlays. 2. CONTINENTAL — recognizable coastlines, relief, major rivers, ocean basins, and selected scientific features. 3. REGIONAL — detailed terrain, bathymetry, contours, labels, and measurement tools. 4. LOCAL SCENE — a richly illustrated landscape or ocean environment specific to the selected place. 5. SECTIONAL VIEW — a geographically linked cross-section through land, ice, ocean, or crust. 6. DETAIL VIEW — close examination of a feature such as a glacier layer, river channel, fault, sediment bed, or seafloor formation.  Each zoom level must reveal newly authored SVG detail appropriate to its scale. Do not simply magnify the same low-resolution geometry until it becomes empty.  Preserve geographic identity across transitions. A selected point on the globe must correspond to the regional map, the local scene, its transect, and its section.  Implement zoom toward the pointer, drag-to-rotate the globe, drag-to-pan regional views, pinch zoom, keyboard navigation, Back, Home, and Reset View. Keep camera movement bounded and smooth.  Show a discreet scale bar and location breadcrumb. Manual interaction must interrupt any automated camera journey gracefully.  VISUAL DIRECTION  Make Earth the dominant visual element.  Use deep ocean blue, shallow-water turquoise, varied vegetation greens, desert ochre, volcanic charcoal, mineral grays, glacial white, and fine warm-white annotation lines.  Build convincing planetary volume through projected coastline geometry, changing illumination, atmospheric scattering effects, cloud layers, and a carefully controlled night-light treatment where an appropriate dated source is embedded.  Use precise cartographic linework, elegant contours, subtle material patterns, readable depth shading, and thin leader lines. Make information appear when useful at the current zoom level rather than covering the globe with labels.  The interface should feel like a refined scientific instrument. Avoid generic dashboard cards, excessive neon, and large floating text panels.  GLOBAL EARTH  Provide a rotatable SVG globe with consistent geographic projection and coordinate handling.  As the globe turns, correctly project landforms, ocean features, labels, selected markers, routes, and the terminator. Hide geometry on the far side rather than drawing it through the planet.  Include switchable overlays for:  • Physical relief. • Ocean depth and seafloor structure. • Major rivers and drainage basins. • Plate boundaries. • Selected historical earthquake events from an embedded dated sample. • Latitude–longitude grid. • Dated Earth-observation samples, only where embedded data supports them. • Clean cinematic view.  Every overlay must use the same coordinate system. Include its source, date, resolution, units, and legend.  Do not call any layer “live” or “current” when the file uses an embedded snapshot.  SIX FULLY AUTHORED EXPEDITIONS  Build complete, distinct experiences for:  HIMALAYA Layered mountain ranges, valleys, glaciers, a sourced regional elevation profile, and a visually clear section through the terrain.  AMAZON BASIN Recognizable river structure, floodplain and tributaries, an illustrated forest cross-section, and an educational water-path demonstration.  SAHARA Dunes, rocky terrain, dry channels, distinct surface materials, and a terrain transect. Distinguish illustrated dune detail from sourced large-scale elevation.  EAST AFRICAN RIFT Regional lakes and terrain, a fault-oriented cross-section, and a clearly labeled conceptual tectonic demonstration.  MARIANA TRENCH REGION Ocean surface, shelf and deep-ocean geometry where appropriate to the chosen transect, a draggable depth profile, a descent through the water column, and a detailed illustrated seafloor scene.  ANTARCTICA Ice surface, a sourced ice/terrain context where available, a sectional interpretation, and a seasonal sunlight demonstration.  Give every expedition:  • A strong authored opening composition. • Correct placement on the globe. • A regional map. • At least one local scene. • At least one linked cross-section or profile. • A unique working interaction. • A smooth journey back to orbit.  Do not reuse a generic mountain, forest, desert, or ocean drawing as a substitute for geographic identity.  FIVE CONNECTED VIEW MODES  SURFACE Explore topography, terrain features, rivers, ice, and coastlines with zoom-dependent detail.  ABOVE Explore sunlight, seasonal geometry, atmosphere, and any embedded dated observation. If clouds or weather are illustrative, label them as an illustrative scenario.  BELOW Open a section through terrain, ice, crust, or ocean along the selected geographic transect.  PLANET Pull back to a global cutaway showing how the selected point relates to Earth’s layers. Show the selected location’s corresponding position on the globe and cutaway.  EVIDENCE Reveal the data sample, source, date, resolution, uncertainty or known limitation, and calculation behind the selected feature or measurement.  Changing modes must preserve the selected location, zoom context where sensible, and timeline state.  LINKED EXPLORATION TOOLS  MEASURE Select two points on the globe or a supported regional map. Draw the great-circle route, display coordinates and distance, and keep the route correctly projected during globe rotation.  TRANSECT Draw or adjust a line across a supported region. Sample its embedded elevation or bathymetry data to produce a profile. Moving a cursor on the map must move its counterpart on the profile and sectional view.  COMPARE Place two selected locations side by side. Use matching units and explicit scale controls. Compare their elevation or depth, latitude, regional context, and supported environmental data.  TIME AND SUNLIGHT Scrub time of day and day of year. Update the global illumination and seasonal sun geometry with a documented model. Keep illustrative weather independent of this clock.  GUIDED EXPEDITION Offer a short cinematic journey through the six environments. Each stop must reveal an interaction, not merely display a caption. The tour must be skippable.  ANNOTATION DENSITY Switch between cinematic, guided, and technical label levels without altering the underlying geography.  OCEAN EXPLORATION  Treat the seafloor as a complete landscape.  Reveal shelves, slopes, abyssal regions, ridges, and trenches where supported by the embedded relief sample. Use an explicit vertical scale and label any exaggeration.  In the Mariana expedition, let the viewer descend through the water column. Update depth, light, color, pressure estimate under a stated simplified model, and the location cursor together.  The deep-sea close-up may contain beautiful illustrated life and geology, but its exact organisms and microterrain must be identified as interpretation. Sourced bathymetry and illustrated local scenery must remain distinguishable.  EARTH’S INTERIOR  Provide a 0–100% cutaway slider that smoothly reveals the crust, mantle, outer core, and inner core. The globe should remain visually coherent at intermediate slider positions.  Show the selected geographic location on the outer surface and an aligned radial guide into the interior.  Include an educational seismic-wave demonstration with a clearly stated simplified model. Its wave paths, moving markers, and timing readouts must derive from the same demonstration state.  Label exaggerated layer thickness, material colors, or compressed time explicitly.  THREE INTERACTIVE SCIENCE EXPERIMENTS  1. SUNLIGHT LAB Choose two latitudes and compare the modeled daily solar path and length of daylight across the year. Link the diagrams to the illuminated globe.  2. RELIEF AND SEA-LEVEL LAB At a supported coastal region, adjust a hypothetical water level and compare it with the embedded elevation profile. Label this a static topographic demonstration; do not present it as a coastal flood forecast.  3. SEISMIC PATH LAB Choose a source and observation points for a simplified educational wave demonstration. Show paths and relative arrival timing according to the stated model. Keep historical earthquake markers separate from the hypothetical experiment.  Each experiment must have Reset, reproducible inputs, consistent units, and a clear link back to the globe or selected place.  DATA AND SCIENTIFIC HONESTY  Use authoritative, cited sources for numerical claims and embedded samples. Appropriate sources include NASA Earthdata for selected dated observations, NOAA ETOPO for land and ocean relief, and USGS for selected historical earthquake records.  Use curated, downsampled data that fits inside one HTML file. Show the actual embedded resolution. Never claim that a regional illustration has the precision of the source dataset when its detail was authored or simplified.  Keep three categories visible:  OBSERVED DATA — a sourced measurement or published dataset sample. DERIVED VALUE — calculated from named inputs and an inspectable method. ILLUSTRATION OR EXPERIMENT — authored scenery or a hypothetical model.  Do not invent precise elevations, depths, earthquake positions, live cloud patterns, or measured environmental values.  Include a Sources and Methods panel with links, dataset versions and dates, coordinate reference, units, downsampling method, equations, uncertainty or limitations, and attribution.  Use a consistent latitude–longitude convention across every feature. Keep geographic coordinates, physical measurements, and exaggerated display geometry separate.  SMALL DETAILS AND VISUAL REVEALS  Include carefully choreographed discoveries:  • Orbit-to-region transitions that keep the chosen point in view. • Contours and labels that emerge only when the viewer reaches their useful scale. • A river that remains recognizable from global map to local basin. • An elevation cursor moving in synchrony across map, profile, and landscape. • A coastline that transforms visually when the bathymetry layer activates. • Ice layers that reveal themselves progressively in the Antarctic section. • A deep-ocean descent in which the seafloor appears gradually rather than as a sudden scene swap. • A globe-to-interior cutaway that preserves the selected geographic location. • A changing terminator that casts the chosen expedition into daylight or night. • An evidence reveal connecting a beautiful visual element to the data or model behind it.  Prioritize details that deepen exploration over decorative particles.  PERFORMANCE AND VERIFICATION  Use a bounded SVG scene graph, reusable symbols, clipping, masks, and zoom-dependent rendering. Avoid keeping all six high-detail scenes active when only one is visible.  Support desktop, touch devices, keyboard navigation, visible focus, and reduced-motion preferences.  Verify that:  • Every featured location is geographically placed correctly. • Hidden-side globe features are actually hidden. • Routes remain attached to their coordinates through rotation. • Measurement distances use the selected coordinates. • Transect values come from the embedded samples. • Map, profile, and section cursors remain synchronized. • Reset returns experiments to their initial states. • Time controls alter the intended model without silently modifying unrelated data. • Source and date labels match the embedded layers.  Show actual results for any automated checks. Do not hardcode a row of “passed” labels.  Make the complete path from globe to local scene to section work for all six expeditions. If implementation scope forces a tradeoff, complete that connected journey and the essential science tools before adding optional visual effects.  FINAL DELIVERY  The finished result should feel like an explorable planet inside a single file: stunning from orbit, rewarding at close range, and clear about what is observed, calculated, or illustrated.  Return ONLY ONE code block containing the ENTIRE working HTML document, beginning with <!DOCTYPE html>.  I should be able to paste it into one .html file, open it in Chrome, rotate and zoom Earth, enter any of the six expeditions, draw a linked transect, explore the ocean and interior, compare locations, run the three experiments, inspect the sources, and return smoothly to orbit.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104837836507955401) · [Orijinal gönderi](https://x.com/Gdgtify/status/2104837836507955401) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104831049020674144"></a>
+
+### Seri Üretim Hattı için Etkileşimli Simülasyon Laboratuvarı
+
+[أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari) · 2026-09-29 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104831049020674144"><img src="../assets/previews/df3e821a18ca5ebe1e54f5a0ee5a132d1f3c53b566296ce4d5c502a4e5e4f3dd.webp" width="840" loading="lazy" alt="Seri Üretim Hattı için Etkileşimli Simülasyon Laboratuvarı"></a>
+
+**İstem**
+
+```text
+Seri üretim hattının animasyonlu ve etkileşimli bir ayrık olay simülasyonunu, tek başına çalışabilen tek bir HTML dosyası olarak oluştur (vanilla JS + Canvas; cdnjs üzerinden Chart.js dışında harici kitaplık kullanma). Amaç: [Üretim Sistemleri] öğrencilerine değişkenliğin, tamponların ve arızaların hat performansını nasıl etkilediğini öğretmek.
+
+HAT YAPILANDIRMASI (kullanıcı tarafından ayarlanabilir)
+- İstasyon sayısı: [2–6], varsayılan [3]; her istasyonun bir adı olmalı (ör. Talaşlı İmalat, Montaj, Muayene)
+- İstasyon başına: ortalama çevrim süresi, dağılım (Deterministik, Uniform, Normal, Üçgensel, Üstel, Lognormal), CV
+- İstasyon başına arızalar: MTBF ve MTTR (üstel), açma/kapatma seçeneği
+- İstasyon başına kalite: hatalı ürün oranı (%); hurdaya ayırma veya yeniden işleme döngüsü seçeneği
+- İstasyonlar arasındaki tamponlar: kapasite 0–10 (0 = işlem sonrası blokaj)
+- Gelişler: sınırsız ham madde veya λ oranıyla Poisson gelişleri
+- Takt süresini hesaplamak için müşteri talebi
+
+ANIMATION
+- Parçalar konveyörler boyunca ilerlemeli ve aşamaya göre renk değiştirmeli (ham, süreç içi, bitmiş, hurda)
+- Makine kenarlıkları durum renklerini göstermeli: Çalışıyor (yeşil), Bloke (kehribar), Malzeme bekliyor (kırmızı), Arızalı (gri); ayrıca dönen bir dişli simgesi ve ilerleme çubuğu bulunmalı
+- Tampon yuvaları doluluk durumunu göstermeli ve tamamen dolu olduğunda vurgulanmalı
+- Kontroller: Oynat/Duraklat, Adım, Sıfırla, 1x–50x hız, ısınma süresi
+
+TEMEL PERFORMANS ÖLÇÜMLERİ (canlı gösterge paneli)
+1. Üretim hızı (parça/saat) ve teorik darboğaz hızı karşılaştırması
+2. Ortalama süreç içi stok (WIP) ve zaman içindeki WIP
+3. Akış süresi / üretim teslim süresi (ortalama ve 95. yüzdelik dilim)
+4. Little Yasası kontrolü: WIP ≈ Üretim hızı × Akış süresi
+5. Zaman dağılımıyla istasyon başına kullanım oranı: çalışma / blokaj / malzeme bekleme / arıza (yığılmış çubuk grafik)
+6. İstasyon başına OEE = Kullanılabilirlik × Performans × Kalite
+7. Darboğaz tespiti (aktif dönem yöntemi) ve darboğazı vurgulama
+8. Takt süresi ile istasyon çevrim sürelerinin karşılaştırılması (hat dengeleme grafiği)
+9. Hat dengeleme verimliliği = Σ çevrim süreleri / (N × maksimum çevrim süresi)
+10. İlk seferde verim, kümülatif akış verimi, hurda sayısı
+11. Tampon başına ortalama doluluk
+12. İstasyon başına gözlemlenen ve ayarlanan çevrim süresi ortalaması ile CV karşılaştırması
+
+ANALİZ ÖZELLİKLERİ
+- Replikasyon modu: ısınma süresinden sonra T uzunluğunda N replikasyon çalıştır; üretim hızı, WIP ve akış süresi için ortalama ± %95 güven aralığını raporla
+- Deney modu: tampon boyutunu (veya bir istasyonun CV değerini) değiştir ve üretim hızını parametreye göre grafikle
+- Sonuçları CSV olarak dışa aktar
+- Hazır senaryolar: Dengeli hat, Belirgin darboğaz, Yüksek değişkenlik, Güvenilmez makine
+
+DESIGN
+- Mobil cihazlarda çalışan temiz ve duyarlı bir düzen; açık/koyu mod
+- Her KPI'ı ve formülünü açıklayan kısa araç ipucu
+- İki dilli etiketler (İngilizce/Arapça) için geçiş seçeneği
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build an animated, interactive discrete-event simulation of a serial production line as a single self-contained HTML file (vanilla JS + Canvas, no external libraries except Chart.js from cdnjs). Purpose: teaching [Manufacturing Systems] students how variability, buffers, and breakdowns affect line performance.
+
+LINE CONFIGURATION (user-adjustable)
+- Number of stations: [2–6], default [3], each with a name (e.g., Machining, Assembly, Inspection)
+- Per station: mean cycle time, distribution (Deterministic, Uniform, Normal, Triangular, Exponential, Lognormal), CV
+- Breakdowns per station: MTBF and MTTR (exponential), on/off toggle
+- Quality per station: defect rate (%), with scrap or rework-loop option
+- Buffers between stations: capacity 0–10 (0 = blocking after service)
+- Arrivals: unlimited raw material OR Poisson arrivals with rate λ
+- Customer demand to compute takt time
+
+ANIMATION
+- Parts move along conveyors and change color by stage (raw, WIP, finished, scrap)
+- Machine borders show state colors: Working (green), Blocked (amber), Starved (red), Down (gray), plus a rotating gear icon and a progress bar
+- Buffer slots show occupancy and highlight when full
+- Controls: Play/Pause, Step, Reset, speed 1x–50x, warm-up period
+
+KEY PERFORMANCE MEASURES (live dashboard)
+1. Throughput (parts/hr) vs theoretical bottleneck rate
+2. Average WIP and WIP over time
+3. Flow time / manufacturing lead time (mean and 95th percentile)
+4. Little's Law check: WIP ≈ Throughput × Flow time
+5. Per-station utilization with a time breakdown: working / blocked / starved / down (stacked bar)
+6. OEE per station = Availability × Performance × Quality
+7. Bottleneck detection (active-period method) and highlight the bottleneck
+8. Takt time vs station cycle times (line balance chart)
+9. Line balance efficiency = Σ cycle times / (N × max cycle time)
+10. First-pass yield, rolled throughput yield, scrap count
+11. Average buffer occupancy per buffer
+12. Observed vs set cycle-time mean and CV per station
+
+ANALYSIS FEATURES
+- Replication mode: run N replications of length T after warm-up, report mean ± 95% confidence interval for throughput, WIP, and flow time
+- Experiment mode: sweep buffer size (or one station's CV) and plot throughput vs parameter
+- Export results to CSV
+- Preset scenarios: Balanced line, Clear bottleneck, High variability, Unreliable machine
+
+DESIGN
+- Clean, responsive layout that works on mobile; light/dark mode
+- Brief tooltip explaining each KPI and its formula
+- Bilingual labels (English/Arabic) toggle
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2104831049020674144) · [Orijinal gönderi](https://x.com/am_alahmari/status/2104831051776335994) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104590334152056983"></a>
 
 ### Yürüyen Mimari
@@ -2379,120 +2847,7 @@ build an interactive crowd evacuation sim and see where it jams
 
 ---
 
-<a id="claude-opus-5-5-2102450239923720440"></a>
 
-### Etkileşimli 3B Tarih Öncesi Ada
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="Etkileşimli 3B Tarih Öncesi Ada"></a>
-
-**İstem**
-
-```text
-Three.js ve WebGL kullanarak güzel, son derece ayrıntılı ve tamamen etkileşimli bir 3B tarih öncesi ada oluştur. Her şeyi doğrudan Chrome'da açılabilen, tek başına çalışan bir HTML dosyasında sun. Mümkün olduğunca varlıkları dosyaya göm.
-
-GÖRSEL YÖN
-Okyanusla çevrili, büyük ve yuvarlak hatlı bir ada oluştur; adanın su altı kesiti şeffaf biçimde görülebilsin. Sonuç; yemyeşil bitki örtüsü, etkileyici dinozorlar, zengin malzemeler, atmosferik ışıklandırma ve özenli animasyonuyla premium bir minyatür dünya hissi vermeli. Basit geometrik şekiller yerine tutarlı ve stilize bir sanat yönetimi kullan.
-ISLAND
-Kumsallar, kayalık uçurumlar, yoğun tarih öncesi ormanlar, dev eğrelti otları, bir şelale, tatlı su göleti ve bir yanardağ içeren çeşitli araziler oluştur. Küçük bir araştırma istasyonu, ahşap yürüyüş yolları, gözlem platformları, erzak sandıkları ve dinozor yuvaları ekle. Dinozorların farklı bölgeler arasında doğal biçimde hareket edebilmesi için adayı yeterince geniş tasarla.
-
-SU KESİTİ
-Su, adanın çevresinde derin ve yuvarlak hatlı bir hacim oluşturmalı; yanlarından su altı manzarası net biçimde görülebilmeli. Dokulu bir deniz tabanı, kayalar, su bitkileri, balıklar, kabarcıklar ve yüzeyin altında yüzen yeşil bir deniz sürüngeni ekle. Sıradan kara dinozorlarını su altına yerleştirme ve denizaltı ekleme.
-Hareketli dalgalar, Fresnel yansımaları, su altı ışık desenleri, kıyı köpükleri ve su sıçramaları kullan. Şeffaflık sıralama hatalarından ve ada ile su arasında görünen boşluklardan kaçın.
-
-DINOSAURS
-Uzun boyunlu bir sauropod, Triceratops, Stegosaurus, büyük bir teropod ve daha küçük sürü hayvanları gibi birbirinden belirgin birkaç tür ekle. Yukarıda daireler çizen pterozorlar ekle.
-Her türe ayırt edilebilir anatomi, biçimlendirilmiş gövdeler, eklemli uzuvlar, ayrıntılı başlar, kuyruklar ve uygun deri desenleri ver. Tamamlanmış dinozorları belirgin kutulardan veya birbirinden kopuk kürelerden bir araya getirme.
-
-DOĞAL ANİMASYON
-Eklemleri doğru konumlandırılmış hiyerarşik iskeletler kullan. Yürüme animasyonunda belirgin basma ve savrulma fazları olmalı: Ayaklar temas sırasında yere sabit kalmalı ve her adımda düzgünce kalkmalı. Adım uzunluğunu hareket hızına uyarla.
-
-Ayakları yerde tutmak için arazi örnekleme ve ters kinematik kullan. Ağırlık aktarımları, ince gövde hareketleri, dengeli kuyruk hareketleri, baş dönüşleri ve nefes alıp verme ekle. Dinozorlar asla havada süzülmemeli, kaymamalı, zeminin içine girmemeli veya binaların, kayaların, ağaçların ya da birbirlerinin içinden geçmemeli.
-Engellerden kaçınma ve güvenli yollar kullan. Farklı türlerin farklı hareket hızları, yürüyüş biçimleri ve davranışları olmalı. Deniz hayvanları hareket yönlerine dönük olmalı.
-
-INTERACTION
-Kullanıcılara şunları yapma olanağı tanı:
-
-Kamerayı serbestçe döndürme, yakınlaştırma ve su altı kesitini inceleme.
-Bir dinozor seçme ve akıcı biçimde hareket eden bir kamerayla onu takip etme.
-
-Uygun konumlara yiyecek yerleştirme ve yakındaki dinozorların yiyeceğe yaklaşıp yemesini izleme.
-
-Su içme, dinlenme, seslenme ve sürü hareketini tetikleme.
-
-Yuvaları keşfetme ve bir yavrunun yumurtadan çıkışını izleme.
-Bir deniz sürüngeninin su sıçratarak yüzeye çıkmasını tetikleme.
-Gündüz, gün batımı ve gece arasında geçiş yapma.
-Yağmuru, rüzgârı ve volkanik etkinliği ayarlama.
-Simülasyonu duraklatma ve sahneyi sıfırlama.
-Her kontrolün net ve görünür bir tepki üretmesini sağla. Etkileşimleri tekrarlanabilir tut ve üst üste binen animasyonların karakter pozlarını bozmasını önle.
-ATMOSFER VE SES
-Hareket eden bitki örtüsü, süzülen bulutlar, kuşlar, böcekler, yağmur parçacıkları ve gece araştırma istasyonundan yayılan sıcak ışıklar ekle. Sakin atmosferik müzik ve çevre sesleri ekle; çalışan bir müzik açma/kapatma düğmesi ve ses düzeyi kaydırıcısı sun. Sesi yalnızca kullanıcı etkileşiminden sonra başlat.
-INTERFACE
-İngilizce etiketlere sahip, kompakt ve zarif bir arayüz kullan. Sahneyi ön planda tut ve adanın büyük panellerle kapanmasını önle. Yerleşimi masaüstü ve mobil cihazlara uyumlu yap.
-TEKNİK KALİTE
-Tekrarlanan bitki örtüsü ve dekor öğeleri için instancing, verimli geometri, uygun gölgeler ve ölçülü post-processing kullan. Görsel zenginliği akıcı gerçek zamanlı performansla dengele.
-Bir maket değil, eksiksiz bir sahne oluştur. Son HTML dosyasını doğrudan bir masaüstü tarayıcısında test et; ekran görüntülerini ve konsolu incele; tüm etkileşimleri dene ve teslim etmeden önce yükleme hatalarını, havada duran dinozorları, ayak kaymasını, bozuk çarpışmaları, su artefaktlarını ve kamera sorunlarını düzelt.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
-
-VISUAL DIRECTION
-Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
-ISLAND
-Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
-
-WATER CROSS-SECTION
-The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
-Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
-
-DINOSAURS
-Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
-Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
-
-NATURAL ANIMATION
-Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
-
-Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
-Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
-
-INTERACTION
-Allow users to:
-
-Rotate the camera freely, zoom, and inspect the underwater cross-section.
-Select a dinosaur and follow it with a smoothly moving camera.
-
-Place food in suitable locations and watch nearby dinosaurs approach and eat.
-
-Trigger drinking, resting, calling, and herd movement.
-
-Explore nests and watch a hatchling emerge.
-Trigger a marine reptile surfacing with a splash.
-Switch between daylight, sunset, and night.
-Adjust rain, wind, and volcanic activity.
-Pause the simulation and reset the scene.
-Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
-ATMOSPHERE AND AUDIO
-Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
-INTERFACE
-Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
-TECHNICAL QUALITY
-Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
-Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102450239923720440) · [Orijinal gönderi](https://x.com/vib3coded/status/2102450842070569099) · [Örneklere dön](#all-prompts)
-
----
-
-
-[Tam katalog](catalog.tr.md) · **1 / 1**
+[Tam katalog](catalog.tr.md) · **1 / 2** · [→](catalog.tr.2.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Tam katalog →</a></strong></p>

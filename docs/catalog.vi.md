@@ -21,9 +21,9 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-**45 Ví dụ · 14 🌐**
+**51 Ví dụ · 14 🌐**
 
-[Theo danh mục](#categories) · [Theo mô hình](#models) · [Mã nguồn](with-code.md) · [1](../docs/catalog.vi.1.md)
+[Theo danh mục](#categories) · [Theo mô hình](#models) · [Mã nguồn](with-code.md) · [1](../docs/catalog.vi.1.md) · [2](../docs/catalog.vi.2.md)
 
 <a id="categories"></a>
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Trò chơi · 9
+### Trò chơi · 10
 
+- [Xây dựng game đua xe phong cách Mario Kart bằng 3JS](../docs/catalog.vi.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại](../docs/catalog.vi.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [FPS nhiều người chơi siêu chân thực trong con hẻm phủ tuyết](../docs/catalog.vi.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Game voxel phong cách Minecraft với shader nâng cao](../docs/catalog.vi.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
@@ -45,8 +46,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### Bối cảnh · 6
+### Bối cảnh · 7
 
+- [Máy Rube Goldberg cơ khí trong Blender](../docs/catalog.vi.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây](../docs/catalog.vi.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Xây dựng thành phố đế quốc](../docs/catalog.vi.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [bài benchmark đại đô thị cyberpunk The Last Train](../docs/catalog.vi.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
@@ -64,20 +66,24 @@
 
 <a id="category-interactive-3d"></a>
 
-### Tương tác · 7
+### Tương tác · 9
 
+- [Hành tinh 3D hoạt hình tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [ATLAS TRÁI ĐẤT: HÀNH TINH SỐNG](../docs/catalog.vi.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
 - [Bánh dâu WebGPU tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Điều hướng trong một ngôi chùa 3D](../docs/catalog.vi.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Thị trấn hoa anh đào 3D phong cách anime, tự do khám phá](../docs/catalog.vi.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Vương quốc trung cổ tương tác cho Claude Opus 5.5](../docs/catalog.vi.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Trang web tương tác về các hành tinh tưởng tượng](../docs/catalog.vi.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](../docs/catalog.vi.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
-- [Hòn đảo tiền sử 3D tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [Hòn đảo tiền sử 3D tương tác](../docs/catalog.vi.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Hoạt ảnh · 20
+### Hoạt ảnh · 22
 
+- [Video motion graphics 3D mang nhận diện thương hiệu dài 30 giây](../docs/catalog.vi.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [Phòng thí nghiệm tương tác mô phỏng dây chuyền sản xuất nối tiếp](../docs/catalog.vi.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [Kiến trúc biết đi](../docs/catalog.vi.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Video quảng bá Kiiwi bằng đồ họa chuyển động, dài 30 giây và đầy năng lượng](../docs/catalog.vi.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [Đồ họa 3D phong cách anime với 3 phương tiện biến hình hợp thể](../docs/catalog.vi.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
@@ -105,8 +111,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 45
+### Claude Opus 5.5 · 51
 
+- [Máy Rube Goldberg cơ khí trong Blender](../docs/catalog.vi.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
+- [Xây dựng game đua xe phong cách Mario Kart bằng 3JS](../docs/catalog.vi.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
+- [Hành tinh 3D hoạt hình tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [Video motion graphics 3D mang nhận diện thương hiệu dài 30 giây](../docs/catalog.vi.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [ATLAS TRÁI ĐẤT: HÀNH TINH SỐNG](../docs/catalog.vi.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
+- [Phòng thí nghiệm tương tác mô phỏng dây chuyền sản xuất nối tiếp](../docs/catalog.vi.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [Kiến trúc biết đi](../docs/catalog.vi.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại](../docs/catalog.vi.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [Bánh dâu WebGPU tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
@@ -151,7 +163,7 @@
 - [Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn](../docs/catalog.vi.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [Thế giới Three.js vô tận được tạo thủ tục](../docs/catalog.vi.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Mô phỏng sơ tán đám đông tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
-- [Hòn đảo tiền sử 3D tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [Hòn đảo tiền sử 3D tương tác](../docs/catalog.vi.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/vi/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Danh mục đầy đủ →</a></strong></p>

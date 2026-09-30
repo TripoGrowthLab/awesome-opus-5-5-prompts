@@ -21,9 +21,9 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**45 作例 · 14 🌐**
+**51 作例 · 14 🌐**
 
-[カテゴリで探す](#categories) · [モデルで探す](#models) · [ソースコード](with-code.md) · [1](../docs/catalog.ja.1.md)
+[カテゴリで探す](#categories) · [モデルで探す](#models) · [ソースコード](with-code.md) · [1](../docs/catalog.ja.1.md) · [2](../docs/catalog.ja.2.md)
 
 <a id="categories"></a>
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### ゲーム · 9
+### ゲーム · 10
 
+- [3JSでマリオカート風のレーシングゲームを作る](../docs/catalog.ja.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [プレイ可能なドット絵の古代ローマ・ベルトスクロールアクション](../docs/catalog.ja.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [雪の路地を舞台にした超リアルなマルチプレイFPS](../docs/catalog.ja.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [高度なシェーダーを搭載したMinecraft風ボクセルゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
@@ -45,8 +46,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### シーン · 6
+### シーン · 7
 
+- [Blenderで作る機械式ルーブ・ゴールドバーグ・マシン](../docs/catalog.ja.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [データセンターから原子までを描く55秒の3Dシーン](../docs/catalog.ja.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [帝都を構築する](../docs/catalog.ja.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [『ラストトレイン』サイバーパンク巨大都市ベンチマーク](../docs/catalog.ja.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
@@ -64,20 +66,24 @@
 
 <a id="category-interactive-3d"></a>
 
-### インタラクティブ · 7
+### インタラクティブ · 9
 
+- [インタラクティブな漫画風3D惑星](../docs/catalog.ja.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [EARTH ATLAS：生きている惑星](../docs/catalog.ja.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
 - [インタラクティブなWebGPUいちごケーキ](../docs/catalog.ja.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [3D五重塔を探索](../docs/catalog.ja.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [自由に歩き回れる3Dアニメ調の桜の町](../docs/catalog.ja.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Claude Opus 5.5のインタラクティブな中世王国](../docs/catalog.ja.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [想像上の惑星を扱うインタラクティブなウェブサイト](../docs/catalog.ja.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [日本の桜の谷を描くインタラクティブ3D景観Webページ](../docs/catalog.ja.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
-- [インタラクティブな3D先史時代の島](../docs/catalog.ja.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [インタラクティブな3D先史時代の島](../docs/catalog.ja.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### アニメーション · 20
+### アニメーション · 22
 
+- [30秒のブランド向け3Dモーショングラフィックス動画](../docs/catalog.ja.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [連続生産ラインのインタラクティブ・シミュレーションラボ](../docs/catalog.ja.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [歩く建築](../docs/catalog.ja.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Kiiwi向け、躍動感あふれる30秒モーショングラフィックスプロモーション](../docs/catalog.ja.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [3機の乗り物が変形合体するアニメ風3D CG](../docs/catalog.ja.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
@@ -105,8 +111,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 45
+### Claude Opus 5.5 · 51
 
+- [Blenderで作る機械式ルーブ・ゴールドバーグ・マシン](../docs/catalog.ja.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
+- [3JSでマリオカート風のレーシングゲームを作る](../docs/catalog.ja.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
+- [インタラクティブな漫画風3D惑星](../docs/catalog.ja.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [30秒のブランド向け3Dモーショングラフィックス動画](../docs/catalog.ja.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [EARTH ATLAS：生きている惑星](../docs/catalog.ja.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
+- [連続生産ラインのインタラクティブ・シミュレーションラボ](../docs/catalog.ja.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [歩く建築](../docs/catalog.ja.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [プレイ可能なドット絵の古代ローマ・ベルトスクロールアクション](../docs/catalog.ja.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [インタラクティブなWebGPUいちごケーキ](../docs/catalog.ja.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
@@ -151,7 +163,7 @@
 - [夕暮れを航海する映画的なインタラクティブ海賊船](../docs/catalog.ja.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [無限にプロシージャル生成されるThree.jsワールド](../docs/catalog.ja.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [インタラクティブな群集避難シミュレーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
-- [インタラクティブな3D先史時代の島](../docs/catalog.ja.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [インタラクティブな3D先史時代の島](../docs/catalog.ja.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ja/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">全カタログ →</a></strong></p>

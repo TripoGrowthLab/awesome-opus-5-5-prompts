@@ -21,9 +21,9 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**45 Örnekler · 14 🌐**
+**51 Örnekler · 14 🌐**
 
-[Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md)
+[Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md) · [2](../docs/catalog.tr.2.md)
 
 <a id="categories"></a>
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Oyunlar · 9
+### Oyunlar · 10
 
+- [3JS ile Mario Kart tarzı yarış oyunu oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [Karlı bir ara sokakta hiper gerçekçi çok oyunculu FPS](../docs/catalog.tr.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Gelişmiş shader'lara sahip Minecraft tarzı voksel oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
@@ -45,8 +46,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### Sahneler · 6
+### Sahneler · 7
 
+- [Blender’da mekanik Rube Goldberg makinesi](../docs/catalog.tr.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [55 saniyelik veri merkezinden atoma 3B sahne](../docs/catalog.tr.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [İmparatorluk Şehri Oluştur](../docs/catalog.tr.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Son Tren siberpunk mega kent benchmark’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
@@ -64,20 +66,24 @@
 
 <a id="category-interactive-3d"></a>
 
-### Etkileşimli · 7
+### Etkileşimli · 9
 
+- [Etkileşimli çizgi film tarzında 3B gezegen](../docs/catalog.tr.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [DÜNYA ATLASI: YAŞAYAN GEZEGEN](../docs/catalog.tr.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
 - [Etkileşimli WebGPU Çilekli Pasta](../docs/catalog.tr.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [3B Pagodada Gezinme](../docs/catalog.tr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Serbestçe gezilebilen anime tarzı 3B kiraz çiçekleri kasabası](../docs/catalog.tr.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Claude Opus 5.5 için etkileşimli ortaçağ krallığı](../docs/catalog.tr.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Hayali gezegenler hakkında etkileşimli web sitesi](../docs/catalog.tr.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](../docs/catalog.tr.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
-- [Etkileşimli 3B Tarih Öncesi Ada](../docs/catalog.tr.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [Etkileşimli 3B Tarih Öncesi Ada](../docs/catalog.tr.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Animasyon · 20
+### Animasyon · 22
 
+- [30 saniyelik markalı 3B hareketli grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [Seri Üretim Hattı için Etkileşimli Simülasyon Laboratuvarı](../docs/catalog.tr.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [Yürüyen Mimari](../docs/catalog.tr.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Dinamik 30 saniyelik Kiiwi hareketli grafik tanıtımı](../docs/catalog.tr.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [Dönüşüp birleşen üç aracın anime tarzı 3B CG’si](../docs/catalog.tr.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
@@ -105,8 +111,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 45
+### Claude Opus 5.5 · 51
 
+- [Blender’da mekanik Rube Goldberg makinesi](../docs/catalog.tr.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
+- [3JS ile Mario Kart tarzı yarış oyunu oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
+- [Etkileşimli çizgi film tarzında 3B gezegen](../docs/catalog.tr.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [30 saniyelik markalı 3B hareketli grafik videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [DÜNYA ATLASI: YAŞAYAN GEZEGEN](../docs/catalog.tr.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
+- [Seri Üretim Hattı için Etkileşimli Simülasyon Laboratuvarı](../docs/catalog.tr.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [Yürüyen Mimari](../docs/catalog.tr.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [Etkileşimli WebGPU Çilekli Pasta](../docs/catalog.tr.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
@@ -151,7 +163,7 @@
 - [Gün batımında sinematik, etkileşimli korsan gemisi](../docs/catalog.tr.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [Sonsuz, prosedürel olarak oluşturulan Three.js dünyası](../docs/catalog.tr.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Etkileşimli kalabalık tahliye simülasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
-- [Etkileşimli 3B Tarih Öncesi Ada](../docs/catalog.tr.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [Etkileşimli 3B Tarih Öncesi Ada](../docs/catalog.tr.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/tr/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Tam katalog →</a></strong></p>

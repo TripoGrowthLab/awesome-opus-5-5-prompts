@@ -1,6 +1,6 @@
 <!-- Generated from Growth CMS by templates/catalog.md. Edit content in CMS; run npm run sync. -->
 
-# Awesome Opus 5.5 Prompts — 1 / 1
+# Awesome Opus 5.5 Prompts — 1 / 2
 
 [← Awesome Opus 5.5 Prompts](../README.md)
 
@@ -21,13 +21,19 @@
   <a href="../docs/catalog.vi.1.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-[Полный каталог](catalog.ru.md) · **1 / 1**
+[Полный каталог](catalog.ru.md) · **1 / 2** · [→](catalog.ru.2.md)
 
 <a id="all-prompts"></a>
 
 <details>
-<summary>Посмотреть примеры (45)</summary>
+<summary>Посмотреть примеры (50)</summary>
 
+- [Механическая машина Руба Голдберга в Blender](#claude-opus-5-5-2104953406708175097)
+- [Гоночная игра в стиле Mario Kart на 3JS](#claude-opus-5-5-2104947552328261810)
+- [Интерактивная мультяшная 3D-планета](#claude-opus-5-5-2104919117262389255)
+- [30-секундный брендированный 3D-ролик в стиле моушн-дизайна](#claude-opus-5-5-2104896325255037196)
+- [АТЛАС ЗЕМЛИ: ЖИВАЯ ПЛАНЕТА](#claude-opus-5-5-2104837836507955401)
+- [Интерактивная лаборатория по моделированию последовательной производственной линии](#claude-opus-5-5-2104831049020674144)
 - [Ходячая архитектура](#claude-opus-5-5-2104590334152056983)
 - [Играбельный пиксельный beat ’em up в Древнем Риме](#claude-opus-5-5-2104571944842498150)
 - [Интерактивный клубничный торт на WebGPU](#claude-opus-5-5-2104514806443303238)
@@ -72,9 +78,469 @@
 - [Кинематографичный интерактивный пиратский корабль на закате](#claude-opus-5-5-2102533729746882985)
 - [Бесконечный процедурно генерируемый мир на Three.js](#claude-opus-5-5-2102529695908806728)
 - [Интерактивная симуляция эвакуации толпы](#claude-opus-5-5-2102467667978572092)
-- [Интерактивный 3D-остров с доисторической природой](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2104953406708175097"></a>
+
+### Механическая машина Руба Голдберга в Blender
+
+[Atarax](https://x.com/Kwazikot) · 2026-09-29 · Claude Opus 5.5 · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104953406708175097"><img src="../assets/previews/94786a1f71886b43ad88256a5a922e3b0b21527d626f06dd47070eb1037233e4.webp" width="840" loading="lazy" alt="Механическая машина Руба Голдберга в Blender"></a>
+
+**Промпт**
+
+```text
+Создайте в Blender механическую машину Руба Голдберга. Используйте шестерни, наклонные рампы, шары и движущиеся платформы. Соберите сцену процедурно, проверяйте её после каждого основного этапа и исправляйте очевидные проблемы с геометрией.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create a mechanical Rube Goldberg machine in Blender. Use gears, ramps, balls, and moving platforms. Build it procedurally, inspect the scene after each major step, and fix obvious geometry issues.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104953406708175097) · [Исходная публикация](https://x.com/Kwazikot/status/2104953406708175097) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104947552328261810"></a>
+
+### Гоночная игра в стиле Mario Kart на 3JS
+
+[Tony](https://x.com/EnvolDev) · 2026-09-29 · Claude Opus 5.5 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104947552328261810"><img src="../assets/previews/1dfed000876f4710fe765cd6e1961952cd91d4fd5a6060dea3a58c4c09c42d98.webp" width="840" loading="lazy" alt="Гоночная игра в стиле Mario Kart на 3JS"></a>
+
+**Промпт**
+
+```text
+Мне нужно, чтобы ты запустил пять субагентов (Model) и помог мне создать игру уровня AAA — клон Mario Kart. Я хочу, чтобы ты запустил этих субагентов, создал игру, не задавая мне вообще никаких вопросов, и использовал 3JS для её разработки. Когда закончишь, сообщи мне об этом.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+I need you to launch five(Model) sub-agents and help me build a triple A quality game that is a clone of Mario Kart. What I want you to do is I want you to launch these sub-agents, build the game without asking me any questions at all, and use 3JS to build the game. And once you're done, report back to me.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104947552328261810) · [Исходная публикация](https://x.com/EnvolDev/status/2104947905442505205) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104919117262389255"></a>
+
+### Интерактивная мультяшная 3D-планета
+
+[Aman](https://x.com/mdaman010) · 2026-09-29 · Claude Opus 5.5 · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104919117262389255"><img src="../assets/previews/b2d6e10a07a3d741cc7949bf5bd7aaa3f20d698d42e958b211be129b320a032b.webp" width="840" loading="lazy" alt="Интерактивная мультяшная 3D-планета"></a>
+
+**Промпт**
+
+```text
+Создайте мультяшную 3D-планету в стиле комикса на ThreeJS с яркой живой атмосферой: облаками, горами, городскими зданиями, автомобилями и самолётом, который летает вокруг неё. Планету должно быть можно вращать и масштабировать, чтобы рассматривать детали. Не используйте тестовую обвязку.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Output a ThreeJS 3D cartoony/comics-like planet, with vibrant life on it: clouds, mountains, city buildings, cars and plane romaing it. It should be possible to orbit around and zoom and see the details. No harness is to be used
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104919117262389255) · [Исходная публикация](https://x.com/mdaman010/status/2104919846953869421) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104896325255037196"></a>
+
+### 30-секундный брендированный 3D-ролик в стиле моушн-дизайна
+
+[Awa K. Penn](https://x.com/TawohAwa) · 2026-09-29 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104896325255037196"><img src="../assets/previews/e5106bf0ebb4e02f1a1c069e64fc3cee97a376e611c304d52b2459777d1d287d.webp" width="840" loading="lazy" alt="30-секундный брендированный 3D-ролик в стиле моушн-дизайна"></a>
+
+**Промпт**
+
+```text
+Создай впечатляющий 30-секундный ролик в стиле моушн-дизайна для https://t.co/71rvEGmB6D — как шоурил элитного моушн-дизайнера. Сначала изучи сайт, затем используй реальные элементы бренда, интерфейс продукта, фирменные цвета и сообщения. Добавь выразительную типографику, 3D-анимацию, анимированный интерфейс, быстрые переходы и эффектное появление логотипа.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create a stunning 30-second motion graphics video for https://t.co/71rvEGmB6D that feels like an elite motion designer’s showreel. Study the website first and use the real brand, product UI, colours, and messaging. Use bold typography, 3D motion, animated UI, fast transitions, and a strong logo reveal.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104896325255037196) · [Исходная публикация](https://x.com/TawohAwa/status/2104896328300134868) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104837836507955401"></a>
+
+### АТЛАС ЗЕМЛИ: ЖИВАЯ ПЛАНЕТА
+
+[Gadgetify](https://x.com/Gdgtify) · 2026-09-29 · Claude Opus 5.5 · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104837836507955401"><img src="../assets/previews/7ec941dc7200421e5136be18f6b07e6e21be86a4c1dc96f5a31170c09585c09e.webp" width="840" loading="lazy" alt="АТЛАС ЗЕМЛИ: ЖИВАЯ ПЛАНЕТА"></a>
+
+**Промпт**
+
+```text
+Создай необычный интерактивный SVG-проект под названием «АТЛАС ЗЕМЛИ: ЖИВАЯ ПЛАНЕТА». Построй полноценную, детально исследуемую обсерваторию наук о Земле в ОДНОМ автономном HTML-файле. Я должен иметь возможность вставить весь твой вывод в файл, открыть его напрямую в Chrome и пользоваться им без сервера и подключения к сети. Используй любые полезные библиотеки, но включи весь необходимый исполняемый код и подготовленные данные в этот единственный HTML-файл. Глобус, региональные карты, рельеф, морское дно, разрезы, инструменты, графики, аннотации и иллюстрации крупным планом должны преимущественно отображаться в SVG.
+
+Верни ТОЛЬКО полностью рабочий HTML в ОДНОМ блоке кода.
+
+АМБИЦИЯ
+
+Создай визуальное качество флагманской выставки NASA о науках о Земле, сочетая его с глубиной интерактивного атласа. Зритель начинает путешествие на орбите перед великолепной Землёй. Он может вращать глобус, перемещаться между светом и тьмой, выбирать реальное место, приближаться к его географии, проводить профиль, погружаться под поверхность или в океан и понимать, как эта точка связана со всей планетой.
+
+Взаимодействие должно вознаграждать десять минут исследования. Нужны эффектные открытия, точные взаимодействия и связанные между собой виды — не просто вращающийся глобус с информационными всплывающими окнами. Первый кадр должен быть достаточно красивым, чтобы служить самостоятельной научной иллюстрацией.
+
+ПОЛНОЦЕННАЯ СИСТЕМА МНОГОМАСШТАБНОГО ИССЛЕДОВАНИЯ
+
+Построй продуманную иерархию масштабов:
+
+1. ОРБИТАЛЬНАЯ ЗЕМЛЯ — весь глобус, атмосфера, граница дня и ночи, крупные географические формы и глобальные слои данных.
+2. КОНТИНЕНТАЛЬНЫЙ МАСШТАБ — узнаваемые береговые линии, рельеф, крупные реки, океанические бассейны и выбранные научные объекты.
+3. РЕГИОНАЛЬНЫЙ МАСШТАБ — детальный рельеф, батиметрия, изолинии, подписи и инструменты измерений.
+4. ЛОКАЛЬНАЯ СЦЕНА — богато иллюстрированный ландшафт или океанская среда, характерные для выбранного места.
+5. ВИД В РАЗРЕЗЕ — географически связанный профиль через сушу, лёд, океан или земную кору.
+6. ДЕТАЛЬНЫЙ ВИД — изучение крупным планом такого объекта, как слой ледника, русло реки, разлом, осадочный пласт или форма рельефа морского дна.
+
+На каждом уровне масштаба должны появляться новые, специально созданные SVG-детали, соответствующие этому масштабу. Не увеличивай одну и ту же низкополигональную геометрию до тех пор, пока она не превратится в пустое место.
+
+Сохраняй географическую идентичность во время переходов. Выбранная точка на глобусе должна соответствовать региональной карте, локальной сцене, её профилю и разрезу.
+
+Реализуй масштабирование к указателю, вращение глобуса перетаскиванием, панорамирование региональных видов перетаскиванием, масштабирование жестом pinch, навигацию с клавиатуры, команды «Назад», «Домой» и «Сбросить вид». Ограничь перемещение камеры и сделай его плавным. Показывай ненавязчивую масштабную линейку и хлебные крошки местоположения. Ручное взаимодействие должно корректно прерывать автоматическое перемещение камеры.
+
+ВИЗУАЛЬНОЕ НАПРАВЛЕНИЕ
+
+Сделай Землю главным визуальным элементом. Используй глубокий океанский синий, бирюзовый цвет мелководья, разнообразные зелёные оттенки растительности, охру пустынь, вулканический угольный, минеральные серые, ледниковый белый и тонкие линии аннотаций тёплого белого цвета.
+
+Создай убедительный объём планеты с помощью спроектированной геометрии береговых линий, меняющегося освещения, эффектов рассеяния в атмосфере, слоёв облаков и тщательно дозированного отображения ночных огней, если встроен подходящий датированный источник.
+
+Используй точную картографическую графику, элегантные изолинии, ненавязчивые текстурные паттерны материалов, читаемое затенение глубины и тонкие линии-выноски. Показывай информацию тогда, когда она полезна на текущем уровне масштаба, а не закрывай глобус множеством подписей.
+
+Интерфейс должен напоминать продуманный научный прибор. Избегай шаблонных карточек дашборда, избытка неона и крупных плавающих текстовых панелей.
+
+ГЛОБАЛЬНАЯ ЗЕМЛЯ
+
+Создай вращаемый SVG-глобус с согласованной географической проекцией и обработкой координат. При вращении глобуса корректно проецируй формы суши, океанические объекты, подписи, выбранные маркеры, маршруты и терминатор. Скрывай геометрию дальней стороны, не прорисовывай её насквозь.
+
+Добавь переключаемые слои:
+• Физический рельеф.
+• Глубина океана и строение морского дна.
+• Крупные реки и бассейны стока.
+• Границы литосферных плит.
+• Выбранные исторические землетрясения из встроенной датированной выборки.
+• Сетка широт и долгот.
+• Датированные образцы наблюдений Земли — только там, где это подтверждается встроенными данными.
+• Чистый кинематографичный вид.
+
+Каждый слой должен использовать одну и ту же систему координат. Укажи его источник, дату, разрешение, единицы измерения и легенду.
+
+Не называй слой «живым» или «текущим», если в файле используется встроенный снимок.
+
+ШЕСТЬ ПОЛНОСТЬЮ ПРОРАБОТАННЫХ ЭКСПЕДИЦИЙ
+
+Создай полноценные, различающиеся между собой сценарии для следующих регионов:
+
+ГИМАЛАИ
+Ярусные горные хребты, долины, ледники, снабжённый источником региональный профиль высот и наглядный разрез рельефа.
+
+БАССЕЙН АМАЗОНКИ
+Узнаваемая речная сеть, пойма и притоки, иллюстрированный разрез леса и образовательная демонстрация пути воды.
+
+САХАРА
+Дюны, каменистый рельеф, сухие русла, различные материалы поверхности и профиль рельефа. Отличай иллюстрированные детали дюн от данных о крупномасштабной высоте, полученных из источника.
+
+ВОСТОЧНО-АФРИКАНСКИЙ РИФТ
+Региональные озёра и рельеф, разрез вдоль разлома и наглядно подписанная концептуальная демонстрация тектоники.
+
+РАЙОН МАРИАНСКОЙ ВПАДИНЫ
+Поверхность океана, шельф и геометрия глубокого океана, если они уместны для выбранного профиля, перетаскиваемый профиль глубины, погружение через толщу воды и детально иллюстрированная сцена морского дна.
+
+АНТАРКТИДА
+Ледяная поверхность, контекст льда и рельефа на основе источника, если доступен, интерпретация в разрезе и демонстрация сезонного солнечного освещения.
+
+Для каждой экспедиции предусмотрены:
+• Сильная авторская вступительная композиция.
+• Корректное положение на глобусе.
+• Региональная карта.
+• Как минимум одна локальная сцена.
+• Как минимум один связанный разрез или профиль.
+• Уникальное рабочее взаимодействие.
+• Плавное возвращение на орбиту.
+
+Не заменяй географическую специфику универсальным рисунком гор, леса, пустыни или океана.
+
+ПЯТЬ СВЯЗАННЫХ РЕЖИМОВ ПРОСМОТРА
+
+ПОВЕРХНОСТЬ
+Исследуй топографию, особенности рельефа, реки, лёд и береговые линии с детализацией, зависящей от масштаба.
+
+СВЕРХУ
+Изучай солнечное освещение, сезонную геометрию, атмосферу и любые встроенные датированные наблюдения. Если облака или погода представлены иллюстративно, пометь их как иллюстративный сценарий.
+
+СНИЗУ
+Открывай разрез рельефа, льда, земной коры или океана вдоль выбранного географического профиля.
+
+ПЛАНЕТА
+Отдаляйся к глобальному разрезу и показывай, как выбранная точка связана со слоями Земли. Отображай соответствующее положение выбранного места и на глобусе, и на разрезе.
+
+ДАННЫЕ
+Показывай образец данных, источник, дату, разрешение, погрешность или известное ограничение, а также расчёт, лежащий в основе выбранного объекта или измерения.
+
+При смене режима сохраняй выбранное место, контекст масштаба, если это уместно, и состояние временной шкалы.
+
+СВЯЗАННЫЕ ИНСТРУМЕНТЫ ИССЛЕДОВАНИЯ
+
+ИЗМЕРЕНИЕ
+Выбирай две точки на глобусе или поддерживаемой региональной карте. Строй маршрут по большому кругу, отображай координаты и расстояние и сохраняй корректную проекцию маршрута при вращении глобуса.
+
+ПРОФИЛЬ
+Рисуй или корректируй линию в поддерживаемом регионе. Выбирай вдоль неё значения из встроенных данных о высоте или батиметрии и создавай профиль. Перемещение курсора по карте должно синхронно перемещать его аналог на профиле и в разрезе.
+
+СРАВНЕНИЕ
+Размещай два выбранных места рядом. Используй одинаковые единицы измерения и явные элементы управления масштабом. Сравнивай их высоту или глубину, широту, региональный контекст и доступные экологические данные.
+
+ВРЕМЯ И СОЛНЕЧНЫЙ СВЕТ
+Изменяй время суток и день года. Обновляй глобальное освещение и сезонную геометрию Солнца по документированной модели. Не связывай иллюстративную погоду с этими часами.
+
+УПРАВЛЯЕМАЯ ЭКСПЕДИЦИЯ
+Предложи короткое кинематографичное путешествие через шесть сред. На каждой остановке должно раскрываться взаимодействие, а не просто отображаться подпись. Тур должен поддерживать пропуск.
+
+ПЛОТНОСТЬ АННОТАЦИЙ
+Переключай кинематографичный, управляемый и технический уровни подписей, не изменяя исходную географию.
+
+ИССЛЕДОВАНИЕ ОКЕАНА
+
+Рассматривай морское дно как полноценный ландшафт. Показывай шельфы, склоны, абиссальные области, хребты и впадины там, где это поддерживается встроенным образцом рельефа. Используй явный вертикальный масштаб и подписывай любое преувеличение.
+
+В экспедиции к Марианской впадине дай зрителю возможность погружаться через толщу воды. Одновременно обновляй глубину, освещённость, цвет, оценку давления по указанной упрощённой модели и курсор местоположения.
+
+На крупном плане глубоководья могут присутствовать красивые иллюстрированные организмы и геология, но конкретные организмы и микрорельеф должны быть обозначены как интерпретация. Батиметрия из источника и иллюстрированная локальная сцена должны оставаться различимыми.
+
+ВНУТРЕННЕЕ СТРОЕНИЕ ЗЕМЛИ
+
+Добавь ползунок разреза от 0 до 100%, который плавно открывает земную кору, мантию, внешнее и внутреннее ядро. Глобус должен сохранять визуальную целостность на промежуточных положениях ползунка.
+
+Показывай выбранное географическое место на внешней поверхности и проведённую по радиусу направляющую во внутренние слои.
+
+Добавь образовательную демонстрацию сейсмических волн с чётко указанной упрощённой моделью. Траектории волн, движущиеся маркеры и показания времени должны рассчитываться из одного и того же состояния демонстрации.
+
+Явно подписывай преувеличенную толщину слоёв, цвета материалов или сжатие времени.
+
+ТРИ ИНТЕРАКТИВНЫХ НАУЧНЫХ ЭКСПЕРИМЕНТА
+
+1. ЛАБОРАТОРИЯ СОЛНЕЧНОГО СВЕТА
+Выбирай две широты и сравнивай расчётную суточную траекторию Солнца и продолжительность светового дня в течение года. Связывай диаграммы с освещённым глобусом.
+
+2. ЛАБОРАТОРИЯ РЕЛЬЕФА И УРОВНЯ МОРЯ
+В поддерживаемом прибрежном регионе изменяй гипотетический уровень воды и сравнивай его со встроенным профилем высот. Подписывай это как статическую топографическую демонстрацию; не выдавай её за прогноз прибрежного затопления.
+
+3. ЛАБОРАТОРИЯ СЕЙСМИЧЕСКИХ ТРАЕКТОРИЙ
+Выбирай источник и точки наблюдения для упрощённой образовательной демонстрации волн. Показывай траектории и относительное время прибытия в соответствии с указанной моделью. Исторические маркеры землетрясений должны оставаться отдельными от гипотетического эксперимента.
+
+У каждого эксперимента должны быть кнопка «Сброс», воспроизводимые входные данные, согласованные единицы измерения и понятная связь с глобусом или выбранным местом.
+
+ДАННЫЕ И НАУЧНАЯ ДОБРОСОВЕСТНОСТЬ
+
+Используй авторитетные источники с указанием ссылок для числовых утверждений и встроенных образцов. Подходящие источники включают NASA Earthdata для выбранных датированных наблюдений, NOAA ETOPO для рельефа суши и океана и USGS для отдельных исторических записей о землетрясениях.
+
+Используй подготовленные данные с уменьшенной выборкой, которые помещаются в один HTML-файл. Показывай фактическое разрешение встроенных данных. Никогда не утверждай, что региональная иллюстрация обладает точностью исходного набора данных, если её детали созданы автором или упрощены.
+
+Держи видимыми три категории:
+
+НАБЛЮДАЕМЫЕ ДАННЫЕ — измерение из источника или опубликованный образец набора данных.
+ПРОИЗВОДНОЕ ЗНАЧЕНИЕ — значение, рассчитанное по указанным входным данным проверяемым методом.
+ИЛЛЮСТРАЦИЯ ИЛИ ЭКСПЕРИМЕНТ — авторская сцена или гипотетическая модель.
+
+Не выдумывай точные высоты, глубины, координаты землетрясений, актуальные схемы облачности или измеренные значения параметров окружающей среды.
+
+Добавь панель «Источники и методы» со ссылками, версиями и датами наборов данных, системой отсчёта координат, единицами измерения, методом уменьшения выборки, уравнениями, погрешностью или ограничениями и атрибуцией.
+
+Используй единое соглашение о широте и долготе для всех объектов. Разделяй географические координаты, физические измерения и преувеличенную геометрию отображения.
+
+МЕЛКИЕ ДЕТАЛИ И ВИЗУАЛЬНЫЕ ОТКРЫТИЯ
+
+Добавь тщательно выстроенные открытия:
+• Переходы от орбиты к региону, сохраняющие выбранную точку в поле зрения.
+• Изолинии и подписи, появляющиеся только на полезном для них масштабе.
+• Реку, которая остаётся узнаваемой от глобальной карты до локального бассейна.
+• Курсор высоты, синхронно перемещающийся по карте, профилю и ландшафту.
+• Береговую линию, визуально преображающуюся при включении слоя батиметрии.
+• Слои льда, постепенно открывающиеся в разрезе Антарктиды.
+• Погружение в глубокий океан, при котором морское дно проявляется постепенно, а не возникает после внезапной смены сцены.
+• Разрез от глобуса к внутренним слоям, сохраняющий выбранное географическое место.
+• Изменяющийся терминатор, погружающий выбранную экспедицию в день или ночь.
+• Раскрытие данных, связывающее красивый визуальный элемент с лежащими за ним данными или моделью.
+
+Отдавай приоритет деталям, углубляющим исследование, а не декоративным частицам.
+
+ПРОИЗВОДИТЕЛЬНОСТЬ И ПРОВЕРКА
+
+Используй ограниченный граф сцены SVG, повторно используемые символы, обрезку, маски и отрисовку с учётом масштаба. Не держи активными все шесть детализированных сцен, когда видна только одна.
+
+Поддерживай настольные компьютеры, сенсорные устройства, навигацию с клавиатуры, видимый фокус и настройки уменьшения анимации.
+
+Проверь, что:
+• Каждое представленное место географически размещено корректно.
+• Объекты дальней стороны глобуса действительно скрыты.
+• Маршруты остаются привязанными к своим координатам при вращении.
+• Расстояния измерений используют выбранные координаты.
+• Значения профиля берутся из встроенных образцов.
+• Курсоры карты, профиля и разреза остаются синхронизированными.
+• Сброс возвращает эксперименты в исходное состояние.
+• Элементы управления временем меняют нужную модель, не изменяя незаметно несвязанные данные.
+• Подписи источников и дат соответствуют встроенным слоям.
+
+Показывай фактические результаты автоматических проверок. Не прописывай жёстко ряд подписей «пройдено».
+
+Сделай полный путь от глобуса к локальной сцене и затем к разрезу рабочим для всех шести экспедиций. Если масштаб реализации требует компромисса, сначала заверши эту связанную цепочку и основные научные инструменты, а уже потом добавляй необязательные визуальные эффекты.
+
+ФИНАЛЬНАЯ ПОСТАВКА
+
+Готовый результат должен ощущаться как исследуемая планета внутри одного файла: впечатляющая с орбиты, увлекательная при приближении и честно показывающая, что является наблюдаемыми данными, расчётом или иллюстрацией.
+
+Верни ТОЛЬКО ОДИН блок кода, содержащий ВЕСЬ рабочий HTML-документ и начинающийся с <!DOCTYPE html>.
+
+Я должен иметь возможность вставить его в один файл .html, открыть в Chrome, вращать и масштабировать Землю, войти в любую из шести экспедиций, построить связанный профиль, исследовать океан и внутренние слои, сравнить места, запустить три эксперимента, изучить источники и плавно вернуться на орбиту.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create an extraordinary interactive SVG experience titled “EARTH ATLAS: THE LIVING PLANET.”  Build a complete, deeply explorable Earth science observatory in ONE self-contained HTML file. I must be able to paste your entire output into a file, open it directly in Chrome, and use it without a server or network connection.  Use whatever libraries help, but bundle all required runtime code and curated data inside that one HTML file. The globe, regional maps, terrain, seafloor, cutaways, instruments, charts, annotations, and close-up illustrations must be rendered primarily in SVG.  Return ONLY the complete working HTML in ONE code block.  THE AMBITION  Create the visual quality of a flagship NASA Earth-science exhibition combined with the depth of an interactive atlas.  The viewer begins in orbit before a magnificent Earth. They can rotate the globe, move through daylight and darkness, choose a real place, zoom into its geography, draw a transect, descend through its surface or ocean, and understand how that location fits into the whole planet.  The experience must reward ten minutes of exploration. It should contain striking reveals, precise interactions, and connected views—not merely a rotating globe with informational popups.  The first frame must be beautiful enough to serve as a standalone scientific illustration.  A TRUE MULTISCALE EXPLORATION SYSTEM  Build an authored hierarchy of scales:  1. ORBITAL EARTH — the full globe, atmosphere, day–night boundary, large geographic forms, and global overlays. 2. CONTINENTAL — recognizable coastlines, relief, major rivers, ocean basins, and selected scientific features. 3. REGIONAL — detailed terrain, bathymetry, contours, labels, and measurement tools. 4. LOCAL SCENE — a richly illustrated landscape or ocean environment specific to the selected place. 5. SECTIONAL VIEW — a geographically linked cross-section through land, ice, ocean, or crust. 6. DETAIL VIEW — close examination of a feature such as a glacier layer, river channel, fault, sediment bed, or seafloor formation.  Each zoom level must reveal newly authored SVG detail appropriate to its scale. Do not simply magnify the same low-resolution geometry until it becomes empty.  Preserve geographic identity across transitions. A selected point on the globe must correspond to the regional map, the local scene, its transect, and its section.  Implement zoom toward the pointer, drag-to-rotate the globe, drag-to-pan regional views, pinch zoom, keyboard navigation, Back, Home, and Reset View. Keep camera movement bounded and smooth.  Show a discreet scale bar and location breadcrumb. Manual interaction must interrupt any automated camera journey gracefully.  VISUAL DIRECTION  Make Earth the dominant visual element.  Use deep ocean blue, shallow-water turquoise, varied vegetation greens, desert ochre, volcanic charcoal, mineral grays, glacial white, and fine warm-white annotation lines.  Build convincing planetary volume through projected coastline geometry, changing illumination, atmospheric scattering effects, cloud layers, and a carefully controlled night-light treatment where an appropriate dated source is embedded.  Use precise cartographic linework, elegant contours, subtle material patterns, readable depth shading, and thin leader lines. Make information appear when useful at the current zoom level rather than covering the globe with labels.  The interface should feel like a refined scientific instrument. Avoid generic dashboard cards, excessive neon, and large floating text panels.  GLOBAL EARTH  Provide a rotatable SVG globe with consistent geographic projection and coordinate handling.  As the globe turns, correctly project landforms, ocean features, labels, selected markers, routes, and the terminator. Hide geometry on the far side rather than drawing it through the planet.  Include switchable overlays for:  • Physical relief. • Ocean depth and seafloor structure. • Major rivers and drainage basins. • Plate boundaries. • Selected historical earthquake events from an embedded dated sample. • Latitude–longitude grid. • Dated Earth-observation samples, only where embedded data supports them. • Clean cinematic view.  Every overlay must use the same coordinate system. Include its source, date, resolution, units, and legend.  Do not call any layer “live” or “current” when the file uses an embedded snapshot.  SIX FULLY AUTHORED EXPEDITIONS  Build complete, distinct experiences for:  HIMALAYA Layered mountain ranges, valleys, glaciers, a sourced regional elevation profile, and a visually clear section through the terrain.  AMAZON BASIN Recognizable river structure, floodplain and tributaries, an illustrated forest cross-section, and an educational water-path demonstration.  SAHARA Dunes, rocky terrain, dry channels, distinct surface materials, and a terrain transect. Distinguish illustrated dune detail from sourced large-scale elevation.  EAST AFRICAN RIFT Regional lakes and terrain, a fault-oriented cross-section, and a clearly labeled conceptual tectonic demonstration.  MARIANA TRENCH REGION Ocean surface, shelf and deep-ocean geometry where appropriate to the chosen transect, a draggable depth profile, a descent through the water column, and a detailed illustrated seafloor scene.  ANTARCTICA Ice surface, a sourced ice/terrain context where available, a sectional interpretation, and a seasonal sunlight demonstration.  Give every expedition:  • A strong authored opening composition. • Correct placement on the globe. • A regional map. • At least one local scene. • At least one linked cross-section or profile. • A unique working interaction. • A smooth journey back to orbit.  Do not reuse a generic mountain, forest, desert, or ocean drawing as a substitute for geographic identity.  FIVE CONNECTED VIEW MODES  SURFACE Explore topography, terrain features, rivers, ice, and coastlines with zoom-dependent detail.  ABOVE Explore sunlight, seasonal geometry, atmosphere, and any embedded dated observation. If clouds or weather are illustrative, label them as an illustrative scenario.  BELOW Open a section through terrain, ice, crust, or ocean along the selected geographic transect.  PLANET Pull back to a global cutaway showing how the selected point relates to Earth’s layers. Show the selected location’s corresponding position on the globe and cutaway.  EVIDENCE Reveal the data sample, source, date, resolution, uncertainty or known limitation, and calculation behind the selected feature or measurement.  Changing modes must preserve the selected location, zoom context where sensible, and timeline state.  LINKED EXPLORATION TOOLS  MEASURE Select two points on the globe or a supported regional map. Draw the great-circle route, display coordinates and distance, and keep the route correctly projected during globe rotation.  TRANSECT Draw or adjust a line across a supported region. Sample its embedded elevation or bathymetry data to produce a profile. Moving a cursor on the map must move its counterpart on the profile and sectional view.  COMPARE Place two selected locations side by side. Use matching units and explicit scale controls. Compare their elevation or depth, latitude, regional context, and supported environmental data.  TIME AND SUNLIGHT Scrub time of day and day of year. Update the global illumination and seasonal sun geometry with a documented model. Keep illustrative weather independent of this clock.  GUIDED EXPEDITION Offer a short cinematic journey through the six environments. Each stop must reveal an interaction, not merely display a caption. The tour must be skippable.  ANNOTATION DENSITY Switch between cinematic, guided, and technical label levels without altering the underlying geography.  OCEAN EXPLORATION  Treat the seafloor as a complete landscape.  Reveal shelves, slopes, abyssal regions, ridges, and trenches where supported by the embedded relief sample. Use an explicit vertical scale and label any exaggeration.  In the Mariana expedition, let the viewer descend through the water column. Update depth, light, color, pressure estimate under a stated simplified model, and the location cursor together.  The deep-sea close-up may contain beautiful illustrated life and geology, but its exact organisms and microterrain must be identified as interpretation. Sourced bathymetry and illustrated local scenery must remain distinguishable.  EARTH’S INTERIOR  Provide a 0–100% cutaway slider that smoothly reveals the crust, mantle, outer core, and inner core. The globe should remain visually coherent at intermediate slider positions.  Show the selected geographic location on the outer surface and an aligned radial guide into the interior.  Include an educational seismic-wave demonstration with a clearly stated simplified model. Its wave paths, moving markers, and timing readouts must derive from the same demonstration state.  Label exaggerated layer thickness, material colors, or compressed time explicitly.  THREE INTERACTIVE SCIENCE EXPERIMENTS  1. SUNLIGHT LAB Choose two latitudes and compare the modeled daily solar path and length of daylight across the year. Link the diagrams to the illuminated globe.  2. RELIEF AND SEA-LEVEL LAB At a supported coastal region, adjust a hypothetical water level and compare it with the embedded elevation profile. Label this a static topographic demonstration; do not present it as a coastal flood forecast.  3. SEISMIC PATH LAB Choose a source and observation points for a simplified educational wave demonstration. Show paths and relative arrival timing according to the stated model. Keep historical earthquake markers separate from the hypothetical experiment.  Each experiment must have Reset, reproducible inputs, consistent units, and a clear link back to the globe or selected place.  DATA AND SCIENTIFIC HONESTY  Use authoritative, cited sources for numerical claims and embedded samples. Appropriate sources include NASA Earthdata for selected dated observations, NOAA ETOPO for land and ocean relief, and USGS for selected historical earthquake records.  Use curated, downsampled data that fits inside one HTML file. Show the actual embedded resolution. Never claim that a regional illustration has the precision of the source dataset when its detail was authored or simplified.  Keep three categories visible:  OBSERVED DATA — a sourced measurement or published dataset sample. DERIVED VALUE — calculated from named inputs and an inspectable method. ILLUSTRATION OR EXPERIMENT — authored scenery or a hypothetical model.  Do not invent precise elevations, depths, earthquake positions, live cloud patterns, or measured environmental values.  Include a Sources and Methods panel with links, dataset versions and dates, coordinate reference, units, downsampling method, equations, uncertainty or limitations, and attribution.  Use a consistent latitude–longitude convention across every feature. Keep geographic coordinates, physical measurements, and exaggerated display geometry separate.  SMALL DETAILS AND VISUAL REVEALS  Include carefully choreographed discoveries:  • Orbit-to-region transitions that keep the chosen point in view. • Contours and labels that emerge only when the viewer reaches their useful scale. • A river that remains recognizable from global map to local basin. • An elevation cursor moving in synchrony across map, profile, and landscape. • A coastline that transforms visually when the bathymetry layer activates. • Ice layers that reveal themselves progressively in the Antarctic section. • A deep-ocean descent in which the seafloor appears gradually rather than as a sudden scene swap. • A globe-to-interior cutaway that preserves the selected geographic location. • A changing terminator that casts the chosen expedition into daylight or night. • An evidence reveal connecting a beautiful visual element to the data or model behind it.  Prioritize details that deepen exploration over decorative particles.  PERFORMANCE AND VERIFICATION  Use a bounded SVG scene graph, reusable symbols, clipping, masks, and zoom-dependent rendering. Avoid keeping all six high-detail scenes active when only one is visible.  Support desktop, touch devices, keyboard navigation, visible focus, and reduced-motion preferences.  Verify that:  • Every featured location is geographically placed correctly. • Hidden-side globe features are actually hidden. • Routes remain attached to their coordinates through rotation. • Measurement distances use the selected coordinates. • Transect values come from the embedded samples. • Map, profile, and section cursors remain synchronized. • Reset returns experiments to their initial states. • Time controls alter the intended model without silently modifying unrelated data. • Source and date labels match the embedded layers.  Show actual results for any automated checks. Do not hardcode a row of “passed” labels.  Make the complete path from globe to local scene to section work for all six expeditions. If implementation scope forces a tradeoff, complete that connected journey and the essential science tools before adding optional visual effects.  FINAL DELIVERY  The finished result should feel like an explorable planet inside a single file: stunning from orbit, rewarding at close range, and clear about what is observed, calculated, or illustrated.  Return ONLY ONE code block containing the ENTIRE working HTML document, beginning with <!DOCTYPE html>.  I should be able to paste it into one .html file, open it in Chrome, rotate and zoom Earth, enter any of the six expeditions, draw a linked transect, explore the ocean and interior, compare locations, run the three experiments, inspect the sources, and return smoothly to orbit.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104837836507955401) · [Исходная публикация](https://x.com/Gdgtify/status/2104837836507955401) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2104831049020674144"></a>
+
+### Интерактивная лаборатория по моделированию последовательной производственной линии
+
+[أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari) · 2026-09-29 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104831049020674144"><img src="../assets/previews/df3e821a18ca5ebe1e54f5a0ee5a132d1f3c53b566296ce4d5c502a4e5e4f3dd.webp" width="840" loading="lazy" alt="Интерактивная лаборатория по моделированию последовательной производственной линии"></a>
+
+**Промпт**
+
+```text
+Создайте анимированную интерактивную дискретно-событийную модель последовательной производственной линии в виде одного автономного HTML-файла (ванильный JS + Canvas; без внешних библиотек, кроме Chart.js с cdnjs). Назначение: обучать студентов по дисциплине [Производственные системы] тому, как вариативность, буферы и отказы влияют на производительность линии.
+
+КОНФИГУРАЦИЯ ЛИНИИ (настраивается пользователем)
+- Количество рабочих станций: [2–6], по умолчанию [3]; для каждой задаётся название (например, Механическая обработка, Сборка, Контроль)
+- Для каждой станции: среднее время цикла, распределение (детерминированное, равномерное, нормальное, треугольное, экспоненциальное, логнормальное), CV
+- Отказы каждой станции: MTBF и MTTR (экспоненциальное распределение), переключатель вкл./выкл.
+- Качество каждой станции: доля дефектов (%), с вариантом отправки в брак или в цикл доработки
+- Буферы между станциями: вместимость 0–10 (0 = блокировка после обслуживания)
+- Поступление материалов: неограниченный поток сырья или пуассоновский поток с интенсивностью λ
+- Клиентский спрос для расчёта такта
+
+ANIMATION
+- Детали перемещаются по конвейерам и меняют цвет в зависимости от этапа (сырьё, НЗП, готовая продукция, брак)
+- Рамки станков отображают состояние цветом: работа (зелёный), блокировка (янтарный), отсутствие заготовок (красный), простой из-за отказа (серый); также показываются вращающийся значок шестерёнки и индикатор выполнения
+- Ячейки буферов показывают заполненность и выделяются при полном заполнении
+- Управление: воспроизведение/пауза, шаг, сброс, скорость 1x–50x, период разогрева
+
+КЛЮЧЕВЫЕ ПОКАЗАТЕЛИ ЭФФЕКТИВНОСТИ (панель мониторинга в реальном времени)
+1. Пропускная способность (деталей/ч) в сравнении с теоретической производительностью узкого места
+2. Средний объём НЗП и изменение объёма НЗП во времени
+3. Время прохождения / производственный цикл (среднее значение и 95-й перцентиль)
+4. Проверка закона Литтла: НЗП ≈ Пропускная способность × Время прохождения
+5. Загрузка каждой станции с разбивкой времени: работа / блокировка / отсутствие заготовок / простой из-за отказа (накопительная столбчатая диаграмма)
+6. OEE каждой станции = Доступность × Производительность × Качество
+7. Определение узкого места (метод активного периода) и его выделение
+8. Такт в сравнении со временем цикла станций (диаграмма баланса линии)
+9. Эффективность баланса линии = Σ времён цикла / (N × максимальное время цикла)
+10. Выход годных с первого прохода, сквозной выход годных, количество бракованных деталей
+11. Средняя заполненность каждого буфера
+12. Наблюдаемые и заданные среднее время цикла и CV для каждой станции
+
+ИНСТРУМЕНТЫ АНАЛИЗА
+- Режим репликаций: выполнить N репликаций длительностью T после периода разогрева и вывести среднее значение ± 95%-ный доверительный интервал для пропускной способности, НЗП и времени прохождения
+- Режим эксперимента: перебрать значения вместимости буфера (или CV одной станции) и построить график зависимости пропускной способности от параметра
+- Экспорт результатов в CSV
+- Предустановленные сценарии: Сбалансированная линия, Явное узкое место, Высокая вариативность, Ненадёжный станок
+
+DESIGN
+- Чистый адаптивный интерфейс для мобильных устройств; светлая и тёмная темы
+- Краткая всплывающая подсказка с пояснением каждого KPI и его формулы
+- Переключатель двуязычных подписей (английский/арабский)
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Build an animated, interactive discrete-event simulation of a serial production line as a single self-contained HTML file (vanilla JS + Canvas, no external libraries except Chart.js from cdnjs). Purpose: teaching [Manufacturing Systems] students how variability, buffers, and breakdowns affect line performance.
+
+LINE CONFIGURATION (user-adjustable)
+- Number of stations: [2–6], default [3], each with a name (e.g., Machining, Assembly, Inspection)
+- Per station: mean cycle time, distribution (Deterministic, Uniform, Normal, Triangular, Exponential, Lognormal), CV
+- Breakdowns per station: MTBF and MTTR (exponential), on/off toggle
+- Quality per station: defect rate (%), with scrap or rework-loop option
+- Buffers between stations: capacity 0–10 (0 = blocking after service)
+- Arrivals: unlimited raw material OR Poisson arrivals with rate λ
+- Customer demand to compute takt time
+
+ANIMATION
+- Parts move along conveyors and change color by stage (raw, WIP, finished, scrap)
+- Machine borders show state colors: Working (green), Blocked (amber), Starved (red), Down (gray), plus a rotating gear icon and a progress bar
+- Buffer slots show occupancy and highlight when full
+- Controls: Play/Pause, Step, Reset, speed 1x–50x, warm-up period
+
+KEY PERFORMANCE MEASURES (live dashboard)
+1. Throughput (parts/hr) vs theoretical bottleneck rate
+2. Average WIP and WIP over time
+3. Flow time / manufacturing lead time (mean and 95th percentile)
+4. Little's Law check: WIP ≈ Throughput × Flow time
+5. Per-station utilization with a time breakdown: working / blocked / starved / down (stacked bar)
+6. OEE per station = Availability × Performance × Quality
+7. Bottleneck detection (active-period method) and highlight the bottleneck
+8. Takt time vs station cycle times (line balance chart)
+9. Line balance efficiency = Σ cycle times / (N × max cycle time)
+10. First-pass yield, rolled throughput yield, scrap count
+11. Average buffer occupancy per buffer
+12. Observed vs set cycle-time mean and CV per station
+
+ANALYSIS FEATURES
+- Replication mode: run N replications of length T after warm-up, report mean ± 95% confidence interval for throughput, WIP, and flow time
+- Experiment mode: sweep buffer size (or one station's CV) and plot throughput vs parameter
+- Export results to CSV
+- Preset scenarios: Balanced line, Clear bottleneck, High variability, Unreliable machine
+
+DESIGN
+- Clean, responsive layout that works on mobile; light/dark mode
+- Brief tooltip explaining each KPI and its formula
+- Bilingual labels (English/Arabic) toggle
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2104831049020674144) · [Исходная публикация](https://x.com/am_alahmari/status/2104831051776335994) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104590334152056983"></a>
 
 ### Ходячая архитектура
@@ -2379,120 +2845,7 @@ build an interactive crowd evacuation sim and see where it jams
 
 ---
 
-<a id="claude-opus-5-5-2102450239923720440"></a>
 
-### Интерактивный 3D-остров с доисторической природой
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Интерактив
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102450239923720440"><img src="../assets/previews/23a4362d0525060fc7304a39c43c7f21b75923aa85ed66f5303b370d996bcf0d.webp" width="840" loading="lazy" alt="Интерактивный 3D-остров с доисторической природой"></a>
-
-**Промпт**
-
-```text
-Создайте красивый, высокодетализированный, полностью интерактивный 3D-остров с доисторической природой на Three.js и WebGL. Всё должно быть реализовано в одном автономном HTML-файле, который открывается напрямую в Chrome. По возможности встраивайте ресурсы в файл.
-
-ВИЗУАЛЬНОЕ НАПРАВЛЕНИЕ
-Создайте большой остров с плавными округлыми формами, окружённый океаном с прозрачным подводным сечением. Сцена должна восприниматься как премиальный миниатюрный мир: пышная растительность, выразительные динозавры, богатые материалы, атмосферное освещение и тщательно проработанная анимация. Используйте цельный стилизованный художественный стиль, а не простые геометрические примитивы.
-ISLAND
-Создайте разнообразный рельеф: пляжи, скалистые утёсы, густые доисторические леса, гигантские папоротники, водопад, пресноводный пруд и вулкан. Добавьте небольшую исследовательскую станцию, деревянные настилы, смотровые площадки, ящики с припасами и гнёзда динозавров. Остров должен быть достаточно просторным, чтобы динозавры могли естественно перемещаться между разными зонами.
-
-ПОДВОДНОЕ СЕЧЕНИЕ
-Вода должна образовывать вокруг острова глубокий объём с плавными округлыми формами, сквозь боковые поверхности которого хорошо просматривается подводный мир. Добавьте текстурированное морское дно, камни, водные растения, рыб, пузырьки и зелёную морскую рептилию, плавающую под поверхностью. Не размещайте под водой обычных наземных динозавров и не добавляйте подводную лодку.
-Используйте анимированные волны, отражения Френеля, световые узоры под водой, пену у берега и брызги. Не допускайте артефактов сортировки прозрачности и видимых зазоров между островом и водой.
-
-DINOSAURS
-Добавьте несколько отчётливо различающихся видов: длинношеего завропода, трицератопса, стегозавра, крупного теропода и небольших стадных животных. Пусть над островом кружат птерозавры.
-У каждого вида должна быть узнаваемая анатомия, объёмное тело, сочленённые конечности, детализированная голова, хвост и характерный рисунок кожи. Не собирайте готовых динозавров из очевидных коробок или разрозненных сфер.
-
-ЕСТЕСТВЕННАЯ АНИМАЦИЯ
-Используйте иерархические скелеты с правильно расположенными суставами. В ходьбе должны отчётливо различаться фазы опоры и переноса: во время контакта стопы остаются на месте, а при каждом шаге плавно отрываются от земли. Согласуйте длину шага со скоростью движения.
-
-Используйте выборку высоты рельефа и обратную кинематику, чтобы стопы сохраняли контакт с землёй. Добавьте перенос веса, лёгкие движения корпуса, уравновешивающие движения хвоста, повороты головы и дыхание. Динозавры не должны парить, скользить, проваливаться в землю, пересекаться с ней или проходить сквозь здания, камни, деревья и друг друга.
-Используйте избегание препятствий и безопасные маршруты. У разных видов должны быть разные скорости движения, схемы походки и поведение. Морские животные должны быть обращены в сторону движения.
-
-INTERACTION
-Дайте пользователям возможность:
-
-Свободно вращать камеру, приближать и отдалять изображение, а также рассматривать подводное сечение.
-Выбирать динозавра и плавно следить за ним камерой.
-
-Размещать еду в подходящих местах и наблюдать, как ближайшие динозавры подходят к ней и едят.
-
-Запускать питьё, отдых, призыв и перемещение стада.
-
-Исследовать гнёзда и наблюдать, как из яйца вылупляется детёныш.
-Запускать всплытие морской рептилии с брызгами.
-Переключаться между дневным светом, закатом и ночью.
-Настраивать дождь, ветер и вулканическую активность.
-Приостанавливать симуляцию и сбрасывать сцену.
-Каждое управление должно давать чёткий визуальный отклик. Взаимодействия должны запускаться повторно, а одновременные анимации не должны нарушать позы персонажей.
-АТМОСФЕРА И ЗВУК
-Добавьте движущуюся растительность, плывущие облака, птиц, насекомых, частицы дождя и тёплое освещение исследовательской станции в ночное время. Включите тихую атмосферную музыку и звуки окружающей среды, а также работающие переключатель музыки и ползунок громкости. Запускайте звук только после взаимодействия пользователя.
-INTERFACE
-Используйте компактный элегантный интерфейс с подписями на английском языке. Сцена должна занимать основное пространство; не закрывайте остров большими панелями. Адаптируйте компоновку для компьютеров и мобильных устройств.
-ТЕХНИЧЕСКОЕ КАЧЕСТВО
-Используйте инстансинг для повторяющейся растительности и объектов, оптимизированную геометрию, подходящие тени и умеренное постобрабатывание. Сочетайте визуальную насыщенность с плавной производительностью в реальном времени.
-Создайте полноценную сцену, а не макет. Протестируйте готовый HTML напрямую в браузере на компьютере, проверьте скриншоты и консоль, испытайте все взаимодействия и до передачи исправьте ошибки загрузки, парящих динозавров, скольжение стоп, неработающие столкновения, артефакты воды и проблемы с камерой.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Create a beautiful, highly detailed, fully interactive 3D prehistoric island using Three.js and WebGL. Deliver everything in a single standalone HTML file that opens directly in Chrome. Embed assets wherever possible.
-
-VISUAL DIRECTION
-Build a large, rounded island surrounded by an ocean with a transparent underwater cross-section. The result should feel like a premium miniature world: lush vegetation, expressive dinosaurs, rich materials, atmospheric lighting, and polished animation. Use a cohesive, stylized art direction rather than basic geometric shapes.
-ISLAND
-Create varied terrain with beaches, rocky cliffs, dense prehistoric forests, giant ferns, a waterfall, a freshwater pond, and a volcano. Add a small research station, wooden walkways, observation platforms, supply crates, and dinosaur nests. Make the island spacious enough for dinosaurs to move naturally between distinct areas.
-
-WATER CROSS-SECTION
-The water must form a deep, rounded volume around the island, with clearly visible underwater scenery through its sides. Include a textured seabed, rocks, aquatic plants, fish, bubbles, and a green marine reptile swimming beneath the surface. Do not place ordinary land dinosaurs underwater, and do not add a submarine.
-Use animated waves, Fresnel reflections, underwater light patterns, shoreline foam, and splashes. Avoid transparency sorting artifacts and visible gaps between the island and water.
-
-DINOSAURS
-Include several distinct species, such as a long-necked sauropod, Triceratops, Stegosaurus, a large theropod, and smaller herd animals. Add pterosaurs circling overhead.
-Give every species recognizable anatomy, shaped bodies, articulated limbs, detailed heads, tails, and appropriate skin patterns. Avoid assembling the finished dinosaurs from obvious boxes or disconnected spheres.
-
-NATURAL ANIMATION
-Use hierarchical skeletons with correctly positioned joints. Walking must have distinct stance and swing phases: feet stay planted during contact and lift cleanly during each step. Match stride length to movement speed.
-
-Use terrain sampling and inverse kinematics to keep feet on the ground. Add weight shifts, subtle body movement, balanced tail motion, head turns, and breathing. Dinosaurs must never float, slide, intersect the ground, or walk through buildings, rocks, trees, or each other.
-Use obstacle avoidance and safe paths. Different species should have different movement speeds, gait patterns, and behaviors. Marine animals must face their direction of travel.
-
-INTERACTION
-Allow users to:
-
-Rotate the camera freely, zoom, and inspect the underwater cross-section.
-Select a dinosaur and follow it with a smoothly moving camera.
-
-Place food in suitable locations and watch nearby dinosaurs approach and eat.
-
-Trigger drinking, resting, calling, and herd movement.
-
-Explore nests and watch a hatchling emerge.
-Trigger a marine reptile surfacing with a splash.
-Switch between daylight, sunset, and night.
-Adjust rain, wind, and volcanic activity.
-Pause the simulation and reset the scene.
-Make every control produce a clear, visible response. Keep interactions repeatable and prevent overlapping animations from breaking character poses.
-ATMOSPHERE AND AUDIO
-Add moving foliage, drifting clouds, birds, insects, rain particles, and warm research-station lights at night. Include quiet atmospheric music and environmental sounds with a working music toggle and volume slider. Start audio only after user interaction.
-INTERFACE
-Use a compact, elegant interface with English labels. Keep the scene dominant and avoid large panels covering the island. Make the layout responsive for desktop and mobile.
-TECHNICAL QUALITY
-Use instancing for repeated vegetation and props, efficient geometry, appropriate shadows, and restrained post-processing. Balance visual richness with smooth real-time performance.
-Build a complete scene, not a mockup. Test the final HTML directly in a desktop browser, inspect screenshots and the console, exercise every interaction, and fix loading errors, floating dinosaurs, foot sliding, broken collisions, water artifacts, and camera problems before delivery.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102450239923720440) · [Исходная публикация](https://x.com/vib3coded/status/2102450842070569099) · [Назад к примерам](#all-prompts)
-
----
-
-
-[Полный каталог](catalog.ru.md) · **1 / 1**
+[Полный каталог](catalog.ru.md) · **1 / 2** · [→](catalog.ru.2.md)
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ru/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Полный каталог →</a></strong></p>

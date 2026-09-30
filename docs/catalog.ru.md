@@ -21,9 +21,9 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**45 Примеры · 14 🌐**
+**51 Примеры · 14 🌐**
 
-[По категориям](#categories) · [По моделям](#models) · [Исходный код](with-code.md) · [1](../docs/catalog.ru.1.md)
+[По категориям](#categories) · [По моделям](#models) · [Исходный код](with-code.md) · [1](../docs/catalog.ru.1.md) · [2](../docs/catalog.ru.2.md)
 
 <a id="categories"></a>
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Игры · 9
+### Игры · 10
 
+- [Гоночная игра в стиле Mario Kart на 3JS](../docs/catalog.ru.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [Играбельный пиксельный beat ’em up в Древнем Риме](../docs/catalog.ru.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [Гиперреалистичный многопользовательский FPS в заснеженном переулке](../docs/catalog.ru.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
 - [Воксельная игра в стиле Minecraft с продвинутыми шейдерами](../docs/catalog.ru.1.md#claude-opus-5-5-2103822946800165270) · [DreykØ](https://x.com/dreyk0o0)
@@ -45,8 +46,9 @@
 
 <a id="category-3d-scenes"></a>
 
-### Сцены · 6
+### Сцены · 7
 
+- [Механическая машина Руба Голдберга в Blender](../docs/catalog.ru.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [55-секундная 3D-сцена: от дата-центра до атома](../docs/catalog.ru.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Создайте имперский город](../docs/catalog.ru.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Бенчмарк киберпанк-мегаполиса «Последний поезд»](../docs/catalog.ru.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
@@ -64,20 +66,24 @@
 
 <a id="category-interactive-3d"></a>
 
-### Интерактив · 7
+### Интерактив · 9
 
+- [Интерактивная мультяшная 3D-планета](../docs/catalog.ru.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [АТЛАС ЗЕМЛИ: ЖИВАЯ ПЛАНЕТА](../docs/catalog.ru.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
 - [Интерактивный клубничный торт на WebGPU](../docs/catalog.ru.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
 - [Навигация по 3D-пагоде](../docs/catalog.ru.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Свободно исследуемый 3D-город с сакурой в стиле аниме](../docs/catalog.ru.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Интерактивное средневековое королевство для Claude Opus 5.5](../docs/catalog.ru.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
 - [Интерактивный сайт о вымышленных планетах](../docs/catalog.ru.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
 - [Интерактивный 3D-ландшафт японской сакурной долины](../docs/catalog.ru.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
-- [Интерактивный 3D-остров с доисторической природой](../docs/catalog.ru.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [Интерактивный 3D-остров с доисторической природой](../docs/catalog.ru.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Анимация · 20
+### Анимация · 22
 
+- [30-секундный брендированный 3D-ролик в стиле моушн-дизайна](../docs/catalog.ru.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [Интерактивная лаборатория по моделированию последовательной производственной линии](../docs/catalog.ru.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [Ходячая архитектура](../docs/catalog.ru.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Динамичный 30-секундный проморолик Kiiwi в формате моушн-графики](../docs/catalog.ru.1.md#claude-opus-5-5-2104204312624918810) · [Iniyan (ini)](https://x.com/iniyanai)
 - [Аниме-стилизованная 3D-сцена с тремя транспортными средствами, которые трансформируются и объединяются](../docs/catalog.ru.1.md#claude-opus-5-5-2104193522715029657) · [風の民@](https://x.com/allforbigfire)
@@ -105,8 +111,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 45
+### Claude Opus 5.5 · 51
 
+- [Механическая машина Руба Голдберга в Blender](../docs/catalog.ru.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
+- [Гоночная игра в стиле Mario Kart на 3JS](../docs/catalog.ru.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
+- [Интерактивная мультяшная 3D-планета](../docs/catalog.ru.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
+- [30-секундный брендированный 3D-ролик в стиле моушн-дизайна](../docs/catalog.ru.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
+- [АТЛАС ЗЕМЛИ: ЖИВАЯ ПЛАНЕТА](../docs/catalog.ru.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
+- [Интерактивная лаборатория по моделированию последовательной производственной линии](../docs/catalog.ru.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [Ходячая архитектура](../docs/catalog.ru.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
 - [Играбельный пиксельный beat ’em up в Древнем Риме](../docs/catalog.ru.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [Интерактивный клубничный торт на WebGPU](../docs/catalog.ru.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
@@ -151,7 +163,7 @@
 - [Кинематографичный интерактивный пиратский корабль на закате](../docs/catalog.ru.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 - [Бесконечный процедурно генерируемый мир на Three.js](../docs/catalog.ru.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 - [Интерактивная симуляция эвакуации толпы](../docs/catalog.ru.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
-- [Интерактивный 3D-остров с доисторической природой](../docs/catalog.ru.1.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
+- [Интерактивный 3D-остров с доисторической природой](../docs/catalog.ru.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 
 <p align="center"><strong><a href="https://www.tripo3d.ai/ru/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">Полный каталог →</a></strong></p>

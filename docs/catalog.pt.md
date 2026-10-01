@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**51 Exemplos · 14 🌐**
+**57 Exemplos · 14 🌐**
 
 [Explorar por categoria](#categories) · [Explorar por modelo](#models) · [Código-fonte](with-code.md) · [1](../docs/catalog.pt.1.md) · [2](../docs/catalog.pt.2.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Jogos · 10
+### Jogos · 11
 
+- [Roguelike ASCII por turnos em um único arquivo HTML](../docs/catalog.pt.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
 - [Crie um jogo de corrida no estilo Mario Kart com 3JS](../docs/catalog.pt.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [Beat 'em up jogável em pixel art ambientado na Roma Antiga](../docs/catalog.pt.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [FPS multiplayer hiper-realista em um beco nevado](../docs/catalog.pt.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
@@ -41,20 +42,21 @@
 - [Jogo no estilo de Genshin Impact ambientado em San Francisco](../docs/catalog.pt.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [Jogo de ciclismo com pelicano em tempo real](../docs/catalog.pt.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: um jogo 3D de plataforma lateral com um gato correndo pela cidade à noite](../docs/catalog.pt.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
-- [Jogo interativo de animais de fazenda no estilo de Peter Rabbit](../docs/catalog.pt.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [Mundo infinito gerado proceduralmente em Three.js](../docs/catalog.pt.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
+- [Jogo interativo de animais de fazenda no estilo de Peter Rabbit](../docs/catalog.pt.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [Mundo infinito gerado proceduralmente em Three.js](../docs/catalog.pt.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### Cenas · 7
+### Cenas · 8
 
+- [Criar um mundo de Game of Thrones](../docs/catalog.pt.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
 - [Máquina mecânica de Rube Goldberg no Blender](../docs/catalog.pt.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [Cena 3D do data center ao átomo em 55 segundos](../docs/catalog.pt.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Crie uma cidade imperial](../docs/catalog.pt.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Benchmark da megacidade cyberpunk O Último Trem](../docs/catalog.pt.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [Renderização 3D em 360° de uma quadra de handebol a partir de uma imagem](../docs/catalog.pt.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [Plano de fundo procedural 3D para menu principal do Three.js a partir de uma imagem](../docs/catalog.pt.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Navio pirata cinematográfico e interativo ao pôr do sol](../docs/catalog.pt.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [Plano de fundo procedural 3D para menu principal do Three.js a partir de uma imagem](../docs/catalog.pt.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Navio pirata cinematográfico e interativo ao pôr do sol](../docs/catalog.pt.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-3d-assets"></a>
 
@@ -66,8 +68,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### Interativo · 9
+### Interativo · 10
 
+- [Prensa de Gelatina](../docs/catalog.pt.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
 - [Planeta 3D cartunesco interativo](../docs/catalog.pt.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
 - [ATLAS DA TERRA: O PLANETA VIVO](../docs/catalog.pt.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
 - [Bolo de morango interativo em WebGPU](../docs/catalog.pt.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
@@ -80,8 +83,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### Animação · 22
+### Animação · 25
 
+- [SPARK — Cena 3D animada com estilo pictórico](../docs/catalog.pt.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
+- [Vídeo de animação 3D de uma esfera caindo no ritmo da música](../docs/catalog.pt.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
+- [Vídeo interativo de terremoto em um sandbox tectônico](../docs/catalog.pt.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
 - [Vídeo de motion design 3D de 30 segundos](../docs/catalog.pt.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
 - [Laboratório interativo de simulação de uma linha de produção serial](../docs/catalog.pt.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [Arquitetura ambulante](../docs/catalog.pt.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
@@ -102,8 +108,8 @@
 - [Animação de futebol em estilo voxel](../docs/catalog.pt.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
 - [Simulação Interativa de Fluido Neon Euleriano](../docs/catalog.pt.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Modelo do acidente de Hundenberg e vídeo realista](../docs/catalog.pt.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [Máquina 3D de Rube Goldberg autônoma](../docs/catalog.pt.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [Simulação interativa de evacuação de multidões](../docs/catalog.pt.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
+- [Máquina 3D de Rube Goldberg autônoma](../docs/catalog.pt.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [Simulação interativa de evacuação de multidões](../docs/catalog.pt.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 
 <a id="models"></a>
 
@@ -111,8 +117,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 51
+### Claude Opus 5.5 · 57
 
+- [SPARK — Cena 3D animada com estilo pictórico](../docs/catalog.pt.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
+- [Vídeo de animação 3D de uma esfera caindo no ritmo da música](../docs/catalog.pt.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
+- [Prensa de Gelatina](../docs/catalog.pt.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
+- [Roguelike ASCII por turnos em um único arquivo HTML](../docs/catalog.pt.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
+- [Criar um mundo de Game of Thrones](../docs/catalog.pt.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
+- [Vídeo interativo de terremoto em um sandbox tectônico](../docs/catalog.pt.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
 - [Máquina mecânica de Rube Goldberg no Blender](../docs/catalog.pt.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [Crie um jogo de corrida no estilo Mario Kart com 3JS](../docs/catalog.pt.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [Planeta 3D cartunesco interativo](../docs/catalog.pt.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
@@ -157,12 +169,12 @@
 - [Página web interativa de paisagem 3D de um vale japonês de cerejeiras](../docs/catalog.pt.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Modelo do acidente de Hundenberg e vídeo realista](../docs/catalog.pt.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [Renderização 3D em 360° de uma quadra de handebol a partir de uma imagem](../docs/catalog.pt.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [Plano de fundo procedural 3D para menu principal do Three.js a partir de uma imagem](../docs/catalog.pt.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [Máquina 3D de Rube Goldberg autônoma](../docs/catalog.pt.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [Jogo interativo de animais de fazenda no estilo de Peter Rabbit](../docs/catalog.pt.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [Navio pirata cinematográfico e interativo ao pôr do sol](../docs/catalog.pt.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
-- [Mundo infinito gerado proceduralmente em Three.js](../docs/catalog.pt.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
-- [Simulação interativa de evacuação de multidões](../docs/catalog.pt.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
+- [Plano de fundo procedural 3D para menu principal do Three.js a partir de uma imagem](../docs/catalog.pt.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [Máquina 3D de Rube Goldberg autônoma](../docs/catalog.pt.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [Jogo interativo de animais de fazenda no estilo de Peter Rabbit](../docs/catalog.pt.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [Navio pirata cinematográfico e interativo ao pôr do sol](../docs/catalog.pt.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [Mundo infinito gerado proceduralmente em Three.js](../docs/catalog.pt.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
+- [Simulação interativa de evacuação de multidões](../docs/catalog.pt.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [Ilha pré-histórica 3D interativa](../docs/catalog.pt.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 

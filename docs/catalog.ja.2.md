@@ -26,11 +26,237 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>作例を見る (1)</summary>
+<summary>作例を見る (7)</summary>
 
+- [画像から作るプロシージャルなThree.js 3Dメインメニュー背景](#claude-opus-5-5-2102544196808667471)
+- [自走式3Dルーブ・ゴールドバーグ・マシン](#claude-opus-5-5-2102544078927741369)
+- [インタラクティブなピーターラビット風の農場動物ゲーム](#claude-opus-5-5-2102538762731565085)
+- [夕暮れを航海する映画的なインタラクティブ海賊船](#claude-opus-5-5-2102533729746882985)
+- [無限にプロシージャル生成されるThree.jsワールド](#claude-opus-5-5-2102529695908806728)
+- [インタラクティブな群集避難シミュレーション](#claude-opus-5-5-2102467667978572092)
 - [インタラクティブな3D先史時代の島](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102544196808667471"></a>
+
+### 画像から作るプロシージャルなThree.js 3Dメインメニュー背景
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="画像から作るプロシージャルなThree.js 3Dメインメニュー背景"></a>
+
+**参照画像:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
+
+**プロンプト**
+
+```text
+この画像を完全に再現した、プロシージャル生成によるアニメーション対応のThree.js 3Dメインメニュー背景を、単一のHTMLファイルで作成してください
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544196808667471) · [元の投稿](https://x.com/majidmanzarpour/status/2102544198335373576) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544078927741369"></a>
+
+### 自走式3Dルーブ・ゴールドバーグ・マシン
+
+[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="自走式3Dルーブ・ゴールドバーグ・マシン"></a>
+
+**プロンプト**
+
+```text
+現在のディレクトリに、単一の自己完結型index.htmlとして、自動で動作する3Dルーブ・ゴールドバーグ・マシンを構築してください。
+
+連鎖の順序：
+1. 最上部でビー玉を放し、ジグザグ状に連なるスロープを転がり落とします。
+2. ビー玉が少なくとも12個のドミノを一列に倒します。
+3. 最後のドミノがシーソーを傾け、小さなボールを吊り下げられたバケツに向けて発射します。
+4. バケツの重さでバケツが下がり、ロープが滑車を通ってベルを引っ張り、ベルが目に見えて揺れます。
+5. 同じ動きで旗をポールの上へ引き上げます。旗が頂点に達したら完了です。
+
+ルール：
+- 物理演算は自分で実装してください。物理演算ライブラリは使用しないでください。ビー玉を放した後のあらゆる動きは、シミュレーション（剛体、衝突、拘束、ロープ／滑車）によって発生する必要があります。機械の各部品をキーフレームアニメーションやトゥイーンで動かしてはいけません。
+- レンダリング用にCDNからthree.jsを読み込むことは許可します。それ以外の外部要素は使用しないでください。画像、モデル、フォントも使用禁止です。
+- ユーザー入力なしで動作する必要があります。ページの読み込み時に自動開始し、アクションを追従するシネマティックカメラを使い、連鎖全体を約15～20秒で完了させてください。旗が上がった後は2秒間停止し、その後リセットして再生します。
+- 決定論的に動作させてください。固定タイムステップを使用し、シード未指定の乱数は使わないでください。毎回同じ見た目になる必要があります。
+- ブラウザウィンドウ全体に表示してください。1280×720で画面録画されます。
+- 画面上のテキストやUIは一切表示しないでください。
+- 照明、影、マテリアル、実在の装置らしさを感じさせる舞台設定を用いて、見栄えよく仕上げてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544078927741369) · [元の投稿](https://x.com/leogao25/status/2102544081863717153) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102538762731565085"></a>
+
+### インタラクティブなピーターラビット風の農場動物ゲーム
+
+[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="インタラクティブなピーターラビット風の農場動物ゲーム"></a>
+
+**プロンプト**
+
+```text
+「ピーターラビット」のデザイン／アートスタイルで、インタラクティブな農場動物ゲームを作成する
+メインメニュー＝サウンドのオン／オフ＋動物選択（馬、ブタ、ウシ、ネコ、イヌ）
+Esc＝一時停止：スポーン地点／メインメニューに戻る／リセット
+WASDで移動
+スペースキーでジャンプし、近くにいる他の動物とインタラクト
+近接検知時にインタラクションをランダムで発生させる
+インタラクションでは、他の動物に声をかける（その動物の通常の鳴き声とは異なる固有の音）、「ちょん」と触れる
+水場では水を飲め、干し草を食べられ、果物を食べられる。
+三人称視点。ただし、カメラは動物のやや後方かつ上方にあるようにする
+環境音として鳥の声を入れ、空には飛行機がランダムに現れる
+舞台＝農地、納屋、家々のある農村（家の中には入れない）
+目を引くのに十分なアセットを用意するが、プロダクション品質とみなされるほど作り込みすぎない。娘と15分ほど遊んで楽しむためのもの
+react、svg、js、webgl、threejsなど、手触りを良くするために必要なものは何でも使う」
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102538762731565085) · [元の投稿](https://x.com/blaso96/status/2102538764749037738) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102533729746882985"></a>
+
+### 夕暮れを航海する映画的なインタラクティブ海賊船
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="夕暮れを航海する映画的なインタラクティブ海賊船"></a>
+
+**プロンプト**
+
+```text
+夕暮れのダイナミックな海を航海する、完全にインタラクティブな3D海賊船シーンをゼロから作成してください。ビジュアルスタイルはフォトリアルではなく、映画的でスタイライズされたものにしつつ、非常に豊かで精密、洗練され、視覚的にも高度な表現にしてください。船、海、空、ライティング、マテリアル、帆、リギング、大砲、細かな構造物、波しぶき、航跡、パーティクル、アニメーション、カメラワーク、構図、大気遠近、カラーグレーディングを構築してください。最終結果は、プロトタイプや技術デモ、低品質なシーンではなく、プレミアムで本格的な制作による3Dアート作品として感じられるものにしてください。完全に白紙のページから開始してください。以前のプロジェクトやシーンを再利用したり、それらに依存したりしないでください。必要に応じて、アセットや信頼できるオープンソースのアセット、ライブラリを自作または利用してかまいません。必須要件：シーン内のどこにも、いかなる種類のテキストも表示してはいけません。どの言語であっても、タイトル、名前、ロゴ、説明、クレジット、ラベル、操作説明を表示しないでください。プロジェクト全体を、ウェブブラウザで直接開ける単一の最終スタンドアロンページファイルとして納品し、可能な限りアセットをファイル内に埋め込んでください。海、船、帆、カメラはすべて、自然で滑らかにアニメーションさせてください。不自然なスローモーションや動きの鈍さは避けてください。船が本当に水上を進んでいるように感じられるものにしてください。完成形に単純なプリミティブ形状だけを使わないでください。形状を丁寧に作り込んだ船体、マスト、帆、リギング、ロープ、大砲、手すり、ランタン、甲板上の構造物、細部まで明確に見える要素を備えた、説得力のある精密な海賊船を構築してください。ライティングによって船の形状とマテリアルが明確に見えるようにしてください。豊かな夕焼けの空気感、深みのある海のシェーディング、反射、説得力のある波しぶき、船の後方と周囲に広がる精細な航跡を作成してください。ビジュアル品質とリアルタイム性能のバランスを適切に保ち、品質を明らかに犠牲にすることなく、滑らかなインタラクションとアニメーションを維持してください。最高の結果を実現するために必要な、最適なスキル、ツール、ライブラリ、技法、利用可能なアセットを自動的に使用してください。使用するテクノロジーの指定を私に求めて待たないでください。完成した結果を実際にデスクトップのウェブブラウザでテストしてください。画面のスクリーンショットを撮影し、ブラウザコンソールのエラーを確認して、見つかったすべての視覚的または技術的な問題を修正してください。これには、歪んだジオメトリ、黒い画面、アセットの読み込み失敗、壊れたアニメーション、不適切な構図、レンダリングアーティファクト、カメラの問題などが含まれます。最後に、最終ファイルが直接開いて正常に動作すること、シーンにテキストが一切含まれていないこと、実行時エラーや読み込みエラーが残っていないことを確認してください。その後は、短い返答だけでタスクを完了してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102533729746882985) · [元の投稿](https://x.com/vib3coded/status/2102534606121746589) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102529695908806728"></a>
+
+### 無限にプロシージャル生成されるThree.jsワールド
+
+[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="無限にプロシージャル生成されるThree.jsワールド"></a>
+
+**プロンプト**
+
+```text
+projectsフォルダに「endless-game」という新規プロジェクトを作成してください。ブラウザ上で動作するThree.js製の、無限にプロシージャル生成される世界を構築し、自由に歩き回って楽しめるようにしてください。エリアはすべてランダム生成とし、どれだけ長くプレイしても至る所で新しい驚きが見つかるようにします。スーパーマーケットシミュレーターのような、穏やかでリラックスでき、本当に楽しい、居心地のよい満足感のある雰囲気にしてください。ただし、スーパーマーケットを題材にしたゲームにはしないでください。歩き回るだけでも興味深い世界を作り、出会って交流できる存在や、非常に魅力的なグラフィックを盛り込んでください。プロジェクトの明確な目標を設定し、それを達成するまで作業を続け、完成してプレイとテストができる状態になったらチャイム音を鳴らしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102529695908806728) · [元の投稿](https://x.com/argofowl/status/2102529695908806728) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102467667978572092"></a>
+
+### インタラクティブな群集避難シミュレーション
+
+[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="インタラクティブな群集避難シミュレーション"></a>
+
+**プロンプト**
+
+```text
+インタラクティブな群集避難シミュレーションを作成し、どこで詰まるか確認する
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+build an interactive crowd evacuation sim and see where it jams
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102467667978572092) · [元の投稿](https://x.com/dominikmartn/status/2102467667978572092) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102450239923720440"></a>
 
 ### インタラクティブな3D先史時代の島

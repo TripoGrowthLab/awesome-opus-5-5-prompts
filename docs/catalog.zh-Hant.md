@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**51 案例 · 14 🌐**
+**57 案例 · 14 🌐**
 
 [依用途瀏覽](#categories) · [依模型瀏覽](#models) · [專案原始碼](with-code.md) · [1](../docs/catalog.zh-Hant.1.md) · [2](../docs/catalog.zh-Hant.2.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 遊戲 · 10
+### 遊戲 · 11
 
+- [單一 HTML 檔案中的回合制 ASCII Roguelike](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
 - [使用 3JS 打造《Mario Kart》風格的賽車遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [可遊玩的像素風古羅馬橫向捲軸格鬥遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [雪地巷弄中的超寫實多人第一人稱射擊遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
@@ -41,20 +42,21 @@
 - [《原神》風格的舊金山背景遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [即時 3D 鵜鶘騎車遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk：奔馳於夜街的 3D 橫向捲軸貓咪遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
-- [互動式彼得兔風格農場動物遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [無限程序生成的 Three.js 世界](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
+- [互動式彼得兔風格農場動物遊戲](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [無限程序生成的 Three.js 世界](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### 場景 · 7
+### 場景 · 8
 
+- [建立《權力遊戲》世界](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
 - [Blender 中的機械式魯布・戈德堡機械](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [55 秒資料中心到原子的 3D 場景](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [打造帝國城市](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [《末班列車》賽博龐克巨型都市基準測試](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [以圖片為基礎的手球場 360 度 3D 渲染](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [從影像打造程序化 Three.js 3D 主選單背景](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [電影感互動式夕陽海盜船](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [從影像打造程序化 Three.js 3D 主選單背景](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [電影感互動式夕陽海盜船](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-3d-assets"></a>
 
@@ -66,8 +68,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### 互動 · 9
+### 互動 · 10
 
+- [果凍壓榨機](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
 - [互動式卡通風 3D 星球](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
 - [地球圖鑑：生生不息的行星](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
 - [互動式 WebGPU 草莓蛋糕](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
@@ -80,8 +83,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### 動畫 · 22
+### 動畫 · 25
 
+- [SPARK — 繪畫風格 3D 動畫鏡頭](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
+- [音樂卡點 3D 球體下墜動畫影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
+- [互動式地震板塊構造沙盒影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
 - [30 秒品牌 3D 動態設計影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
 - [互動式串列生產線模擬實驗室](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [會走路的建築](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
@@ -102,8 +108,8 @@
 - [體素風格足球動畫](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
 - [互動式歐拉霓虹流體模擬](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Hundenberg 事故模型與逼真影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [自動運行的 3D 魯布・戈德堡機械](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [互動式人群疏散模擬](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
+- [自動運行的 3D 魯布・戈德堡機械](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [互動式人群疏散模擬](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 
 <a id="models"></a>
 
@@ -111,8 +117,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 51
+### Claude Opus 5.5 · 57
 
+- [SPARK — 繪畫風格 3D 動畫鏡頭](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
+- [音樂卡點 3D 球體下墜動畫影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
+- [果凍壓榨機](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
+- [單一 HTML 檔案中的回合制 ASCII Roguelike](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
+- [建立《權力遊戲》世界](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
+- [互動式地震板塊構造沙盒影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
 - [Blender 中的機械式魯布・戈德堡機械](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [使用 3JS 打造《Mario Kart》風格的賽車遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [互動式卡通風 3D 星球](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
@@ -157,12 +169,12 @@
 - [日式櫻花山谷互動式 3D 景觀網頁](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hundenberg 事故模型與逼真影片](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [以圖片為基礎的手球場 360 度 3D 渲染](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [從影像打造程序化 Three.js 3D 主選單背景](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [自動運行的 3D 魯布・戈德堡機械](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [互動式彼得兔風格農場動物遊戲](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [電影感互動式夕陽海盜船](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
-- [無限程序生成的 Three.js 世界](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
-- [互動式人群疏散模擬](../docs/catalog.zh-Hant.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
+- [從影像打造程序化 Three.js 3D 主選單背景](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [自動運行的 3D 魯布・戈德堡機械](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [互動式彼得兔風格農場動物遊戲](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [電影感互動式夕陽海盜船](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [無限程序生成的 Three.js 世界](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
+- [互動式人群疏散模擬](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [互動式 3D 史前島嶼](../docs/catalog.zh-Hant.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 

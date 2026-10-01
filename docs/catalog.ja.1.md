@@ -28,6 +28,12 @@
 <details>
 <summary>作例を見る (50)</summary>
 
+- [SPARK — 絵画調3Dアニメーションショット](#claude-opus-5-5-2105315982525014067)
+- [音楽に合わせて落下する3Dボールのリズムアニメーション動画](#claude-opus-5-5-2105302007896797351)
+- [ジェリープレス](#claude-opus-5-5-2105285992865272110)
+- [1つのHTMLファイルで動作するターン制ASCIIローグライク](#claude-opus-5-5-2105246199653482872)
+- [ゲーム・オブ・スローンズの世界を作成](#claude-opus-5-5-2105245648723562584)
+- [インタラクティブなテクトニック・サンドボックスによる地震映像](#claude-opus-5-5-2105029713445949521)
 - [Blenderで作る機械式ルーブ・ゴールドバーグ・マシン](#claude-opus-5-5-2104953406708175097)
 - [3JSでマリオカート風のレーシングゲームを作る](#claude-opus-5-5-2104947552328261810)
 - [インタラクティブな漫画風3D惑星](#claude-opus-5-5-2104919117262389255)
@@ -72,14 +78,438 @@
 - [日本の桜の谷を描くインタラクティブ3D景観Webページ](#claude-opus-5-5-2102565403109085669)
 - [Hundenbergの事故モデルとリアルな動画](#claude-opus-5-5-2102547809140355250)
 - [画像をもとにしたハンドボールコートの360度3Dレンダリング](#claude-opus-5-5-2102544406117286004)
-- [画像から作るプロシージャルなThree.js 3Dメインメニュー背景](#claude-opus-5-5-2102544196808667471)
-- [自走式3Dルーブ・ゴールドバーグ・マシン](#claude-opus-5-5-2102544078927741369)
-- [インタラクティブなピーターラビット風の農場動物ゲーム](#claude-opus-5-5-2102538762731565085)
-- [夕暮れを航海する映画的なインタラクティブ海賊船](#claude-opus-5-5-2102533729746882985)
-- [無限にプロシージャル生成されるThree.jsワールド](#claude-opus-5-5-2102529695908806728)
-- [インタラクティブな群集避難シミュレーション](#claude-opus-5-5-2102467667978572092)
 
 </details>
+<a id="claude-opus-5-5-2105315982525014067"></a>
+
+### SPARK — 絵画調3Dアニメーションショット
+
+[Shikhar](https://x.com/xikhar) · 2026-09-30 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105315982525014067"><img src="../assets/previews/7da249a323e787569b2c7ae8fb46f1ed0b7189f259dd6b6c44b90c434582546e.webp" width="840" loading="lazy" alt="SPARK — 絵画調3Dアニメーションショット"></a>
+
+**プロンプト**
+
+```text
+TITLE: 「SPARK」
+
+Forticheのアニメーション作品『Arcane』の絵画調スタイルによる、約15秒の3Dアニメーションショット。
+
+Blenderで制作する。より優れた結果が得られるなら、ほかのツールを使ってもよい。ワイドスクリーン、セリフなし。
+
+GOAL
+
+最優先事項は、あらゆる面でArcaneのビジュアルとアニメーションのスタイルを可能な限り完全に再現すること。視聴者が同じスタジオの作品だと信じるほどの仕上がりにする。
+
+必要な時間と労力を惜しまず、技法とルックを完全に再現する。あらゆる面で完璧になるよう、必要なだけ時間をかける。
+
+SCENE（大まかな案 — 自由にアレンジ可）
+
+小さな機械仕掛けの生き物（人型ではない。真鍮とクリスタルでできた蛾のようなもの）が、夜の散らかった発明家の作業台で目を覚ます。クリスタルの核に発光するエネルギーが灯り、火花の渦を巻き上げながら空中へ飛び立つ。スタイルをより効果的に見せられるなら、細部や構図、アクションは変更してよい。完全に別のものをアニメーションさせてもよい。自分が選んだもの、最も得意な方法でできるものなら何でもよいが、それもArcaneとまったく同じ見た目にする。
+
+PROCESS
+
+1. RESEARCH：何かを制作する前に、Arcaneのスタイルを徹底的に研究する。Forticheの技法に関する参考資料や分析（インタビュー、メイキング資料、アーティストによる解説）を探す。テクスチャ、シェーディング、線画、色、ライティング、フレームレート、エフェクト、カメラ、コンポジットなど、特徴を定義する要素をすべて書き出す。
+
+2. STYLE GUIDE：アニメーションを始める前に、研究内容を文章のチェックリストと小さなスタイルフレーム（静止画1枚）にまとめる。参考画像と横並びで比較し、一致するまで修正する。
+
+3. BUILD：チェックリストに従って、モデリング、テクスチャリング、ライティング、アニメーションを行う。
+
+4. REVIEW：Arcaneの参考画像とフレームを繰り返し比較する。見つけられる違いをすべて列挙し、修正する。目立った違いがなくなるまで繰り返す。
+
+一致させるSTYLE ELEMENTS（最低限）
+
+- すべての表面に筆跡が見える手描きテクスチャ。プロシージャルにも写真のようにも見せない。
+
+- 現実的な減衰ではなく、光と影の形状をデザインした、スタイライズされた絵画調のシェーディング。
+
+- キャラクターやオブジェクトは2コマ打ちでアニメーションさせ、力強いポーズ、キレのあるタイミング、予備動作、スミアフレームを取り入れる。カメラの動きは1コマ打ちで滑らかにする。
+
+- 火花、エネルギー、煙、きらめき、グローなどの手描き2Dエフェクトを3Dの上に重ねる。グラフィカルな形状表現で2コマ打ちのアニメーションにする。
+
+- 大胆でムードのある色使い。暖色の光と彩度の高い発光アクセント、豊かな色味の影、強いリムライト、ブルームを用いる。
+
+- 絵画調のコンポジット。筆のようなフィルタリング、グレイン、画像全体に施す繊細なテクスチャ。
+
+- シネマティックなカメラ。浅い被写界深度、意図的なカメラワーク、衝撃時の重量感。
+
+SOUND
+
+アクションとムードに合った、詳細でシネマティックなサウンドデザイン。
+
+アニメーション、モデル、テクスチャ、エフェクト、ライティング、サウンドのすべてを、可能な限り最高の品質にする。必要なツールやプログラムは何でも使う。オンラインで参考資料を研究し、技法を模倣したり、物をコピーしたりしてもよいが、自分で制作していないアセットを直接使用してはならない。3D、ペイント調テクスチャ、2Dエフェクトがひとつの手作り画像のように感じられるよう、ショット全体を一貫したひとつのスタイルに保つ。
+
+メモリや過去のチャットは使用しない。
+
+ほかのツール、プログラム、プラグインなど、文字どおり何でも使ってよい。手元にあるものはすべて活用する。
+
+ここで説明したものとは異なるプロセスを使ってもよいし、説明とは別のものをアニメーションさせてもよい。ただし、テレビアニメ『Arcane』に可能な限り近い見た目にすること。あらゆる面で完璧にし、同一のものにする。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+TITLE: "SPARK"
+
+An around 15-second 3D animated shot in the painterly style of the show Arcane (Fortiche).
+
+Made in Blender, or any other tool if superior. Widescreen, no dialogue.
+
+GOAL
+
+The top priority is replicating Arcane's visual and animation style as perfectly as possible, in every way. Someone watching should believe it came from the same studio.
+
+Take as much time and effort as needed. Replicate the technique and look perfectly. Spend as much time as needed, ensuring it's perfect in every way.
+
+SCENE (loose — adapt freely)
+
+A small mechanical creature (not humanoid), something like a brass-and-crystal moth, wakes up on a cluttered inventor's workbench at night. Its crystal core ignites with glowing energy, and it bursts into the air in a swirl of sparks. Change the details, framing, or action if something else shows off the style better. You can animate something else completely different if you want—anything you pick, whatever you can do best—that will also look identical to Arcane.
+
+PROCESS
+
+1. RESEARCH: Before building anything, study Arcane's style in depth. Find references and breakdowns of Fortiche's technique (interviews, making-of material, artist breakdowns). Write down every defining element: textures, shading, line work, color, lighting, frame rate, effects, camera, compositing.
+
+2. STYLE GUIDE: Turn that into a written checklist and a small style frame (a single still image) before animating. Compare it side by side with reference stills and revise until it matches.
+
+3. BUILD: Model, texture, light, and animate following the checklist.
+
+4. REVIEW: Compare frames against Arcane references repeatedly. List every difference you can see and fix it. Repeat until no noticeable differences remain.
+
+STYLE ELEMENTS TO MATCH (at minimum)
+
+- Hand-painted textures with visible brushstrokes on every surface; nothing looks procedural or photographic.
+
+- Stylized, painterly shading with designed light/shadow shapes, not realistic falloff.
+
+- Animation on 2s for characters/objects, with strong poses, snappy timing, anticipation, and smear frames; camera moves smooth on 1s.
+
+- Hand-drawn 2D effects (sparks, energy, smoke, glints, glow) layered over the 3D, animated on 2s with graphic shape language.
+
+- Bold, moody color: warm light vs. saturated glowing accents, rich colored shadows, strong rim light, bloom.
+
+- Painterly compositing: brush-like filtering, grain, subtle texture over the image.
+
+- Cinematic camera: shallow depth of field, purposeful movement, weight on impacts.
+
+SOUND
+
+Detailed, cinematic sound design that matches the action and mood.
+
+Make everything as good as possible: animation, models, textures, effects, lighting, and sound. Use any tools or programs needed. You may study references online and imitate techniques, and copy things, but do not directly use assets you did not create. Keep the whole shot in one consistent style so the 3D, painted textures, and 2D effects feel like a single hand-crafted image.
+
+Do not use memory or previous chats.
+
+You can use any other tools, programs, plugins, literally anything. Use anything at your disposal.
+
+You can use different processes than outlined in this, or animate something else than described, but it should absolutely look as close as possible to the TV show Arcane. Make it perfect in every way and identical.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105315982525014067) · [元の投稿](https://x.com/xikhar/status/2105317581695623329) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105302007896797351"></a>
+
+### 音楽に合わせて落下する3Dボールのリズムアニメーション動画
+
+[Gorden Sun](https://x.com/Gorden_Sun) · 2026-09-30 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105302007896797351"><img src="../assets/previews/8a408ff8433dd9544f35670200f922a0d16010b69df759f5f5da1637095de9d1.webp" width="840" loading="lazy" alt="音楽に合わせて落下する3Dボールのリズムアニメーション動画"></a>
+
+**プロンプト**
+
+```text
+音楽に合わせて落下する3Dボールのアニメーション動画。プロ品質のBlender作品に匹敵する表現を目指し、複数のクラシックなインストゥルメンタル曲を使用する。音楽に合わせてシーンを切り替え、3Dボールが落下しながらシーン内のオブジェクトで跳ね返り、曲のリズムに合わせてオブジェクトを点灯させる。ユーモアのある要素も加える。
+three.jsで制作し、Blenderは使用しない
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。
+使用three.js制作，不要使用Blender制作
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105302007896797351) · [元の投稿](https://x.com/Gorden_Sun/status/2105302007896797351) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105285992865272110"></a>
+
+### ジェリープレス
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · インタラクティブ
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105285992865272110"><img src="../assets/previews/1c9052a5ef5c853995f0d9f4b2eb04db81763a55200d5c29247447691071a5b0.webp" width="840" loading="lazy" alt="ジェリープレス"></a>
+
+**プロンプト**
+
+```text
+「Jelly Press」を作成してください。HTMLの単一ファイルで動作するインタラクティブな3D玩具とし、すべてのJS、CSS、WGSLシェーダーをインラインに記述します。外部アセットはGoogle Fonts以外使用しません。WebGPUでレンダリングし、WebGPUまたはアダプターが利用できない場合は、空白のページではなく明確なフォールバックメッセージを表示してください。
+
+CONCEPT
+スチール製の油圧プレス台に、フルーツの輪切りをかたどった半透明のグミジェリーを1つずつ載せます。プレイヤーが大きな赤いボタンを押し続けると、プレスが下がります。ジェリーは押しつぶされて広がり、圧力計の値が上昇し、高さが半分を少し超えたあたりで破裂して破片になります。破裂してもゲームは終了しません。破片をつかんで引っぱったり、投げたり、もう一度つぶしたりできます。
+
+ジェリーの種類（画面下部のチップ、キー1～4）
+1. スイカのくし形（半円盤状）：濃い赤色の果肉に黒い涙形の種、淡い色の皮の帯、緑の縞模様の外皮。
+2. オレンジの輪切り（半円盤状）：薄い白い膜で分かれたオレンジ色の果肉、淡い色の白皮、オレンジ色の皮。
+3. イチジクの半分：小さな金色の種が詰まったピンク色の果肉、クリーム色の層、濃い紫色の皮。
+4. パイナップルの輪切り：放射状の筋が入った黄金色の繊維質の果肉と中央の穴。
+各ジェリーは本物のグミキャンディのように見せます。表面下散乱、柔らかな半透明感、光沢のあるスペキュラハイライト、暖色系のスタジオ床（クリーム／ベージュ、トーンマッピング済み）に落ちる柔らかな影を使ってください。
+
+物理演算（CPU、固定60Hzステップ）
+- 8サブステップのXPBD四面体ソフトボディ。四面体ごとの共回転型形状マッチング、四面体ごとの体積拘束、エッジのひずみを0.35倍～1.8倍に制限するハードリミット、エッジ速度の減衰、クーロン摩擦による床面接触、転がり抵抗、ほぼ静止した際の穏やかな収束を実装します。
+- レンダリング用メッシュは、四面体へのバリセントリック埋め込みによってCPU上でスキニングします。法線は毎フレーム、三角形から再計算します。
+- プレス金型は、丸い可動プラテン（半径約1.05、丸みのある縁、厚みあり）と、その上のラムからなるキネマティックボディです。下側では摩擦のある天井、上側では棚、縁では側壁として機能させます。2本のプレス支柱はソリッドにします。
+- 圧力表示はプラテンの接触荷重から求め、フルーツごとにスケーリングします。
+
+破裂
+- ジェリーの高さの52～66%まで押しつぶしたランダムな時点で破断します。
+- 各ラウンド開始直後に、バックグラウンドで破砕を計画しておき、破裂自体は瞬時に行います。
+- 少し傾いた壁を持つ3Dボロノイセルから、5～7個の大きな破片を作ります。そのうち3～4個は、遠い角を2枚のカッティングプレーンで切り落とし、さらに2～4個の小さなチップに分割します。ギザギザで切れ込みのあるエッジが残るようにしてください。
+- 重心によって四面体をセルに割り当てます。チャンクごとにパーティクルを複製します。極小の島は隣接するチャンクに統合します。
+- 新しいボディには、元の位置と速度を引き継がせます。
+- 各セルの半空間に対してスキンの三角形をクリップし、すべての切断面をきれいな平面キャップで塞ぎます。キャップにはフルーツの内部（果肉、種、膜）が見えるようにします。引き伸ばされた三角形や穴は残さないでください。
+- 破片をプレスから外側かつ上方へ弾き飛ばします。小さなチップほど速く高く飛び、ランダムなスピンで回転します。
+- 大きな斜体の判定テキストを約2.5秒表示してからフェードアウトします。「べちゃっ。」（メロン）、「絞られた。」（オレンジ）、「まあ、ジャムだね。」（イチジク）、「つぶれた。」（パイナップル）。統計情報として「高さN%で、N barで力尽きました。」を表示します。
+
+破裂後：プレイモード
+- 選択は、スキニング済みメッシュに対するレイ／三角形テストで行います。タッチ操作には、画面空間上の許容範囲を広げたフォールバックを用います。
+- つかむと、つかんだパッチ（半径約0.4、そのチャンクに属するパーティクルのみ）を、カメラ正面を向くドラッグ平面上のターゲットにピン留めします。小さなチップは全体が動き、大きな破片はジェリーのように伸びたり揺れたりします。
+- 放すと、ポインターの速度を使って破片を投げます。
+- 破片同士は衝突します。あるパーティクルが別のチャンクの四面体内部に入った場合、そのチャンクに最も近いスキン面を通して押し出し、摩擦を適用します。ブロードフェーズにはチャンクのAABBと、スキン四面体の空間ハッシュを使います。
+- 破片がステージ上に留まるようにします。側壁に加え、何も操作パネルの下やカメラの背後に入り込まないよう、見えない手前側のエッジも設けます。
+- プレスは引き続き使用できます。押し続けると破片をもう一度つぶします（2回目の破裂はなし）。Raiseでプラテンを上げます。
+- 着地時には湿った「ポチャッ」という音、つかんだときには小さなグチャッという音を鳴らします。
+- カーソルは、破片の上では開いた手、ドラッグ中は握った手にします。何もない場所をドラッグするとカメラをオービット操作します。
+
+UI（エディトリアル、ミニマル）
+- 左上のマストヘッドに、太いコンデンス体の大文字で「JELLY PRESS」と表示します。「PRESS」は黄色と黒のハザードストライプで塗りつぶします。サブタイトルは「4つのグミ。1台の油圧プレス。」とします。
+- 右上にResetとSoundのトグルを配置します。
+- 画面下部のデッキ：
+  - 押している間、段階的に変化するキャプションを表示します：「接触。」→「大丈夫。ジェリーだから。」→「どんどん広がる。」→「もうパンケーキだ。」→「音がしてる。」→「お願い。」
+  - 赤いHOLDボタン、Raiseボタン、大きな数値のbar表示を囲む円形の圧力ダイヤル（0～400 barの目盛り、レッドゾーン）を配置します。
+  - アイコン付きのフルーツチップを配置します。
+- プレイモードでは、キャプション欄に「破片をつかんで、投げよう。」を表示し、その下に小さな「もう一度押す」「次のジェリー」ボタンを配置します。
+- 操作：SpaceまたはArrowDownを長押ししてプレス、ArrowUpで上昇、Rでリセット、1～4でフルーツを選択します。ホイールでズームし、ダブルクリックで視点をリセットします。
+- カメラは低いベンチ目線にします。プレスのフレームはフルーツごとにヨー回転させ、支柱がジェリーを遮らないようにします。ジェリーがマストヘッドとデッキの間に収まるよう構図を調整し、スマートフォンの縦画面ではより狭いステージで動作させます。
+
+サウンド（手続き型Web Audio、ファイルなし）
+圧力の上昇に合わせて高くなる油圧モーターのハム音、湿ったグチャグチャという音、高圧時にときどき鳴るきしみ音、プラテン停止時のバルブのガコンという音、大きな破裂音、着地時の柔らかなポチャッという音を、すべて手続き型で生成します。最初の操作でロックを解除します。
+
+品質基準
+- ノートPCで滑らかな60fps。
+- 他のフルーツのメッシュとシェーダーをバックグラウンドでウォームアップし、切り替えを瞬時にします。
+- prefers-reduced-motionを尊重します。
+- アクセシブルなラベル、role=meterを設定したゲージ、focus-visibleのアウトラインを用意します。
+- コンソールエラーを出さないでください。ページが空白になることは決してないようにします。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.
+
+CONCEPT
+Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.
+
+THE JELLIES (chips at the bottom, keys 1–4)
+1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin.
+2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel.
+3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin.
+4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle.
+Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).
+
+PHYSICS (CPU, fixed 60 Hz step)
+- XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still.
+- Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame.
+- The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid.
+- Pressure readout in bar comes from the platen's contact load, scaled per fruit.
+
+THE BURST
+- Break at a random squash between 52% and 66% of the jelly's height.
+- Plan the fracture in the background shortly after each round starts, so the burst itself is instant.
+- 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges.
+- Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours.
+- The new body adopts the old positions and velocities.
+- Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes.
+- Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin.
+- Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."
+
+AFTER THE BURST: PLAY MODE
+- Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch.
+- Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly.
+- Releasing throws the piece with the pointer's velocity.
+- Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets.
+- Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera.
+- The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen.
+- Wet "plop" sounds on landings; a small squelch on grab.
+- Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.
+
+UI (editorial, minimal)
+- Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press."
+- Top-right: Reset and Sound toggle.
+- Bottom deck:
+  - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."
+  - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.
+  - Fruit chips with icons.
+- In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons.
+- Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view.
+- Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.
+
+SOUND (procedural Web Audio, no files)
+Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.
+
+QUALITY BAR
+- Smooth 60 fps on a laptop.
+- Background warm-up of the other fruits' meshes and shaders so switching is instant.
+- Respect prefers-reduced-motion.
+- Accessible labels, a gauge with role=meter, focus-visible outlines.
+- No console errors. The page never goes blank.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105285992865272110) · [元の投稿](https://x.com/vib3coded/status/2105286092651999619) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105246199653482872"></a>
+
+### 1つのHTMLファイルで動作するターン制ASCIIローグライク
+
+[kriptoleidi](https://x.com/kriptoleidi) · 2026-09-30 · Claude Opus 5.5 · ゲーム
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105246199653482872"><img src="../assets/previews/22015a3875b380ec196cfce48391822fce0993123cc09a30805cfa9d39c59d6d.webp" width="840" loading="lazy" alt="1つのHTMLファイルで動作するターン制ASCIIローグライク"></a>
+
+**プロンプト**
+
+```text
+リードゲームデザイナーとして振る舞ってください。外部依存なしで、完全なターン制ASCIIローグライクを1つの自己完結型HTML/JS/CSSファイルに実装してください。
+1. ビジュアル：1980年代のCRTモニター。黒地に蛍光グリーンのテキスト（#00FF66）を表示し、柔らかな走査線のグローを加えます。
+2. プロシージャル生成：40×22のマップに、互いにつながった部屋と通路を配置します。
+3. エンティティ：@はヒーロー、#は壁、.は床、gはゴブリン（HP 5）、$はゴールド、>は下り階段を表します。
+4. ゲームシステム：ターン制の移動と戦闘を実装し、HPとゴールドを記録します。
+5. HUD：フロア番号、HPバー、戦闘ログを表示します。パーマデスと再スタート機能を実装します。
+動作するHTMLコードのみを出力してください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Act as a lead game designer. Build a complete, turn-based ASCII roguelike in a single self-contained HTML/JS/CSS file with zero external dependencies.
+1. Visual: 1980s CRT monitor, phosphor green text (#00FF66) on black, soft scanline glow.
+2. Procedural generation: 40x22 map, connected rooms and corridors.
+3. Entities: @ hero, # wall, . floor, g goblin (5 HP), $ gold, > stairs down.
+4. Mechanics: turn-based movement and combat, track HP and gold.
+5. HUD: floor number, HP bar, combat log. Permadeath with restart.
+Output only the working HTML code.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105246199653482872) · [元の投稿](https://x.com/kriptoleidi/status/2105246199653482872) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105245648723562584"></a>
+
+### ゲーム・オブ・スローンズの世界を作成
+
+[DrstaOne](https://x.com/DrstaOne) · 2026-09-30 · Claude Opus 5.5 · シーン
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105245648723562584"><img src="../assets/previews/308efa3c984e3a56385f5fd6cb72e5ffff65a59480859f3fae2042a978e77bd6.webp" width="840" loading="lazy" alt="ゲーム・オブ・スローンズの世界を作成"></a>
+
+**プロンプト**
+
+```text
+&lt;ゲーム・オブ・スローンズの世界を作成&gt;
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+&lt;create Game of thrones world&gt;
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105245648723562584) · [元の投稿](https://x.com/DrstaOne/status/2105245648723562584) · [作例一覧に戻る](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105029713445949521"></a>
+
+### インタラクティブなテクトニック・サンドボックスによる地震映像
+
+[Ege](https://x.com/egeberkina) · 2026-09-29 · Claude Opus 5.5 · アニメーション
+
+<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105029713445949521"><img src="../assets/previews/31a603bc161c6c0c589580174e537eed262b60fb2d17221c7e3e534e559eaec6.webp" width="840" loading="lazy" alt="インタラクティブなテクトニック・サンドボックスによる地震映像"></a>
+
+**プロンプト**
+
+```text
+インタラクティブなテクトニック・サンドボックスを通して、地震がどのように起きるのかを解説する、映像的に魅力的な60秒の動画を制作してください。
+
+スライドショーや従来型の教育動画ではなく、美しいリアルタイムシミュレーションを誰かが探索している様子を見ているような感覚にしてください。
+
+まず、地殻のクリーンな3D断面図から始めます。2つのプレートがゆっくりと押し合うように動きます。プレート間の断層を可視化し、摩擦によってプレートの動きがロックされ、応力が徐々に蓄積していく様子を見せてください。
+
+圧力が高まるにつれてシミュレーションの緊張感を強めます。岩盤の層が変形し、応力の集中域が発光し、微細な振動が始まり、リアルタイムの地震計が反応し始めます。
+
+続いて地震を発生させます。断層が突然ずれて、大規模なエネルギーの爆発的な放出が起こります。地中を通って外側へ広がる地震波を見せ、その後、地表へと移行して、地形と小さな都市が揺れ始める様子を描いてください。
+
+P波とS波が地球内部をそれぞれ異なる形で伝わり、その後に最も強い表面波が到達する様子を可視化してください。震央からの距離に応じて、建物が異なる反応を示すようにしてください。
+
+最後は地下へズームバックし、断層周辺で発生する小規模な余震を見せてから、さらに引いてテクトニックシステム全体を表示します。
+
+シネマティックなモーショングラフィックス、説得力のある物理シミュレーション、ドラマチックなスケール変化、プレミアムな3D科学ビジュアライゼーション、最小限のタイポグラフィ、動的なラベル、滑らかなUIオーバーレイ、シームレスなトランジションを使用してください。
+
+数秒ごとに新しい発見があるよう、ペースを絶えず変化させ、60秒全体を通して視覚的な面白さを維持してください。
+
+Apple品質のインタラクティブな科学ビジュアライゼーションを、シネマティックなモーションデザイン動画に仕上げたような印象にしてください。
+```
+
+<details>
+<summary>作者の元のプロンプト</summary>
+
+```text
+Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.
+
+Make it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.
+
+Start with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.
+
+As pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.
+
+Then trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.
+
+Visualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.
+
+End by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.
+
+Use cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.
+
+The pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.
+
+Make it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.
+```
+
+</details>
+
+[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2105029713445949521) · [元の投稿](https://x.com/egeberkina/status/2105029713445949521) · [作例一覧に戻る](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104953406708175097"></a>
 
 ### Blenderで作る機械式ルーブ・ゴールドバーグ・マシン
@@ -2492,226 +2922,6 @@ make me a model of the Hundenberg on blender make me a realistic video of the ac
 ```
 
 [詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544406117286004) · [元の投稿](https://x.com/chikaidev/status/2102545257372213581) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544196808667471"></a>
-
-### 画像から作るプロシージャルなThree.js 3Dメインメニュー背景
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="画像から作るプロシージャルなThree.js 3Dメインメニュー背景"></a>
-
-**参照画像:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
-
-**プロンプト**
-
-```text
-この画像を完全に再現した、プロシージャル生成によるアニメーション対応のThree.js 3Dメインメニュー背景を、単一のHTMLファイルで作成してください
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544196808667471) · [元の投稿](https://x.com/majidmanzarpour/status/2102544198335373576) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544078927741369"></a>
-
-### 自走式3Dルーブ・ゴールドバーグ・マシン
-
-[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="自走式3Dルーブ・ゴールドバーグ・マシン"></a>
-
-**プロンプト**
-
-```text
-現在のディレクトリに、単一の自己完結型index.htmlとして、自動で動作する3Dルーブ・ゴールドバーグ・マシンを構築してください。
-
-連鎖の順序：
-1. 最上部でビー玉を放し、ジグザグ状に連なるスロープを転がり落とします。
-2. ビー玉が少なくとも12個のドミノを一列に倒します。
-3. 最後のドミノがシーソーを傾け、小さなボールを吊り下げられたバケツに向けて発射します。
-4. バケツの重さでバケツが下がり、ロープが滑車を通ってベルを引っ張り、ベルが目に見えて揺れます。
-5. 同じ動きで旗をポールの上へ引き上げます。旗が頂点に達したら完了です。
-
-ルール：
-- 物理演算は自分で実装してください。物理演算ライブラリは使用しないでください。ビー玉を放した後のあらゆる動きは、シミュレーション（剛体、衝突、拘束、ロープ／滑車）によって発生する必要があります。機械の各部品をキーフレームアニメーションやトゥイーンで動かしてはいけません。
-- レンダリング用にCDNからthree.jsを読み込むことは許可します。それ以外の外部要素は使用しないでください。画像、モデル、フォントも使用禁止です。
-- ユーザー入力なしで動作する必要があります。ページの読み込み時に自動開始し、アクションを追従するシネマティックカメラを使い、連鎖全体を約15～20秒で完了させてください。旗が上がった後は2秒間停止し、その後リセットして再生します。
-- 決定論的に動作させてください。固定タイムステップを使用し、シード未指定の乱数は使わないでください。毎回同じ見た目になる必要があります。
-- ブラウザウィンドウ全体に表示してください。1280×720で画面録画されます。
-- 画面上のテキストやUIは一切表示しないでください。
-- 照明、影、マテリアル、実在の装置らしさを感じさせる舞台設定を用いて、見栄えよく仕上げてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
-
-The chain, in order:
-1. A marble is released at the top and rolls down a series of zig-zag ramps.
-2. It knocks over a line of at least 12 dominoes.
-3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
-4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
-5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
-
-Rules:
-- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
-- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
-- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
-- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
-- Fill the browser window. It will be screen-recorded at 1280×720.
-- No on-screen text or UI of any kind.
-- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102544078927741369) · [元の投稿](https://x.com/leogao25/status/2102544081863717153) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102538762731565085"></a>
-
-### インタラクティブなピーターラビット風の農場動物ゲーム
-
-[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="インタラクティブなピーターラビット風の農場動物ゲーム"></a>
-
-**プロンプト**
-
-```text
-「ピーターラビット」のデザイン／アートスタイルで、インタラクティブな農場動物ゲームを作成する
-メインメニュー＝サウンドのオン／オフ＋動物選択（馬、ブタ、ウシ、ネコ、イヌ）
-Esc＝一時停止：スポーン地点／メインメニューに戻る／リセット
-WASDで移動
-スペースキーでジャンプし、近くにいる他の動物とインタラクト
-近接検知時にインタラクションをランダムで発生させる
-インタラクションでは、他の動物に声をかける（その動物の通常の鳴き声とは異なる固有の音）、「ちょん」と触れる
-水場では水を飲め、干し草を食べられ、果物を食べられる。
-三人称視点。ただし、カメラは動物のやや後方かつ上方にあるようにする
-環境音として鳥の声を入れ、空には飛行機がランダムに現れる
-舞台＝農地、納屋、家々のある農村（家の中には入れない）
-目を引くのに十分なアセットを用意するが、プロダクション品質とみなされるほど作り込みすぎない。娘と15分ほど遊んで楽しむためのもの
-react、svg、js、webgl、threejsなど、手触りを良くするために必要なものは何でも使う」
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
-main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
-esc = pause: reset back to spawn/main menu/
-wasd to move around
-spacebar to jump and to interact with other animals when near
-interactions are randomized upon proximity detection
-interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
-interactible with: water to drink, hay to eat, fruit to eat. 
-3rd person but as if the camera was slightly behind the animal and above it
-ambience animals are birds, airplanes in the sky (randomly)
-setting= farmland, barn, farming village with houses (cant enter houses)
-Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
-react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102538762731565085) · [元の投稿](https://x.com/blaso96/status/2102538764749037738) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102533729746882985"></a>
-
-### 夕暮れを航海する映画的なインタラクティブ海賊船
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · シーン
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="夕暮れを航海する映画的なインタラクティブ海賊船"></a>
-
-**プロンプト**
-
-```text
-夕暮れのダイナミックな海を航海する、完全にインタラクティブな3D海賊船シーンをゼロから作成してください。ビジュアルスタイルはフォトリアルではなく、映画的でスタイライズされたものにしつつ、非常に豊かで精密、洗練され、視覚的にも高度な表現にしてください。船、海、空、ライティング、マテリアル、帆、リギング、大砲、細かな構造物、波しぶき、航跡、パーティクル、アニメーション、カメラワーク、構図、大気遠近、カラーグレーディングを構築してください。最終結果は、プロトタイプや技術デモ、低品質なシーンではなく、プレミアムで本格的な制作による3Dアート作品として感じられるものにしてください。完全に白紙のページから開始してください。以前のプロジェクトやシーンを再利用したり、それらに依存したりしないでください。必要に応じて、アセットや信頼できるオープンソースのアセット、ライブラリを自作または利用してかまいません。必須要件：シーン内のどこにも、いかなる種類のテキストも表示してはいけません。どの言語であっても、タイトル、名前、ロゴ、説明、クレジット、ラベル、操作説明を表示しないでください。プロジェクト全体を、ウェブブラウザで直接開ける単一の最終スタンドアロンページファイルとして納品し、可能な限りアセットをファイル内に埋め込んでください。海、船、帆、カメラはすべて、自然で滑らかにアニメーションさせてください。不自然なスローモーションや動きの鈍さは避けてください。船が本当に水上を進んでいるように感じられるものにしてください。完成形に単純なプリミティブ形状だけを使わないでください。形状を丁寧に作り込んだ船体、マスト、帆、リギング、ロープ、大砲、手すり、ランタン、甲板上の構造物、細部まで明確に見える要素を備えた、説得力のある精密な海賊船を構築してください。ライティングによって船の形状とマテリアルが明確に見えるようにしてください。豊かな夕焼けの空気感、深みのある海のシェーディング、反射、説得力のある波しぶき、船の後方と周囲に広がる精細な航跡を作成してください。ビジュアル品質とリアルタイム性能のバランスを適切に保ち、品質を明らかに犠牲にすることなく、滑らかなインタラクションとアニメーションを維持してください。最高の結果を実現するために必要な、最適なスキル、ツール、ライブラリ、技法、利用可能なアセットを自動的に使用してください。使用するテクノロジーの指定を私に求めて待たないでください。完成した結果を実際にデスクトップのウェブブラウザでテストしてください。画面のスクリーンショットを撮影し、ブラウザコンソールのエラーを確認して、見つかったすべての視覚的または技術的な問題を修正してください。これには、歪んだジオメトリ、黒い画面、アセットの読み込み失敗、壊れたアニメーション、不適切な構図、レンダリングアーティファクト、カメラの問題などが含まれます。最後に、最終ファイルが直接開いて正常に動作すること、シーンにテキストが一切含まれていないこと、実行時エラーや読み込みエラーが残っていないことを確認してください。その後は、短い返答だけでタスクを完了してください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102533729746882985) · [元の投稿](https://x.com/vib3coded/status/2102534606121746589) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102529695908806728"></a>
-
-### 無限にプロシージャル生成されるThree.jsワールド
-
-[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · ゲーム
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="無限にプロシージャル生成されるThree.jsワールド"></a>
-
-**プロンプト**
-
-```text
-projectsフォルダに「endless-game」という新規プロジェクトを作成してください。ブラウザ上で動作するThree.js製の、無限にプロシージャル生成される世界を構築し、自由に歩き回って楽しめるようにしてください。エリアはすべてランダム生成とし、どれだけ長くプレイしても至る所で新しい驚きが見つかるようにします。スーパーマーケットシミュレーターのような、穏やかでリラックスでき、本当に楽しい、居心地のよい満足感のある雰囲気にしてください。ただし、スーパーマーケットを題材にしたゲームにはしないでください。歩き回るだけでも興味深い世界を作り、出会って交流できる存在や、非常に魅力的なグラフィックを盛り込んでください。プロジェクトの明確な目標を設定し、それを達成するまで作業を続け、完成してプレイとテストができる状態になったらチャイム音を鳴らしてください。
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102529695908806728) · [元の投稿](https://x.com/argofowl/status/2102529695908806728) · [作例一覧に戻る](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### インタラクティブな群集避難シミュレーション
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · アニメーション
-
-<a href="https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="インタラクティブな群集避難シミュレーション"></a>
-
-**プロンプト**
-
-```text
-インタラクティブな群集避難シミュレーションを作成し、どこで詰まるか確認する
-```
-
-<details>
-<summary>作者の元のプロンプト</summary>
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-</details>
-
-[詳細を見る ↗](https://www.tripo3d.ai/ja/3d-prompts/claude-opus-5-5-2102467667978572092) · [元の投稿](https://x.com/dominikmartn/status/2102467667978572092) · [作例一覧に戻る](#all-prompts)
 
 ---
 

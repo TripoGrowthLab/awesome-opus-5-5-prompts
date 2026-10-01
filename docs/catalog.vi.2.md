@@ -26,11 +26,237 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Khám phá ví dụ (1)</summary>
+<summary>Khám phá ví dụ (7)</summary>
 
+- [Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh](#claude-opus-5-5-2102544196808667471)
+- [Cỗ máy Rube Goldberg 3D tự vận hành](#claude-opus-5-5-2102544078927741369)
+- [Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit](#claude-opus-5-5-2102538762731565085)
+- [Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn](#claude-opus-5-5-2102533729746882985)
+- [Thế giới Three.js vô tận được tạo thủ tục](#claude-opus-5-5-2102529695908806728)
+- [Mô phỏng sơ tán đám đông tương tác](#claude-opus-5-5-2102467667978572092)
 - [Hòn đảo tiền sử 3D tương tác](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102544196808667471"></a>
+
+### Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh"></a>
+
+**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
+
+**Prompt**
+
+```text
+tái tạo hình ảnh này một cách hoàn hảo thành nền menu chính 3D bằng Three.js, hoàn toàn procedural và có hoạt ảnh, trong một tệp HTML duy nhất
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544196808667471) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2102544198335373576) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544078927741369"></a>
+
+### Cỗ máy Rube Goldberg 3D tự vận hành
+
+[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Cỗ máy Rube Goldberg 3D tự vận hành"></a>
+
+**Prompt**
+
+```text
+Xây dựng một cỗ máy Rube Goldberg 3D tự vận hành dưới dạng một tệp index.html độc lập duy nhất trong thư mục hiện tại.
+
+Chuỗi hoạt động theo thứ tự:
+1. Một viên bi được thả từ trên cao và lăn xuống một loạt đường dốc ziczac.
+2. Viên bi làm đổ một hàng gồm ít nhất 12 quân đôminô.
+3. Quân đôminô cuối cùng làm nghiêng bập bênh, phóng một quả bóng nhỏ vào chiếc xô treo.
+4. Trọng lượng của chiếc xô kéo xô đi xuống; dây của xô vắt qua một ròng rọc và giật chuông, khiến chuông đung đưa rõ ràng.
+5. Cùng chuyển động đó kéo một lá cờ lên cột. Lá cờ chạm đỉnh là điểm kết thúc.
+
+Quy tắc:
+- Tự viết hệ vật lý, không dùng thư viện vật lý. Mọi chuyển động sau khi viên bi được thả phải xuất phát từ mô phỏng của bạn (vật thể cứng, va chạm, ràng buộc, dây và ròng rọc). Không dùng hoạt ảnh keyframe hoặc chuyển động tween cho bất kỳ bộ phận nào của máy.
+- Bạn có thể tải three.js từ CDN để kết xuất. Không được dùng bất kỳ tài nguyên bên ngoài nào khác: không hình ảnh, mô hình hay phông chữ.
+- Máy phải chạy mà không cần người dùng tương tác: tự động bắt đầu khi tải trang, sử dụng camera điện ảnh bám theo diễn biến và hoàn tất toàn bộ chuỗi trong khoảng 15–20 giây. Khi cờ đã được kéo lên, giữ nguyên trong 2 giây, sau đó đặt lại và phát lại.
+- Tính xác định: dùng bước thời gian cố định và không sử dụng tính ngẫu nhiên chưa khởi tạo seed, để mọi lần chạy đều giống nhau.
+- Hiển thị vừa toàn bộ cửa sổ trình duyệt. Nội dung sẽ được quay màn hình ở độ phân giải 1280×720.
+- Không hiển thị chữ hoặc bất kỳ giao diện người dùng nào trên màn hình.
+- Hãy tạo hình ảnh đẹp mắt: có ánh sáng, đổ bóng, vật liệu và bối cảnh khiến cỗ máy giống một cơ cấu thật.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544078927741369) · [Bài đăng gốc](https://x.com/leogao25/status/2102544081863717153) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102538762731565085"></a>
+
+### Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit
+
+[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit"></a>
+
+**Prompt**
+
+```text
+"Tạo một trò chơi tương tác về các con vật trong nông trại, sử dụng phong cách thiết kế/nghệ thuật của "Peter Rabbit"
+menu chính = bật/tắt âm thanh + chọn con vật (ngựa, lợn, bò, mèo, chó)
+esc = tạm dừng: đặt lại về điểm xuất phát/menu chính/
+dùng WASD để di chuyển
+phím cách để nhảy và tương tác với các con vật khác khi ở gần
+các tương tác được ngẫu nhiên hóa khi phát hiện ở gần
+có thể phát ra âm thanh với con vật kia (khác với âm thanh thụ động của chúng), kiểu "chạm nhẹ vào chúng"
+có thể tương tác với: nước để uống, cỏ khô để ăn, trái cây để ăn. 
+góc nhìn người thứ ba, nhưng camera ở hơi phía sau và phía trên con vật
+âm thanh nền gồm tiếng chim và máy bay thỉnh thoảng xuất hiện trên bầu trời (ngẫu nhiên)
+bối cảnh = vùng nông trại, chuồng ngựa, làng quê với các ngôi nhà (không thể vào nhà)
+Có đủ tài sản để thu hút sự chú ý, nhưng không cần nhiều đến mức phải đạt tiêu chuẩn sản xuất chuyên nghiệp; dự án này chỉ nhằm dành 15 phút trong ngày để tôi và con gái cùng vui chơi
+react, svg, js, webgl, threejs, hoặc bất cứ thứ gì cần thiết để trò chơi có cảm giác "mượt mà, thú vị""
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102538762731565085) · [Bài đăng gốc](https://x.com/blaso96/status/2102538764749037738) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102533729746882985"></a>
+
+### Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn"></a>
+
+**Prompt**
+
+```text
+Tạo từ đầu một cảnh 3D tương tác hoàn toàn về một con tàu cướp biển đang vượt qua đại dương chuyển động dưới ánh hoàng hôn. Phong cách hình ảnh cần mang tính điện ảnh và cách điệu thay vì chân thực như ảnh chụp, nhưng vẫn phải cực kỳ phong phú, chi tiết, chỉn chu và tinh tế về mặt thị giác. Hãy xây dựng con tàu, đại dương, bầu trời, ánh sáng, vật liệu, cánh buồm, hệ thống dây chằng, đại bác, các chi tiết kết cấu nhỏ, bọt biển, vệt sóng, hạt, chuyển động, cách bố trí camera, bố cục, chiều sâu khí quyển và hiệu chỉnh màu. Kết quả cuối cùng phải tạo cảm giác như một tác phẩm 3D cao cấp, được sản xuất công phu, không phải nguyên mẫu, bản trình diễn kỹ thuật hay cảnh chất lượng thấp. Bắt đầu từ một trang hoàn toàn trống. Không sử dụng lại hoặc phụ thuộc vào bất kỳ dự án hay cảnh nào trước đó. Bạn có thể tự tạo các tài sản hoặc khi cần thì sử dụng tài sản và thư viện mã nguồn mở đáng tin cậy. Các yêu cầu bắt buộc: Không được xuất hiện bất kỳ loại văn bản nào ở bất cứ đâu trong cảnh. Không có tiêu đề, tên, logo, mô tả, ghi công, nhãn hoặc hướng dẫn điều khiển bằng bất kỳ ngôn ngữ nào. Bàn giao toàn bộ dự án dưới dạng một tệp trang độc lập duy nhất có thể mở trực tiếp trong trình duyệt web, với các tài sản được nhúng vào tệp trong phạm vi hợp lý nhất có thể. Đại dương, con tàu, cánh buồm và camera đều phải chuyển động tự nhiên, mượt mà. Tránh chuyển động chậm nhân tạo hoặc ì ạch. Con tàu phải tạo cảm giác thực sự đang di chuyển trên mặt nước. Không dùng các hình khối nguyên thủy làm kết quả hoàn thiện. Hãy xây dựng một con tàu cướp biển thuyết phục về hình ảnh và giàu chi tiết, bao gồm thân tàu được tạo hình cẩn thận, cột buồm, cánh buồm, hệ thống dây chằng, dây thừng, đại bác, lan can, đèn lồng, các cấu trúc trên boong và những chi tiết nhỏ dễ nhìn thấy. Ánh sáng phải làm nổi bật rõ hình học và vật liệu của con tàu. Tạo không khí hoàng hôn phong phú, đổ bóng đại dương có chiều sâu, phản chiếu, bọt biển thuyết phục và vệt sóng chi tiết phía sau cũng như xung quanh con tàu. Duy trì sự cân bằng hợp lý giữa chất lượng hình ảnh và hiệu năng thời gian thực, đảm bảo tương tác và chuyển động mượt mà mà không phải hy sinh chất lượng một cách rõ rệt. Tự động sử dụng các kỹ năng, công cụ, thư viện, kỹ thuật và tài sản hiện có phù hợp nhất để đạt kết quả tốt nhất. Không chờ tôi chỉ định nên sử dụng công nghệ nào. Hãy thực sự kiểm thử kết quả hoàn thiện trong trình duyệt web trên máy tính. Chụp ảnh màn hình, kiểm tra console của trình duyệt để tìm lỗi và khắc phục mọi vấn đề về hình ảnh hoặc kỹ thuật mà bạn phát hiện, bao gồm hình học bị biến dạng, màn hình đen, lỗi tải tài sản, chuyển động bị hỏng, bố cục kém, lỗi kết xuất hoặc vấn đề về camera. Cuối cùng, xác minh rằng tệp hoàn thiện có thể mở và hoạt động trực tiếp, cảnh hoàn toàn không có văn bản và không còn lỗi runtime hoặc lỗi tải nào. Sau đó kết thúc tác vụ chỉ bằng một phản hồi ngắn.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102533729746882985) · [Bài đăng gốc](https://x.com/vib3coded/status/2102534606121746589) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102529695908806728"></a>
+
+### Thế giới Three.js vô tận được tạo thủ tục
+
+[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="Thế giới Three.js vô tận được tạo thủ tục"></a>
+
+**Prompt**
+
+```text
+tạo một dự án mới trong thư mục projects của tôi với tên "endless-game": một thế giới vô tận được tạo thủ tục bằng three.js và chạy trên trình duyệt, để tôi có thể tự do khám phá và tận hưởng. Mỗi khu vực đều phải được tạo ngẫu nhiên, với những điều bất ngờ xuất hiện ở khắp nơi dù tôi chơi bao lâu. Trải nghiệm cần mang lại cảm giác yên bình, thư giãn và thực sự thú vị, giống bầu không khí ấm cúng, thỏa mãn của một game mô phỏng siêu thị, nhưng không được biến thành game siêu thị. Tôi muốn có một thế giới thật hấp dẫn để đi bộ khám phá, với các thực thể mà tôi có thể gặp gỡ và tương tác, cùng phần đồ họa thật ấn tượng. Hãy đặt ra một mục tiêu rõ ràng cho dự án, tiếp tục làm việc cho đến khi đạt được mục tiêu đó, rồi phát âm thanh báo hiệu khi mọi thứ hoàn tất và sẵn sàng để tôi chơi thử.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102529695908806728) · [Bài đăng gốc](https://x.com/argofowl/status/2102529695908806728) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102467667978572092"></a>
+
+### Mô phỏng sơ tán đám đông tương tác
+
+[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Mô phỏng sơ tán đám đông tương tác"></a>
+
+**Prompt**
+
+```text
+Xây dựng một mô phỏng sơ tán đám đông tương tác và xem những nơi xảy ra ùn tắc
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+build an interactive crowd evacuation sim and see where it jams
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102467667978572092) · [Bài đăng gốc](https://x.com/dominikmartn/status/2102467667978572092) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102450239923720440"></a>
 
 ### Hòn đảo tiền sử 3D tương tác

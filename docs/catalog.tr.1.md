@@ -28,6 +28,12 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [SPARK — Ressamvari 3B Animasyon Sahnesi](#claude-opus-5-5-2105315982525014067)
+- [Ritme senkronize 3D küre düşüş animasyonu videosu](#claude-opus-5-5-2105302007896797351)
+- [Jöle Presi](#claude-opus-5-5-2105285992865272110)
+- [Tek bir HTML dosyasında sıra tabanlı ASCII roguelike](#claude-opus-5-5-2105246199653482872)
+- [Game of Thrones dünyası oluştur](#claude-opus-5-5-2105245648723562584)
+- [Etkileşimli tektonik deprem simülasyonu videosu](#claude-opus-5-5-2105029713445949521)
 - [Blender’da mekanik Rube Goldberg makinesi](#claude-opus-5-5-2104953406708175097)
 - [3JS ile Mario Kart tarzı yarış oyunu oluşturun](#claude-opus-5-5-2104947552328261810)
 - [Etkileşimli çizgi film tarzında 3B gezegen](#claude-opus-5-5-2104919117262389255)
@@ -72,14 +78,438 @@
 - [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](#claude-opus-5-5-2102565403109085669)
 - [Hundenberg kaza modeli ve gerçekçi video](#claude-opus-5-5-2102547809140355250)
 - [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](#claude-opus-5-5-2102544406117286004)
-- [Bir görselden prosedürel Three.js 3B ana menü arka planı](#claude-opus-5-5-2102544196808667471)
-- [Kendi kendine çalışan 3B Rube Goldberg makinesi](#claude-opus-5-5-2102544078927741369)
-- [Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu](#claude-opus-5-5-2102538762731565085)
-- [Gün batımında sinematik, etkileşimli korsan gemisi](#claude-opus-5-5-2102533729746882985)
-- [Sonsuz, prosedürel olarak oluşturulan Three.js dünyası](#claude-opus-5-5-2102529695908806728)
-- [Etkileşimli kalabalık tahliye simülasyonu](#claude-opus-5-5-2102467667978572092)
 
 </details>
+<a id="claude-opus-5-5-2105315982525014067"></a>
+
+### SPARK — Ressamvari 3B Animasyon Sahnesi
+
+[Shikhar](https://x.com/xikhar) · 2026-09-30 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105315982525014067"><img src="../assets/previews/7da249a323e787569b2c7ae8fb46f1ed0b7189f259dd6b6c44b90c434582546e.webp" width="840" loading="lazy" alt="SPARK — Ressamvari 3B Animasyon Sahnesi"></a>
+
+**İstem**
+
+```text
+BAŞLIK: "SPARK"
+
+Arcane (Fortiche) dizisinin ressamvari stilinde, yaklaşık 15 saniyelik bir 3B animasyon sahnesi.
+
+Blender'da veya daha üstün sonuç verecek başka bir araçta hazırlayın. Geniş ekran, diyalog yok.
+
+GOAL
+
+En öncelikli hedef, Arcane'in görsel ve animasyon stilini her açıdan olabildiğince kusursuz biçimde yeniden üretmek. İzleyen kişi, bunun aynı stüdyodan çıktığına inanmalı.
+
+Gerektiği kadar zaman ve emek harcayın. Tekniği ve görünümü kusursuz biçimde yeniden üretin. Her açıdan mükemmel olduğundan emin olmak için gerektiği kadar çalışın.
+
+SAHNE (taslak — özgürce uyarlayın)
+
+Küçük, mekanik ve insansı olmayan bir yaratık — pirinç ve kristalden bir güveye benzer — geceleri dağınık bir mucidin çalışma tezgâhında uyanır. Kristal çekirdeği parlayan bir enerjiyle etkinleşir ve kıvılcım girdabının içinde havaya fırlar. Başka bir şey stilin özelliklerini daha iyi ortaya koyacaksa ayrıntıları, kadrajı veya aksiyonu değiştirin. İsterseniz tamamen farklı bir şeyi de canlandırabilirsiniz — seçtiğiniz herhangi bir şeyi, en iyi yapabildiğiniz neyse onu — yeter ki Arcane ile aynı görünsün.
+
+PROCESS
+
+1. ARAŞTIRMA: Herhangi bir şey oluşturmadan önce Arcane'in stilini derinlemesine inceleyin. Fortiche'in tekniğine dair referanslar ve analizler bulun (röportajlar, yapım süreci materyalleri, sanatçı analizleri). Belirleyici her unsuru not alın: dokular, gölgelendirme, çizgi çalışması, renk, ışık, kare hızı, efektler, kamera ve kompozit.
+
+2. STİL KILAVUZU: Animasyona başlamadan önce bunları yazılı bir kontrol listesine ve küçük bir stil karesine (tek bir sabit görüntü) dönüştürün. Referans sabit görüntüleriyle yan yana karşılaştırın ve eşleşene kadar gözden geçirip düzeltin.
+
+3. OLUŞTURMA: Kontrol listesini izleyerek modelleyin, dokulayın, ışıklandırın ve animasyonunu hazırlayın.
+
+4. İNCELEME: Kareleri Arcane referanslarıyla tekrar tekrar karşılaştırın. Fark edebildiğiniz her farkı listeleyip düzeltin. Fark edilir hiçbir fark kalmayana kadar tekrarlayın.
+
+EŞLEŞTİRİLECEK STİL UNSURLARI (en azından)
+
+- Her yüzeyde görünür fırça darbeleri bulunan el boyaması dokular; hiçbir şey prosedürel veya fotoğrafik görünmemeli.
+
+- Gerçekçi ışık geçişleri yerine tasarlanmış ışık/gölge şekillerine sahip, stilize ve ressamvari gölgelendirme.
+
+- Karakterler/nesneler için 2'li karelerde animasyon; güçlü pozlar, canlı zamanlama, hazırlık hareketleri ve smear kareleri. Kamera hareketleri ise 1'li karelerde akıcı olmalı.
+
+- 3B görüntünün üzerine katmanlanan, elle çizilmiş 2B efektler (kıvılcımlar, enerji, duman, parıltılar, ışıma); grafik bir şekil diliyle 2'li karelerde canlandırılmalı.
+
+- Cesur ve atmosferik renkler: sıcak ışığa karşı doygun parlayan vurgular, zengin renkli gölgeler, güçlü kenar ışığı ve bloom.
+
+- Ressamvari kompozit: fırça benzeri filtreleme, gren ve görüntünün üzerine eklenen ince bir doku.
+
+- Sinematik kamera: sığ alan derinliği, amaçlı hareket ve çarpışmalarda ağırlık hissi.
+
+SOUND
+
+Aksiyona ve atmosfere uyan ayrıntılı, sinematik bir ses tasarımı.
+
+Her şeyi olabildiğince iyi yapın: animasyonu, modelleri, dokuları, efektleri, ışıklandırmayı ve sesi. Gereken tüm araçları veya programları kullanın. Referansları çevrim içi inceleyebilir, teknikleri taklit edebilir ve bazı şeyleri kopyalayabilirsiniz; ancak doğrudan sizin oluşturmadığınız varlıkları kullanmayın. Tüm sahneyi tek ve tutarlı bir stilde tutun; böylece 3B, boyalı dokular ve 2B efektler tek bir el yapımı görüntü gibi hissettirsin.
+
+Belleği veya önceki sohbetleri kullanmayın.
+
+Başka herhangi bir aracı, programı veya eklentiyi, kelimenin tam anlamıyla elinizdeki her şeyi kullanabilirsiniz. Kullanabileceğiniz her şeyden yararlanın.
+
+Burada açıklanandan farklı süreçler kullanabilir veya tarif edilenden başka bir şeyi canlandırabilirsiniz; ancak sonuç kesinlikle Arcane dizisine mümkün olduğunca yakın görünmeli. Her açıdan mükemmel ve aynı olmasını sağlayın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+TITLE: "SPARK"
+
+An around 15-second 3D animated shot in the painterly style of the show Arcane (Fortiche).
+
+Made in Blender, or any other tool if superior. Widescreen, no dialogue.
+
+GOAL
+
+The top priority is replicating Arcane's visual and animation style as perfectly as possible, in every way. Someone watching should believe it came from the same studio.
+
+Take as much time and effort as needed. Replicate the technique and look perfectly. Spend as much time as needed, ensuring it's perfect in every way.
+
+SCENE (loose — adapt freely)
+
+A small mechanical creature (not humanoid), something like a brass-and-crystal moth, wakes up on a cluttered inventor's workbench at night. Its crystal core ignites with glowing energy, and it bursts into the air in a swirl of sparks. Change the details, framing, or action if something else shows off the style better. You can animate something else completely different if you want—anything you pick, whatever you can do best—that will also look identical to Arcane.
+
+PROCESS
+
+1. RESEARCH: Before building anything, study Arcane's style in depth. Find references and breakdowns of Fortiche's technique (interviews, making-of material, artist breakdowns). Write down every defining element: textures, shading, line work, color, lighting, frame rate, effects, camera, compositing.
+
+2. STYLE GUIDE: Turn that into a written checklist and a small style frame (a single still image) before animating. Compare it side by side with reference stills and revise until it matches.
+
+3. BUILD: Model, texture, light, and animate following the checklist.
+
+4. REVIEW: Compare frames against Arcane references repeatedly. List every difference you can see and fix it. Repeat until no noticeable differences remain.
+
+STYLE ELEMENTS TO MATCH (at minimum)
+
+- Hand-painted textures with visible brushstrokes on every surface; nothing looks procedural or photographic.
+
+- Stylized, painterly shading with designed light/shadow shapes, not realistic falloff.
+
+- Animation on 2s for characters/objects, with strong poses, snappy timing, anticipation, and smear frames; camera moves smooth on 1s.
+
+- Hand-drawn 2D effects (sparks, energy, smoke, glints, glow) layered over the 3D, animated on 2s with graphic shape language.
+
+- Bold, moody color: warm light vs. saturated glowing accents, rich colored shadows, strong rim light, bloom.
+
+- Painterly compositing: brush-like filtering, grain, subtle texture over the image.
+
+- Cinematic camera: shallow depth of field, purposeful movement, weight on impacts.
+
+SOUND
+
+Detailed, cinematic sound design that matches the action and mood.
+
+Make everything as good as possible: animation, models, textures, effects, lighting, and sound. Use any tools or programs needed. You may study references online and imitate techniques, and copy things, but do not directly use assets you did not create. Keep the whole shot in one consistent style so the 3D, painted textures, and 2D effects feel like a single hand-crafted image.
+
+Do not use memory or previous chats.
+
+You can use any other tools, programs, plugins, literally anything. Use anything at your disposal.
+
+You can use different processes than outlined in this, or animate something else than described, but it should absolutely look as close as possible to the TV show Arcane. Make it perfect in every way and identical.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105315982525014067) · [Orijinal gönderi](https://x.com/xikhar/status/2105317581695623329) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105302007896797351"></a>
+
+### Ritme senkronize 3D küre düşüş animasyonu videosu
+
+[Gorden Sun](https://x.com/Gorden_Sun) · 2026-09-30 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105302007896797351"><img src="../assets/previews/8a408ff8433dd9544f35670200f922a0d16010b69df759f5f5da1637095de9d1.webp" width="840" loading="lazy" alt="Ritme senkronize 3D küre düşüş animasyonu videosu"></a>
+
+**İstem**
+
+```text
+Profesyonel Blender çalışmalarıyla yarışan bir 3D küre düşüş animasyonu videosu oluştur. Müzik olarak birden fazla klasik enstrümantal parça kullan; sahneleri müziğe göre değiştir. 3D küre aşağı düşerken 3D sahnedeki nesnelerin üzerinde zıplasın ve nesneler müziğin ritmine göre aydınlansın. Mizahi unsurlar da ekle. 
+three.js kullanarak oluştur, Blender kullanma
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。
+使用three.js制作，不要使用Blender制作
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105302007896797351) · [Orijinal gönderi](https://x.com/Gorden_Sun/status/2105302007896797351) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105285992865272110"></a>
+
+### Jöle Presi
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105285992865272110"><img src="../assets/previews/1c9052a5ef5c853995f0d9f4b2eb04db81763a55200d5c29247447691071a5b0.webp" width="840" loading="lazy" alt="Jöle Presi"></a>
+
+**İstem**
+
+```text
+"Jelly Press" oluşturun: HTML içinde tek dosyalı, etkileşimli bir 3B oyuncak (tüm JS, CSS ve WGSL shader'ları satır içinde; Google Fonts dışında harici varlık yok). WebGPU ile işleyin; WebGPU veya bir adaptör yoksa boş bir sayfa yerine temiz bir yedek mesajı gösterin.
+
+CONCEPT
+Dört yarı saydam, meyve dilimi şeklindeki jel şeker, hidrolik presin çelik tablasına teker teker yerleşsin. Oyuncu büyük kırmızı düğmeye basılı tuttuğunda pres aşağı insin. Jöle ezilip yayılsın, basınç göstergesi yükselsin ve yüksekliğinin yarısından biraz daha fazla ezildiğinde parçalara ayrılsın. Patlamadan sonra oyun BİTMESİN: oyuncu parçaları tutabilsin, sürükleyebilsin, etrafa fırlatabilsin ve yeniden ezebilsin.
+
+JÖLELER (alttaki çipler, 1–4 tuşları)
+1. Karpuz dilimi (yarım disk levha): koyu gözyaşı biçimli çekirdekleri olan kırmızı iç kısım, açık renkli kabuk şeridi ve yeşil çizgili dış kabuk.
+2. Portakal dilimi (yarım disk): ince beyaz zarlarla ayrılmış portakal eti dilimleri, açık renkli iç kabuk ve portakal kabuğu.
+3. İncir yarısı: küçük altın renkli çekirdeklerle dolu pembe iç kısım, krem rengi bir katman ve koyu mor kabuk.
+4. Ananas halkası: radyal çizgilere ve ortasında deliğe sahip, altın renkli lifli iç kısım.
+Her jöle gerçek jel şeker gibi görünmeli: yüzey altı saçılımı, yumuşak yarı saydamlık, parlak speküler yansımalar ve sıcak stüdyo zemininde (krem/bej, ton eşlemeli) yumuşak gölgeler.
+
+FİZİK (CPU, sabit 60 Hz adım)
+- 8 alt adımlı XPBD tetrahedral yumuşak gövde: tetra başına ko-rotasyonlu şekil eşleştirme, tetra başına hacim kısıtları, sert kenar gerinim sınırları (0.35×–1.8×), kenar hızı sönümleme, Coulomb sürtünmeli zemin teması, yuvarlanma direnci ve neredeyse hareketsizken nazikçe dengeye gelme.
+- İşleme ağı, tetrahedralara barysentik gömme yoluyla CPU üzerinde skin'lensin; normaller her karede üçgenlerden yeniden hesaplansın.
+- Pres kalıbı, kinematik yuvarlak bir tabla olsun (yarıçap ~1.05, yuvarlatılmış kenar, belirli bir kalınlık ve üzerinde bir piston). Alttan sürtünmeli bir tavan, üstte bir raf ve kenarında bir yan duvar gibi davransın. İki pres direği sağlam olsun.
+- Bar cinsinden basınç değeri, tablanın temas yükünden gelsin ve meyveye göre ölçeklensin.
+
+PATLAMA
+- Jölenin yüksekliğinin %52'si ile %66'sı arasında rastgele bir ezilme seviyesinde kırılsın.
+- Kırılmayı her turun başlamasından kısa süre sonra arka planda planlayın; böylece patlama anında gerçekleşsin.
+- Hafifçe eğimli duvarlara sahip 3B Voronoi hücrelerinden 5–7 büyük parça oluşturun. Bunların 3–4'ünde, uzak bir köşe iki kesme düzlemiyle koparılsın ve parça 2–4 küçük kırıntıya bölünsün; böylece pürüzlü, çentikli kenarlar oluşsun.
+- Tetrahedraları ağırlık merkezlerine göre hücrelere atayın. Her parça için parçacıkları çoğaltın. Çok küçük adacıkları komşularıyla birleştirin.
+- Yeni gövde, eski konumları ve hızları devralsın.
+- Kaplama üçgenlerini her hücrenin yarı uzaylarıyla kesip kırpın ve kesilen her yüzeyi, meyvenin içini (iç kısım, çekirdekler, zarlar) gösteren temiz, düz bir kapakla doldurun. Uzamış üçgenler veya delikler olmasın.
+- Parçaları presin dışına ve yukarı doğru savurun. Küçük kırıntılar daha hızlı ve daha yükseğe uçsun, rastgele dönüşle takla atsın.
+- Yaklaşık 2,5 saniye boyunca büyük italik bir sonuç gösterin, ardından soldurun: "Pelt." (karpuz), "Sıkıştı." (portakal), "Şey, bu reçel oldu." (incir), "Ezildi." (ananas). Bir istatistik satırı ekleyin: "N bar basınçta ve yüksekliğinin %N'sinde pes etti."
+
+PATLAMADAN SONRA: OYUN MODU
+- Seçme: skin'lenmiş ağa karşı ışın/üçgen testi; dokunma için toleranslı bir ekran alanı yedeği kullanın.
+- Tutma, tutulan yamayı (yarıçap ~0.4; yalnızca o parçaya ait parçacıklar) kameraya bakan bir sürükleme düzlemindeki hedefe sabitler. Küçük kırıntılar bütün olarak hareket eder; büyük parçalar jöle gibi esneyip sallanır.
+- Bırakıldığında parçayı işaretçinin hızıyla fırlatın.
+- Parçalar birbiriyle çarpışır. Bir parçacık başka bir parçanın tetra'sının içinde bulunursa sürtünmeyle o parçanın en yakın yüzey yüzünden dışarı itilir. Parça AABB geniş fazını ve yüzey tetra'larının uzamsal hash'ini kullanın.
+- Parçalar sahnede kalsın: yan duvarlar ve hiçbir şeyin kontrollerin altına veya kameranın arkasına geçmemesi için görünmez bir ön kenar.
+- Pres çalışmaya devam etsin: parçaları yeniden ezmek için basılı tutun (ikinci bir kırılma olmasın); Raise tablasını kaldırır.
+- Yere inişlerde ıslak "pof" sesleri; tutarken küçük bir cıyaklama.
+- İmleç: parçaların üzerinde açık el, sürüklerken kapalı el. Boş alanı sürüklemek kamerayı yörüngede döndürür.
+
+ARAYÜZ (editoryal, minimal)
+- Sol üst masthead: kalın, dar büyük harflerle "JELLY PRESS"; "PRESS" sarı/siyah tehlike şeritleriyle doldurulsun. Alt başlık: "Dört jel şeker. Tek hidrolik pres."
+- Sağ üst: Reset ve Sound aç/kapat.
+- Alt panel:
+  - Presleme sırasında aşamalı olarak değişen başlık satırı: "Temas." → "Sorun yok. Bu sadece jöle." → "Genişliyor." → "Bu artık bir pankek." → "Ses çıkarıyor." → "Lütfen."
+  - Kırmızı HOLD düğmesinin çevresinde dairesel basınç kadranı (0–400 bar yay ve kırmızı bölge), bir Raise düğmesi ve büyük sayısal bar göstergesi.
+  - İkonlu meyve çipleri.
+- Oyun modunda başlık alanında "Bir parça tut. Fırlat." ve küçük "Yeniden bas" ile "Sonraki jöle" düğmeleri gösterilsin.
+- Kontroller: basmak için Space veya ArrowDown tuşunu basılı tutun, kaldırmak için ArrowUp, sıfırlamak için R, meyve seçmek için 1–4. Tekerlek yakınlaştırır; çift tıklama görünümü sıfırlar.
+- Kamera: tezgâh seviyesine yakın alçak görünüm; direklerin jöleyi hiçbir zaman engellememesi için pres çerçevesi her meyveye göre yatay döndürülür. Kadraj, jöle masthead ile alt panel arasında kalacak şekilde uyarlansın; telefonlarda (dikey yönlendirme) daha dar bir sahneyle çalışsın.
+
+SES (dosyasız, prosedürel Web Audio)
+Basınç arttıkça yükselen hidrolik motor uğultusu, ıslak ezilme sesleri, yüksek basınçta ara sıra gıcırtılar, tabla durduğunda valf takırtısı, yüksek sesli bir patlama ve inişlerde yumuşak pof sesleri. İlk etkileşimde kilidi açın.
+
+KALİTE ÖLÇÜTLERİ
+- Bir dizüstü bilgisayarda akıcı 60 fps.
+- Geçişin anında gerçekleşmesi için diğer meyvelerin mesh'lerini ve shader'larını arka planda ısıtın.
+- prefers-reduced-motion ayarına uyun.
+- Erişilebilir etiketler, role=meter özellikli bir gösterge ve focus-visible dış çizgileri.
+- Konsol hatası olmasın. Sayfa hiçbir zaman boş kalmasın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.
+
+CONCEPT
+Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.
+
+THE JELLIES (chips at the bottom, keys 1–4)
+1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin.
+2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel.
+3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin.
+4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle.
+Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).
+
+PHYSICS (CPU, fixed 60 Hz step)
+- XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still.
+- Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame.
+- The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid.
+- Pressure readout in bar comes from the platen's contact load, scaled per fruit.
+
+THE BURST
+- Break at a random squash between 52% and 66% of the jelly's height.
+- Plan the fracture in the background shortly after each round starts, so the burst itself is instant.
+- 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges.
+- Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours.
+- The new body adopts the old positions and velocities.
+- Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes.
+- Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin.
+- Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."
+
+AFTER THE BURST: PLAY MODE
+- Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch.
+- Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly.
+- Releasing throws the piece with the pointer's velocity.
+- Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets.
+- Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera.
+- The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen.
+- Wet "plop" sounds on landings; a small squelch on grab.
+- Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.
+
+UI (editorial, minimal)
+- Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press."
+- Top-right: Reset and Sound toggle.
+- Bottom deck:
+  - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."
+  - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.
+  - Fruit chips with icons.
+- In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons.
+- Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view.
+- Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.
+
+SOUND (procedural Web Audio, no files)
+Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.
+
+QUALITY BAR
+- Smooth 60 fps on a laptop.
+- Background warm-up of the other fruits' meshes and shaders so switching is instant.
+- Respect prefers-reduced-motion.
+- Accessible labels, a gauge with role=meter, focus-visible outlines.
+- No console errors. The page never goes blank.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105285992865272110) · [Orijinal gönderi](https://x.com/vib3coded/status/2105286092651999619) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105246199653482872"></a>
+
+### Tek bir HTML dosyasında sıra tabanlı ASCII roguelike
+
+[kriptoleidi](https://x.com/kriptoleidi) · 2026-09-30 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105246199653482872"><img src="../assets/previews/22015a3875b380ec196cfce48391822fce0993123cc09a30805cfa9d39c59d6d.webp" width="840" loading="lazy" alt="Tek bir HTML dosyasında sıra tabanlı ASCII roguelike"></a>
+
+**İstem**
+
+```text
+Baş oyun tasarımcısı olarak hareket et. Harici bağımlılık kullanmadan, tamamen kendi kendine yeten tek bir HTML/JS/CSS dosyasında eksiksiz, sıra tabanlı bir ASCII roguelike oluştur.
+1. Görsel: 1980'lerden kalma CRT monitör; siyah zemin üzerinde fosfor yeşili metin (#00FF66) ve yumuşak tarama çizgisi parlaması.
+2. Prosedürel oluşturma: 40x22 boyutunda, birbirine bağlı oda ve koridorlardan oluşan harita.
+3. Varlıklar: @ kahraman, # duvar, . zemin, g goblin (5 HP), $ altın, > alt kata inen merdivenler.
+4. Mekanikler: sıra tabanlı hareket ve savaş; HP ve altın takibi.
+5. HUD: kat numarası, HP çubuğu, savaş günlüğü. Permadeath ve yeniden başlatma özelliği.
+Yalnızca çalışan HTML kodunu çıktı olarak ver.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Act as a lead game designer. Build a complete, turn-based ASCII roguelike in a single self-contained HTML/JS/CSS file with zero external dependencies.
+1. Visual: 1980s CRT monitor, phosphor green text (#00FF66) on black, soft scanline glow.
+2. Procedural generation: 40x22 map, connected rooms and corridors.
+3. Entities: @ hero, # wall, . floor, g goblin (5 HP), $ gold, > stairs down.
+4. Mechanics: turn-based movement and combat, track HP and gold.
+5. HUD: floor number, HP bar, combat log. Permadeath with restart.
+Output only the working HTML code.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105246199653482872) · [Orijinal gönderi](https://x.com/kriptoleidi/status/2105246199653482872) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105245648723562584"></a>
+
+### Game of Thrones dünyası oluştur
+
+[DrstaOne](https://x.com/DrstaOne) · 2026-09-30 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105245648723562584"><img src="../assets/previews/308efa3c984e3a56385f5fd6cb72e5ffff65a59480859f3fae2042a978e77bd6.webp" width="840" loading="lazy" alt="Game of Thrones dünyası oluştur"></a>
+
+**İstem**
+
+```text
+&lt;Game of Thrones dünyası oluştur&gt;
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+&lt;create Game of thrones world&gt;
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105245648723562584) · [Orijinal gönderi](https://x.com/DrstaOne/status/2105245648723562584) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105029713445949521"></a>
+
+### Etkileşimli tektonik deprem simülasyonu videosu
+
+[Ege](https://x.com/egeberkina) · 2026-09-29 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105029713445949521"><img src="../assets/previews/31a603bc161c6c0c589580174e537eed262b60fb2d17221c7e3e534e559eaec6.webp" width="840" loading="lazy" alt="Etkileşimli tektonik deprem simülasyonu videosu"></a>
+
+**İstem**
+
+```text
+Etkileşimli bir tektonik simülasyon ortamı üzerinden depremin nasıl gerçekleştiğini anlatan, görsel açıdan çarpıcı 60 saniyelik bir video oluşturun.
+
+Bir slayt gösterisi veya geleneksel bir eğitim videosu değil, güzel bir gerçek zamanlı simülasyonu keşfeden birini izliyormuşuz gibi hissettirsin.
+
+Dünya kabuğunun temiz bir 3B kesit görünümüyle başlayın. İki tektonik levha birbirine karşı yavaşça hareket etsin. Aralarındaki fayı görselleştirin ve gerilim kademeli olarak birikirken sürtünmenin levhaları kilitlemesini gösterin.
+
+Basınç arttıkça simülasyonu daha yoğun hâle getirin: kaya katmanları deforme olsun, gerilim bölgeleri parlasın, hafif titreşimler başlasın ve canlı bir sismograf tepki vermeye başlasın.
+
+Ardından depremi tetikleyin. Fay aniden kayarak devasa bir enerji patlaması açığa çıkarsın. Sismik dalgaların zemin boyunca dışarı doğru yayılmasını gösterin; ardından yüzeye doğru geçerek arazinin ve küçük bir şehrin sarsılmaya başlamasını görüntüleyin.
+
+P dalgaları ile S dalgalarının Dünya’nın içinde farklı biçimlerde ilerlemesini ve ardından en güçlü yüzey dalgalarını görselleştirin. Binaların, merkez üssüne olan uzaklıklarına bağlı olarak farklı tepkiler verdiğini gösterin.
+
+Fay çevresindeki daha küçük artçı depremleri ortaya çıkarmak için yeniden yerin altına yakınlaşarak bitirin; ardından tüm tektonik sistemi gösterecek şekilde uzaklaşın.
+
+Sinematik motion graphics, tatmin edici fizik simülasyonları, etkileyici ölçek geçişleri, üst düzey 3B bilimsel görselleştirme, minimal tipografi, dinamik etiketler, akıcı arayüz katmanları ve kusursuz geçişler kullanın.
+
+Tempo sürekli gelişmeli ve birkaç saniyede bir yeni bir şey ortaya çıkarmalı; böylece 60 saniyenin tamamı görsel açıdan ilgi çekici kalmalı.
+
+Apple kalitesinde etkileşimli bir bilimsel görselleştirmenin sinematik bir motion-design videosuna dönüştürülmüş hâli gibi hissettirsin.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.
+
+Make it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.
+
+Start with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.
+
+As pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.
+
+Then trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.
+
+Visualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.
+
+End by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.
+
+Use cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.
+
+The pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.
+
+Make it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105029713445949521) · [Orijinal gönderi](https://x.com/egeberkina/status/2105029713445949521) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104953406708175097"></a>
 
 ### Blender’da mekanik Rube Goldberg makinesi
@@ -2624,226 +3054,6 @@ Görseldeki hentbol sahasını, kaleleri, hakemi, oyuncuları ve topu 3B olarak 
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102544406117286004) · [Orijinal gönderi](https://x.com/chikaidev/status/2102545257372213581) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544196808667471"></a>
-
-### Bir görselden prosedürel Three.js 3B ana menü arka planı
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Bir görselden prosedürel Three.js 3B ana menü arka planı"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
-
-**İstem**
-
-```text
-Bunu kusursuz şekilde yeniden oluştur: Three.js ile hazırlanmış, tamamen prosedürel ve animasyonlu bir 3B ana menü arka planı; tek bir HTML dosyasında.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102544196808667471) · [Orijinal gönderi](https://x.com/majidmanzarpour/status/2102544198335373576) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544078927741369"></a>
-
-### Kendi kendine çalışan 3B Rube Goldberg makinesi
-
-[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Kendi kendine çalışan 3B Rube Goldberg makinesi"></a>
-
-**İstem**
-
-```text
-Geçerli dizinde, tek başına çalışan bir index.html dosyası olarak kendi kendine işleyen bir 3B Rube Goldberg makinesi oluşturun.
-
-Zincir şu sırayla ilerlemeli:
-1. Bir misket tepeden bırakılmalı ve bir dizi zikzak rampadan aşağı yuvarlanmalı.
-2. Misket, en az 12 dominodan oluşan bir sırayı devirmeli.
-3. Son domino bir tahterevalliyi eğmeli; tahterevalli de küçük bir topu asılı bir kovaya fırlatmalı.
-4. Kovanın ağırlığı kovayı aşağı çekmeli; kovanın ipi bir makaranın üzerinden geçerek görünür biçimde sallanan bir çanı çekmeli.
-5. Aynı hareket, bir bayrağı direk boyunca yukarı kaldırmalı. Bayrağın tepeye ulaşması bitiş noktasıdır.
-
-Kurallar:
-- Fiziği kendiniz yazın: fizik kütüphanesi kullanmayın. Misket bırakıldıktan sonraki her hareket simülasyonunuzdan kaynaklanmalı (katı cisimler, çarpışmalar, kısıtlar, ip ve makara). Makinenin hiçbir parçasında anahtar kareli animasyon veya tween tabanlı hareket kullanmayın.
-- Görselleştirme için Three.js'i bir CDN'den yükleyebilirsiniz. Bunun dışında hiçbir harici kaynak kullanmayın: görsel, model veya yazı tipi kullanmayın.
-- Kullanıcı girdisi olmadan çalışmalı: sayfa yüklenince otomatik olarak başlamalı, hareketi takip eden sinematik bir kamera kullanmalı ve zincirin tamamını yaklaşık 15–20 saniyede tamamlamalı. Bayrak kaldırıldıktan sonra 2 saniye bekleyin, ardından sıfırlayıp tekrar oynatın.
-- Deterministik olmalı: her çalıştırmada aynı sonucu vermesi için sabit zaman adımı ve tohumlanmamış rastgelelik kullanılmamalı.
-- Tarayıcı penceresini tamamen doldurun. Ekran kaydı 1280×720 çözünürlükte alınacak.
-- Ekranda hiçbir türde metin veya kullanıcı arayüzü bulunmamalı.
-- Görsel olarak etkileyici olsun: aydınlatma, gölgeler, malzemeler ve gerçek bir düzenek hissi veren bir ortam kullanın.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
-
-The chain, in order:
-1. A marble is released at the top and rolls down a series of zig-zag ramps.
-2. It knocks over a line of at least 12 dominoes.
-3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
-4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
-5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
-
-Rules:
-- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
-- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
-- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
-- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
-- Fill the browser window. It will be screen-recorded at 1280×720.
-- No on-screen text or UI of any kind.
-- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102544078927741369) · [Orijinal gönderi](https://x.com/leogao25/status/2102544081863717153) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102538762731565085"></a>
-
-### Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu
-
-[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu"></a>
-
-**İstem**
-
-```text
-"Peter Rabbit" tasarımını ve sanat tarzını kullanan etkileşimli bir çiftlik hayvanı oyunu oluştur
-ana menü = ses açma/kapatma + hayvan seçici (at, domuz, inek, kedi, köpek)
-esc = duraklat: başlangıç noktasına/ana menüye sıfırla/
-etrafta hareket etmek için WASD
-zıplamak ve yakındayken diğer hayvanlarla etkileşime geçmek için boşluk tuşu
-yakınlık algılandığında etkileşimler rastgele seçilsin
-etkileşimler, diğer hayvana pasif seslerinden farklı, kendine özgü sesler çıkarmayı ve "burunla dürtmeyi" içerebilir
-şunlarla etkileşim kurulabilsin: içmek için su, yemek için saman, yemek için meyve. 
-üçüncü şahıs bakış açısı; kamera hayvanın biraz arkasında ve üzerinde konumlanmış gibi
-ortam sesleri ve canlıları: kuşlar, gökyüzünde (rastgele) uçaklar
-ortam = çiftlik arazisi, ahır, evlerin bulunduğu bir çiftçi köyü (evlere girilemez)
-dikkat çekmeye yetecek kadar varlık olsun; ancak projenin prodüksiyon kalitesinde sayılmasını gerektirecek kadar fazla olmasın. Bu yalnızca günümden kızımla geçireceğim 15 dakikayı eğlenceli hâle getirmek için
-iyi hissettirmesi için gereken her şeyi kullan: react, svg, js, webgl, threejs, ne gerekiyorsa"
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
-main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
-esc = pause: reset back to spawn/main menu/
-wasd to move around
-spacebar to jump and to interact with other animals when near
-interactions are randomized upon proximity detection
-interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
-interactible with: water to drink, hay to eat, fruit to eat. 
-3rd person but as if the camera was slightly behind the animal and above it
-ambience animals are birds, airplanes in the sky (randomly)
-setting= farmland, barn, farming village with houses (cant enter houses)
-Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
-react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102538762731565085) · [Orijinal gönderi](https://x.com/blaso96/status/2102538764749037738) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102533729746882985"></a>
-
-### Gün batımında sinematik, etkileşimli korsan gemisi
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Gün batımında sinematik, etkileşimli korsan gemisi"></a>
-
-**İstem**
-
-```text
-Sıfırdan, gün batımında dinamik bir okyanusta ilerleyen, tamamen etkileşimli bir 3B korsan gemisi sahnesi oluştur. Görsel stil fotogerçekçi değil, sinematik ve stilize olmalı; ancak sahne son derece zengin, ayrıntılı, özenli ve görsel açıdan sofistike olmalı. Gemiyi, okyanusu, gökyüzünü, aydınlatmayı, malzemeleri, yelkenleri, donanımı, topları, küçük yapısal ayrıntıları, deniz köpüğünü, geminin izini, parçacıkları, animasyonu, kamera çalışmasını, kompozisyonu, atmosferik derinliği ve renk düzenlemesini oluştur. Nihai sonuç bir prototip, teknik demo veya düşük kaliteli sahne değil, üst düzey prodüksiyon kalitesine sahip bir 3B sanat eseri hissi vermeli. Tamamen boş bir sayfayla başla. Önceki hiçbir projeyi veya sahneyi yeniden kullanma ya da bunlara bağlı kalma. Gerekirse varlıkları kendin oluşturabilir veya güvenilir, doğrulanmış açık kaynaklı varlıklar ve kütüphaneler kullanabilirsin. Zorunlu gereklilikler: Sahnenin hiçbir yerinde hiçbir türde metin görünmemeli. Hiçbir dilde başlık, ad, logo, açıklama, jenerik, etiket veya kontrol talimatı bulunmamalı. Projenin tamamını, doğrudan bir web tarayıcısında açılabilen tek bir nihai bağımsız sayfa dosyası olarak teslim et; varlıkları makul ölçüde mümkün olduğunca dosyanın içine göm. Okyanus, gemi, yelkenler ve kamera doğal ve akıcı biçimde animasyonlu olmalı. Yapay ağır çekimden veya hantal hareketlerden kaçın. Gemi gerçekten suyun içinde ilerliyormuş gibi hissettirmeli. Nihai sonuçta ilkel geometrik şekillere güvenme. Dikkatle şekillendirilmiş bir gövde, direkler, yelkenler, donanım, halatlar, toplar, korkuluklar, fenerler, güverte yapıları ve açıkça görülebilen küçük ölçekli ayrıntılar içeren, görsel açıdan inandırıcı ve ayrıntılı bir korsan gemisi oluştur. Aydınlatma, geminin geometrisini ve malzemelerini net biçimde ortaya çıkarmalı. Zengin bir gün batımı atmosferi, derin okyanus gölgelendirmesi, yansımalar, inandırıcı deniz köpüğü ve geminin arkasında ve çevresinde ayrıntılı bir seyir izi oluştur. Görsel kalite ile gerçek zamanlı performans arasında güçlü bir denge kur; kalitede bariz bir ödün vermeden etkileşimin ve animasyonun akıcı olmasını sağla. En iyi sonucu elde etmek için gereken en uygun becerileri, araçları, kütüphaneleri, teknikleri ve mevcut varlıkları otomatik olarak kullan. Hangi teknolojilerin kullanılacağını benim belirtmemi bekleme. Tamamlanan sonucu bir masaüstü web tarayıcısında gerçekten test et. Görsel ekran görüntüleri al, tarayıcı konsolunu hatalar açısından incele ve bulduğun tüm görsel veya teknik sorunları düzelt; bunlara bozulmuş geometri, siyah ekranlar, başarısız varlık yüklemeleri, çalışmayan animasyonlar, zayıf kompozisyon, render kusurları veya kamera sorunları dahildir. Sonunda nihai dosyanın doğrudan açılıp çalıştığını, sahnede hiçbir metin bulunmadığını ve çalışma zamanı ya da yükleme hatası kalmadığını doğrula. Ardından görevi yalnızca kısa bir yanıtla tamamla.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102533729746882985) · [Orijinal gönderi](https://x.com/vib3coded/status/2102534606121746589) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102529695908806728"></a>
-
-### Sonsuz, prosedürel olarak oluşturulan Three.js dünyası
-
-[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · Oyunlar
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="Sonsuz, prosedürel olarak oluşturulan Three.js dünyası"></a>
-
-**İstem**
-
-```text
-Projeler klasörümde "endless-game" adlı yeni bir proje oluştur: Tarayıcıda three.js ile oluşturulmuş, içinde özgürce dolaşıp keyfini çıkarabileceğim sonsuz ve prosedürel olarak oluşturulan bir dünya olsun. Ne kadar uzun süre oynarsam oynayayım her bölge rastgele oluşturulsun ve her yerde sürprizler bulunsun. Proje sakin, huzur verici ve gerçekten eğlenceli hissettirsin; bir süpermarket simülasyonunun sıcak, tatmin edici atmosferini taşısın ama süpermarket oyunu olmasın. İçinde dolaşabileceğim, karşılaşabileceğim ve etkileşime girebileceğim varlıkların bulunduğu, görsel açıdan çok etkileyici ve gerçekten ilginç bir dünya istiyorum. Proje için net bir hedef belirle, bu hedefe ulaşana kadar çalışmayı sürdür ve tamamlanıp oynamaya ve test etmeye hazır olduğunda bir zil sesi çal.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102529695908806728) · [Orijinal gönderi](https://x.com/argofowl/status/2102529695908806728) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### Etkileşimli kalabalık tahliye simülasyonu
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Etkileşimli kalabalık tahliye simülasyonu"></a>
-
-**İstem**
-
-```text
-etkileşimli bir kalabalık tahliye simülasyonu oluştur ve nerelerde tıkandığını gör
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102467667978572092) · [Orijinal gönderi](https://x.com/dominikmartn/status/2102467667978572092) · [Örneklere dön](#all-prompts)
 
 ---
 

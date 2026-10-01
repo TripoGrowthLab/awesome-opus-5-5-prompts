@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**51 作例 · 14 🌐**
+**57 作例 · 14 🌐**
 
 [カテゴリで探す](#categories) · [モデルで探す](#models) · [ソースコード](with-code.md) · [1](../docs/catalog.ja.1.md) · [2](../docs/catalog.ja.2.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### ゲーム · 10
+### ゲーム · 11
 
+- [1つのHTMLファイルで動作するターン制ASCIIローグライク](../docs/catalog.ja.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
 - [3JSでマリオカート風のレーシングゲームを作る](../docs/catalog.ja.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [プレイ可能なドット絵の古代ローマ・ベルトスクロールアクション](../docs/catalog.ja.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [雪の路地を舞台にした超リアルなマルチプレイFPS](../docs/catalog.ja.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
@@ -41,20 +42,21 @@
 - [サンフランシスコを舞台にした『原神』風ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [リアルタイムのペリカン自転車ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk：夜の街を駆ける3D横スクロール猫ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
-- [インタラクティブなピーターラビット風の農場動物ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [無限にプロシージャル生成されるThree.jsワールド](../docs/catalog.ja.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
+- [インタラクティブなピーターラビット風の農場動物ゲーム](../docs/catalog.ja.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [無限にプロシージャル生成されるThree.jsワールド](../docs/catalog.ja.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### シーン · 7
+### シーン · 8
 
+- [ゲーム・オブ・スローンズの世界を作成](../docs/catalog.ja.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
 - [Blenderで作る機械式ルーブ・ゴールドバーグ・マシン](../docs/catalog.ja.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [データセンターから原子までを描く55秒の3Dシーン](../docs/catalog.ja.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [帝都を構築する](../docs/catalog.ja.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [『ラストトレイン』サイバーパンク巨大都市ベンチマーク](../docs/catalog.ja.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [画像をもとにしたハンドボールコートの360度3Dレンダリング](../docs/catalog.ja.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [画像から作るプロシージャルなThree.js 3Dメインメニュー背景](../docs/catalog.ja.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [夕暮れを航海する映画的なインタラクティブ海賊船](../docs/catalog.ja.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [画像から作るプロシージャルなThree.js 3Dメインメニュー背景](../docs/catalog.ja.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [夕暮れを航海する映画的なインタラクティブ海賊船](../docs/catalog.ja.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-3d-assets"></a>
 
@@ -66,8 +68,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### インタラクティブ · 9
+### インタラクティブ · 10
 
+- [ジェリープレス](../docs/catalog.ja.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
 - [インタラクティブな漫画風3D惑星](../docs/catalog.ja.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
 - [EARTH ATLAS：生きている惑星](../docs/catalog.ja.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
 - [インタラクティブなWebGPUいちごケーキ](../docs/catalog.ja.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
@@ -80,8 +83,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### アニメーション · 22
+### アニメーション · 25
 
+- [SPARK — 絵画調3Dアニメーションショット](../docs/catalog.ja.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
+- [音楽に合わせて落下する3Dボールのリズムアニメーション動画](../docs/catalog.ja.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
+- [インタラクティブなテクトニック・サンドボックスによる地震映像](../docs/catalog.ja.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
 - [30秒のブランド向け3Dモーショングラフィックス動画](../docs/catalog.ja.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
 - [連続生産ラインのインタラクティブ・シミュレーションラボ](../docs/catalog.ja.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [歩く建築](../docs/catalog.ja.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
@@ -102,8 +108,8 @@
 - [ボクセル風サッカーアニメーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
 - [インタラクティブなオイラー型ネオン流体シミュレーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Hundenbergの事故モデルとリアルな動画](../docs/catalog.ja.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [自走式3Dルーブ・ゴールドバーグ・マシン](../docs/catalog.ja.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [インタラクティブな群集避難シミュレーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
+- [自走式3Dルーブ・ゴールドバーグ・マシン](../docs/catalog.ja.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [インタラクティブな群集避難シミュレーション](../docs/catalog.ja.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 
 <a id="models"></a>
 
@@ -111,8 +117,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 51
+### Claude Opus 5.5 · 57
 
+- [SPARK — 絵画調3Dアニメーションショット](../docs/catalog.ja.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
+- [音楽に合わせて落下する3Dボールのリズムアニメーション動画](../docs/catalog.ja.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
+- [ジェリープレス](../docs/catalog.ja.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
+- [1つのHTMLファイルで動作するターン制ASCIIローグライク](../docs/catalog.ja.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
+- [ゲーム・オブ・スローンズの世界を作成](../docs/catalog.ja.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
+- [インタラクティブなテクトニック・サンドボックスによる地震映像](../docs/catalog.ja.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
 - [Blenderで作る機械式ルーブ・ゴールドバーグ・マシン](../docs/catalog.ja.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [3JSでマリオカート風のレーシングゲームを作る](../docs/catalog.ja.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [インタラクティブな漫画風3D惑星](../docs/catalog.ja.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
@@ -157,12 +169,12 @@
 - [日本の桜の谷を描くインタラクティブ3D景観Webページ](../docs/catalog.ja.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hundenbergの事故モデルとリアルな動画](../docs/catalog.ja.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [画像をもとにしたハンドボールコートの360度3Dレンダリング](../docs/catalog.ja.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [画像から作るプロシージャルなThree.js 3Dメインメニュー背景](../docs/catalog.ja.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [自走式3Dルーブ・ゴールドバーグ・マシン](../docs/catalog.ja.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [インタラクティブなピーターラビット風の農場動物ゲーム](../docs/catalog.ja.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [夕暮れを航海する映画的なインタラクティブ海賊船](../docs/catalog.ja.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
-- [無限にプロシージャル生成されるThree.jsワールド](../docs/catalog.ja.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
-- [インタラクティブな群集避難シミュレーション](../docs/catalog.ja.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
+- [画像から作るプロシージャルなThree.js 3Dメインメニュー背景](../docs/catalog.ja.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [自走式3Dルーブ・ゴールドバーグ・マシン](../docs/catalog.ja.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [インタラクティブなピーターラビット風の農場動物ゲーム](../docs/catalog.ja.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [夕暮れを航海する映画的なインタラクティブ海賊船](../docs/catalog.ja.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [無限にプロシージャル生成されるThree.jsワールド](../docs/catalog.ja.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
+- [インタラクティブな群集避難シミュレーション](../docs/catalog.ja.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [インタラクティブな3D先史時代の島](../docs/catalog.ja.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 

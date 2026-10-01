@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**51 사례 · 14 🌐**
+**57 사례 · 14 🌐**
 
 [카테고리별 탐색](#categories) · [모델별 탐색](#models) · [소스 코드](with-code.md) · [1](../docs/catalog.ko.1.md) · [2](../docs/catalog.ko.2.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### 게임 · 10
+### 게임 · 11
 
+- [단일 HTML 파일로 만든 턴제 ASCII 로그라이크](../docs/catalog.ko.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
 - [3JS로 마리오 카트 스타일의 레이싱 게임 만들기](../docs/catalog.ko.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [플레이 가능한 픽셀 아트 고대 로마 벨트스크롤 액션 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
 - [눈 내리는 골목을 배경으로 한 초현실적 멀티플레이어 FPS](../docs/catalog.ko.1.md#claude-opus-5-5-2104232013578617241) · [Zen](https://x.com/zenvnt)
@@ -41,20 +42,21 @@
 - [샌프란시스코를 배경으로 한 원신 스타일 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103144530157687114) · [Every 📧](https://x.com/every)
 - [실시간 펠리컨 자전거 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2103083781490176212) · [Yaowei Zheng \| LlamaFactory](https://x.com/code_hiyouga)
 - [CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
-- [피터 래빗풍 인터랙티브 농장 동물 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [끝없이 절차적으로 생성되는 Three.js 월드](../docs/catalog.ko.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
+- [피터 래빗풍 인터랙티브 농장 동물 게임](../docs/catalog.ko.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [끝없이 절차적으로 생성되는 Three.js 월드](../docs/catalog.ko.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
 
 <a id="category-3d-scenes"></a>
 
-### 장면 · 7
+### 장면 · 8
 
+- [왕좌의 게임 세계관 만들기](../docs/catalog.ko.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
 - [Blender에서 구현하는 기계식 루브 골드버그 장치](../docs/catalog.ko.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [데이터센터에서 원자까지 이어지는 55초 3D 장면](../docs/catalog.ko.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [제국 도시 건설하기](../docs/catalog.ko.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [더 라스트 트레인 사이버펑크 메가시티 벤치마크](../docs/catalog.ko.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
 - [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](../docs/catalog.ko.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](../docs/catalog.ko.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [해 질 무렵의 시네마틱 인터랙티브 해적선](../docs/catalog.ko.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](../docs/catalog.ko.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [해 질 무렵의 시네마틱 인터랙티브 해적선](../docs/catalog.ko.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-3d-assets"></a>
 
@@ -66,8 +68,9 @@
 
 <a id="category-interactive-3d"></a>
 
-### 인터랙티브 · 9
+### 인터랙티브 · 10
 
+- [젤리 프레스](../docs/catalog.ko.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
 - [인터랙티브 만화풍 3D 행성](../docs/catalog.ko.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
 - [EARTH ATLAS: THE LIVING PLANET](../docs/catalog.ko.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
 - [인터랙티브 WebGPU 딸기 케이크](../docs/catalog.ko.1.md#claude-opus-5-5-2104514806443303238) · [Ima Studio](https://x.com/ImaStudio_ai)
@@ -80,8 +83,11 @@
 
 <a id="category-animation-simulation"></a>
 
-### 애니메이션 · 22
+### 애니메이션 · 25
 
+- [SPARK — 페인터리 3D 애니메이션 쇼트](../docs/catalog.ko.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
+- [비트에 맞춰 떨어지는 3D 구체 애니메이션 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
+- [인터랙티브 지각 샌드박스 지진 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
 - [30초 브랜드 3D 모션 그래픽 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2104896325255037196) · [Awa K. Penn](https://x.com/TawohAwa)
 - [직렬 생산 라인 대화형 시뮬레이션 랩](../docs/catalog.ko.1.md#claude-opus-5-5-2104831049020674144) · [أ.د. عبدالرحمن بن مشبب الأحمري](https://x.com/am_alahmari)
 - [걸어 다니는 건축물](../docs/catalog.ko.1.md#claude-opus-5-5-2104590334152056983) · [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
@@ -102,8 +108,8 @@
 - [복셀 스타일 축구 애니메이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
 - [인터랙티브 오일러리안 네온 유체 시뮬레이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
 - [Hundenberg 사고 모델과 실사풍 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [자동 실행되는 3D 루브 골드버그 장치](../docs/catalog.ko.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [인터랙티브 군중 대피 시뮬레이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
+- [자동 실행되는 3D 루브 골드버그 장치](../docs/catalog.ko.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [인터랙티브 군중 대피 시뮬레이션](../docs/catalog.ko.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 
 <a id="models"></a>
 
@@ -111,8 +117,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 51
+### Claude Opus 5.5 · 57
 
+- [SPARK — 페인터리 3D 애니메이션 쇼트](../docs/catalog.ko.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
+- [비트에 맞춰 떨어지는 3D 구체 애니메이션 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
+- [젤리 프레스](../docs/catalog.ko.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
+- [단일 HTML 파일로 만든 턴제 ASCII 로그라이크](../docs/catalog.ko.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
+- [왕좌의 게임 세계관 만들기](../docs/catalog.ko.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
+- [인터랙티브 지각 샌드박스 지진 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
 - [Blender에서 구현하는 기계식 루브 골드버그 장치](../docs/catalog.ko.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [3JS로 마리오 카트 스타일의 레이싱 게임 만들기](../docs/catalog.ko.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [인터랙티브 만화풍 3D 행성](../docs/catalog.ko.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
@@ -157,12 +169,12 @@
 - [일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지](../docs/catalog.ko.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hundenberg 사고 모델과 실사풍 영상](../docs/catalog.ko.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](../docs/catalog.ko.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
-- [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](../docs/catalog.ko.1.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
-- [자동 실행되는 3D 루브 골드버그 장치](../docs/catalog.ko.1.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
-- [피터 래빗풍 인터랙티브 농장 동물 게임](../docs/catalog.ko.1.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
-- [해 질 무렵의 시네마틱 인터랙티브 해적선](../docs/catalog.ko.1.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
-- [끝없이 절차적으로 생성되는 Three.js 월드](../docs/catalog.ko.1.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
-- [인터랙티브 군중 대피 시뮬레이션](../docs/catalog.ko.1.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
+- [이미지 기반 프로시저럴 Three.js 3D 메인 메뉴 배경](../docs/catalog.ko.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
+- [자동 실행되는 3D 루브 골드버그 장치](../docs/catalog.ko.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
+- [피터 래빗풍 인터랙티브 농장 동물 게임](../docs/catalog.ko.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)
+- [해 질 무렵의 시네마틱 인터랙티브 해적선](../docs/catalog.ko.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
+- [끝없이 절차적으로 생성되는 Three.js 월드](../docs/catalog.ko.2.md#claude-opus-5-5-2102529695908806728) · [🥔🥔🥔](https://x.com/argofowl)
+- [인터랙티브 군중 대피 시뮬레이션](../docs/catalog.ko.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 - [인터랙티브 3D 선사시대 섬](../docs/catalog.ko.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 

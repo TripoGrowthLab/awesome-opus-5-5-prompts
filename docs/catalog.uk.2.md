@@ -26,11 +26,237 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Переглянути приклади (1)</summary>
+<summary>Переглянути приклади (7)</summary>
 
+- [Процедурний 3D-фон головного меню в Three.js за зображенням](#claude-opus-5-5-2102544196808667471)
+- [Автономна 3D-машина Руба Ґолдберґа](#claude-opus-5-5-2102544078927741369)
+- [Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»](#claude-opus-5-5-2102538762731565085)
+- [Кінематографічний інтерактивний піратський корабель на заході сонця](#claude-opus-5-5-2102533729746882985)
+- [Нескінченний процедурно згенерований світ на Three.js](#claude-opus-5-5-2102529695908806728)
+- [Інтерактивна симуляція евакуації натовпу](#claude-opus-5-5-2102467667978572092)
 - [Інтерактивний 3D-острів доісторичної епохи](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102544196808667471"></a>
+
+### Процедурний 3D-фон головного меню в Three.js за зображенням
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Процедурний 3D-фон головного меню в Three.js за зображенням"></a>
+
+**Референси:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
+
+**Промпт**
+
+```text
+відтворіть це ідеально: повністю процедурний анімований фон головного меню у 3D на Three.js в одному HTML-файлі
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544196808667471) · [Оригінальний допис](https://x.com/majidmanzarpour/status/2102544198335373576) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544078927741369"></a>
+
+### Автономна 3D-машина Руба Ґолдберґа
+
+[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Автономна 3D-машина Руба Ґолдберґа"></a>
+
+**Промпт**
+
+```text
+Створіть 3D-машину Руба Ґолдберґа, яка запускається й працює самостійно, як один самодостатній index.html у поточній директорії.
+
+Ланцюжок дій у такому порядку:
+1. Мармурова кулька випускається згори й котиться низкою зигзагоподібних рамп.
+2. Вона перекидає ряд щонайменше з 12 доміно.
+3. Остання кісточка доміно нахиляє гойдалку, яка запускає маленьку кульку в підвішене відро.
+4. Вага відра тягне його вниз; його мотузка проходить через блок і смикає дзвін, який має помітно розгойдуватися.
+5. Цей самий рух піднімає прапор уздовж щогли. Завершенням є момент, коли прапор досягає вершини.
+
+Правила:
+- Напишіть фізику самостійно: жодних фізичних бібліотек. Увесь рух після запуску мармурової кульки має походити із вашої симуляції (тверді тіла, зіткнення, обмеження, мотузка та блок). Жодної покадрової анімації чи руху будь-якої частини механізму за допомогою tween-анімації.
+- Для рендерингу можна завантажити three.js із CDN. Більше нічого зовнішнього: жодних зображень, моделей чи шрифтів.
+- Сцена має працювати без введення користувача: автоматично запускатися під час завантаження сторінки, використовувати кінематографічну камеру, що стежить за дією, і завершувати весь ланцюжок приблизно за 15–20 секунд. Після підняття прапора утримуйте його положення 2 секунди, потім скиньте сцену й повторіть відтворення.
+- Детермінованість: фіксований часовий крок і жодної неініціалізованої випадковості, щоб кожен запуск виглядав однаково.
+- Заповнюйте все вікно браузера. Відео записуватиметься у форматі 1280×720.
+- Жодного екранного тексту чи інтерфейсу будь-якого типу.
+- Зробіть сцену привабливою: додайте освітлення, тіні, матеріали й оточення, щоб механізм виглядав справжнім.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102544078927741369) · [Оригінальний допис](https://x.com/leogao25/status/2102544081863717153) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102538762731565085"></a>
+
+### Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»
+
+[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Інтерактивна гра про фермерських тварин у стилі «Кролика Пітера»"></a>
+
+**Промпт**
+
+```text
+«Створіть інтерактивну гру про фермерських тварин у стилі «Кролика Пітера»
+головне меню = увімкнення/вимкнення звуків + вибір тварини (кінь, свиня, корова, кіт, собака)
+esc = пауза: скинути гру до початкової точки/головного меню/
+переміщення за допомогою WASD
+пробіл — стрибок і взаємодія з іншими тваринами поблизу
+взаємодії рандомізуються після виявлення близької відстані
+під час взаємодії можна видавати звуки, звертаючись до іншої тварини (унікальні, відмінні від її звуків у стані спокою), або «легенько тицьнути її носом»
+взаємодія з водою для пиття, сіном і фруктами для їжі. 
+гра від третьої особи, але камера має бути трохи позаду тварини й над нею
+для атмосфери — птахи та літаки в небі (з’являються випадково)
+місце дії = фермерські угіддя, сарай, фермерське село з будинками (заходити в будинки не можна)
+Активів має бути достатньо, щоб привернути увагу, але не настільки багато, щоб гру можна було вважати виробничою версією. Це лише спосіб весело провести 15 хвилин мого дня разом із донькою
+react, svg, js, webgl, threejs — використайте все необхідне, щоб гра відчувалася «якісною»»
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102538762731565085) · [Оригінальний допис](https://x.com/blaso96/status/2102538764749037738) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102533729746882985"></a>
+
+### Кінематографічний інтерактивний піратський корабель на заході сонця
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Сцени
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Кінематографічний інтерактивний піратський корабель на заході сонця"></a>
+
+**Промпт**
+
+```text
+Створіть із нуля повністю інтерактивну 3D-сцену з піратським кораблем, який пливе динамічним океаном на заході сонця. Візуальний стиль має бути кінематографічним і стилізованим, а не фотореалістичним, але водночас надзвичайно насиченим, деталізованим, відшліфованим і візуально витонченим. Створіть корабель, океан, небо, освітлення, матеріали, вітрила, такелаж, гармати, дрібні конструктивні деталі, морську піну, кільватерний слід, частинки, анімацію, роботу камери, композицію, атмосферну перспективу та колірну корекцію. Фінальний результат має сприйматися як преміальна 3D-робота високого виробничого рівня, а не прототип, технічна демонстрація чи низькоякісна сцена. Почніть із повністю порожньої сторінки. Не використовуйте повторно попередні проєкти чи сцени й не покладайтеся на них. За потреби ви можете самостійно створити ресурси або скористатися надійними перевіреними ресурсами й бібліотеками з відкритим кодом. Обов’язкові вимоги: у сцені ніде не має з’являтися жодного тексту. Заборонені заголовки, назви, логотипи, описи, титри, підписи чи інструкції з керування будь-якою мовою. Подайте весь проєкт як один фінальний окремий файл сторінки, який можна безпосередньо відкрити у веббраузері; ресурси слід вбудувати в нього настільки повно, наскільки це розумно можливо. Океан, корабель, вітрила й камера мають рухатися природно та плавно. Уникайте штучного уповільнення або млявої анімації. Корабель має створювати відчуття справжнього руху водою. Не використовуйте примітивні геометричні форми як фінальний результат. Створіть переконливий і деталізований піратський корабель із ретельно сформованим корпусом, щоглами, вітрилами, такелажем, канатами, гарматами, поручнями, ліхтарями, надбудовами палуби та чітко помітними дрібними деталями. Освітлення має виразно передавати геометрію й матеріали корабля. Створіть насичену атмосферу заходу сонця, глибокі відтінки океану, відбиття, переконливу морську піну та деталізований кільватерний слід позаду й навколо судна. Забезпечте вдалий баланс між візуальною якістю та продуктивністю в реальному часі, зберігши плавну взаємодію й анімацію без очевидного погіршення якості. Автоматично використовуйте найвідповідніші навички, інструменти, бібліотеки, методи та доступні ресурси, потрібні для найкращого результату. Не чекайте, поки я вкажу, які технології використовувати. Обов’язково протестуйте готовий результат у веббраузері на комп’ютері. Зробіть візуальні скриншоти, перевірте консоль браузера на наявність помилок і виправте всі виявлені візуальні чи технічні проблеми, зокрема спотворену геометрію, чорний екран, помилки завантаження ресурсів, непрацюючу анімацію, невдалу композицію, артефакти рендерингу чи проблеми з камерою. Наприкінці перевірте, що фінальний файл безпосередньо відкривається й працює, у сцені немає жодного тексту, а помилок виконання чи завантаження не залишилося. Після цього завершіть завдання лише короткою відповіддю.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102533729746882985) · [Оригінальний допис](https://x.com/vib3coded/status/2102534606121746589) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102529695908806728"></a>
+
+### Нескінченний процедурно згенерований світ на Three.js
+
+[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · Ігри
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="Нескінченний процедурно згенерований світ на Three.js"></a>
+
+**Промпт**
+
+```text
+створи новий проєкт у моїй папці projects під назвою «endless-game»: нескінченний процедурно згенерований світ на three.js у браузері, який я зможу вільно досліджувати й просто насолоджуватися ним. Кожна ділянка має генеруватися випадково, а сюрпризи повинні траплятися всюди, незалежно від того, як довго я граю. Світ має бути спокійним, розслаблювальним і по-справжньому цікавим — із затишною, приємною атмосферою, як у supermarket simulator, але це не має бути гра про супермаркет. Я хочу справді захопливий світ для прогулянок, зі сутностями, яких можна зустрічати та з якими можна взаємодіяти, а також із чудовою графікою. Визнач чітку мету проєкту, продовжуй працювати, доки не досягнеш її, а коли все буде готове для моєї гри й тестування, відтвори звуковий сигнал.
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102529695908806728) · [Оригінальний допис](https://x.com/argofowl/status/2102529695908806728) · [Назад до прикладів](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102467667978572092"></a>
+
+### Інтерактивна симуляція евакуації натовпу
+
+[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Анімація
+
+<a href="https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Інтерактивна симуляція евакуації натовпу"></a>
+
+**Промпт**
+
+```text
+створити інтерактивну симуляцію евакуації натовпу й визначити, де виникають затори
+```
+
+<details>
+<summary>Оригінальний промпт автора</summary>
+
+```text
+build an interactive crowd evacuation sim and see where it jams
+```
+
+</details>
+
+[Докладніше ↗](https://www.tripo3d.ai/uk/3d-prompts/claude-opus-5-5-2102467667978572092) · [Оригінальний допис](https://x.com/dominikmartn/status/2102467667978572092) · [Назад до прикладів](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102450239923720440"></a>
 
 ### Інтерактивний 3D-острів доісторичної епохи

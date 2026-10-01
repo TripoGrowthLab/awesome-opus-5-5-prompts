@@ -28,6 +28,12 @@
 <details>
 <summary>Khám phá ví dụ (50)</summary>
 
+- [SPARK — Cảnh hoạt hình 3D phong cách tranh vẽ](#claude-opus-5-5-2105315982525014067)
+- [Video hoạt hình 3D quả cầu rơi theo nhịp nhạc](#claude-opus-5-5-2105302007896797351)
+- [Máy ép thạch](#claude-opus-5-5-2105285992865272110)
+- [Game roguelike ASCII theo lượt trong một tệp HTML](#claude-opus-5-5-2105246199653482872)
+- [Tạo thế giới Game of Thrones](#claude-opus-5-5-2105245648723562584)
+- [Video động đất trong mô phỏng kiến tạo tương tác](#claude-opus-5-5-2105029713445949521)
 - [Máy Rube Goldberg cơ khí trong Blender](#claude-opus-5-5-2104953406708175097)
 - [Xây dựng game đua xe phong cách Mario Kart bằng 3JS](#claude-opus-5-5-2104947552328261810)
 - [Hành tinh 3D hoạt hình tương tác](#claude-opus-5-5-2104919117262389255)
@@ -72,14 +78,438 @@
 - [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](#claude-opus-5-5-2102565403109085669)
 - [Mô hình tai nạn Hundenberg và video chân thực](#claude-opus-5-5-2102547809140355250)
 - [Bản render 3D sân bóng ném 360 độ từ hình ảnh](#claude-opus-5-5-2102544406117286004)
-- [Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh](#claude-opus-5-5-2102544196808667471)
-- [Cỗ máy Rube Goldberg 3D tự vận hành](#claude-opus-5-5-2102544078927741369)
-- [Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit](#claude-opus-5-5-2102538762731565085)
-- [Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn](#claude-opus-5-5-2102533729746882985)
-- [Thế giới Three.js vô tận được tạo thủ tục](#claude-opus-5-5-2102529695908806728)
-- [Mô phỏng sơ tán đám đông tương tác](#claude-opus-5-5-2102467667978572092)
 
 </details>
+<a id="claude-opus-5-5-2105315982525014067"></a>
+
+### SPARK — Cảnh hoạt hình 3D phong cách tranh vẽ
+
+[Shikhar](https://x.com/xikhar) · 2026-09-30 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105315982525014067"><img src="../assets/previews/7da249a323e787569b2c7ae8fb46f1ed0b7189f259dd6b6c44b90c434582546e.webp" width="840" loading="lazy" alt="SPARK — Cảnh hoạt hình 3D phong cách tranh vẽ"></a>
+
+**Prompt**
+
+```text
+TIÊU ĐỀ: "SPARK"
+
+Một cảnh hoạt hình 3D dài khoảng 15 giây, theo phong cách tranh vẽ của series Arcane (Fortiche).
+
+Thực hiện bằng Blender hoặc bất kỳ công cụ nào khác nếu cho kết quả tốt hơn. Màn ảnh rộng, không có lời thoại.
+
+GOAL
+
+Ưu tiên hàng đầu là tái hiện phong cách hình ảnh và hoạt ảnh của Arcane hoàn hảo nhất có thể, trên mọi phương diện. Người xem phải tin rằng cảnh này đến từ chính studio đó.
+
+Hãy dành nhiều thời gian và công sức nhất cần thiết. Tái hiện kỹ thuật và diện mạo một cách hoàn hảo. Dành bao nhiêu thời gian cũng được để bảo đảm mọi khía cạnh đều đạt mức hoàn hảo.
+
+BỐI CẢNH (phác thảo — tự do điều chỉnh)
+
+Một sinh vật cơ khí nhỏ (không có hình dáng người), chẳng hạn như một con bướm bằng đồng thau và pha lê, thức giấc trên bàn làm việc bừa bộn của một nhà phát minh vào ban đêm. Lõi pha lê của nó bùng sáng bằng năng lượng phát quang, rồi nó lao vút lên không trung giữa một vòng xoáy tia lửa. Hãy thay đổi chi tiết, bố cục khung hình hoặc hành động nếu một phương án khác thể hiện phong cách tốt hơn. Bạn hoàn toàn có thể làm một hoạt ảnh khác—bất kỳ ý tưởng nào bạn chọn, bất kỳ điều gì bạn thực hiện tốt nhất—miễn là kết quả cũng trông giống hệt Arcane.
+
+PROCESS
+
+1. NGHIÊN CỨU: Trước khi xây dựng bất cứ thứ gì, hãy nghiên cứu sâu về phong cách của Arcane. Tìm tài liệu tham khảo và các bài phân tích kỹ thuật của Fortiche (phỏng vấn, tư liệu hậu trường, phân tích của họa sĩ). Ghi lại mọi yếu tố đặc trưng: kết cấu bề mặt, đổ bóng, nét vẽ, màu sắc, ánh sáng, tốc độ khung hình, hiệu ứng, máy quay, compositing.
+
+2. HƯỚNG DẪN PHONG CÁCH: Chuyển những nội dung đó thành một checklist dạng văn bản và một style frame nhỏ (một ảnh tĩnh duy nhất) trước khi làm hoạt ảnh. So sánh song song với các khung hình tham khảo, sau đó chỉnh sửa cho đến khi khớp.
+
+3. DỰNG: Dựng mô hình, tạo kết cấu bề mặt, thiết lập ánh sáng và làm hoạt ảnh theo checklist.
+
+4. ĐÁNH GIÁ: Liên tục so sánh các khung hình với tài liệu tham khảo của Arcane. Liệt kê mọi khác biệt có thể nhận ra và khắc phục chúng. Lặp lại cho đến khi không còn khác biệt đáng chú ý.
+
+CÁC YẾU TỐ PHONG CÁCH CẦN KHỚP (tối thiểu)
+
+- Kết cấu bề mặt vẽ tay với nét cọ rõ ràng trên mọi bề mặt; không có gì trông như được tạo theo quy trình tự động hoặc mang tính nhiếp ảnh.
+
+- Đổ bóng cách điệu, mang tính tranh vẽ, với các mảng sáng/tối được thiết kế rõ ràng thay vì chuyển sáng tối chân thực.
+
+- Nhân vật/vật thể hoạt ảnh theo nhịp 2s, với tư thế mạnh, nhịp chuyển động nhanh gọn, chuyển động chuẩn bị và các smear frame; chuyển động máy quay mượt theo nhịp 1s.
+
+- Hiệu ứng 2D vẽ tay (tia lửa, năng lượng, khói, điểm lóe, ánh sáng phát quang) phủ lên hình 3D, hoạt ảnh theo nhịp 2s với ngôn ngữ hình khối đồ họa.
+
+- Màu sắc táo bạo, giàu cảm xúc: ánh sáng ấm đối lập với các điểm nhấn phát sáng bão hòa, vùng bóng có màu phong phú, viền sáng mạnh và hiệu ứng bloom.
+
+- Compositing mang tính tranh vẽ: bộ lọc như nét cọ, hạt nhiễu và lớp kết cấu bề mặt tinh tế phủ trên hình ảnh.
+
+- Máy quay điện ảnh: độ sâu trường ảnh nông, chuyển động có chủ đích, nhấn mạnh trọng lượng trong các cú va chạm.
+
+SOUND
+
+Thiết kế âm thanh chi tiết, mang tính điện ảnh, khớp với hành động và không khí.
+
+Hãy làm mọi thứ tốt nhất có thể: hoạt ảnh, mô hình, kết cấu bề mặt, hiệu ứng, ánh sáng và âm thanh. Sử dụng bất kỳ công cụ hoặc chương trình nào cần thiết. Bạn có thể nghiên cứu tài liệu tham khảo trực tuyến và mô phỏng kỹ thuật, thậm chí sao chép chúng, nhưng không được trực tiếp sử dụng tài sản mà bạn không tự tạo. Giữ toàn bộ cảnh trong một phong cách nhất quán để phần 3D, kết cấu bề mặt vẽ tay và hiệu ứng 2D tạo cảm giác như một hình ảnh thủ công duy nhất.
+
+Không sử dụng bộ nhớ hoặc các cuộc trò chuyện trước đây.
+
+Bạn có thể sử dụng bất kỳ công cụ, chương trình, plugin nào khác—thực sự là bất cứ thứ gì. Hãy dùng mọi thứ trong khả năng của bạn.
+
+Bạn có thể sử dụng quy trình khác với những gì được nêu ở đây, hoặc làm hoạt ảnh về một thứ khác với mô tả, nhưng kết quả phải tuyệt đối giống series truyền hình Arcane nhất có thể. Hãy làm mọi thứ hoàn hảo và giống hệt trên mọi phương diện.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+TITLE: "SPARK"
+
+An around 15-second 3D animated shot in the painterly style of the show Arcane (Fortiche).
+
+Made in Blender, or any other tool if superior. Widescreen, no dialogue.
+
+GOAL
+
+The top priority is replicating Arcane's visual and animation style as perfectly as possible, in every way. Someone watching should believe it came from the same studio.
+
+Take as much time and effort as needed. Replicate the technique and look perfectly. Spend as much time as needed, ensuring it's perfect in every way.
+
+SCENE (loose — adapt freely)
+
+A small mechanical creature (not humanoid), something like a brass-and-crystal moth, wakes up on a cluttered inventor's workbench at night. Its crystal core ignites with glowing energy, and it bursts into the air in a swirl of sparks. Change the details, framing, or action if something else shows off the style better. You can animate something else completely different if you want—anything you pick, whatever you can do best—that will also look identical to Arcane.
+
+PROCESS
+
+1. RESEARCH: Before building anything, study Arcane's style in depth. Find references and breakdowns of Fortiche's technique (interviews, making-of material, artist breakdowns). Write down every defining element: textures, shading, line work, color, lighting, frame rate, effects, camera, compositing.
+
+2. STYLE GUIDE: Turn that into a written checklist and a small style frame (a single still image) before animating. Compare it side by side with reference stills and revise until it matches.
+
+3. BUILD: Model, texture, light, and animate following the checklist.
+
+4. REVIEW: Compare frames against Arcane references repeatedly. List every difference you can see and fix it. Repeat until no noticeable differences remain.
+
+STYLE ELEMENTS TO MATCH (at minimum)
+
+- Hand-painted textures with visible brushstrokes on every surface; nothing looks procedural or photographic.
+
+- Stylized, painterly shading with designed light/shadow shapes, not realistic falloff.
+
+- Animation on 2s for characters/objects, with strong poses, snappy timing, anticipation, and smear frames; camera moves smooth on 1s.
+
+- Hand-drawn 2D effects (sparks, energy, smoke, glints, glow) layered over the 3D, animated on 2s with graphic shape language.
+
+- Bold, moody color: warm light vs. saturated glowing accents, rich colored shadows, strong rim light, bloom.
+
+- Painterly compositing: brush-like filtering, grain, subtle texture over the image.
+
+- Cinematic camera: shallow depth of field, purposeful movement, weight on impacts.
+
+SOUND
+
+Detailed, cinematic sound design that matches the action and mood.
+
+Make everything as good as possible: animation, models, textures, effects, lighting, and sound. Use any tools or programs needed. You may study references online and imitate techniques, and copy things, but do not directly use assets you did not create. Keep the whole shot in one consistent style so the 3D, painted textures, and 2D effects feel like a single hand-crafted image.
+
+Do not use memory or previous chats.
+
+You can use any other tools, programs, plugins, literally anything. Use anything at your disposal.
+
+You can use different processes than outlined in this, or animate something else than described, but it should absolutely look as close as possible to the TV show Arcane. Make it perfect in every way and identical.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105315982525014067) · [Bài đăng gốc](https://x.com/xikhar/status/2105317581695623329) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105302007896797351"></a>
+
+### Video hoạt hình 3D quả cầu rơi theo nhịp nhạc
+
+[Gorden Sun](https://x.com/Gorden_Sun) · 2026-09-30 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105302007896797351"><img src="../assets/previews/8a408ff8433dd9544f35670200f922a0d16010b69df759f5f5da1637095de9d1.webp" width="840" loading="lazy" alt="Video hoạt hình 3D quả cầu rơi theo nhịp nhạc"></a>
+
+**Prompt**
+
+```text
+Video hoạt hình 3D về quả cầu rơi theo nhịp nhạc, hướng đến hiệu ứng chuyên nghiệp như được thực hiện bằng Blender. Sử dụng nhiều bản nhạc không lời kinh điển; cảnh chuyển đổi theo nhạc, quả cầu 3D rơi xuống và bật nảy qua các vật thể trong cảnh 3D, đồng thời các vật thể sáng lên theo nhịp điệu. Thêm một số yếu tố hài hước. 
+Sử dụng three.js, không sử dụng Blender
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。
+使用three.js制作，不要使用Blender制作
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105302007896797351) · [Bài đăng gốc](https://x.com/Gorden_Sun/status/2105302007896797351) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105285992865272110"></a>
+
+### Máy ép thạch
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Tương tác
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105285992865272110"><img src="../assets/previews/1c9052a5ef5c853995f0d9f4b2eb04db81763a55200d5c29247447691071a5b0.webp" width="840" loading="lazy" alt="Máy ép thạch"></a>
+
+**Prompt**
+
+```text
+Tạo "Jelly Press": một đồ chơi 3D tương tác dạng tệp HTML duy nhất (toàn bộ JS, CSS và shader WGSL viết inline, không dùng tài nguyên bên ngoài ngoại trừ Google Fonts). Render bằng WebGPU; nếu thiếu WebGPU hoặc adapter, hãy hiển thị thông báo dự phòng rõ ràng thay vì để trang trắng.
+
+CONCEPT
+Bốn viên thạch dẻo trong suốt hình lát trái cây lần lượt nằm trên bàn thép của máy ép thủy lực. Người chơi giữ một nút đỏ lớn để hạ đầu ép. Viên thạch bị nén và dàn rộng, đồng hồ áp suất tăng lên, rồi vỡ thành nhiều mảnh khi chiều cao còn khoảng hơn một nửa. Sau khi vỡ, trò chơi KHÔNG kết thúc: người chơi có thể nhặt các mảnh, kéo, ném chúng xung quanh và tiếp tục ép lại.
+
+CÁC VIÊN THẠCH (nút chọn ở dưới cùng, phím 1–4)
+1. Miếng dưa hấu (khối nửa đĩa): ruột đỏ với hạt hình giọt nước màu sẫm, dải cùi nhạt màu và vỏ xanh sọc.
+2. Lát cam (nửa đĩa): các múi cam được ngăn cách bằng màng trắng mỏng, cùi nhạt màu và vỏ cam.
+3. Nửa quả sung: ruột hồng đầy những hạt vàng nhỏ, một lớp kem và vỏ tím sẫm.
+4. Khoanh dứa: ruột vàng có thớ sợi tỏa tâm và một lỗ ở giữa.
+Mỗi viên thạch phải trông như kẹo dẻo thật: tán xạ dưới bề mặt, độ trong mờ mềm, điểm sáng phản chiếu bóng và bóng đổ mềm trên sàn studio tông ấm (kem/be, có tone mapping).
+
+VẬT LÝ (CPU, bước cố định 60 Hz)
+- Vật thể mềm tứ diện XPBD với 8 substep: khớp hình đồng quay theo từng tứ diện, ràng buộc thể tích theo từng tứ diện, giới hạn biến dạng cạnh cứng (0.35×–1.8×), giảm chấn vận tốc cạnh, tiếp xúc sàn với ma sát Coulomb, lực cản lăn và cơ chế ổn định nhẹ khi gần như đứng yên.
+- Mesh render được skin trên CPU thông qua ánh xạ barycentric vào các tứ diện; tính lại pháp tuyến từ các tam giác ở mỗi frame.
+- Khuôn ép là một bàn ép tròn động học (bán kính ~1.05, mép bo tròn, có độ dày và một ty ép phía trên). Nó đóng vai trò như trần có ma sát ở mặt dưới, một bệ đỡ ở mặt trên và vách bên tại vành. Hai trụ ép là khối đặc.
+- Chỉ số áp suất tính theo bar, lấy từ tải tiếp xúc của bàn ép và được scale theo từng loại trái cây.
+
+VỤ VỠ
+- Vỡ tại một mức nén ngẫu nhiên từ 52% đến 66% chiều cao của viên thạch.
+- Lập kế hoạch fracture trong nền ngay sau khi mỗi lượt bắt đầu để khoảnh khắc vỡ diễn ra tức thì.
+- Tạo 5–7 mảnh lớn từ các ô Voronoi 3D có vách hơi nghiêng. Trên 3–4 mảnh, cắt bỏ một góc xa bằng hai mặt phẳng cắt rồi chia tiếp thành 2–4 mảnh nhỏ, tạo ra các cạnh lởm chởm, khuyết răng cưa.
+- Gán các tứ diện vào ô dựa trên tâm hình học. Nhân bản particle cho từng mảnh. Gộp các đảo nhỏ vào mảnh lân cận.
+- Body mới kế thừa vị trí và vận tốc cũ.
+- Clip các tam giác bề mặt theo các nửa không gian của từng ô, đồng thời lấp mọi mặt cắt bằng một cap phẳng, sạch, cho thấy phần bên trong của trái cây (ruột, hạt, màng). Không có tam giác bị kéo giãn, không có lỗ hổng.
+- Hất các mảnh ra ngoài và lên trên khỏi máy ép. Mảnh nhỏ bay nhanh và cao hơn, đồng thời lộn với tốc độ xoay ngẫu nhiên.
+- Hiển thị một kết luận lớn, in nghiêng trong khoảng 2,5 giây rồi mờ dần: "Bẹp lép." (dưa), "Bị vắt kiệt." (cam), "Ừ thì, thành mứt rồi." (sung), "Nát bét." (dứa). Thêm một dòng chỉ số: "Bỏ cuộc ở mức N bar và N% chiều cao."
+
+SAU KHI VỠ: CHẾ ĐỘ CHƠI
+- Chọn mảnh: kiểm tra tia/tam giác trên mesh đã skin, kèm cơ chế dự phòng theo không gian màn hình dễ thao tác hơn cho cảm ứng.
+- Khi nhặt, ghim vùng được nhặt (bán kính ~0.4, chỉ gồm particle của mảnh đó) vào một điểm đích trên mặt phẳng kéo hướng về camera. Mảnh nhỏ di chuyển nguyên khối; mảnh lớn co giãn và đung đưa như thạch.
+- Khi thả, ném mảnh theo vận tốc của con trỏ.
+- Các mảnh va chạm với nhau. Một particle nằm bên trong tứ diện của mảnh khác sẽ bị đẩy ra qua mặt bề mặt gần nhất của mảnh đó, kèm ma sát. Dùng broad phase AABB của mảnh và spatial hash của các tứ diện bề mặt.
+- Các mảnh phải ở lại trong sân chơi: có vách bên, cùng một mép trước vô hình để không mảnh nào rơi xuống dưới khu điều khiển hoặc ra phía sau camera.
+- Máy ép vẫn hoạt động: giữ nút để tiếp tục nén các mảnh (không fracture lần hai); nút Nâng sẽ nâng bàn ép lên.
+- Phát âm thanh "bõm" ướt khi mảnh rơi xuống; thêm tiếng nhão nhỏ khi nhặt.
+- Con trỏ: bàn tay mở khi di trên các mảnh, bàn tay nắm khi đang kéo. Kéo vùng trống để xoay camera.
+
+GIAO DIỆN (biên tập, tối giản)
+- Tiêu đề góc trên bên trái: "JELLY PRESS" bằng chữ in hoa đậm, cô đọng, trong đó "PRESS" được tô bằng họa tiết sọc cảnh báo vàng/đen. Phụ đề: "Bốn viên kẹo dẻo. Một máy ép thủy lực."
+- Góc trên bên phải: nút Đặt lại và công tắc Âm thanh.
+- Thanh điều khiển phía dưới:
+  - Dòng chú thích với nội dung tăng dần khi ép: "Đã tiếp xúc." → "Không sao. Chỉ là thạch thôi." → "Đang bè ra." → "Giờ thành bánh kếp rồi." → "Nó đang phát ra tiếng." → "Làm ơn."
+  - Đồng hồ áp suất hình tròn (cung 0–400 bar, vùng đỏ) bao quanh nút GIỮ màu đỏ, nút Nâng và chỉ số bar dạng số lớn.
+  - Các nút chọn trái cây có biểu tượng.
+- Trong chế độ chơi, ô chú thích hiển thị "Nhặt một mảnh. Ném đi." cùng các nút nhỏ "Ép lại" và "Viên thạch tiếp theo".
+- Điều khiển: giữ Space hoặc ArrowDown để ép, ArrowUp để nâng, R để đặt lại, 1–4 để chọn trái cây. Cuộn chuột để zoom; nhấp đúp để đặt lại góc nhìn.
+- Camera: góc nhìn thấp ngang mặt bàn; khung máy ép xoay theo từng loại trái cây để các trụ không bao giờ che khuất viên thạch. Khung hình tự điều chỉnh để viên thạch nằm giữa tiêu đề và thanh điều khiển; hoạt động trên điện thoại (màn hình dọc) với sân khấu hẹp hơn.
+
+ÂM THANH (Web Audio dựng bằng thuật toán, không dùng tệp)
+Tiếng ù của mô-tơ thủy lực tăng dần theo áp suất, tiếng nhão ướt, thỉnh thoảng có tiếng răng rắc khi áp suất cao, tiếng van đóng cục khi bàn ép dừng, tiếng vỡ lớn và tiếng bõm nhẹ khi mảnh rơi xuống. Mở khóa khi người dùng tương tác lần đầu.
+
+TIÊU CHUẨN CHẤT LƯỢNG
+- Chạy mượt ở 60 fps trên laptop.
+- Làm nóng trước mesh và shader của các loại trái cây còn lại trong nền để chuyển đổi tức thì.
+- Tôn trọng tùy chọn prefers-reduced-motion.
+- Nhãn dễ tiếp cận, đồng hồ có role=meter và viền focus-visible.
+- Không có lỗi trong console. Trang không bao giờ hiển thị trắng.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.
+
+CONCEPT
+Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.
+
+THE JELLIES (chips at the bottom, keys 1–4)
+1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin.
+2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel.
+3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin.
+4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle.
+Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).
+
+PHYSICS (CPU, fixed 60 Hz step)
+- XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still.
+- Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame.
+- The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid.
+- Pressure readout in bar comes from the platen's contact load, scaled per fruit.
+
+THE BURST
+- Break at a random squash between 52% and 66% of the jelly's height.
+- Plan the fracture in the background shortly after each round starts, so the burst itself is instant.
+- 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges.
+- Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours.
+- The new body adopts the old positions and velocities.
+- Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes.
+- Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin.
+- Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."
+
+AFTER THE BURST: PLAY MODE
+- Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch.
+- Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly.
+- Releasing throws the piece with the pointer's velocity.
+- Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets.
+- Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera.
+- The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen.
+- Wet "plop" sounds on landings; a small squelch on grab.
+- Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.
+
+UI (editorial, minimal)
+- Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press."
+- Top-right: Reset and Sound toggle.
+- Bottom deck:
+  - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."
+  - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.
+  - Fruit chips with icons.
+- In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons.
+- Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view.
+- Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.
+
+SOUND (procedural Web Audio, no files)
+Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.
+
+QUALITY BAR
+- Smooth 60 fps on a laptop.
+- Background warm-up of the other fruits' meshes and shaders so switching is instant.
+- Respect prefers-reduced-motion.
+- Accessible labels, a gauge with role=meter, focus-visible outlines.
+- No console errors. The page never goes blank.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105285992865272110) · [Bài đăng gốc](https://x.com/vib3coded/status/2105286092651999619) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105246199653482872"></a>
+
+### Game roguelike ASCII theo lượt trong một tệp HTML
+
+[kriptoleidi](https://x.com/kriptoleidi) · 2026-09-30 · Claude Opus 5.5 · Trò chơi
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105246199653482872"><img src="../assets/previews/22015a3875b380ec196cfce48391822fce0993123cc09a30805cfa9d39c59d6d.webp" width="840" loading="lazy" alt="Game roguelike ASCII theo lượt trong một tệp HTML"></a>
+
+**Prompt**
+
+```text
+Đóng vai trò nhà thiết kế game trưởng. Hãy xây dựng một game roguelike ASCII hoàn chỉnh theo lượt trong một tệp HTML/JS/CSS tự chứa duy nhất, không có bất kỳ phụ thuộc bên ngoài nào.
+1. Hình ảnh: màn hình CRT thập niên 1980, chữ xanh lân quang (#00FF66) trên nền đen, phát sáng nhẹ như các dòng quét.
+2. Tạo sinh theo thủ tục: bản đồ 40x22 gồm các phòng và hành lang nối liền nhau.
+3. Thực thể: @ anh hùng, # tường, . sàn, g yêu tinh (5 HP), $ vàng, > cầu thang đi xuống.
+4. Cơ chế: di chuyển và chiến đấu theo lượt, theo dõi HP và vàng.
+5. HUD: số tầng, thanh HP, nhật ký chiến đấu. Cơ chế chết vĩnh viễn kèm khả năng chơi lại.
+Chỉ xuất mã HTML hoạt động.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Act as a lead game designer. Build a complete, turn-based ASCII roguelike in a single self-contained HTML/JS/CSS file with zero external dependencies.
+1. Visual: 1980s CRT monitor, phosphor green text (#00FF66) on black, soft scanline glow.
+2. Procedural generation: 40x22 map, connected rooms and corridors.
+3. Entities: @ hero, # wall, . floor, g goblin (5 HP), $ gold, > stairs down.
+4. Mechanics: turn-based movement and combat, track HP and gold.
+5. HUD: floor number, HP bar, combat log. Permadeath with restart.
+Output only the working HTML code.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105246199653482872) · [Bài đăng gốc](https://x.com/kriptoleidi/status/2105246199653482872) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105245648723562584"></a>
+
+### Tạo thế giới Game of Thrones
+
+[DrstaOne](https://x.com/DrstaOne) · 2026-09-30 · Claude Opus 5.5 · Bối cảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105245648723562584"><img src="../assets/previews/308efa3c984e3a56385f5fd6cb72e5ffff65a59480859f3fae2042a978e77bd6.webp" width="840" loading="lazy" alt="Tạo thế giới Game of Thrones"></a>
+
+**Prompt**
+
+```text
+&lt;tạo thế giới Game of Thrones&gt;
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+&lt;create Game of thrones world&gt;
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105245648723562584) · [Bài đăng gốc](https://x.com/DrstaOne/status/2105245648723562584) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105029713445949521"></a>
+
+### Video động đất trong mô phỏng kiến tạo tương tác
+
+[Ege](https://x.com/egeberkina) · 2026-09-29 · Claude Opus 5.5 · Hoạt ảnh
+
+<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105029713445949521"><img src="../assets/previews/31a603bc161c6c0c589580174e537eed262b60fb2d17221c7e3e534e559eaec6.webp" width="840" loading="lazy" alt="Video động đất trong mô phỏng kiến tạo tương tác"></a>
+
+**Prompt**
+
+```text
+Tạo một video dài 60 giây, ấn tượng về mặt hình ảnh, giải thích cách một trận động đất xảy ra thông qua mô phỏng kiến tạo tương tác.
+
+Hãy tạo cảm giác như chúng ta đang xem ai đó khám phá một mô phỏng thời gian thực tuyệt đẹp, không phải một slideshow hay video giáo dục truyền thống.
+
+Bắt đầu với mặt cắt 3D rõ nét của lớp vỏ Trái Đất. Hai mảng kiến tạo từ từ chuyển động ngược chiều nhau. Trực quan hóa đứt gãy giữa chúng, đồng thời thể hiện ma sát khiến các mảng bị khóa lại trong khi ứng suất dần tích tụ.
+
+Khi áp suất tăng lên, hãy làm cho mô phỏng trở nên mãnh liệt hơn: các lớp đá biến dạng, các vùng ứng suất phát sáng, những rung động nhẹ bắt đầu xuất hiện và máy đo địa chấn trực tiếp bắt đầu phản ứng.
+
+Sau đó kích hoạt trận động đất. Đứt gãy đột ngột trượt và giải phóng một luồng năng lượng khổng lồ. Thể hiện các sóng địa chấn lan tỏa ra ngoài qua lòng đất, rồi chuyển cảnh hướng lên bề mặt, nơi địa hình và một thành phố nhỏ bắt đầu rung lắc.
+
+Trực quan hóa sự lan truyền khác nhau của sóng P và sóng S qua Trái Đất, sau đó là các sóng mặt mạnh nhất. Thể hiện các tòa nhà phản ứng khác nhau tùy theo khoảng cách đến chấn tâm.
+
+Kết thúc bằng cách thu phóng trở lại dưới lòng đất để cho thấy các dư chấn nhỏ hơn quanh đứt gãy, rồi lùi máy quay ra để hiển thị toàn bộ hệ thống kiến tạo.
+
+Sử dụng đồ họa chuyển động mang tính điện ảnh, mô phỏng vật lý thuyết phục, các chuyển cảnh quy mô ấn tượng, hình ảnh trực quan khoa học 3D cao cấp, kiểu chữ tối giản, nhãn động, lớp phủ giao diện mượt mà và các chuyển cảnh liền mạch.
+
+Nhịp độ cần không ngừng biến đổi và hé lộ điều mới sau mỗi vài giây, để toàn bộ 60 giây luôn hấp dẫn về mặt hình ảnh.
+
+Hãy tạo cảm giác như một trải nghiệm trực quan khoa học tương tác có chất lượng như Apple, được chuyển thể thành video thiết kế chuyển động mang tính điện ảnh.
+```
+
+<details>
+<summary>Prompt gốc</summary>
+
+```text
+Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.
+
+Make it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.
+
+Start with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.
+
+As pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.
+
+Then trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.
+
+Visualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.
+
+End by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.
+
+Use cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.
+
+The pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.
+
+Make it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.
+```
+
+</details>
+
+[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2105029713445949521) · [Bài đăng gốc](https://x.com/egeberkina/status/2105029713445949521) · [Về danh sách ví dụ](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104953406708175097"></a>
 
 ### Máy Rube Goldberg cơ khí trong Blender
@@ -2599,226 +3029,6 @@ Dựng 3D sân bóng ném, khung thành, trọng tài, cầu thủ và bóng tro
 </details>
 
 [Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544406117286004) · [Bài đăng gốc](https://x.com/chikaidev/status/2102545257372213581) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544196808667471"></a>
-
-### Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh"></a>
-
-**Ảnh tham chiếu:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
-
-**Prompt**
-
-```text
-tái tạo hình ảnh này một cách hoàn hảo thành nền menu chính 3D bằng Three.js, hoàn toàn procedural và có hoạt ảnh, trong một tệp HTML duy nhất
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544196808667471) · [Bài đăng gốc](https://x.com/majidmanzarpour/status/2102544198335373576) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544078927741369"></a>
-
-### Cỗ máy Rube Goldberg 3D tự vận hành
-
-[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Cỗ máy Rube Goldberg 3D tự vận hành"></a>
-
-**Prompt**
-
-```text
-Xây dựng một cỗ máy Rube Goldberg 3D tự vận hành dưới dạng một tệp index.html độc lập duy nhất trong thư mục hiện tại.
-
-Chuỗi hoạt động theo thứ tự:
-1. Một viên bi được thả từ trên cao và lăn xuống một loạt đường dốc ziczac.
-2. Viên bi làm đổ một hàng gồm ít nhất 12 quân đôminô.
-3. Quân đôminô cuối cùng làm nghiêng bập bênh, phóng một quả bóng nhỏ vào chiếc xô treo.
-4. Trọng lượng của chiếc xô kéo xô đi xuống; dây của xô vắt qua một ròng rọc và giật chuông, khiến chuông đung đưa rõ ràng.
-5. Cùng chuyển động đó kéo một lá cờ lên cột. Lá cờ chạm đỉnh là điểm kết thúc.
-
-Quy tắc:
-- Tự viết hệ vật lý, không dùng thư viện vật lý. Mọi chuyển động sau khi viên bi được thả phải xuất phát từ mô phỏng của bạn (vật thể cứng, va chạm, ràng buộc, dây và ròng rọc). Không dùng hoạt ảnh keyframe hoặc chuyển động tween cho bất kỳ bộ phận nào của máy.
-- Bạn có thể tải three.js từ CDN để kết xuất. Không được dùng bất kỳ tài nguyên bên ngoài nào khác: không hình ảnh, mô hình hay phông chữ.
-- Máy phải chạy mà không cần người dùng tương tác: tự động bắt đầu khi tải trang, sử dụng camera điện ảnh bám theo diễn biến và hoàn tất toàn bộ chuỗi trong khoảng 15–20 giây. Khi cờ đã được kéo lên, giữ nguyên trong 2 giây, sau đó đặt lại và phát lại.
-- Tính xác định: dùng bước thời gian cố định và không sử dụng tính ngẫu nhiên chưa khởi tạo seed, để mọi lần chạy đều giống nhau.
-- Hiển thị vừa toàn bộ cửa sổ trình duyệt. Nội dung sẽ được quay màn hình ở độ phân giải 1280×720.
-- Không hiển thị chữ hoặc bất kỳ giao diện người dùng nào trên màn hình.
-- Hãy tạo hình ảnh đẹp mắt: có ánh sáng, đổ bóng, vật liệu và bối cảnh khiến cỗ máy giống một cơ cấu thật.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
-
-The chain, in order:
-1. A marble is released at the top and rolls down a series of zig-zag ramps.
-2. It knocks over a line of at least 12 dominoes.
-3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
-4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
-5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
-
-Rules:
-- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
-- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
-- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
-- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
-- Fill the browser window. It will be screen-recorded at 1280×720.
-- No on-screen text or UI of any kind.
-- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102544078927741369) · [Bài đăng gốc](https://x.com/leogao25/status/2102544081863717153) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102538762731565085"></a>
-
-### Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit
-
-[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit"></a>
-
-**Prompt**
-
-```text
-"Tạo một trò chơi tương tác về các con vật trong nông trại, sử dụng phong cách thiết kế/nghệ thuật của "Peter Rabbit"
-menu chính = bật/tắt âm thanh + chọn con vật (ngựa, lợn, bò, mèo, chó)
-esc = tạm dừng: đặt lại về điểm xuất phát/menu chính/
-dùng WASD để di chuyển
-phím cách để nhảy và tương tác với các con vật khác khi ở gần
-các tương tác được ngẫu nhiên hóa khi phát hiện ở gần
-có thể phát ra âm thanh với con vật kia (khác với âm thanh thụ động của chúng), kiểu "chạm nhẹ vào chúng"
-có thể tương tác với: nước để uống, cỏ khô để ăn, trái cây để ăn. 
-góc nhìn người thứ ba, nhưng camera ở hơi phía sau và phía trên con vật
-âm thanh nền gồm tiếng chim và máy bay thỉnh thoảng xuất hiện trên bầu trời (ngẫu nhiên)
-bối cảnh = vùng nông trại, chuồng ngựa, làng quê với các ngôi nhà (không thể vào nhà)
-Có đủ tài sản để thu hút sự chú ý, nhưng không cần nhiều đến mức phải đạt tiêu chuẩn sản xuất chuyên nghiệp; dự án này chỉ nhằm dành 15 phút trong ngày để tôi và con gái cùng vui chơi
-react, svg, js, webgl, threejs, hoặc bất cứ thứ gì cần thiết để trò chơi có cảm giác "mượt mà, thú vị""
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
-main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
-esc = pause: reset back to spawn/main menu/
-wasd to move around
-spacebar to jump and to interact with other animals when near
-interactions are randomized upon proximity detection
-interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
-interactible with: water to drink, hay to eat, fruit to eat. 
-3rd person but as if the camera was slightly behind the animal and above it
-ambience animals are birds, airplanes in the sky (randomly)
-setting= farmland, barn, farming village with houses (cant enter houses)
-Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
-react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102538762731565085) · [Bài đăng gốc](https://x.com/blaso96/status/2102538764749037738) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102533729746882985"></a>
-
-### Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Bối cảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn"></a>
-
-**Prompt**
-
-```text
-Tạo từ đầu một cảnh 3D tương tác hoàn toàn về một con tàu cướp biển đang vượt qua đại dương chuyển động dưới ánh hoàng hôn. Phong cách hình ảnh cần mang tính điện ảnh và cách điệu thay vì chân thực như ảnh chụp, nhưng vẫn phải cực kỳ phong phú, chi tiết, chỉn chu và tinh tế về mặt thị giác. Hãy xây dựng con tàu, đại dương, bầu trời, ánh sáng, vật liệu, cánh buồm, hệ thống dây chằng, đại bác, các chi tiết kết cấu nhỏ, bọt biển, vệt sóng, hạt, chuyển động, cách bố trí camera, bố cục, chiều sâu khí quyển và hiệu chỉnh màu. Kết quả cuối cùng phải tạo cảm giác như một tác phẩm 3D cao cấp, được sản xuất công phu, không phải nguyên mẫu, bản trình diễn kỹ thuật hay cảnh chất lượng thấp. Bắt đầu từ một trang hoàn toàn trống. Không sử dụng lại hoặc phụ thuộc vào bất kỳ dự án hay cảnh nào trước đó. Bạn có thể tự tạo các tài sản hoặc khi cần thì sử dụng tài sản và thư viện mã nguồn mở đáng tin cậy. Các yêu cầu bắt buộc: Không được xuất hiện bất kỳ loại văn bản nào ở bất cứ đâu trong cảnh. Không có tiêu đề, tên, logo, mô tả, ghi công, nhãn hoặc hướng dẫn điều khiển bằng bất kỳ ngôn ngữ nào. Bàn giao toàn bộ dự án dưới dạng một tệp trang độc lập duy nhất có thể mở trực tiếp trong trình duyệt web, với các tài sản được nhúng vào tệp trong phạm vi hợp lý nhất có thể. Đại dương, con tàu, cánh buồm và camera đều phải chuyển động tự nhiên, mượt mà. Tránh chuyển động chậm nhân tạo hoặc ì ạch. Con tàu phải tạo cảm giác thực sự đang di chuyển trên mặt nước. Không dùng các hình khối nguyên thủy làm kết quả hoàn thiện. Hãy xây dựng một con tàu cướp biển thuyết phục về hình ảnh và giàu chi tiết, bao gồm thân tàu được tạo hình cẩn thận, cột buồm, cánh buồm, hệ thống dây chằng, dây thừng, đại bác, lan can, đèn lồng, các cấu trúc trên boong và những chi tiết nhỏ dễ nhìn thấy. Ánh sáng phải làm nổi bật rõ hình học và vật liệu của con tàu. Tạo không khí hoàng hôn phong phú, đổ bóng đại dương có chiều sâu, phản chiếu, bọt biển thuyết phục và vệt sóng chi tiết phía sau cũng như xung quanh con tàu. Duy trì sự cân bằng hợp lý giữa chất lượng hình ảnh và hiệu năng thời gian thực, đảm bảo tương tác và chuyển động mượt mà mà không phải hy sinh chất lượng một cách rõ rệt. Tự động sử dụng các kỹ năng, công cụ, thư viện, kỹ thuật và tài sản hiện có phù hợp nhất để đạt kết quả tốt nhất. Không chờ tôi chỉ định nên sử dụng công nghệ nào. Hãy thực sự kiểm thử kết quả hoàn thiện trong trình duyệt web trên máy tính. Chụp ảnh màn hình, kiểm tra console của trình duyệt để tìm lỗi và khắc phục mọi vấn đề về hình ảnh hoặc kỹ thuật mà bạn phát hiện, bao gồm hình học bị biến dạng, màn hình đen, lỗi tải tài sản, chuyển động bị hỏng, bố cục kém, lỗi kết xuất hoặc vấn đề về camera. Cuối cùng, xác minh rằng tệp hoàn thiện có thể mở và hoạt động trực tiếp, cảnh hoàn toàn không có văn bản và không còn lỗi runtime hoặc lỗi tải nào. Sau đó kết thúc tác vụ chỉ bằng một phản hồi ngắn.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102533729746882985) · [Bài đăng gốc](https://x.com/vib3coded/status/2102534606121746589) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102529695908806728"></a>
-
-### Thế giới Three.js vô tận được tạo thủ tục
-
-[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · Trò chơi
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="Thế giới Three.js vô tận được tạo thủ tục"></a>
-
-**Prompt**
-
-```text
-tạo một dự án mới trong thư mục projects của tôi với tên "endless-game": một thế giới vô tận được tạo thủ tục bằng three.js và chạy trên trình duyệt, để tôi có thể tự do khám phá và tận hưởng. Mỗi khu vực đều phải được tạo ngẫu nhiên, với những điều bất ngờ xuất hiện ở khắp nơi dù tôi chơi bao lâu. Trải nghiệm cần mang lại cảm giác yên bình, thư giãn và thực sự thú vị, giống bầu không khí ấm cúng, thỏa mãn của một game mô phỏng siêu thị, nhưng không được biến thành game siêu thị. Tôi muốn có một thế giới thật hấp dẫn để đi bộ khám phá, với các thực thể mà tôi có thể gặp gỡ và tương tác, cùng phần đồ họa thật ấn tượng. Hãy đặt ra một mục tiêu rõ ràng cho dự án, tiếp tục làm việc cho đến khi đạt được mục tiêu đó, rồi phát âm thanh báo hiệu khi mọi thứ hoàn tất và sẵn sàng để tôi chơi thử.
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102529695908806728) · [Bài đăng gốc](https://x.com/argofowl/status/2102529695908806728) · [Về danh sách ví dụ](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### Mô phỏng sơ tán đám đông tương tác
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Hoạt ảnh
-
-<a href="https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Mô phỏng sơ tán đám đông tương tác"></a>
-
-**Prompt**
-
-```text
-Xây dựng một mô phỏng sơ tán đám đông tương tác và xem những nơi xảy ra ùn tắc
-```
-
-<details>
-<summary>Prompt gốc</summary>
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-</details>
-
-[Xem chi tiết ↗](https://www.tripo3d.ai/vi/3d-prompts/claude-opus-5-5-2102467667978572092) · [Bài đăng gốc](https://x.com/dominikmartn/status/2102467667978572092) · [Về danh sách ví dụ](#all-prompts)
 
 ---
 

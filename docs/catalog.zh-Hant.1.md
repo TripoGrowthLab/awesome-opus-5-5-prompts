@@ -28,6 +28,12 @@
 <details>
 <summary>瀏覽案例 (50)</summary>
 
+- [SPARK — 繪畫風格 3D 動畫鏡頭](#claude-opus-5-5-2105315982525014067)
+- [音樂卡點 3D 球體下墜動畫影片](#claude-opus-5-5-2105302007896797351)
+- [果凍壓榨機](#claude-opus-5-5-2105285992865272110)
+- [單一 HTML 檔案中的回合制 ASCII Roguelike](#claude-opus-5-5-2105246199653482872)
+- [建立《權力遊戲》世界](#claude-opus-5-5-2105245648723562584)
+- [互動式地震板塊構造沙盒影片](#claude-opus-5-5-2105029713445949521)
 - [Blender 中的機械式魯布・戈德堡機械](#claude-opus-5-5-2104953406708175097)
 - [使用 3JS 打造《Mario Kart》風格的賽車遊戲](#claude-opus-5-5-2104947552328261810)
 - [互動式卡通風 3D 星球](#claude-opus-5-5-2104919117262389255)
@@ -72,14 +78,438 @@
 - [日式櫻花山谷互動式 3D 景觀網頁](#claude-opus-5-5-2102565403109085669)
 - [Hundenberg 事故模型與逼真影片](#claude-opus-5-5-2102547809140355250)
 - [以圖片為基礎的手球場 360 度 3D 渲染](#claude-opus-5-5-2102544406117286004)
-- [從影像打造程序化 Three.js 3D 主選單背景](#claude-opus-5-5-2102544196808667471)
-- [自動運行的 3D 魯布・戈德堡機械](#claude-opus-5-5-2102544078927741369)
-- [互動式彼得兔風格農場動物遊戲](#claude-opus-5-5-2102538762731565085)
-- [電影感互動式夕陽海盜船](#claude-opus-5-5-2102533729746882985)
-- [無限程序生成的 Three.js 世界](#claude-opus-5-5-2102529695908806728)
-- [互動式人群疏散模擬](#claude-opus-5-5-2102467667978572092)
 
 </details>
+<a id="claude-opus-5-5-2105315982525014067"></a>
+
+### SPARK — 繪畫風格 3D 動畫鏡頭
+
+[Shikhar](https://x.com/xikhar) · 2026-09-30 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105315982525014067"><img src="../assets/previews/7da249a323e787569b2c7ae8fb46f1ed0b7189f259dd6b6c44b90c434582546e.webp" width="840" loading="lazy" alt="SPARK — 繪畫風格 3D 動畫鏡頭"></a>
+
+**提示詞**
+
+```text
+標題：「SPARK」
+
+一段約 15 秒的 3D 動畫鏡頭，採用動畫影集 Arcane（Fortiche）的繪畫風格。
+
+使用 Blender 製作；若有更合適的工具，也可以改用其他工具。寬銀幕，無對白。
+
+GOAL
+
+最優先的目標，是在各個層面盡可能完美地重現 Arcane 的視覺與動畫風格。觀眾觀看時，應相信這是由同一間工作室製作的作品。
+
+投入所需的時間與心力，完美重現其技法與視覺效果。花費足夠時間，確保每個面向都臻於完美。
+
+場景（僅供參考——可自由調整）
+
+一隻小型機械生物（非人形），例如由黃銅與水晶構成的機械蛾，在夜晚凌亂的發明家工作檯上醒來。牠的水晶核心點燃發光能量，接著在一陣火花旋流中衝入空中。如果其他細節、構圖或動作更能展現這種風格，請自由變更。你也可以完全改為製作其他動畫——選擇任何你想做的內容，或任何你最擅長的內容——只要同樣能呈現與 Arcane 完全一致的視覺效果即可。
+
+PROCESS
+
+1. 研究：在建構任何內容之前，先深入研究 Arcane 的風格。尋找 Fortiche 技法的參考資料與解析（訪談、製作花絮、藝術家解析）。記錄所有具代表性的元素：貼圖、明暗處理、線條、色彩、光線、影格率、特效、攝影機與合成。
+
+2. 風格指南：將研究結果整理成書面檢查清單，並在開始動畫前製作一張小型風格畫面（單張靜態影像）。將它與參考靜幀並排比較，持續修改直到相符。
+
+3. 製作：依照檢查清單進行建模、貼圖、打光與動畫製作。
+
+4. 審查：反覆將畫面與 Arcane 的參考資料比較。列出所有能看出的差異並加以修正。持續重複，直到不再存在明顯差異。
+
+需要符合的風格元素（至少包括以下項目）
+
+- 每個表面都使用看得見筆觸的手繪貼圖；不能有任何東西看起來像程序生成或攝影寫實。
+
+- 風格化、繪畫感的明暗處理，光影形狀經過設計，而非寫實的光線衰減。
+
+- 角色與物件採 2 格拍動畫，強烈的姿勢、俐落的節奏、預備動作與拖影格；攝影機移動則採 1 格拍、保持平滑。
+
+- 在 3D 畫面上疊加手繪 2D 特效（火花、能量、煙霧、閃光、發光），以 2 格拍動畫呈現，並使用具圖像設計感的形狀語彙。
+
+- 大膽而具情緒的色彩：暖色光線對比高飽和的發光色彩、濃郁的彩色陰影、強烈的輪廓光與泛光。
+
+- 繪畫感合成：筆刷般的濾鏡、顆粒，以及覆蓋在影像上的細微質感。
+
+- 電影感攝影機：淺景深、具有明確目的的運動，以及撞擊時的重量感。
+
+SOUND
+
+製作符合動作與情緒的細緻電影感聲音設計。
+
+將所有內容做到最好：動畫、模型、貼圖、特效、光線與聲音。使用任何必要的工具或程式。你可以在線上研究參考資料並模仿技法，也可以複製某些內容，但不得直接使用非自行製作的資產。整段鏡頭必須維持一致的風格，讓 3D、手繪貼圖與 2D 特效看起來像是同一張手工製作的影像。
+
+不要使用記憶或先前的聊天內容。
+
+你可以使用任何其他工具、程式、外掛，真的任何東西都可以。運用一切可用資源。
+
+你可以採用不同於本提示所列的方法，或製作不同於描述內容的動畫，但成品必須盡可能貼近電視影集 Arcane 的視覺效果。讓每個面向都臻於完美，並做到完全一致。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+TITLE: "SPARK"
+
+An around 15-second 3D animated shot in the painterly style of the show Arcane (Fortiche).
+
+Made in Blender, or any other tool if superior. Widescreen, no dialogue.
+
+GOAL
+
+The top priority is replicating Arcane's visual and animation style as perfectly as possible, in every way. Someone watching should believe it came from the same studio.
+
+Take as much time and effort as needed. Replicate the technique and look perfectly. Spend as much time as needed, ensuring it's perfect in every way.
+
+SCENE (loose — adapt freely)
+
+A small mechanical creature (not humanoid), something like a brass-and-crystal moth, wakes up on a cluttered inventor's workbench at night. Its crystal core ignites with glowing energy, and it bursts into the air in a swirl of sparks. Change the details, framing, or action if something else shows off the style better. You can animate something else completely different if you want—anything you pick, whatever you can do best—that will also look identical to Arcane.
+
+PROCESS
+
+1. RESEARCH: Before building anything, study Arcane's style in depth. Find references and breakdowns of Fortiche's technique (interviews, making-of material, artist breakdowns). Write down every defining element: textures, shading, line work, color, lighting, frame rate, effects, camera, compositing.
+
+2. STYLE GUIDE: Turn that into a written checklist and a small style frame (a single still image) before animating. Compare it side by side with reference stills and revise until it matches.
+
+3. BUILD: Model, texture, light, and animate following the checklist.
+
+4. REVIEW: Compare frames against Arcane references repeatedly. List every difference you can see and fix it. Repeat until no noticeable differences remain.
+
+STYLE ELEMENTS TO MATCH (at minimum)
+
+- Hand-painted textures with visible brushstrokes on every surface; nothing looks procedural or photographic.
+
+- Stylized, painterly shading with designed light/shadow shapes, not realistic falloff.
+
+- Animation on 2s for characters/objects, with strong poses, snappy timing, anticipation, and smear frames; camera moves smooth on 1s.
+
+- Hand-drawn 2D effects (sparks, energy, smoke, glints, glow) layered over the 3D, animated on 2s with graphic shape language.
+
+- Bold, moody color: warm light vs. saturated glowing accents, rich colored shadows, strong rim light, bloom.
+
+- Painterly compositing: brush-like filtering, grain, subtle texture over the image.
+
+- Cinematic camera: shallow depth of field, purposeful movement, weight on impacts.
+
+SOUND
+
+Detailed, cinematic sound design that matches the action and mood.
+
+Make everything as good as possible: animation, models, textures, effects, lighting, and sound. Use any tools or programs needed. You may study references online and imitate techniques, and copy things, but do not directly use assets you did not create. Keep the whole shot in one consistent style so the 3D, painted textures, and 2D effects feel like a single hand-crafted image.
+
+Do not use memory or previous chats.
+
+You can use any other tools, programs, plugins, literally anything. Use anything at your disposal.
+
+You can use different processes than outlined in this, or animate something else than described, but it should absolutely look as close as possible to the TV show Arcane. Make it perfect in every way and identical.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105315982525014067) · [查看原文](https://x.com/xikhar/status/2105317581695623329) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105302007896797351"></a>
+
+### 音樂卡點 3D 球體下墜動畫影片
+
+[Gorden Sun](https://x.com/Gorden_Sun) · 2026-09-30 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105302007896797351"><img src="../assets/previews/8a408ff8433dd9544f35670200f922a0d16010b69df759f5f5da1637095de9d1.webp" width="840" loading="lazy" alt="音樂卡點 3D 球體下墜動畫影片"></a>
+
+**提示詞**
+
+```text
+音樂卡點 3D 球體下墜動畫影片：呈現媲美專業 Blender 製作的效果，搭配多首經典純音樂，場景隨音樂切換。3D 球體下墜時，在 3D 場景中的物件之間彈跳，並依音樂節奏點亮物件。加入一些幽默元素。
+使用 three.js 製作，不要使用 Blender 製作
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。
+使用three.js制作，不要使用Blender制作
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105302007896797351) · [查看原文](https://x.com/Gorden_Sun/status/2105302007896797351) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105285992865272110"></a>
+
+### 果凍壓榨機
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · 互動
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105285992865272110"><img src="../assets/previews/1c9052a5ef5c853995f0d9f4b2eb04db81763a55200d5c29247447691071a5b0.webp" width="840" loading="lazy" alt="果凍壓榨機"></a>
+
+**提示詞**
+
+```text
+建立「果凍壓榨機」：以 HTML 製作單一檔案的互動式 3D 玩具（所有 JS、CSS 與 WGSL 著色器皆須內嵌，除了 Google Fonts 外不得使用外部資源）。使用 WebGPU 進行渲染；若缺少 WebGPU 或適配器，請顯示清楚的備援訊息，而不是呈現空白頁面。
+
+CONCEPT
+四種半透明、軟糖般的水果切片造型果凍，依序放在液壓壓台的鋼製底座上。玩家按住大型紅色按鈕，讓壓台下降。果凍會被壓扁並向外攤開，壓力計讀值上升；當高度壓縮超過一半左右時，果凍會爆裂成碎片。爆裂後遊戲不會結束：玩家可以抓取碎片、拖曳、把它們丟得到處都是，再次將它們壓扁。
+
+果凍種類（底部切換按鈕，按鍵 1–4）
+1. 西瓜楔形片（半圓盤狀薄片）：紅色果肉搭配深色淚滴狀種子、淡色果皮帶，以及綠色條紋外皮。
+2. 柳橙切片（半圓盤狀）：橙色果肉分瓣，中間以細薄白色膜瓣隔開，外圍是淡色白膜與橙色果皮。
+3. 無花果半片：粉紅色果肉布滿細小金色種子，外覆奶油色層與深紫色外皮。
+4. 鳳梨圓環：金黃色纖維狀果肉帶有放射狀紋理，中間有孔洞。
+每顆果凍都應呈現真實軟糖的質感：次表面散射、柔和半透明效果、光澤高光，以及落在暖色攝影棚地面上的柔和陰影（奶油色／米色，經色調映射）。
+
+物理效果（CPU，固定 60 Hz 步進）
+- 使用 XPBD 四面體軟體，包含 8 次子步進：每個四面體的共旋轉形狀匹配、每個四面體的體積約束、硬式邊緣應變限制（0.35×–1.8×）、邊緣速度阻尼、具庫倫摩擦的地面接觸、滾動阻力，以及物體接近靜止時的平順沉降。
+- 在 CPU 上透過四面體中的重心嵌入，讓渲染網格進行蒙皮；每幀重新計算三角形法線。
+- 壓模是運動學圓形壓板（半徑約 1.05、圓角邊緣、具有厚度，上方連接壓桿）。壓板下方會作為帶摩擦力的天花板，上方可作為平台，邊緣則作為側壁。兩根壓台支柱皆為實體。
+- 以壓板的接觸負載計算壓力讀值（單位為 bar），並依水果種類進行縮放。
+
+爆裂
+- 在果凍高度 52% 至 66% 之間的隨機壓縮程度下斷裂。
+- 每回合開始後不久，就在背景中規劃斷裂切割，讓實際爆裂能立即完成。
+- 由帶有些微傾斜壁面的 3D Voronoi 細胞切出 5–7 個大型碎片。其中 3–4 個碎片的遠端角落會被兩個切割平面削去，並進一步分裂成 2–4 個小碎片，形成鋸齒狀、不規則的邊緣。
+- 依四面體質心將四面體分配給各細胞。每個碎片複製一份粒子。將過小的孤立區塊合併至相鄰碎片。
+- 新生成的物體沿用原本的位置與速度。
+- 依各細胞的半空間裁切蒙皮三角形，並以乾淨平整的封蓋填補每個切面，呈現水果內部（果肉、種子、膜瓣）。不得有拉伸的三角形或破洞。
+- 將碎片向壓台外側及上方彈出。小碎片飛得更快、更高，並以隨機旋轉速度翻滾。
+- 顯示大型斜體結果文字約 2.5 秒後淡出：「噴得到處都是。」（西瓜）、「壓扁了。」（柳橙）、「嗯，這下變成果醬了。」（無花果）、「壓碎了。」（鳳梨）。並加入統計文字：「在 N bar、壓到原高度 N% 時放棄。」
+
+爆裂後：遊玩模式
+- 拾取：對蒙皮網格進行射線／三角形測試，並為觸控操作提供寬容的螢幕空間備援判定。
+- 抓取時，將被抓取區塊的局部區域（半徑約 0.4，僅限該碎片的粒子）固定到面向攝影機的拖曳平面目標點。小碎片整體移動；大型碎片會像果凍一樣拉伸並擺動。
+- 放開時，依指標移動速度將碎片丟出。
+- 碎片彼此會發生碰撞。若某粒子位於另一碎片的四面體內，便透過該碎片最近的蒙皮表面將其推出，並套用摩擦力。使用碎片 AABB 廣相位，以及蒙皮四面體的空間雜湊。
+- 碎片會留在舞台範圍內：設置側壁，並加入不可見的前緣，避免任何物體落到控制項下方或跑到攝影機後方。
+- 壓台仍可運作：按住即可再次壓扁碎片（不會第二次斷裂）；按下 Raise 可升起壓板。
+- 碎片落地時播放濕潤的「啵」聲；抓取時播放細微的擠壓聲。
+- 游標：移到碎片上方時顯示張開的手，拖曳時顯示握拳的手。拖曳空白區域則旋轉攝影機。
+
+介面（編輯導向、極簡）
+- 左上角標題列：「JELLY PRESS」使用粗體窄字大寫，其中「PRESS」填入黃黑相間的警示條紋。副標題：「四顆軟糖。一台液壓壓台。」
+- 右上角：重設與聲音切換按鈕。
+- 底部控制區：
+  - 按壓時顯示逐步升級的說明文字：「接觸。」→「沒事，只是果凍。」→「越來越寬了。」→「現在根本是鬆餅。」→「它在發出聲音。」→「拜託。」
+  - 以紅色按住按鈕為中心，周圍配置圓形壓力刻度盤（0–400 bar 弧線，含紅色區域）、Raise 按鈕，以及大型數字 bar 讀值。
+  - 顯示帶有圖示的水果切換按鈕。
+- 遊玩模式中，說明文字區顯示「抓一塊來丟。」並附上小型「再壓一次」與「下一顆果凍」按鈕。
+- 操作方式：按住空白鍵或 ArrowDown 進行壓榨，按 ArrowUp 升起，按 R 重設，按 1–4 選擇水果。滾輪縮放；雙擊重設視角。
+- 攝影機：採低角度工作台視角；壓台框架會依水果旋轉水平角度，確保支柱不會擋住果凍。自動調整構圖，讓果凍位於標題列與底部控制區之間；支援手機直向畫面，並使用較窄的舞台。
+
+聲音（程式化 Web Audio，不使用音檔）
+隨壓力升高而增強的液壓馬達嗡嗡聲、濕潤的擠壓聲、高壓時偶爾出現的吱嘎聲、壓板停止時的閥門喀噔聲、響亮的爆裂聲，以及落地時柔和的啵聲。在第一次互動時解除音效鎖定。
+
+品質要求
+- 在筆電上維持流暢的 60 fps。
+- 在背景預熱其他水果的網格與著色器，確保切換時立即完成。
+- 遵循 prefers-reduced-motion 設定。
+- 提供無障礙標籤、role=meter 的儀表，以及 focus-visible 外框。
+- 不得有主控台錯誤。頁面絕不應呈現空白。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.
+
+CONCEPT
+Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.
+
+THE JELLIES (chips at the bottom, keys 1–4)
+1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin.
+2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel.
+3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin.
+4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle.
+Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).
+
+PHYSICS (CPU, fixed 60 Hz step)
+- XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still.
+- Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame.
+- The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid.
+- Pressure readout in bar comes from the platen's contact load, scaled per fruit.
+
+THE BURST
+- Break at a random squash between 52% and 66% of the jelly's height.
+- Plan the fracture in the background shortly after each round starts, so the burst itself is instant.
+- 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges.
+- Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours.
+- The new body adopts the old positions and velocities.
+- Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes.
+- Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin.
+- Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."
+
+AFTER THE BURST: PLAY MODE
+- Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch.
+- Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly.
+- Releasing throws the piece with the pointer's velocity.
+- Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets.
+- Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera.
+- The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen.
+- Wet "plop" sounds on landings; a small squelch on grab.
+- Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.
+
+UI (editorial, minimal)
+- Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press."
+- Top-right: Reset and Sound toggle.
+- Bottom deck:
+  - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."
+  - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.
+  - Fruit chips with icons.
+- In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons.
+- Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view.
+- Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.
+
+SOUND (procedural Web Audio, no files)
+Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.
+
+QUALITY BAR
+- Smooth 60 fps on a laptop.
+- Background warm-up of the other fruits' meshes and shaders so switching is instant.
+- Respect prefers-reduced-motion.
+- Accessible labels, a gauge with role=meter, focus-visible outlines.
+- No console errors. The page never goes blank.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105285992865272110) · [查看原文](https://x.com/vib3coded/status/2105286092651999619) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105246199653482872"></a>
+
+### 單一 HTML 檔案中的回合制 ASCII Roguelike
+
+[kriptoleidi](https://x.com/kriptoleidi) · 2026-09-30 · Claude Opus 5.5 · 遊戲
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105246199653482872"><img src="../assets/previews/22015a3875b380ec196cfce48391822fce0993123cc09a30805cfa9d39c59d6d.webp" width="840" loading="lazy" alt="單一 HTML 檔案中的回合制 ASCII Roguelike"></a>
+
+**提示詞**
+
+```text
+請擔任首席遊戲設計師。在單一自包含的 HTML／JS／CSS 檔案中，打造完整的回合制 ASCII Roguelike，且不得使用任何外部相依套件。
+1. 視覺：1980 年代 CRT 螢幕，黑底搭配磷光綠文字（#00FF66），並呈現柔和的掃描線光暈。
+2. 程序化生成：40x22 的地圖，由相互連通的房間與走廊組成。
+3. 角色與物件：@ 英雄、# 牆壁、. 地板、g 哥布林（5 HP）、$ 金幣、> 下樓梯。
+4. 遊戲機制：回合制移動與戰鬥，追蹤 HP 和金幣。
+5. HUD：樓層編號、HP 條、戰鬥紀錄。採用永久死亡機制，並提供重新開始功能。
+只輸出可運作的 HTML 程式碼。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Act as a lead game designer. Build a complete, turn-based ASCII roguelike in a single self-contained HTML/JS/CSS file with zero external dependencies.
+1. Visual: 1980s CRT monitor, phosphor green text (#00FF66) on black, soft scanline glow.
+2. Procedural generation: 40x22 map, connected rooms and corridors.
+3. Entities: @ hero, # wall, . floor, g goblin (5 HP), $ gold, > stairs down.
+4. Mechanics: turn-based movement and combat, track HP and gold.
+5. HUD: floor number, HP bar, combat log. Permadeath with restart.
+Output only the working HTML code.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105246199653482872) · [查看原文](https://x.com/kriptoleidi/status/2105246199653482872) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105245648723562584"></a>
+
+### 建立《權力遊戲》世界
+
+[DrstaOne](https://x.com/DrstaOne) · 2026-09-30 · Claude Opus 5.5 · 場景
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105245648723562584"><img src="../assets/previews/308efa3c984e3a56385f5fd6cb72e5ffff65a59480859f3fae2042a978e77bd6.webp" width="840" loading="lazy" alt="建立《權力遊戲》世界"></a>
+
+**提示詞**
+
+```text
+&lt;建立《權力遊戲》世界&gt;
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+&lt;create Game of thrones world&gt;
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105245648723562584) · [查看原文](https://x.com/DrstaOne/status/2105245648723562584) · [返回案例導覽](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105029713445949521"></a>
+
+### 互動式地震板塊構造沙盒影片
+
+[Ege](https://x.com/egeberkina) · 2026-09-29 · Claude Opus 5.5 · 動畫
+
+<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105029713445949521"><img src="../assets/previews/31a603bc161c6c0c589580174e537eed262b60fb2d17221c7e3e534e559eaec6.webp" width="840" loading="lazy" alt="互動式地震板塊構造沙盒影片"></a>
+
+**提示詞**
+
+```text
+製作一支視覺效果驚豔的 60 秒影片，透過互動式板塊構造沙盒，解說地震如何發生。
+
+讓觀眾感覺自己正在探索一個精美的即時模擬，而不是觀看投影片或傳統的教育影片。
+
+從地殼的簡潔 3D 剖面開始。兩個 tectonic plates 緩慢地相互推移。將它們之間的斷層視覺化，呈現摩擦力鎖住所板塊，而應力逐漸累積。
+
+隨著壓力升高，讓模擬變得更加強烈：岩層開始變形，應力區域發光，細微震動逐漸出現，實時地震儀也開始產生反應。
+
+接著觸發地震。斷層突然滑動，釋放出大量能量。呈現地震波穿過地面向外擴散，接著鏡頭向上轉場至地表，景觀與一座小型城市開始震動。
+
+將 P 波與 S 波以不同方式穿過地球的傳播過程視覺化，接著呈現威力最強的表面波。顯示建築物如何因與震央距離不同而產生不同反應。
+
+最後將鏡頭拉回地下，揭示斷層周圍較小規模的餘震，再拉遠鏡頭，呈現完整的板塊構造系統。
+
+使用電影感動態圖形、令人滿意的物理模擬、戲劇性的尺度轉換、高質感 3D 科學視覺化、極簡字體、動態標籤、流暢的 UI 疊加層與無縫轉場。
+
+節奏應持續演變，每隔幾秒就揭示新的內容，讓完整的 60 秒始終保持視覺吸引力。
+
+整體呈現 Apple 級互動科學視覺化的質感，並將其轉化為電影感的動態設計影片。
+```
+
+<details>
+<summary>作者原始提示詞</summary>
+
+```text
+Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.
+
+Make it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.
+
+Start with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.
+
+As pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.
+
+Then trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.
+
+Visualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.
+
+End by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.
+
+Use cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.
+
+The pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.
+
+Make it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.
+```
+
+</details>
+
+[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2105029713445949521) · [查看原文](https://x.com/egeberkina/status/2105029713445949521) · [返回案例導覽](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104953406708175097"></a>
 
 ### Blender 中的機械式魯布・戈德堡機械
@@ -2674,226 +3104,6 @@ make me a model of the Hundenberg on blender make me a realistic video of the ac
 </details>
 
 [查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544406117286004) · [查看原文](https://x.com/chikaidev/status/2102545257372213581) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544196808667471"></a>
-
-### 從影像打造程序化 Three.js 3D 主選單背景
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="從影像打造程序化 Three.js 3D 主選單背景"></a>
-
-**參考圖片:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
-
-**提示詞**
-
-```text
-在單一 HTML 檔案中，以 Three.js 3D 完美重現這個完全程序化、具動畫效果的主選單背景
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544196808667471) · [查看原文](https://x.com/majidmanzarpour/status/2102544198335373576) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544078927741369"></a>
-
-### 自動運行的 3D 魯布・戈德堡機械
-
-[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="自動運行的 3D 魯布・戈德堡機械"></a>
-
-**提示詞**
-
-```text
-在目前目錄中，將一台會自行運轉的 3D 魯布・戈德堡機械建立為單一且自包含的 index.html。
-
-連鎖流程依序如下：
-1. 從頂端釋放一顆彈珠，讓它沿著一連串的鋸齒形斜坡滾下。
-2. 彈珠撞倒一排至少 12 塊骨牌。
-3. 最後一塊骨牌壓下翹翹板，將一顆小球彈進懸掛的桶子。
-4. 桶子的重量將它向下拉；桶子的繩索繞過滑輪並猛拉一口鐘，使鐘明顯地擺動。
-5. 同一個動作會將旗幟沿著旗桿升起。旗幟升至頂端即為完成。
-
-規則：
-- 自行撰寫物理系統：不得使用物理函式庫。彈珠釋放後的所有運動都必須來自你的模擬（剛體、碰撞、約束、繩索／滑輪）。機械的任何部件都不得使用關鍵影格動畫或補間動畫來驅動運動。
-- 可從 CDN 載入 three.js 以進行渲染。不得使用其他外部資源：不可使用圖片、模型或字型。
-- 不得需要使用者輸入：頁面載入時自動開始，使用跟隨動作的電影感攝影機，並在約 15–20 秒內完成整個連鎖流程。旗幟升起後停留 2 秒，接著重設並重新播放。
-- 具確定性：使用固定時間步長，且不得使用未設種子的隨機性，讓每次執行看起來都一樣。
-- 填滿瀏覽器視窗。畫面會以 1280×720 進行螢幕錄影。
-- 不得顯示任何螢幕文字或任何形式的使用者介面。
-- 打造良好的視覺效果：加入燈光、陰影、材質，以及能讓整體感覺像真實機械裝置的場景。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
-
-The chain, in order:
-1. A marble is released at the top and rolls down a series of zig-zag ramps.
-2. It knocks over a line of at least 12 dominoes.
-3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
-4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
-5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
-
-Rules:
-- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
-- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
-- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
-- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
-- Fill the browser window. It will be screen-recorded at 1280×720.
-- No on-screen text or UI of any kind.
-- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102544078927741369) · [查看原文](https://x.com/leogao25/status/2102544081863717153) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102538762731565085"></a>
-
-### 互動式彼得兔風格農場動物遊戲
-
-[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="互動式彼得兔風格農場動物遊戲"></a>
-
-**提示詞**
-
-```text
-「使用《彼得兔》的設計／美術風格，建立一款互動式農場動物遊戲」
-主選單＝音效開／關＋動物選擇器（馬、豬、牛、貓、狗）
-Esc＝暫停：重設並返回出生點／主選單／
-使用 WASD 四處移動
-按空白鍵跳躍；靠近其他動物時可與牠們互動
-偵測到接近時，隨機觸發互動
-互動可以是對其他動物發出聲音（不同於牠們平時的被動叫聲），或「輕碰牠們」
-可互動的物件：飲水、吃乾草、吃水果。
-第三人稱視角，但鏡頭要稍微位於動物後方並高於動物
-環境中的動物包括鳥類；天空中會隨機出現飛機
-場景＝農田、穀倉，以及有房屋的農村（不能進入房屋）
-準備足以吸引注意力的資產，但不必多到被視為正式製作等級；這只是想在一天中抽出 15 分鐘，和女兒一起玩得開心
-React、SVG、JS、WebGL、Three.js，凡是能讓遊戲感覺「好玩」所需的一切」
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
-main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
-esc = pause: reset back to spawn/main menu/
-wasd to move around
-spacebar to jump and to interact with other animals when near
-interactions are randomized upon proximity detection
-interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
-interactible with: water to drink, hay to eat, fruit to eat. 
-3rd person but as if the camera was slightly behind the animal and above it
-ambience animals are birds, airplanes in the sky (randomly)
-setting= farmland, barn, farming village with houses (cant enter houses)
-Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
-react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102538762731565085) · [查看原文](https://x.com/blaso96/status/2102538764749037738) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102533729746882985"></a>
-
-### 電影感互動式夕陽海盜船
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · 場景
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="電影感互動式夕陽海盜船"></a>
-
-**提示詞**
-
-```text
-從零開始建立一個完全可互動的 3D 海盜船場景，呈現海盜船在夕陽下穿越動態海面的情景。視覺風格應具電影感與風格化特色，而非追求寫實，但仍須極其豐富、細緻、精緻且具高度視覺質感。製作船體、海面、天空、燈光、材質、船帆、骨架綁定、火砲、細小結構細節、海沫、尾流、粒子、動畫、鏡頭運動、構圖、空氣透視與色彩分級。最終成果應呈現高級、高製作水準的 3D 藝術作品，而不是原型、技術展示或低品質場景。從完全空白的頁面開始。不要重複使用或依賴任何先前的專案或場景。必要時，可以自行製作資產，或使用可靠、值得信賴的開源資產與函式庫。強制要求：場景內任何位置都不得出現任何形式的文字。不得出現任何語言的標題、名稱、標誌、描述、製作人員名單、標籤或操作說明。將整個專案交付為一個最終的獨立頁面檔案，可直接在網頁瀏覽器中開啟，並在合理可行的範圍內將資產嵌入其中。海面、船隻、船帆與鏡頭都必須自然且流暢地動態呈現。避免人為的慢動作或遲滯的移動。船隻應讓人感覺確實正在水中航行。不要以原始幾何形狀作為最終成果。製作具視覺說服力且細節豐富的海盜船，包括經過仔細塑形的船體、桅杆、船帆、骨架綁定、繩索、火砲、欄杆、提燈、甲板結構，以及清楚可見的小尺度細節。燈光必須清楚呈現船隻的幾何結構與材質。營造豐富的夕陽氛圍、深邃的海面明暗、反射、可信的海沫，以及船隻後方與周圍細節豐富的航行尾流。在視覺品質與即時效能之間維持良好平衡，確保互動與動畫流暢，不要為了效能而明顯犧牲品質。自動運用達成最佳成果所需的適當技能、工具、函式庫、技術與可用資產。不要等我指定要使用哪些技術。實際在桌面網頁瀏覽器中測試完成的成果。擷取視覺畫面、檢查瀏覽器主控台是否有錯誤，並修正你發現的每一項可見或技術問題，包括變形的幾何結構、黑畫面、資產載入失敗、動畫故障、構圖不佳、渲染瑕疵或鏡頭問題。最後，確認最終檔案能直接開啟並正常運作、場景完全不含任何文字，且不再有任何執行階段或載入錯誤。接著僅以簡短回覆結束任務。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102533729746882985) · [查看原文](https://x.com/vib3coded/status/2102534606121746589) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102529695908806728"></a>
-
-### 無限程序生成的 Three.js 世界
-
-[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · 遊戲
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="無限程序生成的 Three.js 世界"></a>
-
-**提示詞**
-
-```text
-在我的專案資料夾中建立一個名為 "endless-game" 的新專案：使用 three.js 在瀏覽器中打造一個無限且程序生成的世界，讓我可以自由探索，單純享受其中。每個區域都應該隨機生成，無論我玩多久，四處都要不斷出現驚喜。整體氛圍應該寧靜、放鬆而且真正有趣，帶有超市模擬器那種溫馨、療癒又令人滿足的感覺，但不應該做成超市遊戲。我想要一個真正有意思、可以四處漫遊的世界，裡面有我能遇見並互動的實體，以及非常酷的畫面。為這個專案設定一個明確的目標，持續完成工作直到達成目標，完成並準備好讓我遊玩和測試時，播放一聲提示音。
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102529695908806728) · [查看原文](https://x.com/argofowl/status/2102529695908806728) · [返回案例導覽](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### 互動式人群疏散模擬
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · 動畫
-
-<a href="https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="互動式人群疏散模擬"></a>
-
-**提示詞**
-
-```text
-建立互動式人群疏散模擬，看看哪些地方會發生壅塞
-```
-
-<details>
-<summary>作者原始提示詞</summary>
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-</details>
-
-[查看詳情 ↗](https://www.tripo3d.ai/zh-Hant/3d-prompts/claude-opus-5-5-2102467667978572092) · [查看原文](https://x.com/dominikmartn/status/2102467667978572092) · [返回案例導覽](#all-prompts)
 
 ---
 

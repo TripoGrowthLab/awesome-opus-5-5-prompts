@@ -26,11 +26,237 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Beispiele ansehen (1)</summary>
+<summary>Beispiele ansehen (7)</summary>
 
+- [Prozeduraler 3D-Hauptmenü-Hintergrund in Three.js aus einem Bild](#claude-opus-5-5-2102544196808667471)
+- [Selbstlaufende 3D-Rube-Goldberg-Maschine](#claude-opus-5-5-2102544078927741369)
+- [Interaktives Hoftierspiel im Stil von Peter Rabbit](#claude-opus-5-5-2102538762731565085)
+- [Filmreifes interaktives Piratenschiff bei Sonnenuntergang](#claude-opus-5-5-2102533729746882985)
+- [Endlose prozedural generierte Three.js-Welt](#claude-opus-5-5-2102529695908806728)
+- [Interaktive Simulation einer Massenevakuierung](#claude-opus-5-5-2102467667978572092)
 - [Interaktive 3D-Prähistorikinsel](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102544196808667471"></a>
+
+### Prozeduraler 3D-Hauptmenü-Hintergrund in Three.js aus einem Bild
+
+[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Prozeduraler 3D-Hauptmenü-Hintergrund in Three.js aus einem Bild"></a>
+
+**Referenzbilder:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
+
+**Prompt**
+
+```text
+Rekonstruiere dieses perfekte, vollständig prozedurale, animierte 3D-Hauptmenü-Hintergrundbild in Three.js als einzelne HTML-Datei
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102544196808667471) · [Originalbeitrag](https://x.com/majidmanzarpour/status/2102544198335373576) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544078927741369"></a>
+
+### Selbstlaufende 3D-Rube-Goldberg-Maschine
+
+[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Selbstlaufende 3D-Rube-Goldberg-Maschine"></a>
+
+**Prompt**
+
+```text
+Erstelle eine 3D-Rube-Goldberg-Maschine, die selbstständig abläuft, als einzelne, eigenständige index.html im aktuellen Verzeichnis.
+
+Die Kette in dieser Reihenfolge:
+1. Eine Murmel wird oben freigegeben und rollt eine Reihe von Zickzack-Rampen hinunter.
+2. Sie stößt eine Reihe aus mindestens 12 Dominosteinen um.
+3. Der letzte Dominostein kippt eine Wippe, die einen kleinen Ball in einen hängenden Eimer schleudert.
+4. Das Gewicht des Eimers zieht ihn nach unten; sein Seil läuft über eine Umlenkrolle und reißt an einer Glocke, die sichtbar schwingt.
+5. Durch dieselbe Bewegung wird eine Flagge an einer Stange hochgezogen. Wenn die Flagge die Spitze erreicht, ist der Ablauf beendet.
+
+Regeln:
+- Schreibe die Physik selbst: keine Physikbibliothek. Jede Bewegung nach dem Freigeben der Murmel muss aus deiner Simulation stammen (starre Körper, Kollisionen, Constraints, Seil/Umlenkrolle). Keine Keyframe-Animation und keine Tween-Bewegung für irgendein Maschinenteil.
+- Du darfst three.js zum Rendern von einem CDN laden. Nichts anderes darf extern geladen werden: keine Bilder, Modelle oder Fonts.
+- Die Maschine muss ohne Benutzereingabe laufen: Beim Laden der Seite automatisch starten, eine kinematografische Kamera verwenden, die der Handlung folgt, und die gesamte Kette in etwa 15–20 Sekunden abschließen. Nach dem Hochziehen der Flagge 2 Sekunden warten, dann zurücksetzen und erneut abspielen.
+- Deterministisch: Verwende einen festen Zeitschritt und keine nicht initialisierte Zufallsquelle, damit jeder Durchlauf gleich aussieht.
+- Das Browserfenster vollständig ausfüllen. Die Bildschirmaufnahme erfolgt mit 1280×720.
+- Keine Bildschirmtexte und keinerlei UI.
+- Sorge für eine ansprechende Optik: Beleuchtung, Schatten, Materialien und eine Umgebung, die den Eindruck einer echten Konstruktion vermittelt.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
+
+The chain, in order:
+1. A marble is released at the top and rolls down a series of zig-zag ramps.
+2. It knocks over a line of at least 12 dominoes.
+3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
+4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
+5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
+
+Rules:
+- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
+- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
+- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
+- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
+- Fill the browser window. It will be screen-recorded at 1280×720.
+- No on-screen text or UI of any kind.
+- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102544078927741369) · [Originalbeitrag](https://x.com/leogao25/status/2102544081863717153) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102538762731565085"></a>
+
+### Interaktives Hoftierspiel im Stil von Peter Rabbit
+
+[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Interaktives Hoftierspiel im Stil von Peter Rabbit"></a>
+
+**Prompt**
+
+```text
+"Erstelle ein interaktives Hoftierspiel im Design- und Kunststil von "Peter Rabbit"
+Hauptmenü = Ton an/aus + Tierauswahl (Pferd, Schwein, Kuh, Katze, Hund)
+Esc = Pause: zum Spawnpunkt/Hauptmenü zurücksetzen
+Mit WASD bewegen
+Leertaste zum Springen und Interagieren mit anderen Tieren, wenn sie in der Nähe sind
+Interaktionen werden bei erkannter Nähe zufällig ausgewählt
+Mögliche Interaktionen: dem anderen Tier einen Laut entlocken (einzigartig und anders als seine passiven Geräusche) oder es „anstupsen“
+Interaktionen mit: Wasser zum Trinken, Heu zum Fressen, Obst zum Fressen. 
+Third-Person-Perspektive, wobei die Kamera leicht hinter und oberhalb des Tiers positioniert ist
+Umgebungsdetails: Vögel und (zufällig) Flugzeuge am Himmel
+Szenerie = Ackerland, Scheune, landwirtschaftliches Dorf mit Häusern (Häuser können nicht betreten werden)
+Genug Assets, um Aufmerksamkeit zu wecken, aber nicht so viele, dass das Projekt als produktionsreif gelten müsste. Es geht nur darum, 15 Minuten meines Tages mit meiner Tochter zu verbringen und Spaß zu haben
+React, SVG, JS, WebGL, Three.js oder was auch immer nötig ist, damit es sich „gut“ anfühlt"
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
+main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
+esc = pause: reset back to spawn/main menu/
+wasd to move around
+spacebar to jump and to interact with other animals when near
+interactions are randomized upon proximity detection
+interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
+interactible with: water to drink, hay to eat, fruit to eat. 
+3rd person but as if the camera was slightly behind the animal and above it
+ambience animals are birds, airplanes in the sky (randomly)
+setting= farmland, barn, farming village with houses (cant enter houses)
+Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
+react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102538762731565085) · [Originalbeitrag](https://x.com/blaso96/status/2102538764749037738) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102533729746882985"></a>
+
+### Filmreifes interaktives Piratenschiff bei Sonnenuntergang
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Filmreifes interaktives Piratenschiff bei Sonnenuntergang"></a>
+
+**Prompt**
+
+```text
+Erstelle von Grund auf eine vollständig interaktive 3D-Szene mit einem Piratenschiff, das bei Sonnenuntergang über einen dynamischen Ozean segelt. Der visuelle Stil soll filmisch und stilisiert statt fotorealistisch sein und zugleich außergewöhnlich reichhaltig, detailliert, hochwertig und visuell anspruchsvoll wirken. Erstelle Schiff, Ozean, Himmel, Beleuchtung, Materialien, Segel, Rigging, Kanonen, kleine strukturelle Details, Meeresschaum, Kielwasser, Partikel, Animation, Kameraführung, Komposition, atmosphärische Tiefe und Color Grading. Das Endergebnis soll wie ein hochwertiges 3D-Kunstwerk mit hohem Produktionsaufwand wirken, nicht wie ein Prototyp, eine technische Demo oder eine minderwertige Szene. Beginne mit einer vollständig leeren Seite. Verwende kein vorheriges Projekt oder keine vorherige Szene und mache dich nicht davon abhängig. Du kannst die Assets selbst erstellen oder bei Bedarf zuverlässige, vertrauenswürdige Open-Source-Assets und -Bibliotheken verwenden. Verbindliche Anforderungen: Im gesamten Szeneninhalt darf keinerlei Text erscheinen. Keine Titel, Namen, Logos, Beschreibungen, Credits, Beschriftungen oder Steuerungshinweise in irgendeiner Sprache. Liefere das gesamte Projekt als eine einzige finale, eigenständige Seitendatei, die direkt in einem Webbrowser geöffnet werden kann; bette die Assets so weit wie sinnvoll möglich darin ein. Ozean, Schiff, Segel und Kamera müssen sich alle natürlich und flüssig animieren. Vermeide künstliche Zeitlupe oder träge Bewegungen. Das Schiff soll sich so anfühlen, als würde es sich tatsächlich durch das Wasser bewegen. Verwende primitive geometrische Formen nicht als fertiges Ergebnis. Erstelle ein visuell überzeugendes und detailliertes Piratenschiff mit sorgfältig geformtem Rumpf, Masten, Segeln, Rigging, Seilen, Kanonen, Relings, Laternen, Deckaufbauten und klar sichtbaren Details im kleinen Maßstab. Die Beleuchtung muss Geometrie und Materialien des Schiffs deutlich sichtbar machen. Erzeuge eine reichhaltige Sonnenuntergangsatmosphäre, eine tiefe Schattierung des Ozeans, Reflexionen, überzeugenden Meeresschaum sowie ein detailliertes Segelkielwasser hinter und rund um das Schiff. Halte ein ausgewogenes Verhältnis zwischen visueller Qualität und Echtzeit-Performance ein und bewahre flüssige Interaktion und Animation, ohne die Qualität offensichtlich zu beeinträchtigen. Verwende automatisch die am besten geeigneten Skills, Tools, Bibliotheken, Techniken und verfügbaren Assets, die für das bestmögliche Ergebnis erforderlich sind. Warte nicht darauf, dass ich die zu verwendenden Technologien angebe. Teste das fertige Ergebnis tatsächlich in einem Desktop-Webbrowser. Erstelle visuelle Screenshots, prüfe die Browserkonsole auf Fehler und behebe jedes sichtbare oder technische Problem, das du findest – einschließlich verzerrter Geometrie, schwarzer Bildschirme, fehlgeschlagener Asset-Ladevorgänge, fehlerhafter Animationen, schlechter Komposition, Rendering-Artefakte oder Kameraprobleme. Überprüfe am Ende, dass sich die finale Datei direkt öffnen lässt und funktioniert, dass die Szene keinerlei Text enthält und keine Laufzeit- oder Ladefehler mehr vorhanden sind. Beende die Aufgabe anschließend mit nur einer kurzen Antwort.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102533729746882985) · [Originalbeitrag](https://x.com/vib3coded/status/2102534606121746589) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102529695908806728"></a>
+
+### Endlose prozedural generierte Three.js-Welt
+
+[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="Endlose prozedural generierte Three.js-Welt"></a>
+
+**Prompt**
+
+```text
+Erstelle in meinem Projektordner ein neues Projekt namens „endless-game“: eine endlose, prozedural generierte Welt, die mit Three.js im Browser umgesetzt ist und die ich frei erkunden und einfach genießen kann. Jede Region soll zufällig generiert werden und unabhängig davon, wie lange ich spiele, überall Überraschungen bereithalten. Die Welt soll ruhig, entspannend und wirklich unterhaltsam wirken – mit der behaglichen, befriedigenden Atmosphäre eines Supermarkt-Simulators, aber ohne ein Supermarktspiel zu sein. Ich möchte eine wirklich interessante Welt zum Erkunden, mit Wesen, denen ich begegnen und mit denen ich interagieren kann, sowie einer beeindruckenden Grafik. Lege ein klares Ziel für das Projekt fest, arbeite weiter, bis du es erreicht hast, und spiele einen Signalton ab, sobald alles fertig und für mich zum Spielen und Testen bereit ist.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102529695908806728) · [Originalbeitrag](https://x.com/argofowl/status/2102529695908806728) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102467667978572092"></a>
+
+### Interaktive Simulation einer Massenevakuierung
+
+[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Interaktive Simulation einer Massenevakuierung"></a>
+
+**Prompt**
+
+```text
+Erstelle eine interaktive Simulation zur Evakuierung einer Menschenmenge und zeige, wo es zu Engpässen kommt.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+build an interactive crowd evacuation sim and see where it jams
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102467667978572092) · [Originalbeitrag](https://x.com/dominikmartn/status/2102467667978572092) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102450239923720440"></a>
 
 ### Interaktive 3D-Prähistorikinsel

@@ -28,6 +28,12 @@
 <details>
 <summary>Посмотреть примеры (50)</summary>
 
+- [SPARK — живописный 3D-анимационный кадр](#claude-opus-5-5-2105315982525014067)
+- [Видео с падением 3D-сферы в ритм музыки](#claude-opus-5-5-2105302007896797351)
+- [Пресс для желе](#claude-opus-5-5-2105285992865272110)
+- [Пошаговый ASCII-рогалик в одном HTML-файле](#claude-opus-5-5-2105246199653482872)
+- [Создать мир «Игры престолов»](#claude-opus-5-5-2105245648723562584)
+- [Интерактивный тектонический симулятор землетрясения](#claude-opus-5-5-2105029713445949521)
 - [Механическая машина Руба Голдберга в Blender](#claude-opus-5-5-2104953406708175097)
 - [Гоночная игра в стиле Mario Kart на 3JS](#claude-opus-5-5-2104947552328261810)
 - [Интерактивная мультяшная 3D-планета](#claude-opus-5-5-2104919117262389255)
@@ -72,14 +78,438 @@
 - [Интерактивный 3D-ландшафт японской сакурной долины](#claude-opus-5-5-2102565403109085669)
 - [Модель аварии Hundenberg и реалистичное видео](#claude-opus-5-5-2102547809140355250)
 - [360-градусный 3D-рендеринг гандбольной площадки по изображению](#claude-opus-5-5-2102544406117286004)
-- [Процедурный 3D-фон главного меню в Three.js по изображению](#claude-opus-5-5-2102544196808667471)
-- [Самозапускающаяся 3D-машина Руба Голдберга](#claude-opus-5-5-2102544078927741369)
-- [Интерактивная игра о фермерских животных в стиле «Питера Кролика»](#claude-opus-5-5-2102538762731565085)
-- [Кинематографичный интерактивный пиратский корабль на закате](#claude-opus-5-5-2102533729746882985)
-- [Бесконечный процедурно генерируемый мир на Three.js](#claude-opus-5-5-2102529695908806728)
-- [Интерактивная симуляция эвакуации толпы](#claude-opus-5-5-2102467667978572092)
 
 </details>
+<a id="claude-opus-5-5-2105315982525014067"></a>
+
+### SPARK — живописный 3D-анимационный кадр
+
+[Shikhar](https://x.com/xikhar) · 2026-09-30 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105315982525014067"><img src="../assets/previews/7da249a323e787569b2c7ae8fb46f1ed0b7189f259dd6b6c44b90c434582546e.webp" width="840" loading="lazy" alt="SPARK — живописный 3D-анимационный кадр"></a>
+
+**Промпт**
+
+```text
+ЗАГОЛОВОК: «SPARK»
+
+Около 15-секундного 3D-анимационного кадра в живописной стилистике сериала Arcane (Fortiche).
+
+Сделать в Blender или в любом другом инструменте, если он даст лучший результат. Широкий формат, без диалогов.
+
+GOAL
+
+Главный приоритет — максимально точно воспроизвести визуальный стиль и стиль анимации Arcane во всех деталях. Зритель должен поверить, что этот материал создан той же студией.
+
+Потратьте столько времени и сил, сколько потребуется. Идеально воспроизведите технику и визуальный облик. Работайте столько, сколько нужно, и добейтесь безупречного результата во всех отношениях.
+
+СЦЕНА (в общих чертах — можно свободно адаптировать)
+
+Небольшое механическое существо (не гуманоид), например латунно-кристаллическая моль, просыпается ночью на загромождённом верстаке изобретателя. Её кристаллическое ядро загорается сияющей энергией, и она взмывает в воздух, окружённая вихрем искр. Если другой вариант лучше продемонстрирует стиль, измените детали, композицию или действие. При желании можно полностью анимировать что-то другое — что угодно, что вы выберете и что лучше всего умеете делать, — но результат также должен выглядеть идентично Arcane.
+
+PROCESS
+
+1. ИССЛЕДОВАНИЕ: Прежде чем что-либо создавать, подробно изучите стиль Arcane. Найдите референсы и разборы техники Fortiche: интервью, материалы о создании, разборы художников. Запишите все определяющие элементы: текстуры, шейдинг, линии, цвет, освещение, частоту кадров, эффекты, камеру и композитинг.
+
+2. СТАЙЛГАЙД: Превратите эти наблюдения в письменный чек-лист и небольшой стилевой кадр (одно статичное изображение), подготовив их до начала анимации. Сравнивайте его бок о бок с референсными кадрами и дорабатывайте, пока он не будет им соответствовать.
+
+3. СОЗДАНИЕ: Моделируйте, текстурируйте, настраивайте свет и анимируйте, следуя чек-листу.
+
+4. ПРОВЕРКА: Регулярно сравнивайте кадры с референсами из Arcane. Перечисляйте все заметные отличия и исправляйте их. Повторяйте процесс, пока заметных различий не останется.
+
+ЭЛЕМЕНТЫ СТИЛЯ ДЛЯ ВОСПРОИЗВЕДЕНИЯ (как минимум)
+
+- Текстуры, написанные вручную, с заметными мазками кисти на каждой поверхности; ничего не должно выглядеть процедурным или фотографичным.
+
+- Стилизованный живописный шейдинг с продуманными формами света и тени, без реалистичного затухания.
+
+- Анимация персонажей и объектов — на двойках, с выразительными позами, резким таймингом, упреждающими движениями и кадрами-растяжками; движения камеры — плавно, на единицах.
+
+- Нарисованные от руки 2D-эффекты (искры, энергия, дым, блики, свечение), наложенные поверх 3D, с анимацией на двойках и графичным языком форм.
+
+- Смелая, мрачная цветовая гамма: тёплый свет в контрасте с насыщенными светящимися акцентами, богатые цветные тени, выразительный контровой свет и свечение.
+
+- Живописный композитинг: фильтрация, напоминающая мазки кисти, зерно и лёгкая текстура поверх изображения.
+
+- Кинематографичная камера: малая глубина резкости, осмысленное движение и ощущение веса при ударах.
+
+SOUND
+
+Детально проработанный кинематографичный звуковой дизайн, соответствующий действию и настроению.
+
+Сделайте всё максимально качественно: анимацию, модели, текстуры, эффекты, освещение и звук. Используйте любые необходимые инструменты и программы. Можно изучать референсы в интернете, имитировать техники и копировать отдельные решения, но нельзя напрямую использовать ассеты, созданные не вами. Сохраняйте единый стиль на протяжении всего кадра, чтобы 3D, рисованные текстуры и 2D-эффекты воспринимались как единое изображение, созданное вручную.
+
+Не используйте память или предыдущие чаты.
+
+Можно использовать любые другие инструменты, программы, плагины — буквально что угодно. Используйте всё, что есть в вашем распоряжении.
+
+Можно применять другие процессы, не описанные здесь, или анимировать не то, что указано в сцене, но результат должен быть абсолютно максимально похож на телесериал Arcane. Сделайте его идеальным во всех отношениях и идентичным.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+TITLE: "SPARK"
+
+An around 15-second 3D animated shot in the painterly style of the show Arcane (Fortiche).
+
+Made in Blender, or any other tool if superior. Widescreen, no dialogue.
+
+GOAL
+
+The top priority is replicating Arcane's visual and animation style as perfectly as possible, in every way. Someone watching should believe it came from the same studio.
+
+Take as much time and effort as needed. Replicate the technique and look perfectly. Spend as much time as needed, ensuring it's perfect in every way.
+
+SCENE (loose — adapt freely)
+
+A small mechanical creature (not humanoid), something like a brass-and-crystal moth, wakes up on a cluttered inventor's workbench at night. Its crystal core ignites with glowing energy, and it bursts into the air in a swirl of sparks. Change the details, framing, or action if something else shows off the style better. You can animate something else completely different if you want—anything you pick, whatever you can do best—that will also look identical to Arcane.
+
+PROCESS
+
+1. RESEARCH: Before building anything, study Arcane's style in depth. Find references and breakdowns of Fortiche's technique (interviews, making-of material, artist breakdowns). Write down every defining element: textures, shading, line work, color, lighting, frame rate, effects, camera, compositing.
+
+2. STYLE GUIDE: Turn that into a written checklist and a small style frame (a single still image) before animating. Compare it side by side with reference stills and revise until it matches.
+
+3. BUILD: Model, texture, light, and animate following the checklist.
+
+4. REVIEW: Compare frames against Arcane references repeatedly. List every difference you can see and fix it. Repeat until no noticeable differences remain.
+
+STYLE ELEMENTS TO MATCH (at minimum)
+
+- Hand-painted textures with visible brushstrokes on every surface; nothing looks procedural or photographic.
+
+- Stylized, painterly shading with designed light/shadow shapes, not realistic falloff.
+
+- Animation on 2s for characters/objects, with strong poses, snappy timing, anticipation, and smear frames; camera moves smooth on 1s.
+
+- Hand-drawn 2D effects (sparks, energy, smoke, glints, glow) layered over the 3D, animated on 2s with graphic shape language.
+
+- Bold, moody color: warm light vs. saturated glowing accents, rich colored shadows, strong rim light, bloom.
+
+- Painterly compositing: brush-like filtering, grain, subtle texture over the image.
+
+- Cinematic camera: shallow depth of field, purposeful movement, weight on impacts.
+
+SOUND
+
+Detailed, cinematic sound design that matches the action and mood.
+
+Make everything as good as possible: animation, models, textures, effects, lighting, and sound. Use any tools or programs needed. You may study references online and imitate techniques, and copy things, but do not directly use assets you did not create. Keep the whole shot in one consistent style so the 3D, painted textures, and 2D effects feel like a single hand-crafted image.
+
+Do not use memory or previous chats.
+
+You can use any other tools, programs, plugins, literally anything. Use anything at your disposal.
+
+You can use different processes than outlined in this, or animate something else than described, but it should absolutely look as close as possible to the TV show Arcane. Make it perfect in every way and identical.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105315982525014067) · [Исходная публикация](https://x.com/xikhar/status/2105317581695623329) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105302007896797351"></a>
+
+### Видео с падением 3D-сферы в ритм музыки
+
+[Gorden Sun](https://x.com/Gorden_Sun) · 2026-09-30 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105302007896797351"><img src="../assets/previews/8a408ff8433dd9544f35670200f922a0d16010b69df759f5f5da1637095de9d1.webp" width="840" loading="lazy" alt="Видео с падением 3D-сферы в ритм музыки"></a>
+
+**Промпт**
+
+```text
+Анимационное видео с падением 3D-сферы в ритм музыки: эффект профессионального уровня, сопоставимый с результатами, созданными в Blender. Используйте несколько классических инструментальных композиций; сцены должны меняться под музыку, а падающая 3D-сфера — отскакивать от объектов внутри 3D-сцен. Подсвечивайте объекты в такт музыке. Добавьте немного юмора.
+Используйте three.js, не Blender
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+卡点的3D球体下坠的动画视频：对标专业的Blender做的效果，音乐是多首经典的纯音乐，场景按音乐切换，3D球体下坠时在3D场景的物件中弹跳，按音乐的节奏点亮物件。带一些幽默的元素。
+使用three.js制作，不要使用Blender制作
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105302007896797351) · [Исходная публикация](https://x.com/Gorden_Sun/status/2105302007896797351) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105285992865272110"></a>
+
+### Пресс для желе
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Интерактив
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105285992865272110"><img src="../assets/previews/1c9052a5ef5c853995f0d9f4b2eb04db81763a55200d5c29247447691071a5b0.webp" width="840" loading="lazy" alt="Пресс для желе"></a>
+
+**Промпт**
+
+```text
+Создайте «Пресс для желе»: одностраничную интерактивную 3D-игрушку в формате HTML (весь JS, CSS и WGSL-шейдеры должны быть встроены, внешние ресурсы не использовать, кроме Google Fonts). Рендеринг — через WebGPU; если WebGPU или адаптер недоступны, показывайте понятное сообщение-заглушку вместо пустой страницы.
+
+CONCEPT
+Четыре полупрозрачных жевательных желе в форме фруктовых долек по очереди лежат на стальной платформе гидравлического пресса. Игрок удерживает большую красную кнопку, чтобы опустить пресс. Желе сминается и распластывается, стрелка манометра поднимается, а где-то после уменьшения высоты более чем наполовину оно разлетается на кусочки. После разрушения игра НЕ заканчивается: игрок может хватать кусочки, двигать их, бросать и снова сдавливать.
+
+ЖЕЛЕ (карточки внизу, клавиши 1–4)
+1. Долька арбуза (пластина в форме полудиска): красная мякоть с тёмными каплевидными семечками, светлая полоса корки и зелёная полосатая кожура.
+2. Долька апельсина (полудиск): оранжевая мякоть, разделённая тонкими белыми перегородками, светлая сердцевина и оранжевая кожура.
+3. Половинка инжира: розовая мякоть с множеством мелких золотистых семян, кремовый слой и тёмно-фиолетовая кожица.
+4. Кольцо ананаса: золотистая волокнистая мякоть с радиальными прожилками и отверстием в центре.
+Каждое желе должно выглядеть как настоящее жевательное лакомство: подповерхностное рассеяние, мягкая полупрозрачность, глянцевые зеркальные блики и мягкие тени на тёплом студийном полу (кремово-бежевый цвет, тональная компрессия).
+
+ФИЗИКА (на CPU, фиксированный шаг 60 Гц)
+- Мягкое тело из тетраэдров на основе XPBD с 8 подшагами: коротационное сопоставление формы для каждого тетраэдра, ограничения объёма для каждого тетраэдра, жёсткие пределы деформации рёбер (0,35×–1,8×), демпфирование скорости рёбер, контакт с полом по закону трения Кулона, сопротивление качению и плавное успокоение почти неподвижных объектов.
+- Рендер-сетка деформируется на CPU через барицентрическое встраивание в тетраэдры; нормали пересчитываются по треугольникам в каждом кадре.
+- Пуассон пресса — кинематическая круглая плита (радиус ~1,05, скруглённая кромка, определённая толщина и шток над ней). Снизу она действует как потолок с трением, сверху — как полка, а по краю — как боковая стенка. Две стойки пресса должны быть твёрдыми.
+- Показатель давления в барах вычисляется по нагрузке на плиту и масштабируется для каждого фрукта.
+
+РАЗРУШЕНИЕ
+- Разрушение происходит при случайном сжатии до 52–66% исходной высоты желе.
+- Планируйте раскол в фоновом режиме вскоре после начала каждого раунда, чтобы само разрушение происходило мгновенно.
+- Создавайте 5–7 крупных кусочков из 3D-ячеек Вороного со слегка наклонёнными стенками. У 3–4 из них срезайте дальний угол двумя режущими плоскостями и дополнительно разделяйте его на 2–4 мелких осколка, формируя рваные края с выемками.
+- Назначайте тетраэдры ячейкам по центроиду. Дублируйте частицы для каждого фрагмента. Мелкие отдельные островки объединяйте с соседними.
+- Новое тело наследует позиции и скорости старого.
+- Обрезайте треугольники оболочки по полупространствам каждой ячейки и заполняйте каждую поверхность среза аккуратной плоской крышкой, показывающей внутреннюю часть фрукта (мякоть, семена, перегородки). Растянутых треугольников и дыр быть не должно.
+- Выталкивайте кусочки из-под пресса наружу и вверх. Мелкие осколки должны лететь быстрее и выше, а также кувыркаться со случайным вращением.
+- Показывайте крупный курсивный вердикт примерно 2,5 с, затем плавно скрывайте его: «Шлёп.» (дыня), «Выжато.» (апельсин), «Ну, это уже джем.» (инжир), «Раздавлено.» (ананас). Добавьте строку статистики: «Сдался при N бар и N% исходной высоты.»
+
+ПОСЛЕ РАЗРУШЕНИЯ: РЕЖИМ ИГРЫ
+- Выбор объектов: проверка пересечения луча с треугольниками деформированной сетки и снисходительная проверка в экранных координатах для сенсорного ввода.
+- При захвате закрепляйте выбранную область (радиус ~0,4, только частицы этого фрагмента) на целевой точке плоскости перетаскивания, ориентированной к камере. Мелкие осколки перемещаются целиком; крупные кусочки растягиваются и раскачиваются, как желе.
+- При отпускании бросайте кусочек со скоростью указателя.
+- Кусочки сталкиваются друг с другом. Частицу, оказавшуюся внутри тетраэдра другого фрагмента, выталкивайте через ближайшую поверхность оболочки этого фрагмента, учитывая трение. Используйте широкую фазу с AABB фрагментов и пространственный хеш тетраэдров оболочки.
+- Не позволяйте кусочкам покидать сцену: добавьте боковые стены и невидимый передний край, чтобы они не оказывались под элементами управления или за камерой.
+- Пресс продолжает работать: удерживайте кнопку, чтобы снова сдавить кусочки (без повторного разрушения); кнопка «Поднять» поднимает плиту.
+- Воспроизводите влажные звуки «шлёп» при приземлении и тихий хлюп при захвате.
+- Курсор: открытая ладонь над кусочками, сжатая ладонь во время перетаскивания. Перетаскивание пустого пространства вращает камеру по орбите.
+
+ИНТЕРФЕЙС (минималистичный, редакционный)
+- Логотип в левом верхнем углу: «JELLY PRESS» жирным узким капсом; слово «PRESS» залито жёлто-чёрными предупреждающими полосами. Подзаголовок: «Четыре желейных конфеты. Один гидравлический пресс.»
+- В правом верхнем углу: кнопки «Сброс» и переключатель звука.
+- Нижняя панель:
+  - Строка подписей, которые меняются по мере сжатия: «Контакт.» → «Всё нормально. Это же желе.» → «Становится шире.» → «Теперь это блин.» → «Оно издаёт звук.» → «Пожалуйста.»
+  - Круговой манометр (дуга 0–400 бар, красная зона) вокруг красной кнопки «УДЕРЖИВАТЬ», кнопка «Поднять» и крупный числовой показатель давления в барах.
+  - Карточки фруктов с иконками.
+- В режиме игры в области подписей показывайте «Схватите кусочек. Бросьте его.» и небольшие кнопки «Снова прессовать» и «Следующее желе».
+- Управление: удерживайте Space или ArrowDown, чтобы прессовать; ArrowUp — чтобы поднять; R — для сброса; клавиши 1–4 — для выбора фрукта. Колесо мыши изменяет масштаб, двойной щелчок сбрасывает вид.
+- Камера: низкий ракурс на уровне верстака; рама пресса поворачивается вокруг вертикальной оси для каждого фрукта, чтобы стойки никогда не загораживали желе. Компоновка адаптируется так, чтобы желе располагалось между логотипом и нижней панелью; на телефонах в портретной ориентации используется более узкая сцена.
+
+ЗВУК (процедурный Web Audio, без файлов)
+Гул гидравлического мотора, усиливающийся с ростом давления; влажные хлюпающие звуки; редкий скрип при высоком давлении; глухой щелчок клапана при остановке плиты; громкий звук разрушения; мягкие шлепки при приземлении. Разблокируйте звук при первом взаимодействии.
+
+ТРЕБОВАНИЯ К КАЧЕСТВУ
+- Плавные 60 fps на ноутбуке.
+- Фоновая загрузка сеток и шейдеров остальных фруктов, чтобы переключение происходило мгновенно.
+- Учитывайте настройку prefers-reduced-motion.
+- Доступные подписи, манометр с role=meter и контуры элементов при фокусировке.
+- Ошибок в консоли быть не должно. Страница никогда не должна становиться пустой.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.
+
+CONCEPT
+Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.
+
+THE JELLIES (chips at the bottom, keys 1–4)
+1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin.
+2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel.
+3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin.
+4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle.
+Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).
+
+PHYSICS (CPU, fixed 60 Hz step)
+- XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still.
+- Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame.
+- The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid.
+- Pressure readout in bar comes from the platen's contact load, scaled per fruit.
+
+THE BURST
+- Break at a random squash between 52% and 66% of the jelly's height.
+- Plan the fracture in the background shortly after each round starts, so the burst itself is instant.
+- 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges.
+- Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours.
+- The new body adopts the old positions and velocities.
+- Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes.
+- Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin.
+- Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."
+
+AFTER THE BURST: PLAY MODE
+- Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch.
+- Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly.
+- Releasing throws the piece with the pointer's velocity.
+- Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets.
+- Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera.
+- The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen.
+- Wet "plop" sounds on landings; a small squelch on grab.
+- Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.
+
+UI (editorial, minimal)
+- Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press."
+- Top-right: Reset and Sound toggle.
+- Bottom deck:
+  - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."
+  - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.
+  - Fruit chips with icons.
+- In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons.
+- Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view.
+- Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.
+
+SOUND (procedural Web Audio, no files)
+Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.
+
+QUALITY BAR
+- Smooth 60 fps on a laptop.
+- Background warm-up of the other fruits' meshes and shaders so switching is instant.
+- Respect prefers-reduced-motion.
+- Accessible labels, a gauge with role=meter, focus-visible outlines.
+- No console errors. The page never goes blank.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105285992865272110) · [Исходная публикация](https://x.com/vib3coded/status/2105286092651999619) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105246199653482872"></a>
+
+### Пошаговый ASCII-рогалик в одном HTML-файле
+
+[kriptoleidi](https://x.com/kriptoleidi) · 2026-09-30 · Claude Opus 5.5 · Игры
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105246199653482872"><img src="../assets/previews/22015a3875b380ec196cfce48391822fce0993123cc09a30805cfa9d39c59d6d.webp" width="840" loading="lazy" alt="Пошаговый ASCII-рогалик в одном HTML-файле"></a>
+
+**Промпт**
+
+```text
+Выступи в роли ведущего геймдизайнера. Создай полноценный пошаговый ASCII-рогалик в одном автономном файле HTML/JS/CSS без внешних зависимостей.
+1. Визуальный стиль: ЭЛТ-монитор 1980-х годов, фосфорный зелёный текст (#00FF66) на чёрном фоне, мягкое свечение строк развертки.
+2. Процедурная генерация: карта размером 40×22 с соединёнными комнатами и коридорами.
+3. Сущности: @ — герой, # — стена, . — пол, g — гоблин (5 HP), $ — золото, > — лестница вниз.
+4. Механики: пошаговое перемещение и бои, отображение HP и количества золота.
+5. HUD: номер этажа, шкала HP, журнал боя. Перманентная смерть и возможность начать заново.
+Выведи только рабочий HTML-код.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Act as a lead game designer. Build a complete, turn-based ASCII roguelike in a single self-contained HTML/JS/CSS file with zero external dependencies.
+1. Visual: 1980s CRT monitor, phosphor green text (#00FF66) on black, soft scanline glow.
+2. Procedural generation: 40x22 map, connected rooms and corridors.
+3. Entities: @ hero, # wall, . floor, g goblin (5 HP), $ gold, > stairs down.
+4. Mechanics: turn-based movement and combat, track HP and gold.
+5. HUD: floor number, HP bar, combat log. Permadeath with restart.
+Output only the working HTML code.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105246199653482872) · [Исходная публикация](https://x.com/kriptoleidi/status/2105246199653482872) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105245648723562584"></a>
+
+### Создать мир «Игры престолов»
+
+[DrstaOne](https://x.com/DrstaOne) · 2026-09-30 · Claude Opus 5.5 · Сцены
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105245648723562584"><img src="../assets/previews/308efa3c984e3a56385f5fd6cb72e5ffff65a59480859f3fae2042a978e77bd6.webp" width="840" loading="lazy" alt="Создать мир «Игры престолов»"></a>
+
+**Промпт**
+
+```text
+&lt;создай мир «Игры престолов»&gt;
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+&lt;create Game of thrones world&gt;
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105245648723562584) · [Исходная публикация](https://x.com/DrstaOne/status/2105245648723562584) · [Назад к примерам](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105029713445949521"></a>
+
+### Интерактивный тектонический симулятор землетрясения
+
+[Ege](https://x.com/egeberkina) · 2026-09-29 · Claude Opus 5.5 · Анимация
+
+<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105029713445949521"><img src="../assets/previews/31a603bc161c6c0c589580174e537eed262b60fb2d17221c7e3e534e559eaec6.webp" width="840" loading="lazy" alt="Интерактивный тектонический симулятор землетрясения"></a>
+
+**Промпт**
+
+```text
+Создай визуально впечатляющее 60-секундное видео, объясняющее, как происходит землетрясение, с помощью интерактивного тектонического симулятора.
+
+Создай ощущение, будто мы наблюдаем за исследованием красивой симуляции в реальном времени, а не за слайд-шоу или обычным образовательным роликом.
+
+Начни с чистого 3D-сечения земной коры. Две тектонические плиты медленно движутся навстречу друг другу. Визуализируй разлом между ними и покажи, как трение блокирует движение плит, пока напряжение постепенно накапливается.
+
+По мере роста давления усиливай напряжённость симуляции: пусть слои горных пород деформируются, зоны напряжения светятся, появляются лёгкие вибрации, а работающий сейсмограф начинает реагировать.
+
+Затем запусти землетрясение. Разлом внезапно смещается и высвобождает мощный выброс энергии. Покажи, как сейсмические волны расходятся по грунту, а затем перейди к поверхности, где ландшафт и небольшой город начинают содрогаться.
+
+Визуализируй, как P- и S-волны по-разному распространяются внутри Земли, а за ними следуют самые сильные поверхностные волны. Покажи, как здания реагируют по-разному в зависимости от расстояния до эпицентра.
+
+В финале снова приблизь камеру к подземной части, чтобы показать небольшие афтершоки вокруг разлома, а затем отдали её, открывая всю тектоническую систему целиком.
+
+Используй кинематографичный моушн-дизайн, убедительные физические симуляции, выразительные переходы между масштабами, премиальную 3D-визуализацию научных данных, минимум текста, динамические подписи, плавные UI-оверлеи и бесшовные переходы.
+
+Темп должен постоянно меняться, а каждые несколько секунд зрителю должно открываться что-то новое, чтобы все 60 секунд оставались визуально увлекательными.
+
+Создай ощущение интерактивной научной визуализации уровня Apple, превращённой в кинематографичный ролик в стиле моушн-дизайна.
+```
+
+<details>
+<summary>Исходный промпт автора</summary>
+
+```text
+Create a visually stunning 60-second video explaining how an earthquake happens through an interactive tectonic sandbox.
+
+Make it feel like we are watching someone explore a beautiful real-time simulation, not a slideshow or traditional educational video.
+
+Start with a clean 3D cross-section of Earth’s crust. Two tectonic plates slowly move against each other. Visualize the fault between them and show friction locking the plates while stress gradually builds.
+
+As pressure increases, make the simulation more intense: rock layers deform, stress zones glow, subtle vibrations begin, and a live seismograph starts reacting.
+
+Then trigger the earthquake. The fault suddenly slips and releases a massive burst of energy. Show seismic waves radiating outward through the ground, then transition upward to the surface where the landscape and a small city begin shaking.
+
+Visualize P-waves and S-waves traveling differently through the Earth, followed by the strongest surface waves. Show buildings reacting differently depending on distance from the epicenter.
+
+End by zooming back underground to reveal smaller aftershocks around the fault, then pull out to show the complete tectonic system.
+
+Use cinematic motion graphics, satisfying physics simulations, dramatic scale transitions, premium 3D scientific visualization, minimal typography, dynamic labels, smooth UI overlays and seamless transitions.
+
+The pacing should constantly evolve and reveal something new every few seconds so the full 60 seconds stays visually engaging.
+
+Make it feel like an Apple-quality interactive science visualization turned into a cinematic motion-design video.
+```
+
+</details>
+
+[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2105029713445949521) · [Исходная публикация](https://x.com/egeberkina/status/2105029713445949521) · [Назад к примерам](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2104953406708175097"></a>
 
 ### Механическая машина Руба Голдберга в Blender
@@ -2622,226 +3052,6 @@ make me a model of the Hundenberg on blender make me a realistic video of the ac
 </details>
 
 [Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544406117286004) · [Исходная публикация](https://x.com/chikaidev/status/2102545257372213581) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544196808667471"></a>
-
-### Процедурный 3D-фон главного меню в Three.js по изображению
-
-[Majid Manzarpour](https://x.com/majidmanzarpour) · 2026-09-22 · Claude Opus 5.5 · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544196808667471"><img src="../assets/previews/00e1e42d1237637670ed6c41d5701bef1c74975a73d5b62a5e7f698ea3909f93.webp" width="840" loading="lazy" alt="Процедурный 3D-фон главного меню в Three.js по изображению"></a>
-
-**Референсы:** [1](https://media.tripogrowth.space/media/de4534b1-fda8-4736-8558-09b7283f646a.jpg) · [2](https://pbs.twimg.com/media/HS28q6mWMAAxONB.jpg)
-
-**Промпт**
-
-```text
-идеально воссоздай этот полностью процедурный анимированный 3D-фон главного меню в Three.js в одном HTML-файле
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-recreate this perfectly, fully procedural, animated, main menu background in three.js 3D single HTML file
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544196808667471) · [Исходная публикация](https://x.com/majidmanzarpour/status/2102544198335373576) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544078927741369"></a>
-
-### Самозапускающаяся 3D-машина Руба Голдберга
-
-[leo](https://x.com/leogao25) · 2026-09-22 · Claude Opus 5.5 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544078927741369"><img src="../assets/previews/337a5747637168ec67e4ac5563dd2bd4b3bd60fbdcfe57409ba528644c257fdc.webp" width="840" loading="lazy" alt="Самозапускающаяся 3D-машина Руба Голдберга"></a>
-
-**Промпт**
-
-```text
-Создай самозапускающуюся 3D-машину Руба Голдберга в виде одного автономного файла index.html в текущем каталоге.
-
-Цепочка должна работать в следующем порядке:
-1. В верхней точке отпускается шарик, который скатывается по нескольким зигзагообразным рампам.
-2. Он опрокидывает ряд из как минимум 12 домино.
-3. Последняя костяшка домино наклоняет качели, которые запускают небольшой шарик в подвесное ведро.
-4. Под весом ведро опускается; его верёвка проходит через блок и дёргает колокол, который должен заметно раскачиваться.
-5. Это же движение поднимает флаг по флагштоку. Завершением служит момент, когда флаг достигает вершины.
-
-Правила:
-- Напиши физику самостоятельно, без физических библиотек. Всякое движение после запуска шарика должно происходить благодаря твоей симуляции: твёрдые тела, столкновения, ограничения, верёвка и блок. Никакой заранее заданной покадровой анимации или интерполированного движения деталей машины.
-- Для рендеринга можно загрузить three.js из CDN. Ничего другого извне использовать нельзя: никаких изображений, моделей или шрифтов.
-- Всё должно работать без участия пользователя: автоматически запускаться при загрузке страницы, использовать кинематографичную камеру, следующую за действием, и полностью проходить всю цепочку примерно за 15–20 секунд. После подъёма флага выжди 2 секунды, затем сбрось состояние и запусти воспроизведение заново.
-- Детерминированность: используй фиксированный шаг по времени и неинициализированную случайность не применяй, чтобы каждый запуск выглядел одинаково.
-- Заполняй всё окно браузера. Запись экрана будет выполняться в разрешении 1280×720.
-- Никакого текста на экране и интерфейса любого вида.
-- Сделай сцену привлекательной: используй освещение, тени, материалы и окружение, чтобы конструкция выглядела как настоящий механизм.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Build a 3D Rube Goldberg machine that runs itself, as a single self-contained index.html in the current directory.
-
-The chain, in order:
-1. A marble is released at the top and rolls down a series of zig-zag ramps.
-2. It knocks over a line of at least 12 dominoes.
-3. The last domino tips a seesaw, which launches a small ball into a hanging bucket.
-4. The bucket's weight pulls it down; its rope runs over a pulley and yanks a bell, which visibly swings.
-5. The same motion raises a flag up a pole. The flag reaching the top is the finish.
-
-Rules:
-- Write the physics yourself: no physics library. Every motion after the marble is released must come from your simulation (rigid bodies, collisions, constraints, rope/pulley). No keyframed animation or tweened motion of any machine part.
-- You may load three.js from a CDN for rendering. Nothing else external: no images, models, or fonts.
-- It must run with no user input: start automatically on page load, use a cinematic camera that follows the action, and complete the whole chain in about 15–20 seconds. After the flag is up, hold for 2 seconds, then reset and replay.
-- Deterministic: fixed timestep and no unseeded randomness, so every run looks the same.
-- Fill the browser window. It will be screen-recorded at 1280×720.
-- No on-screen text or UI of any kind.
-- Make it look good: lighting, shadows, materials, and a setting that makes it feel like a real contraption.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102544078927741369) · [Исходная публикация](https://x.com/leogao25/status/2102544081863717153) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102538762731565085"></a>
-
-### Интерактивная игра о фермерских животных в стиле «Питера Кролика»
-
-[mblaso](https://x.com/blaso96) · 2026-09-22 · Claude Opus 5.5 · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102538762731565085"><img src="../assets/previews/b0398c725131002e496ea826c8fe66a2421c20c036a8989b4aec58b23d06e574.webp" width="840" loading="lazy" alt="Интерактивная игра о фермерских животных в стиле «Питера Кролика»"></a>
-
-**Промпт**
-
-```text
-"Создай интерактивную игру о фермерских животных в стиле «Питера Кролика»
-главное меню = звуки вкл./выкл. + выбор животного (лошадь, свинья, корова, кошка, собака)
-Esc = пауза: сброс до точки появления/возврат в главное меню/
-перемещение с помощью WASD
-пробел — прыжок и взаимодействие с другими животными, когда они находятся рядом
-взаимодействия случайно выбираются при обнаружении близости
-взаимодействия могут включать звуки в адрес другого животного (уникальные, отличающиеся от его пассивных звуков), «потыкать его носом»
-можно взаимодействовать с водой, чтобы попить, сеном, чтобы поесть, и фруктами, чтобы поесть. 
-вид от третьего лица, камера расположена немного позади животного и выше него
-живые элементы окружения: птицы и самолёты в небе (появляются случайным образом)
-место действия = фермерские угодья, амбар, фермерская деревня с домами (в дома нельзя войти)
-Добавь достаточно ассетов, чтобы игра привлекала внимание, но не настолько много, чтобы она требовала производственного качества: это всего лишь способ провести 15 минут с дочерью и весело провести время
-react, svg, js, webgl, threejs — используй всё необходимое, чтобы игра ощущалась «хорошо»"
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-"Create a interactive farm animal game using the design/art style of "Peter Rabbit"
-main menu = sounds on/off + animal picker (horse, pig, cow, cat, dog)
-esc = pause: reset back to spawn/main menu/
-wasd to move around
-spacebar to jump and to interact with other animals when near
-interactions are randomized upon proximity detection
-interactions can be make sounds at the other animal (unique from their passive sounds) "boop them"
-interactible with: water to drink, hay to eat, fruit to eat. 
-3rd person but as if the camera was slightly behind the animal and above it
-ambience animals are birds, airplanes in the sky (randomly)
-setting= farmland, barn, farming village with houses (cant enter houses)
-Enough assets to capture attention, but not enough that it needs to be deemed production grade, this is just to capture 15 minutes out of my day with my daughter and have fun
-react, svg, js, webgl, threejs, whatever is necessary to make it feel "good""
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102538762731565085) · [Исходная публикация](https://x.com/blaso96/status/2102538764749037738) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102533729746882985"></a>
-
-### Кинематографичный интерактивный пиратский корабль на закате
-
-[Vib3Coded](https://x.com/vib3coded) · 2026-09-22 · Claude Opus 5.5 · Сцены
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102533729746882985"><img src="../assets/previews/2239f7a3f4f3863b4c6293554252f26ef2d141d58a1c633a05e382958d37bae4.webp" width="840" loading="lazy" alt="Кинематографичный интерактивный пиратский корабль на закате"></a>
-
-**Промпт**
-
-```text
-Создай с нуля полностью интерактивную 3D-сцену с пиратским кораблём, который плывёт по динамичному океану на закате. Визуальный стиль должен быть кинематографичным и стилизованным, а не фотореалистичным, но при этом исключительно насыщенным, детализированным, отполированным и визуально продуманным. Создай корабль, океан, небо, освещение, материалы, паруса, такелаж, пушки, мелкие конструктивные детали, морскую пену, кильватерный след, частицы, анимацию, работу камеры, композицию, атмосферную перспективу и цветокоррекцию. Итог должен выглядеть как премиальная 3D-работа высокого production-уровня, а не прототип, техническая демонстрация или низкокачественная сцена. Начни с полностью пустой страницы. Не переиспользуй предыдущий проект или сцену и не опирайся на них. При необходимости можешь самостоятельно создать ассеты либо использовать надёжные проверенные ассеты и библиотеки с открытым исходным кодом. Обязательные требования: внутри сцены нигде не должно появляться никаких текстов. Запрещены заголовки, имена, логотипы, описания, титры, подписи и инструкции по управлению на любом языке. Представь весь проект в виде одного итогового автономного файла страницы, который можно напрямую открыть в веб-браузере; по возможности размести ассеты внутри него. Океан, корабль, паруса и камера должны двигаться естественно и плавно. Избегай искусственного замедленного режима и вялого движения. Должно ощущаться, что корабль действительно движется по воде. Не используй примитивные геометрические формы в качестве готового результата. Создай визуально убедительный детализированный пиратский корабль с тщательно сформированным корпусом, мачтами, парусами, такелажем, канатами, пушками, поручнями, фонарями, надпалубными конструкциями и хорошо заметными мелкими деталями. Освещение должно чётко раскрывать геометрию и материалы корабля. Создай насыщенную атмосферу заката, глубокие оттенки океана, отражения, убедительную морскую пену и детализированный кильватерный след позади судна и вокруг него. Соблюдай баланс между визуальным качеством и производительностью в реальном времени: сохрани плавное взаимодействие и анимацию, не допуская явного ухудшения качества. Автоматически используй наиболее подходящие навыки, инструменты, библиотеки, методы и доступные ассеты, необходимые для достижения наилучшего результата. Не жди, пока я укажу, какие технологии использовать. Обязательно протестируй готовый результат в веб-браузере на компьютере. Сделай визуальные скриншоты, проверь консоль браузера на наличие ошибок и исправь все обнаруженные визуальные и технические проблемы, включая искажённую геометрию, чёрный экран, ошибки загрузки ассетов, неработающую анимацию, неудачную композицию, артефакты рендеринга и проблемы с камерой. В конце убедись, что итоговый файл открывается и работает напрямую, в сцене вообще нет текста и не осталось ошибок выполнения или загрузки. После этого заверши задачу только кратким ответом.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-Create from scratch a fully interactive 3D scene of a pirate ship sailing across a dynamic ocean at sunset. The visual style should be cinematic and stylized rather than photorealistic, while still being exceptionally rich, detailed, polished, and visually sophisticated. Build the ship, ocean, sky, lighting, materials, sails, rigging, cannons, small structural details, sea foam, wake, particles, animation, camera work, composition, atmospheric depth, and color grading. The final result should feel like a premium, high-production 3D artwork, not a prototype, technical demo, or low-quality scene. Start from a completely blank page. Do not reuse or depend on any previous project or scene. You may create the assets yourself or use reliable, trusted, open-source assets and libraries when necessary. Mandatory requirements: No text of any kind may appear anywhere inside the scene. No titles, names, logos, descriptions, credits, labels, or control instructions in any language. Deliver the entire project as one final standalone page file that can be opened directly in a web browser, with assets embedded inside it as much as reasonably possible. The ocean, ship, sails, and camera must all be animated naturally and smoothly. Avoid artificial slow motion or sluggish movement. The ship should feel like it is genuinely moving through the water. Do not rely on primitive geometric shapes as the finished result. Build a visually convincing and detailed pirate ship, including a carefully shaped hull, masts, sails, rigging, ropes, cannons, railings, lanterns, deck structures, and clearly visible small-scale details. Lighting must reveal the ship's geometry and materials clearly. Create a rich sunset atmosphere, deep ocean shading, reflections, convincing sea foam, and a detailed sailing wake behind and around the vessel. Maintain a strong balance between visual quality and real-time performance, preserving smooth interaction and animation without making an obvious sacrifice in quality. Automatically use the most appropriate skills, tools, libraries, techniques, and available assets needed to achieve the best result. Do not wait for me to specify which technologies to use. Actually test the finished result in a desktop web browser. Capture visual screenshots, inspect the browser console for errors, and fix every visible or technical issue you find, including distorted geometry, black screens, failed asset loading, broken animation, poor composition, rendering artifacts, or camera problems. At the end, verify that the final file opens and works directly, that the scene contains no text whatsoever, and that there are no remaining runtime or loading errors. Then finish the task with only a brief response.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102533729746882985) · [Исходная публикация](https://x.com/vib3coded/status/2102534606121746589) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102529695908806728"></a>
-
-### Бесконечный процедурно генерируемый мир на Three.js
-
-[🥔🥔🥔](https://x.com/argofowl) · 2026-09-22 · Claude Opus 5.5 · Игры
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102529695908806728"><img src="../assets/previews/dc4bb91934d32b72098e8bcfd9c02285b359e6df7988d99efc153167ba968b2d.webp" width="840" loading="lazy" alt="Бесконечный процедурно генерируемый мир на Three.js"></a>
-
-**Промпт**
-
-```text
-создай в папке моих проектов новый проект под названием "endless-game": бесконечный процедурно генерируемый мир на Three.js, работающий в браузере, который я смогу свободно исследовать и просто получать удовольствие от игры. Каждая область должна генерироваться случайным образом, а неожиданные находки должны встречаться повсюду, сколько бы я ни играл. Атмосфера должна быть спокойной, расслабляющей и по-настоящему увлекательной — с уютным и приятным ощущением, как в симуляторе супермаркета, но это не должна быть игра про супермаркет. Я хочу действительно интересный мир для прогулок, с сущностями, которых можно встретить и с которыми можно взаимодействовать, а также с очень эффектной графикой. Определи для проекта чёткую цель и продолжай работу, пока не достигнешь её. Когда проект будет готов для запуска, игры и тестирования, воспроизведи звуковой сигнал.
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-create a new project in my projects folder called "endless-game": an endless, procedurally generated world built with three.js in the browser that i can roam freely and just enjoy. every area should be randomly generated, with surprises everywhere no matter how long i play. it should feel calm, relaxing and genuinely fun, like the cozy, satisfying vibe of a supermarket simulator, but it shouldn't be a supermarket game. i want a really interesting world to walk around in, with entities i can meet and interact with, and really cool graphics. set a clear goal for the project, keep working until you reach it, and play a sound chime when it's done and ready for me to play and test.
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102529695908806728) · [Исходная публикация](https://x.com/argofowl/status/2102529695908806728) · [Назад к примерам](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102467667978572092"></a>
-
-### Интерактивная симуляция эвакуации толпы
-
-[Dom](https://x.com/dominikmartn) · 2026-09-22 · Claude Opus 5.5 · Анимация
-
-<a href="https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102467667978572092"><img src="../assets/previews/576e684f6ec389443536e17db7a1c5eb173eeb4116c3cd05337b69084858983f.webp" width="840" loading="lazy" alt="Интерактивная симуляция эвакуации толпы"></a>
-
-**Промпт**
-
-```text
-создай интерактивную симуляцию эвакуации толпы и покажи, где образуются заторы
-```
-
-<details>
-<summary>Исходный промпт автора</summary>
-
-```text
-build an interactive crowd evacuation sim and see where it jams
-```
-
-</details>
-
-[Подробнее ↗](https://www.tripo3d.ai/ru/3d-prompts/claude-opus-5-5-2102467667978572092) · [Исходная публикация](https://x.com/dominikmartn/status/2102467667978572092) · [Назад к примерам](#all-prompts)
 
 ---
 

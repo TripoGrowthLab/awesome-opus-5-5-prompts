@@ -28,6 +28,12 @@
 <details>
 <summary>Örnekleri keşfet (50)</summary>
 
+- [Animasyonlu yüzen maden mini dünyası](#claude-opus-5-5-2105672081358876788)
+- [Blockworld](#claude-opus-5-5-2105669581226570012)
+- [Three.js’te orta çağ kalesine saldıran dev ejderha](#claude-opus-5-5-2105659005817462972)
+- [Yakalanıp esnetilebilen WebGPU 3B jelibon ahtapot](#claude-opus-5-5-2105607558467559666)
+- [5 km derinlikte magma odasına sahip volkan simülasyonu](#claude-opus-5-5-2105439105798513059)
+- [Jelly Press](#claude-opus-5-5-2105353400040964192)
 - [SPARK — Ressamvari 3B Animasyon Sahnesi](#claude-opus-5-5-2105315982525014067)
 - [Ritme senkronize 3D küre düşüş animasyonu videosu](#claude-opus-5-5-2105302007896797351)
 - [Jöle Presi](#claude-opus-5-5-2105285992865272110)
@@ -72,14 +78,292 @@
 - [Kodla oluşturulmuş kesintisiz su döngüsü animasyonu](#claude-opus-5-5-2102781807179735211)
 - [CatWalk: Gece şehrinde ilerleyen 3B yandan kaydırmalı kedi oyunu](#claude-opus-5-5-2102775461701091531)
 - [Son Tren siberpunk mega kent benchmark’ı](#claude-opus-5-5-2102740078347087940)
-- [Voksel tarzı futbol animasyonu](#claude-opus-5-5-2102739444256383089)
-- [Hayali gezegenler hakkında etkileşimli web sitesi](#claude-opus-5-5-2102729710174196022)
-- [Etkileşimli Euleryen Neon Akışkan Simülasyonu](#claude-opus-5-5-2102565611473661963)
-- [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](#claude-opus-5-5-2102565403109085669)
-- [Hundenberg kaza modeli ve gerçekçi video](#claude-opus-5-5-2102547809140355250)
-- [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](#claude-opus-5-5-2102544406117286004)
 
 </details>
+<a id="claude-opus-5-5-2105672081358876788"></a>
+
+### Animasyonlu yüzen maden mini dünyası
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-10-01 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105672081358876788"><img src="../assets/previews/a6c8199e4c545d0eda18f4796e33443488753dd10a738e4ef40c947d116a11ae.webp" width="840" loading="lazy" alt="Animasyonlu yüzen maden mini dünyası"></a>
+
+**İstem**
+
+```text
+Blender'da Python ile animasyonlu, kesintisiz bir döngü hâlinde çalışan izometrik bir yüzen mini dünya oluşturun: teraslı bir dağa sahip küçük bir maden adası, dağın içinden döngü yaparak geçen bir demir yolu ve iki tünel, akarsuyu kenardan şelale olarak dökülen bir gölet ve kesit yüzeylerinde parlayan kristaller bulunan kaya katmanları olsun. İşçiler küçük Claude botları olsun: Biri kristal damarını çıkarırken bir yarasa tarafından irkilsin, biri her geçen vagona kristal boşaltan bir vinci çalıştırsın, biri gölette balık tutsun ve biri vagona binsin. Maden girişinin üzerine ahşap bir "TOKENS" tabelası yerleştirin. Her eylem sesle senkronize olsun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Make an isometric floating mini-world in Blender, animated with Python, as a seamless loop: a small mine island with a terraced mountain, two tunnels and a railway that loops through the mountain, a pond whose stream falls off the edge as a waterfall, and rock layers with glowing crystals on the cut sides. The workers are little Claude bots: one mines a crystal vein and gets startled by a bat, one runs a crane that dumps crystals into each passing cart, one fishes in the pond, and one rides a cart. Put a wooden "TOKENS" sign over the mine entrance. Sound synced to every action.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105672081358876788) · [Orijinal gönderi](https://x.com/koldo2k/status/2105672083908825404) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105669581226570012"></a>
+
+### Blockworld
+
+[semperphoenix.com](https://semperphoenix.com/) · 2026-10-01 · Claude Opus 5.5 · Oyunlar
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105669581226570012"><img src="../assets/previews/2b2a746272a3d42e1e20ecb38b9ad696729fb0476c407c9582eae9ec289faace.webp" width="840" loading="lazy" alt="Blockworld"></a>
+
+**İstem**
+
+```text
+Minecraft klonu oluşturabilir misin?
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Can you create a Minecraft clone?
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105669581226570012) · [Orijinal gönderi](https://semperphoenix.com/lab) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105659005817462972"></a>
+
+### Three.js’te orta çağ kalesine saldıran dev ejderha
+
+[ReconScribe](https://x.com/ReconScribe) · 2026-10-01 · Claude Opus 5.5 · Sahneler
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105659005817462972"><img src="../assets/previews/e9d911d3b1343369054c36136a9f646b6684db18692ea1ecbfd8a107cfd3d2b0.webp" width="840" loading="lazy" alt="Three.js’te orta çağ kalesine saldıran dev ejderha"></a>
+
+**İstem**
+
+```text
+Three.js’te modellenmiş, bir orta çağ kalesine ve kalenin köyüne saldıran dev bir ejderha.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+a giant dragon attacking a medieval castle and its village, built in Three.js.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105659005817462972) · [Orijinal gönderi](https://x.com/ReconScribe/status/2105659005817462972) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105607558467559666"></a>
+
+### Yakalanıp esnetilebilen WebGPU 3B jelibon ahtapot
+
+[林悦己Cheer](https://x.com/cheerselflin) · 2026-10-01 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105607558467559666"><img src="../assets/previews/a70c77f46789ceece0ef2f67a0f80cb0891ed77507ba2ce1b96bfcb3e9ab385d.webp" width="840" loading="lazy" alt="Yakalanıp esnetilebilen WebGPU 3B jelibon ahtapot"></a>
+
+**İstem**
+
+```text
+Token bütçesi 200.000 olan bir Hedef oluştur. İşlem sonunda gerçek token tüketimini, bütçe kullanım oranını ve çalışma süresini raporla; giriş, önbelleğe alınmış giriş ve çıkış tokenlarının dökümünü alabiliyorsan mevcut model fiyatlarını kullanarak ABD doları cinsinden tahmini maliyeti hesapla ve hesaplama dayanaklarını açıkça listele. Bunun abonelik kotası olduğunu biliyorum, ancak API ücretlendirmesine dönüştürebiliriz
+
+“Octo Jelly” oluştur: Kullanıcıların doğrudan tarayıcılarında yakalayıp esnetebileceği ve sıkıştırabileceği, güzel ve etkileşimli 3B jelibon bir ahtapot. Gerçek WebGPU kullanan, tek dosyalık eksiksiz bir HTML deneyimi sun.
+SANAT YÖNLENDİRMESİ
+Ahtapot; yuvarlak bir kafa, kıvrılmış sekiz dokunaç, küçük vantuzlar ve sevimli, abartısız bir yüzü olan, üst düzey yarı saydam bir jelibon şeker gibi görünmeli.
+Sıcak kırık beyaz bir arka plan, yumuşak stüdyo ışığı ve hafif bir zemin gölgesi kullan. Sahneyi zarif ve sade tut; ahtapot büyük ve merkezde olsun.
+GEOMETRİ VE MALZEME
+
+* Tüm geometriyi programatik olarak oluştur. Harici model veya görsel dosyası kullanma.
+* Sekiz dokunacın tamamını gövdede görünür boşluklar veya havada duran parçalar olmayacak şekilde pürüzsüz biçimde birleştir.
+* Dokunaçlar deforme olurken bağlı kalacak yuvarlak vantuzlar ekle.
+* Kalınlığa bağlı renk emilimi, kırılma, yumuşak iç ışık saçılması ve zarif kenar parlamaları içeren parlak, yarı saydam bir jel malzeme kullan.
+* Kalın bölgelerde renk daha yoğun, ince dokunaç uçlarında ise ışık geçirgenliği daha fazla olmalı.
+* Opak plastik görünümünden, patlamış parlaklıklardan ve görünür ağ dikişlerinden kaçın.
+
+YUMUŞAK CİSİM FİZİĞİ
+Elastik kısıtlamalar ve yaklaşık hacim koruması içeren kararlı bir kütle-yay veya konum tabanlı dinamikler sistemi kullan.
+
+* Kafa yumuşak ama dolgun ve ağırlıklı hissettirmeli.
+* Dokunaçlar, özellikle uçlarına yaklaştıkça kafadan daha esnek olmalı.
+* Kullanıcıların kafayı veya herhangi bir dokуnacı tıklanan konumdan yakalamasına izin ver.
+* Çekme işlemi önce yakındaki geometriyi deforme etmeli, ardından gövdenin geri kalanını elastik biçimde çekmeli.
+* Bırakıldığında ahtapot sallanmalı ve yavaşça ilk şekline dönmeli.
+* Dokunaçlar birbirinden bağımsız tepki vermeli ve hareketleri hafifçe gecikmeli olmalı.
+* Yerçekimi, zemin çarpışmaları, sürtünme ve sönümleme ekle.
+* Dokunaçların zeminin içinden geçmesini önle.
+* Aşırı esnemeyi sınırla ve güçlü çekişlerin modeli bozmasını önlemek için sabit simülasyon adımları kullan.
+* Tüm ahtapotu ölçeklendirerek veya döndürerek yumuşaklık hissini taklit etme.
+
+INTERACTION
+
+* Ahtapotu yakalayıp esnetmek için sol tıklayın veya dokunun.
+* Kamerayı yavaşça yörüngede döndürmek için sağ tuşla sürükleyin veya boş alanda sürükleyin.
+* Sınırlı bir yakınlaştırma aralığını destekle.
+* Kamera hareketlerini nesne sürüklemesinden ayrı tut.
+* “Bir dürt,” “Sıfırla,” “Duraklat” ve “Görünümü sıfırla” düğmelerini ekle.
+* Sertlik ve iç sönümleme kaydırıcılarını ekle.
+* “¼ hız” ve “Ağı göster” seçeneklerini ekle.
+* Üç renk ön ayarı sun: Coral, Lagoon ve Grape. Simülasyonu sıfırlamadan malzeme renklerini değiştir.
+
+INTERFACE
+Minimal bir editoryal düzen kullan:
+
+* Sol üstte küçük bir “MATERIAL STUDIES” etiketi.
+* Büyük, italik serif başlık: “Octo Jelly.”
+* Açıklama: “Sekiz kol. Hafif bir sallantı. Çok yumuşak bir yaratık.”
+* Sağ üstte bir WebGPU durum göstergesi.
+* Sağ tarafta kompakt bir “THE SPECIMEN” kontrol paneli.
+* Sol altta: “Bir dokunacı yakala. Nazikçe çek. Bırak.”
+
+Kontroller için temiz sans-serif metin, ince kenarlıklar ve bol beyaz alan kullan. Büyük panellerden veya dekoratif arayüz efektlerinden kaçın.
+PERFORMANS VE KALİTE
+
+* 2B tuval taklidi veya önceden kaydedilmiş animasyon yerine gerçek WebGPU işleme kullan.
+* Geometriyi ve buffer'ları yeniden kullan; sürükleme sırasında mesh'leri yeniden oluşturma.
+* Vantuzları, gözleri ve diğer ayrıntıları deforme olan gövdeye bağlı tut.
+* Saydamlığı titreşim, kaybolan yüzeyler veya sert siyah kenarlar oluşturmayacak şekilde işle.
+* Masaüstü ve mobil düzenleri destekle.
+* WebGPU kullanılamıyorsa anlaşılır bir geri dönüş mesajı göster.
+* Tekrarlanan yakalamaları, güçlü çekişleri, bırakmaları, zemin çarpışmalarını, palet değişikliklerini, duraklatmayı ve sıfırlamayı test et.
+
+Sonuç; parlak, sıkıştırılabilir, ifadeli ve esnetmesi keyifli, yaşayan küçük bir jelibon oyuncak gibi hissettirmeli. Bir maket veya kod parçası değil, tamamen çalışan HTML dosyasını teslim et.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+创建一个 token 预算为 200,000 的 Goal。结束时报告实际消耗 token、预算使用率和运行时间；如果能够获得输入、缓存输入、输出 token 的拆分，则按照当前模型价格估算美元费用，并明确列出计算依据。我知道是订阅额度，但是我们可以换算成api计费
+
+Create “Octo Jelly” - a beautiful, interactive 3D gummy octopus that users can grab, stretch, and squish directly in their browser. Deliver a complete single-file HTML experience using genuine WebGPU.
+ART DIRECTION
+Make the octopus look like a premium translucent gummy candy: a rounded head, eight curled tentacles, small suction cups, and a cute, understated face.
+Use a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the scene elegant and uncluttered, with the octopus large and centered.
+GEOMETRY AND MATERIAL
+
+* Generate all geometry procedurally. No external models or image files.
+* Connect all eight tentacles smoothly to the body, without visible gaps or floating parts.
+* Add rounded suction cups that stay attached as the tentacles deform.
+* Use glossy, translucent jelly with thickness-dependent color absorption, refraction, soft internal light scattering, and delicate rim highlights.
+* Thick areas should have richer color; thin tentacle tips should transmit more light.
+* Avoid opaque plastic, blown-out highlights, and visible mesh seams.
+
+SOFT-BODY PHYSICS
+Use a stable mass-spring or position-based dynamics system with elastic constraints and approximate volume preservation.
+
+* The head should feel soft but substantial.
+* Tentacles should be more flexible than the head, especially near their tips.
+* Allow users to grab the head or any tentacle at the clicked location.
+* Pulling should deform the nearby geometry first, then elastically pull the rest of the body.
+* On release, the octopus should wobble and gradually settle into its original shape.
+* Tentacles should react independently, with slightly delayed motion.
+* Include gravity, floor collisions, friction, and damping.
+* Prevent tentacles from passing through the floor.
+* Clamp extreme stretching and use fixed simulation steps so strong pulls do not break the model.
+* Do not fake softness by scaling or rotating the entire octopus.
+
+INTERACTION
+
+* Left-click or touch the octopus to grab and stretch it.
+* Right-drag or drag empty space to gently orbit the camera.
+* Support a limited zoom range.
+* Keep camera gestures separate from object dragging.
+* Add “Give it a nudge,” “Reset,” “Pause,” and “Reset view” buttons.
+* Include Firmness and Internal damping sliders.
+* Add “¼ speed” and “Show mesh” toggles.
+* Provide three color presets: Coral, Lagoon, and Grape. Change the material colors without resetting the simulation.
+
+INTERFACE
+Use a minimal editorial layout:
+
+* Top left: small “MATERIAL STUDIES” label.
+* Large italic serif heading: “Octo Jelly.”
+* Caption: “Eight arms. A little wobble. A very soft creature.”
+* Top right: a WebGPU status indicator.
+* Right side: a compact “THE SPECIMEN” control panel.
+* Bottom left: “Grab a tentacle. Pull gently. Let go.”
+
+Use clean sans-serif text for controls, thin borders, and generous whitespace. Avoid heavy panels or decorative UI effects.
+PERFORMANCE AND QUALITY
+
+* Use real WebGPU rendering, not a 2D canvas imitation or prerecorded animation.
+* Reuse geometry and buffers; do not rebuild meshes during dragging.
+* Keep suction cups, eyes, and other details attached to the deforming body.
+* Handle transparency without flickering, disappearing surfaces, or harsh black edges.
+* Support desktop and mobile layouts.
+* Show a clear fallback message if WebGPU is unavailable.
+* Test repeated grabs, strong pulls, releases, floor collisions, palette changes, pause, and reset.
+
+The result should feel like a little living gummy toy - glossy, squishy, expressive, and satisfying to stretch. Deliver the full working HTML, not a mockup or a code fragment.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105607558467559666) · [Orijinal gönderi](https://x.com/cheerselflin/status/2105607558467559666) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105439105798513059"></a>
+
+### 5 km derinlikte magma odasına sahip volkan simülasyonu
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-30 · Claude Opus 5.5 · Animasyon
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105439105798513059"><img src="../assets/previews/50804065daa1682d9c6e2afd7609c5fab6eda0321e87b702a661c7e8688386e5.webp" width="840" loading="lazy" alt="5 km derinlikte magma odasına sahip volkan simülasyonu"></a>
+
+**İstem**
+
+```text
+Opus 5.5 ile bir volkan simülasyonu oluştur. Magma odası 5 km derinlikte olsun.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Build with Opus 5.5 a volcano simulation. Magma chamber 5 km down.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105439105798513059) · [Orijinal gönderi](https://x.com/konstantinsaifo/status/2105439105798513059) · [Örneklere dön](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105353400040964192"></a>
+
+### Jelly Press
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Etkileşimli
+
+<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105353400040964192"><img src="../assets/previews/6756b12ceba906b5c863073748d982373629031b3506f966d220cfe590e66807.webp" width="840" loading="lazy" alt="Jelly Press"></a>
+
+**İstem**
+
+```text
+HTML içinde tek dosyalı etkileşimli bir 3B oyuncak olan "Jelly Press"i oluştur (tüm JS, CSS ve WGSL shader'ları satır içinde olsun; Google Fonts dışında harici varlık kullanma). WebGPU ile oluştur; WebGPU veya bir adaptör yoksa boş sayfa yerine temiz bir geri dönüş mesajı göster.  KONSEPT Dört yarı saydam jelibon meyve dilimi, hidrolik presin çelik tablasına sırayla yerleşir. Oyuncu büyük kırmızı düğmeye basılı tutarak presi aşağı indirir. Jelibon ezilip yayılır, basınç göstergesi yükselir ve jelibon, yüksekliğinin yarısından biraz fazla bir noktada parçalara ayrılır. Patlamadan sonra oyun BİTMEZ: oyuncu parçaları tutup sürükleyebilir, etrafa fırlatabilir ve yeniden ezebilir.  JELİBONLAR (alttaki seçenekler, 1–4 tuşları) 1. Karpuz dilimi (yarım disk biçimli kütle): koyu gözyaşı biçimli çekirdekleri olan kırmızı meyve eti, açık renkli bir kabuk şeridi ve yeşil çizgili dış kabuk. 2. Portakal dilimi (yarım disk): ince beyaz zarlarla ayrılmış turuncu meyve eti dilimleri, açık renkli albedo ve turuncu kabuk. 3. İncir yarısı: küçük altın renkli çekirdeklerle dolu pembe meyve eti, krem rengi bir katman ve koyu mor kabuk. 4. Ananas halkası: radyal çizgilere ve ortasında bir deliğe sahip altın renkli lifli meyve eti. Her jelibon gerçek jelibon şeker gibi görünmeli: yüzey altı saçılımı, yumuşak yarı saydamlık, parlak speküler yansımalar ve sıcak bir stüdyo zemininde (krem/bej, ton eşlemeli) yumuşak gölgeler.  FİZİK (CPU, sabit 60 Hz adım) - 8 alt adımlı XPBD tetrahedral yumuşak cisim: tetrahedron başına eşdönel şekil eşleme, tetrahedron başına hacim kısıtları, sert kenar gerinim sınırları (0,35×–1,8×), kenar hızı sönümleme, Coulomb sürtünmeli zemin teması, yuvarlanma direnci ve neredeyse hareketsizken nazikçe dengeye gelme. - Oluşturulan ağ, tetrahedronlara barysentik gömme yoluyla CPU üzerinde iskeletlenir; normaller her karede üçgenlerden yeniden hesaplanır. - Pres kalıbı, kinematik yuvarlak bir plakadır (yaklaşık 1,05 yarıçap, yuvarlatılmış kenar, belirli bir kalınlık ve üzerinde bir piston). Aşağıda sürtünmeli bir tavan, üstünde bir raf ve kenarında bir yan duvar görevi görür. İki pres kolonu doludur. - Bar cinsinden basınç değeri, plakanın temas yükünden alınır ve meyveye göre ölçeklenir.  PATLAMA - Jelibonun yüksekliğinin %52'si ile %66'sı arasındaki rastgele bir ezilme noktasında kırıl. - Patlamanın anında gerçekleşmesi için her tur başladıktan kısa süre sonra kırılma planını arka planda hazırla. - Duvarları hafifçe eğimli 3B Voronoi hücrelerinden 5–7 büyük parça oluştur. Bunların 3–4'ünde, uzak bir köşeyi iki kesme düzlemiyle koparıp parçayı 2–4 küçük parçaya ayır; böylece kenarlar tırtıklı ve çentikli görünsün. - Tetrahedronları ağırlık merkezlerine göre hücrelere ata. Her parça için parçacıkları çoğalt. Çok küçük adacıkları komşularıyla birleştir. - Yeni cisim, eski konum ve hızları devralır. - Deri üçgenlerini her hücrenin yarı uzaylarına göre kırp ve kesilen her yüzeyi, meyvenin içini (meyve eti, çekirdekler, zarlar) gösteren temiz, düz bir kapakla doldur. Gerilmiş üçgen veya delik olmasın. - Parçaları presin dışına ve yukarı doğru fırlat. Küçük parçalar daha hızlı ve daha yükseğe uçsun, rastgele dönüşle takla atsın. - Yaklaşık 2,5 saniye boyunca büyük italik bir sonuç göster, ardından soldur: "Şlap." (karpuz), "Sıkıştı." (portakal), "Eh, reçel oldu." (incir), "Ezildi." (ananas). Bir istatistik satırı ekle: "N bar'da ve yüksekliğinin %N'sinde pes etti."  PATLAMADAN SONRA: OYUN MODU - Seçme: iskeletlenmiş ağa karşı ışın/üçgen testi kullan; dokunma için toleranslı bir ekran uzayı geri dönüşü ekle. - Tutma: tutulan bölgeyi (yaklaşık 0,4 yarıçap; yalnızca o parçaya ait parçacıklar) kameraya dönük bir sürükleme düzlemindeki hedefe sabitle. Küçük parçalar bütün olarak hareket etsin; büyük parçalar jelibon gibi gerilip sallansın. - Bırakıldığında parçayı işaretçinin hızıyla fırlat. - Parçalar birbiriyle çarpışsın. Bir parçacık başka bir parçanın tetrahedronunun içinde bulunursa, o parçanın en yakın yüzeyinden sürtünmeyle dışarı itilsin. AABB geniş fazı ve deri tetrahedronlarından oluşan bir uzamsal karma kullan. - Parçalar sahnede kalsın: yan duvarlar ve hiçbir şeyin kontrollerin altına veya kameranın arkasına düşmemesi için görünmez bir ön kenar ekle. - Pres çalışmaya devam etsin: parçaları yeniden ezmek için basılı tut (ikinci bir kırılma olmasın); Raise plakayı kaldırır. - Yere inişlerde ıslak "şlap" sesleri; tutarken kısa bir cıvık ses. - İmleç: parçaların üzerindeyken açık el, sürüklerken kapalı el. Boş alanı sürüklemek kamerayı yörüngede döndürür.  ARAYÜZ (editoryal, minimal) - Sol üst masthead: kalın, dar karakterli büyük harflerle "JELLY PRESS"; "PRESS" bölümü sarı/siyah tehlike şeritleriyle doldurulmuş olsun. Alt başlık: "Dört jelibon. Bir hidrolik pres." - Sağ üst: Reset ve Sound geçişi. - Alt panel:   - Basarken giderek artan açıklamalar: "Temas." → "Sorun yok. Bu jelibon." → "Genişliyor." → "Bu artık bir pankek." → "Ses çıkarıyor." → "Lütfen."   - Kırmızı HOLD düğmesinin çevresinde dairesel basınç kadranı (0–400 bar yayı, kırmızı bölge), bir Raise düğmesi ve büyük sayısal bar göstergesi.   - İkonlu meyve seçenekleri. - Oyun modunda açıklama alanında "Bir parça tut. Fırlat." yazsın; yanında küçük "Yeniden bas" ve "Sonraki jelibon" düğmeleri bulunsun. - Kontroller: basmak için Space veya ArrowDown tuşunu basılı tut, kaldırmak için ArrowUp, sıfırlamak için R, meyve seçmek için 1–4. Tekerlek yakınlaştırır; çift tıklama görünümü sıfırlar. - Kamera: tezgâh seviyesine yakın alçak açı; kolonların jelibonun önünü kapatmaması için pres çerçevesi her meyveye göre yatay yönde döner. Kadraj, jelibon masthead ile alt panel arasında kalacak şekilde uyarlanır; telefonlarda (dikey kullanımda) daha dar bir sahneyle çalışır.  SES (prosedürel Web Audio, dosya yok) Basınç yükseldikçe artan hidrolik motor uğultusu, ıslak cıvık sesler, yüksek basınçta ara sıra gıcırtılar, plaka durduğunda valf takırtısı, yüksek sesli bir patlama ve yere inişlerde yumuşak şlap sesleri. İlk etkileşimde kilidi aç.  KALİTE ÖLÇÜTÜ - Bir dizüstü bilgisayarda akıcı 60 fps. - Geçişlerin anında gerçekleşmesi için diğer meyvelerin ağlarını ve shader'larını arka planda ısıt. - prefers-reduced-motion ayarına uy. - Erişilebilir etiketler, role=meter içeren bir gösterge ve focus-visible konturları. - Konsol hatası olmasın. Sayfa hiçbir zaman boş kalmasın.
+```
+
+<details>
+<summary>Özgün istem</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.  CONCEPT Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.  THE JELLIES (chips at the bottom, keys 1–4) 1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin. 2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel. 3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin. 4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle. Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).  PHYSICS (CPU, fixed 60 Hz step) - XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still. - Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame. - The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid. - Pressure readout in bar comes from the platen's contact load, scaled per fruit.  THE BURST - Break at a random squash between 52% and 66% of the jelly's height. - Plan the fracture in the background shortly after each round starts, so the burst itself is instant. - 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges. - Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours. - The new body adopts the old positions and velocities. - Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes. - Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin. - Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."  AFTER THE BURST: PLAY MODE - Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch. - Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly. - Releasing throws the piece with the pointer's velocity. - Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets. - Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera. - The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen. - Wet "plop" sounds on landings; a small squelch on grab. - Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.  UI (editorial, minimal) - Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press." - Top-right: Reset and Sound toggle. - Bottom deck:   - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."   - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.   - Fruit chips with icons. - In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons. - Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view. - Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.  SOUND (procedural Web Audio, no files) Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.  QUALITY BAR - Smooth 60 fps on a laptop. - Background warm-up of the other fruits' meshes and shaders so switching is instant. - Respect prefers-reduced-motion. - Accessible labels, a gauge with role=meter, focus-visible outlines. - No console errors. The page never goes blank.
+```
+
+</details>
+
+[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2105353400040964192) · [Orijinal gönderi](https://x.com/vib3coded/status/2105353559327887843) · [Örneklere dön](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2105315982525014067"></a>
 
 ### SPARK — Ressamvari 3B Animasyon Sahnesi
@@ -2526,534 +2810,6 @@ build a complete cyberpunk megacity inside Blender with a hero train, procedural
 </details>
 
 [Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102740078347087940) · [Orijinal gönderi](https://x.com/builderhelmai/status/2102740078347087940) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102739444256383089"></a>
-
-### Voksel tarzı futbol animasyonu
-
-[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Voksel tarzı futbol animasyonu"></a>
-
-**İstem**
-
-```text
-Three.js (CDN) kullanarak basit, voksel tarzı bir futbol animasyonu içeren tek bir HTML dosyası oluştur. Bloklu bir oyuncu 2 savunmacıyı top sürerek geçsin ve kutlama parçacıkları eşliğinde gösterişli bir gol atsın. Renkli bir stadyum görünümü kullan. YALNIZCA tam HTML kodunu çıktı olarak ver.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102739444256383089) · [Orijinal gönderi](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102729710174196022"></a>
-
-### Hayali gezegenler hakkında etkileşimli web sitesi
-
-[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Hayali gezegenler hakkında etkileşimli web sitesi"></a>
-
-**İstem**
-
-```text
-Hayali gezegenler hakkında etkileşimli bir web sitesi oluştur.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-build an interactive website about imaginary planets.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102729710174196022) · [Orijinal gönderi](https://x.com/Kappaemme1926/status/2102729710174196022) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565611473661963"></a>
-
-### Etkileşimli Euleryen Neon Akışkan Simülasyonu
-
-[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="Etkileşimli Euleryen Neon Akışkan Simülasyonu"></a>
-
-**İstem**
-
-```text
-Yüksek performanslı, GPU hızlandırmalı, etkileşimli ve eksiksiz bir Euleryen Neon Akışkan Simülasyonu içeren tek dosyalık bir HTML belgesi yazın.
-
-Kesin Teknik ve Estetik Gereksinimler:
-
-1. Mimari ve Performans:
-   - Tek dosya: Tüm HTML, CSS ve JavaScript/GLSL shader'ları dosyanın içinde yer almalı.
-   - Sıfır harici bağımlılık: Yalnızca saf WebGL 1.0 veya 2.0 kullanın (Three.js, Pixi veya harici kütüphaneler yok).
-   - GPU Üzerinde Hesaplanan Akışkanlar Dinamiği: Simülasyon, aşağıdaki işlemler için özel fragment shader'lar kullanılarak tamamen ping-pong Framebuffer Object'leri (FBO) üzerinden çalışmalı:
-     a) Adveksiyon (hız ve boya)
-     b) Diverjans hesabı
-     c) Basınç Poisson çözücüsü (kareler yöntemi iterasyonu, kare başına 20-30 iterasyon)
-     d) Gradyan çıkarma / hız projeksiyonu
-     e) Vortisite sınırlandırma (türbülanslı girdaplar ekler ve akışkanın cansız, bulanık bir pelteye dönüşmesini önler).
-
-2. Görsel Gerçekçilik (“Neon Duman” Görünümü):
-   - Zifiri siyah boşluk arka planı (`#050508`).
-   - Boya enjeksiyonu için toplamsal / Yüksek Dinamik Aralık (HDR) harmanlama.
-   - Dinamik palet: Her imleç hareketi veya dokunarak sürükleme, canlı siber tonlar (elektrik camgöbeği `#00F0FF`, parlak macenta `#FF007F`, koyu ultraviyole ve ışıldayan altın) arasında yumuşak geçiş yapan, yüksek parlaklıklı neon boya enjekte etmeli.
-   - Görüntüleme shader'ı geliştirmeleri: Nihai render shader'ına doğrudan, akışkanın girdap oluşturan kenarları çevresine ince bir bloom/parlama, ton eşleme ve kromatik sapma uygulayan bir post-processing geçişi ekleyin.
-
-3. Etkileşim:
-   - Fare ve Dokunmatik: İmlecin hızlı hareketi veya sürükleme, fare hızına orantılı hızın yanı sıra yoğun, parlayan boya enjekte etmeli.
-   - Pasif Ortam Hareketi: Boştayken ince prosedürel curl noise veya yumuşak sürüklenen girdaplar üretin; böylece canvas hiçbir zaman tamamen statik kalmasın.
-   - Kontroller: Bir köşeye yerleştirilmiş, etkinlik olmadığında otomatik olarak gizlenen, şık ve son derece minimal bir cam görünümlü HUD:
-     * Viskozite kaydırıcısı
-     * Boya dağılımı / kalıcılığı kaydırıcısı
-     * Sıçrama yarıçapı kaydırıcısı
-     * “Canvas'ı Temizle” düğmesi
-     * Renk temaları arasında geçiş yapan düğme (Cyberpunk, Termal Cehennem, Biyolüminesans Derinlik).
-
-4. Üretim Kalitesi:
-   - Yüksek DPI ekranları ve `resize` olaylarını, FBO dokularını esnetmeden veya temizlemeden otomatik olarak yönetin.
-   - Kayan noktalı doku desteği için güvenli bir geri dönüş denetimi (`OES_texture_float` / `OES_texture_half_float`).
-   - Yer tutucu veya yarım bırakılmış yorum içermeyen, temiz, hatasız ve eksiksiz uygulanmış kod.
-
-Yalnızca Chrome/Safari/Firefox'ta doğrudan çalıştırılmaya hazır, eksiksiz HTML dosyasını döndürün.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
-
-Strict Technical & Aesthetic Requirements:
-
-1. Architecture & Performance:
-   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
-   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
-   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
-     a) Advection (velocity & dye)
-     b) Divergence calculation
-     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
-     d) Gradient subtraction / velocity projection
-     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
-
-2. Visual Fidelity (The "Neon Smoke" Look):
-   - Pitch-black void background (`#050508`).
-   - Additive / High-Dynamic-Range blending for dye injection.
-   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
-   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
-
-3. Interaction:
-   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
-   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
-   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
-     * Viscosity slider
-     * Dye dissipation / persistence slider
-     * Splat radius slider
-     * "Clear Canvas" button
-     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
-   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
-   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
-
-Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565611473661963) · [Orijinal gönderi](https://x.com/theailoser/status/2102565612874596411) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565403109085669"></a>
-
-### Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası
-
-[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · Etkileşimli
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası"></a>
-
-**İstem**
-
-```text
-Tarayıcıda gerçek zamanlı olarak etkileşim kurulabilen, tamamlanmış ve yüksek kaliteli bir 3B peyzaj web sayfası oluştur.
-
-Tema: Japon tarzı kiraz çiçekli vadi.
-HTML, CSS ve JavaScript kullan. Görsel oluşturma; yalnızca tasarım önerisi sunma,
-tek bir arka plan görselini paralaks efektiyle 3B gibi gösterme. İstediğim şey gerçekten çalıştırılabilen ve içinde gezilebilen tamamlanmış bir ürün.
-
-【1. Çalışmanın konumlandırması】
-
-Bu; yakın ve uzak katmanları belirgin, bütünlüklü ve kesintisiz bir vadi peyzajı olmalı,
-izole edilmiş küçük bir dekor, yüzen ada, tabanlı maket ya da yalnızca teknik bir demo olmamalı.
-
-Stil, modern ve ayrıntılı voxel art:
-Küp geometrisinin biçim dilini koru; ancak görüntü yüksek çözünürlüklü, kenar yumuşatmalı, ışık ve gölgeler de incelikli olmalı.
-Retro düşük çözünürlüklü pikselli görünüm kullanma; kaba blok yığınları oluşturma ve sahneye piksel filtresi uygulama.
-
-Öncelik görsel kalite. Kompozisyon, malzemeler ve aydınlatmadan ödün vermek yerine birkaç işlev daha az olsun.
-
-【2. Referans görsellerin kullanım biçimi】
-
-Referans görseller eklenmişse önce kompozisyon katmanlarını, ölçeği, ışığı ve renk ilişkilerini analiz et.
-Yalnızca atmosferi ve görsel dili ilham olarak alıp sahneyi yeniden tasarla;
-yapıların, ağaçların, dağların ve yolların konumlarını kopyalama, 1:1 yeniden oluşturma.
-
-Referans görsel web sayfasında kullanılacak bir arka plan varlığı değildir. Sahnenin kendisi gerçek 3B geometriden oluşmalı.
-
-【3. Sahne kompozisyonu】
-
-Sayfa ilk açıldığında eksiksiz ve ilgi çekici bir görüntü sunmalı,
-kullanıcının güzel bir açı bulmak için önce kamerayı döndürmesi gerekmemeli.
-
-Maket tarzı izometrik üstten bakış kamerası yerine perspektif kamera kullan.
-Görüntüde belirgin bir ön plan, orta plan ve arka plan bulunmalı:
-
-Ön plan:
-Belirgin bir varlığı olan yaşlı bir kiraz ağacı; kayalar, çalılar, bitkiler, taş fener ve az miktarda dökülmüş çiçekle birlikte görüntünün kenarlarında doğal bir çerçeve oluşturmalı, ancak nehri, köprüyü ve ana yapıları kapatmamalı.
-
-
-Orta plan:
-Kıvrılarak ilerleyen bir nehir bakışı sahnenin içine yönlendirmeli; kırmızı ahşap bir köprü nehrin üzerinden geçmeli;
-köy, çay evi, tapınak ve patikalar arazinin eğimine uyacak şekilde yerleşmeli, yapılar arasında gerçekçi bir ulaşım ilişkisi bulunmalı.
-Zemin engebeli olmalı; kıyı çizgileri ve doğal geçişler bulunmalı, modeller düz bir yüzeye eşit aralıklarla dizilmemeli.
-
-Arka plan:
-Yamaçta çok katlı bir pagoda, farklı uzaklıklarda ormanlar ve dağ sırtları ile uzakta karlı dağlar.
-Mesafeyi yalnızca uzaktaki nesneleri küçülterek değil; ölçek değişimi, örtüşme, sıcak-soğuk renk farklılıkları ve atmosferik perspektifle göster.
-
-Tüm öğeleri her yeri eşit biçimde dolduracak şekilde yerleştirme. Öncelik sırası, yoğunluk dengesi, negatif alan ve net bir görsel odak gerekli.
-
-
-【4. Biçim ve görüntü kalitesi】
-
-Kiraz ağacı:
-Gövdesinde kıvrımlar, dallanma ve kök bölgesi bulunmalı; taç kısmı düzensiz çiçek kümelerinden oluşmalı, aralarında boşluklar ve farklı yoğunluklar olmalı, dallar görünür kalmalı. Birkaç düzgün küre ya da küp yığını oluşturma.
-
-
-Yapılar:
-Çatılarda üst üste dizilmiş kiremitler, saçaklar, kiriş ve sütunlar ile pencere kafesleri bulunmalı;
-farklı yapıların kullanım amacı, hacmi ve yüksekliği birbirinden ayrışmalı; aynı evi kopyalayıp vadiyi onunla doldurma.
-
-Arazi:
-Kıyılarda ıslak kayalar, çimen kümeleri ve bitki örtüsüne doğal geçişler bulunmalı.
-Aşırı düzenli basamaklardan, tekrarlanan şeritlerden, dama tahtası desenlerinden ve belirgin prosedürel üretim ızgaralarından kaçın.
-
-Su yüzeyi:
-Çevredeki manzarayı yansıtabilmeli; ölçülü dalgalanmalara, derinlik ve renk değişimlerine, kıyıya doğal geçişlere sahip olmalı.
-Mümkün olduğunca gerçek sahne yansımalarını kullan; performans için kalite düşürmek gerektiğinde bile görsel inandırıcılığı koru.
-Suyun yerine titreşen gürültü, aşırı bozulma veya tek parça mavi bir düzlem kullanma.
-
-Ayrıntılar:
-Az sayıda koi balığı, dökülmüş çiçek, ateş böceği, şelale ve uzakta uçan kuş bulunabilir,
-ancak bunların tümü atmosfere hizmet etmeli ve görüntüyü karmaşıklaştırmamalı.
-Model sayısını yüksek göstermek uğruna ayrıntıları yığma.
-
-【5. Renk ve atmosfer】
-
-Varsayılan atmosfer mavi saat olmalı:
-Soğuk tonlu vadi ve uzak dağlar, yumuşak pembe kiraz çiçekleri, sıcak ancak patlamayan fener ve pencere ışıkları.
-Sıcak ışığı insanların bulunduğu alanlarda yoğunlaştır; tüm çevreyi turuncuya boyama.
-
-Yumuşak gölgeler, nesnelerin temas noktalarında doğal koyuluklar, dengeli pozlama, ölçülü bloom, kenar yumuşatma ve mesafe katmanlarını hissettiren hafif sis kullan.
-
-Beyazlamış, gri ve puslu görünümden, aşırı doygunluktan, tüm ekranı kaplayan yoğun sisten, patlayan ışıklardan ve belirgin tırtıklı kenarlardan kaçın.
-Küp geometrisi net olabilir, ancak render işlemi kaba görünmemeli.
-
-
-Ayrıca “sabah erken saatler” ve “yağmur” olmak üzere iki atmosfer seçeneği sun;
-geçiş sırasında gökyüzünü, ortam ışığını, sisi ve yerel efektleri eş zamanlı olarak değiştir,
-sadece arka plan rengini değiştirmekle yetinme.
-
-【6. Etkileşim ve arayüz】
-
-Tasarlanmış dört kamera açısı sun:
-vadi panoraması, nehir kenarında alçak kamera açısı, tapınak patikası ve yamaçtan kuşbakışı görünüm.
-Geçişler akıcı olmalı ve her kamera açısının bağımsız bir kompozisyon değeri bulunmalı.
-
-Temel etkileşimler:
-Fareyle sürükleyerek görüntüyü inceleme, tekerlekle yakınlaştırma veya ilerleme; dokunmatik ekranlarda sürükleme ve iki parmakla yakınlaştırma desteği.
-Kamera açısını sıfırlama, arayüzü gizleme ve mevcut görüntüyü kaydetme işlevleri sun.
-
-İsteğe bağlı geliştirmeler:
-serbest keşif, yavaş kamera gezintisi ve ortam sesi.
-Ortam sesi varsayılan olarak kapalı olmalı ve yalnızca kullanıcı tıkladıktan sonra çalmalı.
-Ek işlevler varsayılan görüntünün tamamlanmışlık düzeyini etkilememeli.
-
-Arayüz ölçülü ve tasarım sahibi olmalı; odağı manzara oluşturmalı.
-Başlık ve kontrol çubukları kenarlarda yer almalı, görsel odağı kapatmamalı.
-Masaüstü ve mobil cihazlarda düğmelerin ekran dışına taşması, metinlerin üst üste binmesi veya kontrollerin kullanılamaması gibi sorunlar görülmemeli.
-
-【7. Mühendislik ve performans】
-
-Three.js / WebGL ile sürümü sabitlenmiş ve birbiriyle uyumlu CDN bağımlılıklarının kullanımına izin verilir.
-Olgun render özelliklerini önceliklendir; “sıfır bağımlılık” uğruna tüm motoru baştan yazma.
-
-Yazdığın HTML, CSS ve JavaScript kodunu mümkün olduğunca tek bir HTML dosyasında düzenli tut.
-Sahne öğeleri dış görsellere veya 3B model kaynaklarına bağlı olmadan prosedürel geometri ve malzemelerle oluşturulmalı.
-
-Tekrarlanan nesneleri uygun toplu çizim veya instancing yöntemleriyle oluştur;
-alt bölümlendirme, gölgeler, yansımalar ve render çözünürlüğünü makul ölçüde kontrol et.
-Yüksek kalite ve hafif olmak üzere iki mod sun; mobil cihazlarda varsayılan olarak daha hafif ayarları kullan.
-Ayrıntı elde etmek için voxel sayısını sınırsız biçimde artırma.
-
-Yükleme göstergesi, WebGL desteklenmediğinde gösterilecek bir uyarı ve gerekli hata işleme mekanizmalarını ekle.
-Ses etkinleştirilmemişse otomatik oynatma yapma; sistemin hareketleri azaltma tercihine saygı göster.
-
-【8. Teslimat öncesi kabul kontrolü】
-
-Kodu yazmayı bitirir bitirmez teslim etme.
-
-Mevcut ortam tarayıcıda çalıştırmayı ve ekran görüntüsü almayı destekliyorsa sayfayı önce gerçekten aç,
-varsayılan kamera açısını, dört görünümü, atmosfer geçişlerini ve masaüstü ile mobil yerleşimleri kontrol et,
-ardından ekran görüntülerine göre belirgin kompozisyon, pozlama, örtüşme ve render sorunlarını düzelt.
-
-Özellikle şunları kontrol et:
-boş ekran, yükleme hatası veya konsol hatası var mı;
-geometri çakışmaları, titreşim, gölge bantları, patlayan ışıklar veya anormal su yüzeyi görülüyor mu;
-varsayılan görüntü gerçekten eksiksiz bir peyzaj gibi mi görünüyor, yoksa küçük bir maket izlenimi mi veriyor;
-işlev düğmeleri gerçekten çalışıyor mu ve mobil cihazlarda ekran dışına taşıyor mu.
-
-Kabul kontrolü için tarayıcı ekran görüntülerini kullanabilirsin, ancak görsel oluşturma araçlarını çağırma.
-Tamamlanmamış testleri dürüstçe belirt; doğrulanmış olduklarını iddia etme.
-
-Nihai teslimat:
-1. Gerçekte mevcut olan ve açılabilen bir HTML dosyası veya mevcut ortamın desteklediği etkileşimli önizleme.
-2. Ekran görüntüsü alınabiliyorsa gerçek tarayıcı render’ından bir ekran görüntüsü ekle.
-3. Kullanım şeklini ve gerekli çalıştırma koşullarını kısaca açıkla.
-
-Lütfen üretimi doğrudan tamamla; kritik olmayan ayrıntılarda tutarlı tasarım kararlarını kendin ver,
-kendi başına çözebileceğin uygulama sorunlarını tekrar tekrar bana bırakma.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
-
-主题：日式樱花山谷。
-使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
-不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
-
-【一、作品定位】
-
-这是一片完整、连续、有远近层次的山谷景观，
-不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
-
-风格是现代精细体素 / voxel art：
-保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
-不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
-
-视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
-
-【二、参考图的使用方式】
-
-如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
-仅借鉴氛围与视觉语言，重新设计场景，
-不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
-
-参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
-
-【三、场景构图】
-
-默认打开时就应呈现一幅完整、有吸引力的画面，
-不需要用户先旋转镜头才能找到好看的角度。
-
-采用透视相机，而不是沙盘式等距俯视相机。
-画面有明确的前景、中景、远景：
-
-前景：
-一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
-形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
-
-中景：
-一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
-村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
-地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
-
-远景：
-山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
-用尺度变化、遮挡、冷暖变化和空气透视表现距离，
-而不是仅仅把远处物体缩小。
-
-不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
-
-【四、造型与画面质量】
-
-樱花树：
-树干有转折、分叉和根部，树冠由不规则花簇组成，
-有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
-
-建筑：
-屋顶有层叠瓦片、挑檐、梁柱和窗格；
-不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
-
-地形：
-岸边有湿润石块、草丛和植被过渡。
-避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
-
-水面：
-必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
-尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
-不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
-
-细节：
-可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
-但都应服务于氛围，不能让画面显得嘈杂。
-不要为了宣称模型数量而堆砌细节。
-
-【五、色彩与氛围】
-
-默认是蓝调时刻：
-偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
-暖光集中在有人活动的地方，不要把整个环境染成橙色。
-
-需要柔和阴影、物体接触处的明暗、合理的曝光、
-克制的泛光、抗锯齿和有距离层次的薄雾。
-
-避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
-方块几何可以清晰，但渲染本身不能粗糙。
-
-另提供“清晨”和“雨中”两种氛围；
-切换时应同步改变天空、环境光、雾和局部效果，
-不是仅仅修改背景颜色。
-
-【六、交互与界面】
-
-提供四个经过设计的镜头：
-山谷全景、河边低机位、寺庙小径、山坡俯瞰。
-切换应平滑，每个镜头都需要有独立的构图价值。
-
-基础交互：
-鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
-提供重置视角、隐藏界面和保存当前画面的功能。
-
-可选增强：
-自由探索、缓慢镜头巡游、环境音。
-环境音默认关闭，只在用户主动点击后播放。
-额外功能不能影响默认画面的完成度。
-
-界面要克制、有设计感，以景观为主。
-标题和控制条放在边缘，不遮挡视觉焦点。
-桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
-
-【七、工程与性能】
-
-允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
-优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
-
-自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
-景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
-
-重复物体采用适合的批量或实例化绘制方式；
-合理控制细分、阴影、反射和渲染分辨率。
-提供高画质和轻量模式，手机默认使用较轻设置。
-不要靠无限增加体素数量换取细节。
-
-加入加载提示、WebGL 不支持时的提示和必要的错误处理。
-没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
-
-【八、交付前验收】
-
-不要写完代码就立即交付。
-
-如果当前环境支持浏览器运行和截图，请先实际打开页面，
-检查默认镜头、四个视角、氛围切换、桌面和手机布局，
-再根据截图修正明显的构图、曝光、遮挡和渲染问题。
-
-重点检查：
-是否存在空白画面、加载失败、控制台错误；
-是否有穿模、闪烁、阴影条纹、过曝、水面异常；
-默认画面是否真正像完整景观，而不是小型沙盘；
-功能按钮是否实际可用，移动端是否越界。
-
-可以使用浏览器截图验收，但不要调用图像生成工具。
-没有完成的测试要如实说明，不要声称已经验证。
-
-最终交付：
-1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
-2. 如能截图，附一张真实浏览器渲染截图。
-3. 简短说明操作方式和必要的运行条件。
-
-请直接完成制作；非关键细节自行作出一致的设计选择，
-不要把可以自行解决的实现问题反复交给我决定。
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102565403109085669) · [Orijinal gönderi](https://x.com/dotey/status/2102565403109085669) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102547809140355250"></a>
-
-### Hundenberg kaza modeli ve gerçekçi video
-
-[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · Animasyon
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenberg kaza modeli ve gerçekçi video"></a>
-
-**İstem**
-
-```text
-Blender'da Hundenberg'in bir modelini oluştur ve kazayı gerçekçi bir videoya dönüştür.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-make me a model of the Hundenberg on blender make me a realistic video of the accident.
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102547809140355250) · [Orijinal gönderi](https://x.com/aimanhasnoname/status/2102547809140355250) · [Örneklere dön](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544406117286004"></a>
-
-### Görselden oluşturulan hentbol sahasının 360° 3B render’ı
-
-[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · Sahneler
-
-<a href="https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="Görselden oluşturulan hentbol sahasının 360° 3B render’ı"></a>
-
-**Referans görseller:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
-
-**İstem**
-
-```text
-Görseldeki hentbol sahasını, kaleleri, hakemi, oyuncuları ve topu 3B olarak render et; 360° boyunca serbestçe seçilen açılardan görüntülenebilsin. Her kişinin pozunu ve nesnelerin renklerini doğru biçimde yeniden oluştur.
-```
-
-<details>
-<summary>Özgün istem</summary>
-
-```text
-画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
-```
-
-</details>
-
-[Ayrıntıları görüntüle ↗](https://www.tripo3d.ai/tr/3d-prompts/claude-opus-5-5-2102544406117286004) · [Orijinal gönderi](https://x.com/chikaidev/status/2102545257372213581) · [Örneklere dön](#all-prompts)
 
 ---
 

@@ -28,6 +28,12 @@
 <details>
 <summary>Beispiele ansehen (50)</summary>
 
+- [Animierte Miniwelt mit schwebendem Bergwerk](#claude-opus-5-5-2105672081358876788)
+- [Blockworld](#claude-opus-5-5-2105669581226570012)
+- [Ein riesiger Drache greift in Three.js eine mittelalterliche Burg an](#claude-opus-5-5-2105659005817462972)
+- [Greifbarer, dehnbarer 3D-Gummibärchen-Oktopus mit WebGPU](#claude-opus-5-5-2105607558467559666)
+- [Vulkansimulation mit einer 5 km tiefen Magmakammer](#claude-opus-5-5-2105439105798513059)
+- [Jelly Press](#claude-opus-5-5-2105353400040964192)
 - [SPARK — Painterly-3D-Animationsshot](#claude-opus-5-5-2105315982525014067)
 - [Beat-synchrones 3D-Video mit fallender Kugel](#claude-opus-5-5-2105302007896797351)
 - [Jelly Press](#claude-opus-5-5-2105285992865272110)
@@ -72,14 +78,350 @@
 - [Nahtlose, per Code erstellte Animation des Wasserkreislaufs](#claude-opus-5-5-2102781807179735211)
 - [CatWalk: Ein 3D-Sidescroller mit einer Katze durch die Nacht](#claude-opus-5-5-2102775461701091531)
 - [Der letzte Zug – Cyberpunk-Megacity-Benchmark](#claude-opus-5-5-2102740078347087940)
-- [Fußballanimation im Voxel-Stil](#claude-opus-5-5-2102739444256383089)
-- [Interaktive Website über imaginäre Planeten](#claude-opus-5-5-2102729710174196022)
-- [Interaktive eulersche Neon-Fluidsimulation](#claude-opus-5-5-2102565611473661963)
-- [Interaktive 3D-Landschaft einer japanischen Kirschblütenschlucht](#claude-opus-5-5-2102565403109085669)
-- [Modell des Hundenbergs und realistisches Unfallvideo](#claude-opus-5-5-2102547809140355250)
-- [360°-3D-Rendering eines Handballfelds auf Basis eines Bildes](#claude-opus-5-5-2102544406117286004)
 
 </details>
+<a id="claude-opus-5-5-2105672081358876788"></a>
+
+### Animierte Miniwelt mit schwebendem Bergwerk
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-10-01 · Claude Opus 5.5 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105672081358876788"><img src="../assets/previews/a6c8199e4c545d0eda18f4796e33443488753dd10a738e4ef40c947d116a11ae.webp" width="840" loading="lazy" alt="Animierte Miniwelt mit schwebendem Bergwerk"></a>
+
+**Prompt**
+
+```text
+Erstelle in Blender mit Python eine isometrische schwebende Miniwelt als nahtlosen Loop: eine kleine Bergbauinsel mit einem terrassierten Berg, zwei Tunneln und einer Grubenbahn, die durch den Berg fährt und eine Schleife bildet, einen Teich, dessen Bach über den Rand als Wasserfall hinabstürzt, sowie Gesteinsschichten mit leuchtenden Kristallen an den Schnittflächen. Die Arbeiter sind kleine Claude-Bots: Einer baut eine Kristallader ab und wird von einer Fledermaus erschreckt, einer bedient einen Kran und kippt Kristalle in jeden vorbeifahrenden Wagen, einer angelt im Teich und einer fährt in einem Wagen mit. Bringe über dem Bergwerkseingang ein Holzschild mit der Aufschrift „TOKENS“ an. Der Sound soll mit jeder Aktion synchronisiert sein.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Make an isometric floating mini-world in Blender, animated with Python, as a seamless loop: a small mine island with a terraced mountain, two tunnels and a railway that loops through the mountain, a pond whose stream falls off the edge as a waterfall, and rock layers with glowing crystals on the cut sides. The workers are little Claude bots: one mines a crystal vein and gets startled by a bat, one runs a crane that dumps crystals into each passing cart, one fishes in the pond, and one rides a cart. Put a wooden "TOKENS" sign over the mine entrance. Sound synced to every action.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105672081358876788) · [Originalbeitrag](https://x.com/koldo2k/status/2105672083908825404) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105669581226570012"></a>
+
+### Blockworld
+
+[semperphoenix.com](https://semperphoenix.com/) · 2026-10-01 · Claude Opus 5.5 · Spiele
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105669581226570012"><img src="../assets/previews/2b2a746272a3d42e1e20ecb38b9ad696729fb0476c407c9582eae9ec289faace.webp" width="840" loading="lazy" alt="Blockworld"></a>
+
+**Prompt**
+
+```text
+Kannst du einen Minecraft-Klon erstellen?
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Can you create a Minecraft clone?
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105669581226570012) · [Originalbeitrag](https://semperphoenix.com/lab) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105659005817462972"></a>
+
+### Ein riesiger Drache greift in Three.js eine mittelalterliche Burg an
+
+[ReconScribe](https://x.com/ReconScribe) · 2026-10-01 · Claude Opus 5.5 · Szenen
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105659005817462972"><img src="../assets/previews/e9d911d3b1343369054c36136a9f646b6684db18692ea1ecbfd8a107cfd3d2b0.webp" width="840" loading="lazy" alt="Ein riesiger Drache greift in Three.js eine mittelalterliche Burg an"></a>
+
+**Prompt**
+
+```text
+ein riesiger Drache, der eine mittelalterliche Burg und ihr Dorf angreift, erstellt in Three.js.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+a giant dragon attacking a medieval castle and its village, built in Three.js.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105659005817462972) · [Originalbeitrag](https://x.com/ReconScribe/status/2105659005817462972) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105607558467559666"></a>
+
+### Greifbarer, dehnbarer 3D-Gummibärchen-Oktopus mit WebGPU
+
+[林悦己Cheer](https://x.com/cheerselflin) · 2026-10-01 · Claude Opus 5.5 · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105607558467559666"><img src="../assets/previews/a70c77f46789ceece0ef2f67a0f80cb0891ed77507ba2ce1b96bfcb3e9ab385d.webp" width="840" loading="lazy" alt="Greifbarer, dehnbarer 3D-Gummibärchen-Oktopus mit WebGPU"></a>
+
+**Prompt**
+
+```text
+Erstelle ein Ziel mit einem Token-Budget von 200.000. Berichte am Ende über den tatsächlichen Tokenverbrauch, die Budgetauslastung und die Laufzeit. Wenn eine Aufschlüsselung in Eingabe-, Cache-Eingabe- und Ausgabe-Tokens verfügbar ist, schätze die Kosten in US-Dollar anhand der aktuellen Modellpreise und führe die Berechnungsgrundlage klar auf. Mir ist bewusst, dass es sich um ein Abonnementkontingent handelt, aber wir können es in API-Kosten umrechnen.
+
+Erstelle „Octo Jelly“ – einen wunderschönen, interaktiven 3D-Gummibärchen-Oktopus, den Nutzer direkt im Browser greifen, dehnen und zusammendrücken können. Liefere eine vollständige Erfahrung als einzelne HTML-Datei mit echter WebGPU-Unterstützung.
+GESTALTUNG
+Der Oktopus soll wie ein hochwertiges, transparentes Gummibärchen aussehen: ein rundlicher Kopf, acht eingerollte Tentakel, kleine Saugnäpfe und ein niedliches, zurückhaltendes Gesicht.
+Verwende einen warmen, gebrochen weißen Hintergrund, weiches Studiolicht und einen dezenten Bodenschatten. Halte die Szene elegant und übersichtlich, mit einem großen, zentral platzierten Oktopus.
+GEOMETRIE UND MATERIAL
+
+* Erzeuge die gesamte Geometrie prozedural. Keine externen Modelle oder Bilddateien.
+* Verbinde alle acht Tentakel nahtlos mit dem Körper – ohne sichtbare Lücken oder schwebende Teile.
+* Füge abgerundete Saugnäpfe hinzu, die auch bei der Verformung der Tentakel befestigt bleiben.
+* Verwende ein glänzendes, transparentes Jelly-Material mit einer von der Dicke abhängigen Farbabsorption, Brechung, weicher Lichtstreuung im Inneren und dezenten Kantenlichtern.
+* Dicke Bereiche sollen eine kräftigere Farbe haben; dünne Tentakelspitzen sollen mehr Licht durchlassen.
+* Vermeide undurchsichtiges Plastik, überstrahlte Highlights und sichtbare Mesh-Nähte.
+
+SOFT-BODY-PHYSIK
+Verwende ein stabiles Masse-Feder-System oder eine positionsbasierte Dynamik mit elastischen Constraints und einer näherungsweisen Volumenerhaltung.
+
+* Der Kopf soll weich, aber substanzvoll wirken.
+* Die Tentakel sollen flexibler sein als der Kopf, besonders in der Nähe ihrer Spitzen.
+* Nutzer sollen den Kopf oder jeden beliebigen Tentakel an der angeklickten Stelle greifen können.
+* Beim Ziehen soll sich zunächst die nahegelegene Geometrie verformen und anschließend der restliche Körper elastisch mitgezogen werden.
+* Nach dem Loslassen soll der Oktopus wackeln und allmählich in seine ursprüngliche Form zurückkehren.
+* Die Tentakel sollen unabhängig voneinander reagieren und sich leicht verzögert bewegen.
+* Integriere Gravitation, Kollisionen mit dem Boden, Reibung und Dämpfung.
+* Verhindere, dass Tentakel den Boden durchdringen.
+* Begrenze extremes Dehnen und verwende feste Simulationsschritte, damit starke Züge das Modell nicht zerstören.
+* Simuliere die Weichheit nicht einfach durch Skalieren oder Drehen des gesamten Oktopus.
+
+INTERACTION
+
+* Mit Linksklick oder per Touch den Oktopus greifen und dehnen.
+* Mit der rechten Maustaste ziehen oder durch Ziehen in einem leeren Bereich die Kamera sanft umkreisen.
+* Einen begrenzten Zoombereich unterstützen.
+* Kameragesten und Objektziehen voneinander trennen.
+* Füge die Schaltflächen „Anstupsen“, „Zurücksetzen“, „Pause“ und „Ansicht zurücksetzen“ hinzu.
+* Füge Regler für Festigkeit und interne Dämpfung hinzu.
+* Füge Schalter für „¼ Geschwindigkeit“ und „Mesh anzeigen“ hinzu.
+* Biete drei Farb-Presets an: Coral, Lagoon und Grape. Ändere die Materialfarben, ohne die Simulation zurückzusetzen.
+
+INTERFACE
+Verwende ein reduziertes, redaktionelles Layout:
+
+* Oben links: ein kleines Label „MATERIAL STUDIES“.
+* Große kursive Serifenschrift als Überschrift: „Octo Jelly“.
+* Bildunterschrift: „Acht Arme. Ein kleines Wackeln. Ein sehr weiches Wesen.“
+* Oben rechts: eine WebGPU-Statusanzeige.
+* Rechte Seite: ein kompaktes Bedienfeld „THE SPECIMEN“.
+* Unten links: „Greif einen Tentakel. Zieh vorsichtig. Lass los.“
+
+Verwende eine klare serifenlose Schrift für die Bedienelemente, feine Rahmen und großzügige Abstände. Vermeide wuchtige Bedienfelder und dekorative UI-Effekte.
+PERFORMANCE UND QUALITÄT
+
+* Verwende echtes WebGPU-Rendering, keine Imitation mit einem 2D-Canvas und keine vorab aufgezeichnete Animation.
+* Verwende Geometrie und Buffer wieder; baue die Meshes während des Ziehens nicht neu auf.
+* Halte Saugnäpfe, Augen und andere Details am sich verformenden Körper befestigt.
+* Behandle Transparenz ohne Flackern, verschwindende Oberflächen oder harte schwarze Kanten.
+* Unterstütze Layouts für Desktop und Mobilgeräte.
+* Zeige eine klare Fallback-Nachricht an, wenn WebGPU nicht verfügbar ist.
+* Teste wiederholtes Greifen, kräftiges Ziehen, Loslassen, Bodenkollisionen, Palettenwechsel, Pause und Zurücksetzen.
+
+Das Ergebnis soll sich wie ein kleines lebendiges Gummibärchen-Spielzeug anfühlen – glänzend, quetschweich, ausdrucksstark und befriedigend zu dehnen. Liefere die vollständige funktionsfähige HTML-Datei, kein Mock-up und kein Codefragment.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+创建一个 token 预算为 200,000 的 Goal。结束时报告实际消耗 token、预算使用率和运行时间；如果能够获得输入、缓存输入、输出 token 的拆分，则按照当前模型价格估算美元费用，并明确列出计算依据。我知道是订阅额度，但是我们可以换算成api计费
+
+Create “Octo Jelly” - a beautiful, interactive 3D gummy octopus that users can grab, stretch, and squish directly in their browser. Deliver a complete single-file HTML experience using genuine WebGPU.
+ART DIRECTION
+Make the octopus look like a premium translucent gummy candy: a rounded head, eight curled tentacles, small suction cups, and a cute, understated face.
+Use a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the scene elegant and uncluttered, with the octopus large and centered.
+GEOMETRY AND MATERIAL
+
+* Generate all geometry procedurally. No external models or image files.
+* Connect all eight tentacles smoothly to the body, without visible gaps or floating parts.
+* Add rounded suction cups that stay attached as the tentacles deform.
+* Use glossy, translucent jelly with thickness-dependent color absorption, refraction, soft internal light scattering, and delicate rim highlights.
+* Thick areas should have richer color; thin tentacle tips should transmit more light.
+* Avoid opaque plastic, blown-out highlights, and visible mesh seams.
+
+SOFT-BODY PHYSICS
+Use a stable mass-spring or position-based dynamics system with elastic constraints and approximate volume preservation.
+
+* The head should feel soft but substantial.
+* Tentacles should be more flexible than the head, especially near their tips.
+* Allow users to grab the head or any tentacle at the clicked location.
+* Pulling should deform the nearby geometry first, then elastically pull the rest of the body.
+* On release, the octopus should wobble and gradually settle into its original shape.
+* Tentacles should react independently, with slightly delayed motion.
+* Include gravity, floor collisions, friction, and damping.
+* Prevent tentacles from passing through the floor.
+* Clamp extreme stretching and use fixed simulation steps so strong pulls do not break the model.
+* Do not fake softness by scaling or rotating the entire octopus.
+
+INTERACTION
+
+* Left-click or touch the octopus to grab and stretch it.
+* Right-drag or drag empty space to gently orbit the camera.
+* Support a limited zoom range.
+* Keep camera gestures separate from object dragging.
+* Add “Give it a nudge,” “Reset,” “Pause,” and “Reset view” buttons.
+* Include Firmness and Internal damping sliders.
+* Add “¼ speed” and “Show mesh” toggles.
+* Provide three color presets: Coral, Lagoon, and Grape. Change the material colors without resetting the simulation.
+
+INTERFACE
+Use a minimal editorial layout:
+
+* Top left: small “MATERIAL STUDIES” label.
+* Large italic serif heading: “Octo Jelly.”
+* Caption: “Eight arms. A little wobble. A very soft creature.”
+* Top right: a WebGPU status indicator.
+* Right side: a compact “THE SPECIMEN” control panel.
+* Bottom left: “Grab a tentacle. Pull gently. Let go.”
+
+Use clean sans-serif text for controls, thin borders, and generous whitespace. Avoid heavy panels or decorative UI effects.
+PERFORMANCE AND QUALITY
+
+* Use real WebGPU rendering, not a 2D canvas imitation or prerecorded animation.
+* Reuse geometry and buffers; do not rebuild meshes during dragging.
+* Keep suction cups, eyes, and other details attached to the deforming body.
+* Handle transparency without flickering, disappearing surfaces, or harsh black edges.
+* Support desktop and mobile layouts.
+* Show a clear fallback message if WebGPU is unavailable.
+* Test repeated grabs, strong pulls, releases, floor collisions, palette changes, pause, and reset.
+
+The result should feel like a little living gummy toy - glossy, squishy, expressive, and satisfying to stretch. Deliver the full working HTML, not a mockup or a code fragment.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105607558467559666) · [Originalbeitrag](https://x.com/cheerselflin/status/2105607558467559666) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105439105798513059"></a>
+
+### Vulkansimulation mit einer 5 km tiefen Magmakammer
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-30 · Claude Opus 5.5 · Animation
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105439105798513059"><img src="../assets/previews/50804065daa1682d9c6e2afd7609c5fab6eda0321e87b702a661c7e8688386e5.webp" width="840" loading="lazy" alt="Vulkansimulation mit einer 5 km tiefen Magmakammer"></a>
+
+**Prompt**
+
+```text
+Erstelle mit Opus 5.5 eine Vulkansimulation. Die Magmakammer liegt 5 km tief.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Build with Opus 5.5 a volcano simulation. Magma chamber 5 km down.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105439105798513059) · [Originalbeitrag](https://x.com/konstantinsaifo/status/2105439105798513059) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105353400040964192"></a>
+
+### Jelly Press
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · Interaktiv
+
+<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105353400040964192"><img src="../assets/previews/6756b12ceba906b5c863073748d982373629031b3506f966d220cfe590e66807.webp" width="840" loading="lazy" alt="Jelly Press"></a>
+
+**Prompt**
+
+```text
+Erstelle „Jelly Press“: ein interaktives 3D-Spielzeug in einer einzigen HTML-Datei (sämtliches JS, CSS und alle WGSL-Shader inline, keine externen Assets außer Google Fonts). Rendere mit WebGPU. Falls WebGPU oder ein Adapter fehlt, zeige eine klare Fallback-Meldung statt einer leeren Seite.
+
+KONZEPT
+Vier durchscheinende Gummibonbons in Fruchtscheibenform liegen einzeln auf der Stahlplatte einer Hydraulikpresse. Der Spieler hält einen großen roten Knopf gedrückt, um die Presse abzusenken. Das Gummibonbon wird zerquetscht und breitet sich aus, die Druckanzeige steigt, und irgendwo ab einer Höhe von mehr als der Hälfte zerplatzt es in Stücke. Danach endet das Spiel NICHT: Der Spieler kann die Stücke greifen, ziehen, herumwerfen und erneut zerquetschen.
+
+DIE GUMMIBONBONS (Chips unten, Tasten 1–4)
+1. Wassermelonenstück (Halbscheibe): rotes Fruchtfleisch mit dunklen, tropfenförmigen Kernen, ein helles Rindenband und eine grün gestreifte Schale.
+2. Orangenscheibe (Halbscheibe): orange Fruchtfleischsegmente, getrennt durch dünne weiße Häutchen, helles Mesokarp und Orangenschale.
+3. Feigenhälfte: rosafarbenes Fruchtfleisch mit vielen kleinen goldenen Kernen, eine cremefarbene Schicht und dunkelviolette Schale.
+4. Ananasring: goldenes, faseriges Fruchtfleisch mit radialen Streifen und einem Loch in der Mitte.
+
+Jedes Gummibonbon soll wie echtes Fruchtgummi aussehen: Subsurface Scattering, weiche Transluzenz, glänzende spekulare Highlights und weiche Schatten auf einem warmen Studioboden (Creme/Beige, tonemapped).
+
+PHYSIK (CPU, fester Schritt mit 60 Hz)
+- XPBD-Tetraeder-Softbody mit 8 Substeps: korotationale Formanpassung pro Tetraeder, Volumen-Constraints pro Tetraeder, harte Grenzwerte für die Kantenverformung (0,35×–1,8×), Dämpfung der Kantengeschwindigkeit, Bodenkontakt mit Coulomb-Reibung, Rollwiderstand und sanftes Einpendeln bei nahezu vollständigem Stillstand.
+- Das Render-Mesh wird auf der CPU über baryzentrisches Embedding in den Tetraedern geskinnt; die Normalen werden in jedem Frame aus den Dreiecken neu berechnet.
+- Der Pressstempel ist eine kinematische runde Druckplatte (Radius ca. 1,05, abgerundete Kante, eigene Stärke und ein darüberliegender Stößel). Sie fungiert unten als Decke mit Reibung, oben als Ablage und an ihrem Rand als Seitenwand. Die beiden Pressensäulen sind massiv.
+- Die Druckanzeige in bar wird aus der Kontaktlast der Druckplatte abgeleitet und je nach Frucht skaliert.
+
+DAS ZERPLATZEN
+- Bruch bei einer zufälligen Stauchung zwischen 52 % und 66 % der Höhe des Gummibonbons.
+- Plane die Bruchstruktur kurz nach Beginn jeder Runde im Hintergrund, damit das Zerplatzen selbst sofort erfolgt.
+- 5–7 große Stücke aus 3D-Voronoi-Zellen mit leicht geneigten Wänden. Bei 3–4 davon wird eine entfernte Ecke durch zwei Schnittebenen abgetrennt und anschließend weiter in 2–4 kleine Splitter geteilt, wodurch gezackte, eingekerbte Kanten entstehen.
+- Weise die Tetraeder anhand ihres Schwerpunkts den Zellen zu. Dupliziere Partikel für jeden Bruchteil. Führe winzige Inseln mit ihren Nachbarn zusammen.
+- Der neue Körper übernimmt die bisherigen Positionen und Geschwindigkeiten.
+- Clipping der Skin-Dreiecke gegen die Halbräume jeder Zelle; fülle jede Schnittfläche mit einer sauberen, flachen Kappe, die das Innere der Frucht zeigt (Fruchtfleisch, Kerne, Häutchen). Keine verzogenen Dreiecke, keine Löcher.
+- Schleudere die Stücke nach außen und oben aus der Presse. Kleine Splitter fliegen schneller und höher und trudeln mit zufälliger Rotation.
+- Zeige etwa 2,5 s lang ein großes kursives Urteil und blende es anschließend aus: „Matsch.“ (Melone), „Ausgequetscht.“ (Orange), „Na, das ist jetzt Marmelade.“ (Feige), „Zerdrückt.“ (Ananas). Füge eine Statistikzeile hinzu: „Gab bei N bar und N % seiner Höhe auf.“
+
+NACH DEM ZERPLATZEN: SPIELMODUS
+- Aufheben: Ray-/Dreieckstest gegen das geskinte Mesh, mit einem toleranten Fallback im Bildschirmraum für Touch-Eingaben.
+- Beim Greifen wird der erfasste Bereich (Radius ca. 0,4, nur Partikel dieses Bruchteils) an einem Zielpunkt auf einer zur Kamera ausgerichteten Ziehebene fixiert. Kleine Splitter bewegen sich als Ganzes; große Stücke dehnen und schwingen wie Gummibonbons.
+- Beim Loslassen wird das Stück mit der Geschwindigkeit des Zeigers geworfen.
+- Die Stücke kollidieren miteinander. Befindet sich ein Partikel innerhalb des Tetraeders eines anderen Bruchteils, wird es durch dessen nächstgelegene Skin-Fläche herausgedrückt, mit Reibung. Verwende eine Broad Phase über die AABBs der Bruchteile und einen Spatial Hash der Skin-Tetraeder.
+- Die Stücke bleiben auf der Bühne: Seitenwände sowie eine unsichtbare vordere Kante verhindern, dass etwas unter den Steuerelementen oder hinter der Kamera landet.
+- Die Presse funktioniert weiterhin: Gedrückthalten, um die Stücke erneut zu zerquetschen (kein zweiter Bruch); „Anheben“ hebt die Druckplatte.
+- Feuchte „Plopp“-Sounds bei der Landung; ein leises Schmatzen beim Greifen.
+- Cursor: offene Hand über den Stücken, geschlossene Hand beim Ziehen. Ziehen in leerem Raum orbitert die Kamera.
+
+UI (redaktionell, minimal)
+- Kopfzeile oben links: „JELLY PRESS“ in fetten, schmalen Versalien, wobei „PRESS“ mit gelb-schwarzen Warnstreifen gefüllt ist. Untertitel: „Vier Gummibonbons. Eine Hydraulikpresse.“
+- Oben rechts: Zurücksetzen und Sound-Umschalter.
+- Unteres Bedienfeld:
+  - Beschriftungszeile mit ansteigenden Texten während des Pressens: „Kontakt.“ → „Alles gut. Ist ja nur Gummi.“ → „Wird breiter.“ → „Das ist jetzt ein Pfannkuchen.“ → „Es macht ein Geräusch.“ → „Bitte.“
+  - Kreisförmige Druckanzeige (Bogen von 0–400 bar, roter Bereich) um einen roten HALTEN-Knopf, einen ANHEBEN-Knopf und eine große numerische Balkenanzeige.
+  - Frucht-Chips mit Icons.
+- Im Spielmodus zeigt der Beschriftungsbereich „Greif ein Stück. Wirf es.“ mit kleinen Schaltflächen „Erneut pressen“ und „Nächstes Gummibonbon“.
+- Steuerung: Leertaste oder Pfeil nach unten gedrückt halten zum Pressen, Pfeil nach oben zum Anheben, R zum Zurücksetzen, 1–4 zur Auswahl einer Frucht. Mausrad zoomt; Doppelklick setzt die Ansicht zurück.
+- Kamera: niedrige Perspektive auf Höhe der Werkbank; der Pressenrahmen dreht sich je nach Frucht um die Hochachse, damit die Säulen das Gummibonbon nie verdecken. Das Framing passt sich an, sodass das Gummibonbon zwischen Kopfzeile und Bedienfeld sitzt; funktioniert auch auf Smartphones im Hochformat mit einer schmaleren Bühne.
+
+SOUND (prozedurales Web Audio, keine Dateien)
+Hydraulisches Motorbrummen, das mit dem Druck ansteigt, feuchte Schmatzgeräusche, gelegentliches Knarzen bei hohem Druck, ein Ventilklacken beim Stoppen der Druckplatte, ein lautes Zerplatzen und sanfte Plopp-Geräusche bei der Landung. Beim ersten Interagieren freischalten.
+
+QUALITÄTSANSPRUCH
+- Flüssige 60 fps auf einem Laptop.
+- Aufwärmen der Meshes und Shader der anderen Früchte im Hintergrund, damit der Wechsel sofort erfolgt.
+- prefers-reduced-motion berücksichtigen.
+- Zugängliche Labels, eine Anzeige mit role=meter und focus-visible-Umrandungen.
+- Keine Fehler in der Konsole. Die Seite darf niemals leer bleiben.
+```
+
+<details>
+<summary>Original-Prompt</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.  CONCEPT Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.  THE JELLIES (chips at the bottom, keys 1–4) 1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin. 2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel. 3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin. 4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle. Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).  PHYSICS (CPU, fixed 60 Hz step) - XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still. - Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame. - The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid. - Pressure readout in bar comes from the platen's contact load, scaled per fruit.  THE BURST - Break at a random squash between 52% and 66% of the jelly's height. - Plan the fracture in the background shortly after each round starts, so the burst itself is instant. - 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges. - Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours. - The new body adopts the old positions and velocities. - Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes. - Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin. - Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."  AFTER THE BURST: PLAY MODE - Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch. - Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly. - Releasing throws the piece with the pointer's velocity. - Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets. - Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera. - The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen. - Wet "plop" sounds on landings; a small squelch on grab. - Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.  UI (editorial, minimal) - Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press." - Top-right: Reset and Sound toggle. - Bottom deck:   - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."   - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.   - Fruit chips with icons. - In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons. - Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view. - Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.  SOUND (procedural Web Audio, no files) Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.  QUALITY BAR - Smooth 60 fps on a laptop. - Background warm-up of the other fruits' meshes and shaders so switching is instant. - Respect prefers-reduced-motion. - Accessible labels, a gauge with role=meter, focus-visible outlines. - No console errors. The page never goes blank.
+```
+
+</details>
+
+[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2105353400040964192) · [Originalbeitrag](https://x.com/vib3coded/status/2105353559327887843) · [Zurück zu den Beispielen](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2105315982525014067"></a>
 
 ### SPARK — Painterly-3D-Animationsshot
@@ -2511,534 +2853,6 @@ build a complete cyberpunk megacity inside Blender with a hero train, procedural
 </details>
 
 [Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102740078347087940) · [Originalbeitrag](https://x.com/builderhelmai/status/2102740078347087940) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102739444256383089"></a>
-
-### Fußballanimation im Voxel-Stil
-
-[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Fußballanimation im Voxel-Stil"></a>
-
-**Prompt**
-
-```text
-Erstelle eine einzelne HTML-Datei mit Three.js (CDN) für eine einfache Fußballanimation im Voxel-Stil. Ein blockiger Spieler dribbelt an 2 Verteidigern vorbei und erzielt ein spektakuläres Tor mit Feierpartikeln. Farbenfrohe Stadionoptik. Gib AUSSCHLIESSLICH den vollständigen HTML-Code aus.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102739444256383089) · [Originalbeitrag](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102729710174196022"></a>
-
-### Interaktive Website über imaginäre Planeten
-
-[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Interaktive Website über imaginäre Planeten"></a>
-
-**Prompt**
-
-```text
-Erstelle eine interaktive Website über imaginäre Planeten.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-build an interactive website about imaginary planets.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102729710174196022) · [Originalbeitrag](https://x.com/Kappaemme1926/status/2102729710174196022) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565611473661963"></a>
-
-### Interaktive eulersche Neon-Fluidsimulation
-
-[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="Interaktive eulersche Neon-Fluidsimulation"></a>
-
-**Prompt**
-
-```text
-Erstelle ein vollständiges HTML-Dokument in einer einzigen Datei mit einer leistungsstarken, GPU-beschleunigten, interaktiven eulerschen Neon-Fluidsimulation.
-
-Strenge technische und ästhetische Anforderungen:
-
-1. Architektur und Performance:
-   - Eine Datei: Sämtliches HTML, CSS und JavaScript bzw. sämtliche GLSL-Shader müssen inline enthalten sein.
-   - Keine externen Abhängigkeiten: Reines WebGL 1.0 oder 2.0 (kein Three.js, kein Pixi, keine externen Bibliotheken).
-   - Auf der GPU berechnete Fluiddynamik: Die Simulation muss vollständig über Ping-Pong-Framebuffer-Objekte (FBOs) laufen. Verwende dafür eigene Fragment-Shader für:
-     a) Advektion (Geschwindigkeit und Farbstoff)
-     b) Berechnung der Divergenz
-     c) Poisson-Löser für den Druck (Jacobi-Iteration, 20–30 Iterationen pro Frame)
-     d) Subtraktion des Gradienten bzw. Projektion des Geschwindigkeitsfelds
-     e) Vorticity Confinement (erzeugt turbulente Wirbel und verhindert, dass das Fluid zu einer langweiligen, verschwommenen Masse zerfließt).
-
-2. Visuelle Detailtreue (der „Neonrauch“-Look):
-   - Tiefschwarzer Hintergrund (`#050508`).
-   - Additives bzw. High-Dynamic-Range-Blending für die Farbstoff-Injektion.
-   - Dynamische Palette: Jede schnelle Cursorbewegung oder Wischgeste injiziert hochleuchtenden Neon-Farbstoff, der fließend zwischen intensiven Cyber-Farbtönen wechselt (elektrisches Cyan `#00F0FF`, leuchtendes Magenta `#FF007F`, tiefes Ultraviolett und strahlendes Gold).
-   - Erweiterungen für den Darstellungs-Shader: Integriere direkt in den finalen Render-Shader einen Postprocessing-Pass, der an den wirbelnden Rändern des Fluids subtilen Bloom bzw. Glow, Tone Mapping und chromatische Aberration anwendet.
-
-3. Interaktion:
-   - Maus und Touch: Schnelle Cursorbewegungen oder Ziehen injizieren eine proportional zur Mausgeschwindigkeit berechnete Geschwindigkeit sowie dichten, leuchtenden Farbstoff.
-   - Passive Umgebungsbewegung: Erzeuge im Leerlauf subtilen prozeduralen Curl-Noise oder sanft driftende Wirbel, damit die Fläche nie vollständig statisch ist.
-   - Bedienelemente: Ein elegantes, äußerst minimalistisches Glassmorphism-HUD, das in einer Ecke platziert wird und sich bei Inaktivität automatisch ausblendet:
-     * Schieberegler für die Viskosität
-     * Schieberegler für Dissipation bzw. Persistenz des Farbstoffs
-     * Schieberegler für den Splat-Radius
-     * Schaltfläche „Canvas leeren“
-     * Umschaltfläche zum Wechseln der Farbthemen (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Behandle hochauflösende Displays und `resize`-Ereignisse automatisch, ohne die FBO-Texturen zu verzerren oder zu löschen.
-   - Baue eine zuverlässige Fallback-Prüfung für die Unterstützung von Gleitkomma-Texturen ein (`OES_texture_float` / `OES_texture_half_float`).
-   - Sauberer, fehlerfreier und vollständig implementierter Code ohne Platzhalter oder abgeschnittene Kommentare.
-
-Gib ausschließlich die vollständig ausgefüllte HTML-Datei zurück, die direkt in Chrome, Safari oder Firefox ausgeführt werden kann.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
-
-Strict Technical & Aesthetic Requirements:
-
-1. Architecture & Performance:
-   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
-   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
-   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
-     a) Advection (velocity & dye)
-     b) Divergence calculation
-     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
-     d) Gradient subtraction / velocity projection
-     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
-
-2. Visual Fidelity (The "Neon Smoke" Look):
-   - Pitch-black void background (`#050508`).
-   - Additive / High-Dynamic-Range blending for dye injection.
-   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
-   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
-
-3. Interaction:
-   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
-   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
-   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
-     * Viscosity slider
-     * Dye dissipation / persistence slider
-     * Splat radius slider
-     * "Clear Canvas" button
-     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
-   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
-   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
-
-Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102565611473661963) · [Originalbeitrag](https://x.com/theailoser/status/2102565612874596411) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565403109085669"></a>
-
-### Interaktive 3D-Landschaft einer japanischen Kirschblütenschlucht
-
-[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · Interaktiv
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="Interaktive 3D-Landschaft einer japanischen Kirschblütenschlucht"></a>
-
-**Prompt**
-
-```text
-Erstelle direkt eine hochwertige 3D-Landschaft als interaktive Webseite, die sich in Echtzeit im Browser erkunden lässt.
-
-Thema: japanische Kirschblütenschlucht.
-Setze HTML, CSS und JavaScript ein. Erzeuge keine Bilder und liefere nicht nur ein Designkonzept,
-und täusche keine 3D-Szene durch ein einzelnes Hintergrundbild mit Parallax-Effekt vor. Ich möchte ein tatsächlich lauffähiges und erkundbares Endprodukt.
-
-【1. Ausrichtung des Projekts】
-
-Es handelt sich um eine vollständige, zusammenhängende Landschaft mit einer klaren Tiefenstaffelung,
-nicht um ein isoliertes kleines Diorama, eine schwebende Insel, eine Landschaft auf einer Basis oder eine reine technische Demo.
-
-Der Stil ist modernes, detailliertes Voxel Art:
-Die Formensprache kubischer Geometrie bleibt erhalten, doch das Bild soll hochauflösend, kantengeglättet und mit fein ausgearbeiteten Licht- und Schatteneffekten sein.
-Kein nostalgischer Low-Resolution-Pixel-Look, keine groben Stapel aus Klötzen und kein Pixel-Filter über dem gesamten Bild.
-
-Die visuelle Qualität hat Vorrang. Lieber einige Funktionen weniger als Abstriche bei Komposition, Materialien und Beleuchtung.
-
-【2. Verwendung von Referenzbildern】
-
-Falls Referenzbilder vorhanden sind, analysiere zunächst ihre Komposition, Maßstäbe, Lichtführung und Farbbeziehungen.
-Übernimm nur die Atmosphäre und visuelle Sprache und entwirf die Szene neu,
-ohne die Positionen von Gebäuden, Bäumen, Bergen und Wegen zu kopieren oder eine 1:1-Reproduktion anzufertigen.
-
-Das Referenzbild ist kein Hintergrundmaterial für die Webseite. Die Szene selbst muss aus echter 3D-Geometrie bestehen.
-
-【3. Szenenkomposition】
-
-Beim Öffnen soll standardmäßig sofort ein vollständiges und ansprechendes Bild zu sehen sein,
-ohne dass der Nutzer zunächst die Kamera drehen muss, um eine gute Perspektive zu finden.
-
-Verwende eine perspektivische Kamera und keine isometrische Draufsicht wie bei einem Diorama.
-Das Bild braucht einen klaren Vorder-, Mittel- und Hintergrund:
-
-Vordergrund:
-Ein charaktervoller alter Kirschbaum mit Felsen, Gräsern, Pflanzen, Steinlaternen und einigen herabgefallenen Blüten bildet einen natürlichen Rahmen am Bildrand,
-darf jedoch den Fluss, die Brücke und die wichtigsten Gebäude nicht verdecken.
-
-Mittelgrund:
-Ein gewundener Fluss führt den Blick in die Szene; eine rote Holzbrücke überspannt das Wasser.
-Dorf, Teehaus, Schrein und Wege verteilen sich entlang des Geländeverlaufs, mit realistischen Verbindungen zwischen den Gebäuden.
-Der Boden weist Höhenunterschiede, Uferlinien und natürliche Übergänge auf; die Modelle sind nicht gleichmäßig auf einer ebenen Fläche verteilt.
-
-Hintergrund:
-Eine mehrstöckige Pagode am Berghang, Wälder in unterschiedlichen Entfernungen, Bergrücken und schneebedeckte Berge in der Ferne.
-Zeige die Entfernung durch Maßstabsänderungen, Verdeckungen, warme und kalte Farbverläufe sowie atmosphärische Perspektive,
-statt entfernte Objekte lediglich zu verkleinern.
-
-Verteile nicht alle Elemente gleichmäßig über die Szene. Es braucht eine klare Hierarchie, Variationen in Dichte, bewusst gesetzte Freiräume und einen eindeutigen visuellen Fokus.
-
-【4. Formen und Bildqualität】
-
-Kirschbaum:
-Der Stamm weist Krümmungen, Verzweigungen und sichtbare Wurzeln auf. Die Krone besteht aus unregelmäßigen Blütenbüscheln
-mit Zwischenräumen, variierender Dichte und sichtbaren Ästen. Verwende keine wenigen regelmäßigen Kugeln oder Würfelgruppen.
-
-Gebäude:
-Die Dächer haben geschichtete Ziegel, auskragende Traufen, Balken, Säulen und Fensterteilungen.
-Die Gebäude unterscheiden sich in Funktion, Volumen und Höhe; bedecke die Schlucht nicht mit Kopien desselben Hauses.
-
-Gelände:
-Am Ufer gibt es feuchte Felsen, Grasbüschel und natürliche Übergänge zur Vegetation.
-Vermeide zu regelmäßige Stufen, wiederholte Streifen, Schachbrettmuster und ein deutlich prozedural erzeugtes Raster.
-
-Wasseroberfläche:
-Sie muss die Umgebung widerspiegeln und moderate Wellen, Variationen in Tiefe und Farbe sowie einen natürlichen Übergang zum Ufer aufweisen.
-Nutze möglichst echte Reflexionen der Szene. Auch bei einer Leistungsreduzierung muss die Darstellung visuell glaubwürdig bleiben.
-Ersetze das Wasser nicht durch flackerndes Rauschen, starke Verzerrungen oder eine durchgehende blaue Fläche.
-
-Details:
-Einige Koi, herabfallende Blüten, Glühwürmchen, ein Wasserfall und Vögel in der Ferne sind möglich,
-sollen jedoch ausschließlich die Atmosphäre unterstützen und das Bild nicht überladen.
-Häufe keine Details an, nur um mit einer bestimmten Modellanzahl zu werben.
-
-【5. Farben und Atmosphäre】
-
-Standardmäßig gilt die Stimmung der blauen Stunde:
-ein kühles Tal und kühle Berge in der Ferne, zartrosa Kirschblüten sowie warme, aber nicht überbelichtete Laternen und Fensterlichter.
-Das warme Licht konzentriert sich auf belebte Bereiche; färbe nicht die gesamte Umgebung orange.
-
-Verwende weiche Schatten, Licht- und Schattenkontraste an den Kontaktstellen von Objekten, eine angemessene Belichtung,
-zurückhaltendes Bloom, Kantenglättung und Nebel mit klarer Tiefenstaffelung.
-
-Vermeide ausgewaschene Farben, eine graue Trübung, Übersättigung, dichten Nebel über die gesamte Szene, überbelichtete Lichter und deutlich sichtbare Treppeneffekte.
-Die kubische Geometrie darf klar erkennbar sein, das Rendering selbst darf jedoch nicht grob wirken.
-
-Biete zusätzlich die Stimmungen „Morgen“ und „Regen“ an.
-Beim Wechsel müssen sich Himmel, Umgebungslicht, Nebel und lokale Effekte synchron ändern
-und nicht nur die Hintergrundfarbe.
-
-【6. Interaktion und Benutzeroberfläche】
-
-Biete vier sorgfältig gestaltete Kameraperspektiven:
-Panorama der Schlucht, niedrige Perspektive am Flussufer, Tempelpfad und Blick vom Berghang nach unten.
-Der Wechsel soll fließend erfolgen, und jede Perspektive braucht einen eigenständigen kompositorischen Wert.
-
-Grundlegende Interaktion:
-Mit der Maus ziehen, um die Szene zu betrachten, und per Mausrad zoomen oder vorwärtsgehen. Touchscreens unterstützen Ziehen und Pinch-Zoom.
-Biete Funktionen zum Zurücksetzen der Ansicht, Ausblenden der Benutzeroberfläche und Speichern des aktuellen Bildes an.
-
-Optionale Erweiterungen:
-Freies Erkunden, eine langsame Kamerafahrt und Umgebungsgeräusche.
-Umgebungsgeräusche sind standardmäßig deaktiviert und werden erst nach einem aktiven Klick des Nutzers abgespielt.
-Zusätzliche Funktionen dürfen die Qualität der Standardansicht nicht beeinträchtigen.
-
-Die Benutzeroberfläche soll zurückhaltend und gestaltet sein, während die Landschaft im Mittelpunkt steht.
-Titel und Steuerleiste gehören an den Rand und dürfen den visuellen Fokus nicht verdecken.
-Auf Desktop und Smartphone dürfen keine abgeschnittenen Buttons, überlappenden Texte oder unbedienbaren Elemente auftreten.
-
-【7. Technik und Performance】
-
-Three.js / WebGL sowie versionsgebundene, miteinander kompatible CDN-Abhängigkeiten dürfen verwendet werden.
-Nutze bevorzugt etablierte Rendering-Funktionen und schreibe nicht für „null Abhängigkeiten“ eine komplette Engine neu.
-
-Halte selbst geschriebenes HTML, CSS und JavaScript möglichst in einer einzigen HTML-Datei zusammen.
-Erzeuge die Landschaft mit prozeduraler Geometrie und Materialien, ohne externe Bild- oder 3D-Modellressourcen.
-
-Zeichne wiederholte Objekte mit geeigneten Batch- oder Instancing-Verfahren.
-Begrenze Subdivision, Schatten, Reflexionen und Renderauflösung angemessen.
-Biete einen Qualitätsmodus und einen leichten Modus an; auf Smartphones soll standardmäßig die leichtere Einstellung verwendet werden.
-Erzeuge Details nicht einfach durch eine unbegrenzte Erhöhung der Voxelanzahl.
-
-Füge einen Ladehinweis, eine Meldung bei fehlender WebGL-Unterstützung und die notwendige Fehlerbehandlung hinzu.
-Spiele keinen Ton automatisch ab, solange er nicht aktiviert wurde, und respektiere die Systemeinstellung zur Reduzierung von Bewegung.
-
-【8. Abnahme vor der Übergabe】
-
-Übergib das Projekt nicht sofort nach dem Schreiben des Codes.
-
-Wenn die aktuelle Umgebung die Ausführung im Browser und Screenshots unterstützt, öffne die Seite zunächst tatsächlich,
-prüfe die Standardkamera, alle vier Perspektiven, den Wechsel der Stimmungen sowie das Desktop- und Smartphone-Layout
-und korrigiere anhand der Screenshots offensichtliche Probleme bei Komposition, Belichtung, Verdeckungen und Rendering.
-
-Prüfe insbesondere:
-ob ein leeres Bild, ein Ladefehler oder Konsolenfehler auftreten;
-ob Clipping, Flackern, Schattenstreifen, Überbelichtung oder eine fehlerhafte Wasseroberfläche vorhanden sind;
-ob die Standardansicht tatsächlich wie eine vollständige Landschaft und nicht wie ein kleines Diorama wirkt;
-und ob die Funktionsbuttons tatsächlich funktionieren und auf Mobilgeräten nicht aus dem Bildschirm ragen.
-
-Zur Abnahme darfst du Browser-Screenshots verwenden, aber keine Bildgenerierungstools aufrufen.
-Nicht durchgeführte Tests müssen ehrlich angegeben werden; behaupte nicht, sie seien bereits überprüft worden.
-
-Endgültige Übergabe:
-1. Eine tatsächlich vorhandene und öffnungsfähige HTML-Datei oder eine interaktive Vorschau, sofern die aktuelle Umgebung dies unterstützt.
-2. Wenn Screenshots möglich sind, füge einen echten Screenshot aus dem Browser-Rendering bei.
-3. Eine kurze Erläuterung der Bedienung und der erforderlichen Laufzeitbedingungen.
-
-Schließe die Umsetzung direkt ab. Triff bei nicht kritischen Details selbst konsistente Designentscheidungen,
-und überlasse mir nicht wiederholt Implementierungsfragen, die du eigenständig lösen kannst.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
-
-主题：日式樱花山谷。
-使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
-不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
-
-【一、作品定位】
-
-这是一片完整、连续、有远近层次的山谷景观，
-不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
-
-风格是现代精细体素 / voxel art：
-保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
-不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
-
-视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
-
-【二、参考图的使用方式】
-
-如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
-仅借鉴氛围与视觉语言，重新设计场景，
-不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
-
-参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
-
-【三、场景构图】
-
-默认打开时就应呈现一幅完整、有吸引力的画面，
-不需要用户先旋转镜头才能找到好看的角度。
-
-采用透视相机，而不是沙盘式等距俯视相机。
-画面有明确的前景、中景、远景：
-
-前景：
-一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
-形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
-
-中景：
-一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
-村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
-地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
-
-远景：
-山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
-用尺度变化、遮挡、冷暖变化和空气透视表现距离，
-而不是仅仅把远处物体缩小。
-
-不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
-
-【四、造型与画面质量】
-
-樱花树：
-树干有转折、分叉和根部，树冠由不规则花簇组成，
-有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
-
-建筑：
-屋顶有层叠瓦片、挑檐、梁柱和窗格；
-不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
-
-地形：
-岸边有湿润石块、草丛和植被过渡。
-避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
-
-水面：
-必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
-尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
-不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
-
-细节：
-可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
-但都应服务于氛围，不能让画面显得嘈杂。
-不要为了宣称模型数量而堆砌细节。
-
-【五、色彩与氛围】
-
-默认是蓝调时刻：
-偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
-暖光集中在有人活动的地方，不要把整个环境染成橙色。
-
-需要柔和阴影、物体接触处的明暗、合理的曝光、
-克制的泛光、抗锯齿和有距离层次的薄雾。
-
-避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
-方块几何可以清晰，但渲染本身不能粗糙。
-
-另提供“清晨”和“雨中”两种氛围；
-切换时应同步改变天空、环境光、雾和局部效果，
-不是仅仅修改背景颜色。
-
-【六、交互与界面】
-
-提供四个经过设计的镜头：
-山谷全景、河边低机位、寺庙小径、山坡俯瞰。
-切换应平滑，每个镜头都需要有独立的构图价值。
-
-基础交互：
-鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
-提供重置视角、隐藏界面和保存当前画面的功能。
-
-可选增强：
-自由探索、缓慢镜头巡游、环境音。
-环境音默认关闭，只在用户主动点击后播放。
-额外功能不能影响默认画面的完成度。
-
-界面要克制、有设计感，以景观为主。
-标题和控制条放在边缘，不遮挡视觉焦点。
-桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
-
-【七、工程与性能】
-
-允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
-优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
-
-自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
-景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
-
-重复物体采用适合的批量或实例化绘制方式；
-合理控制细分、阴影、反射和渲染分辨率。
-提供高画质和轻量模式，手机默认使用较轻设置。
-不要靠无限增加体素数量换取细节。
-
-加入加载提示、WebGL 不支持时的提示和必要的错误处理。
-没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
-
-【八、交付前验收】
-
-不要写完代码就立即交付。
-
-如果当前环境支持浏览器运行和截图，请先实际打开页面，
-检查默认镜头、四个视角、氛围切换、桌面和手机布局，
-再根据截图修正明显的构图、曝光、遮挡和渲染问题。
-
-重点检查：
-是否存在空白画面、加载失败、控制台错误；
-是否有穿模、闪烁、阴影条纹、过曝、水面异常；
-默认画面是否真正像完整景观，而不是小型沙盘；
-功能按钮是否实际可用，移动端是否越界。
-
-可以使用浏览器截图验收，但不要调用图像生成工具。
-没有完成的测试要如实说明，不要声称已经验证。
-
-最终交付：
-1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
-2. 如能截图，附一张真实浏览器渲染截图。
-3. 简短说明操作方式和必要的运行条件。
-
-请直接完成制作；非关键细节自行作出一致的设计选择，
-不要把可以自行解决的实现问题反复交给我决定。
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102565403109085669) · [Originalbeitrag](https://x.com/dotey/status/2102565403109085669) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102547809140355250"></a>
-
-### Modell des Hundenbergs und realistisches Unfallvideo
-
-[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · Animation
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Modell des Hundenbergs und realistisches Unfallvideo"></a>
-
-**Prompt**
-
-```text
-Erstelle ein Modell des Hundenbergs in Blender und ein realistisches Video des Unfalls.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-make me a model of the Hundenberg on blender make me a realistic video of the accident.
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102547809140355250) · [Originalbeitrag](https://x.com/aimanhasnoname/status/2102547809140355250) · [Zurück zu den Beispielen](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544406117286004"></a>
-
-### 360°-3D-Rendering eines Handballfelds auf Basis eines Bildes
-
-[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · Szenen
-
-<a href="https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="360°-3D-Rendering eines Handballfelds auf Basis eines Bildes"></a>
-
-**Referenzbilder:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
-
-**Prompt**
-
-```text
-Rendere das Handballfeld, das Tor, den Schiedsrichter, die Spieler und den Ball aus dem Bild in 3D, sodass die Szene aus jedem beliebigen Winkel in 360° betrachtet werden kann. Reproduziere auch die Körperhaltung jeder Person und die Farben der Objekte präzise.
-```
-
-<details>
-<summary>Original-Prompt</summary>
-
-```text
-画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
-```
-
-</details>
-
-[Details ansehen ↗](https://www.tripo3d.ai/de/3d-prompts/claude-opus-5-5-2102544406117286004) · [Originalbeitrag](https://x.com/chikaidev/status/2102545257372213581) · [Zurück zu den Beispielen](#all-prompts)
 
 ---
 

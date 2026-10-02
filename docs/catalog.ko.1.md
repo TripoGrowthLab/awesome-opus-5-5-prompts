@@ -28,6 +28,12 @@
 <details>
 <summary>사례 둘러보기 (50)</summary>
 
+- [애니메이션으로 구현한 부유 광산 미니 월드](#claude-opus-5-5-2105672081358876788)
+- [Blockworld](#claude-opus-5-5-2105669581226570012)
+- [Three.js로 구현한 중세 성을 공격하는 거대 드래곤](#claude-opus-5-5-2105659005817462972)
+- [잡고 늘릴 수 있는 WebGPU 3D 젤리 문어](#claude-opus-5-5-2105607558467559666)
+- [마그마방이 지하 5km에 있는 화산 시뮬레이션](#claude-opus-5-5-2105439105798513059)
+- [젤리 프레스](#claude-opus-5-5-2105353400040964192)
 - [SPARK — 페인터리 3D 애니메이션 쇼트](#claude-opus-5-5-2105315982525014067)
 - [비트에 맞춰 떨어지는 3D 구체 애니메이션 영상](#claude-opus-5-5-2105302007896797351)
 - [젤리 프레스](#claude-opus-5-5-2105285992865272110)
@@ -72,14 +78,350 @@
 - [끊김 없는 코드 기반 물 순환 애니메이션](#claude-opus-5-5-2102781807179735211)
 - [CatWalk: 밤거리를 질주하는 3D 횡스크롤 고양이 게임](#claude-opus-5-5-2102775461701091531)
 - [더 라스트 트레인 사이버펑크 메가시티 벤치마크](#claude-opus-5-5-2102740078347087940)
-- [복셀 스타일 축구 애니메이션](#claude-opus-5-5-2102739444256383089)
-- [상상 속 행성 인터랙티브 웹사이트](#claude-opus-5-5-2102729710174196022)
-- [인터랙티브 오일러리안 네온 유체 시뮬레이션](#claude-opus-5-5-2102565611473661963)
-- [일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지](#claude-opus-5-5-2102565403109085669)
-- [Hundenberg 사고 모델과 실사풍 영상](#claude-opus-5-5-2102547809140355250)
-- [이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링](#claude-opus-5-5-2102544406117286004)
 
 </details>
+<a id="claude-opus-5-5-2105672081358876788"></a>
+
+### 애니메이션으로 구현한 부유 광산 미니 월드
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-10-01 · Claude Opus 5.5 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105672081358876788"><img src="../assets/previews/a6c8199e4c545d0eda18f4796e33443488753dd10a738e4ef40c947d116a11ae.webp" width="840" loading="lazy" alt="애니메이션으로 구현한 부유 광산 미니 월드"></a>
+
+**프롬프트**
+
+```text
+Blender에서 Python으로 애니메이션을 구현해 끊김 없이 반복되는 등각 투영 미니 월드를 만드세요. 계단식 산과 두 개의 터널이 있는 작은 광산 섬을 구성하고, 산을 관통하는 철도가 반복해서 순환하도록 하세요. 연못에서는 물줄기가 가장자리 아래로 떨어져 폭포가 되게 하고, 절단면의 암석층에는 빛나는 수정을 배치하세요. 작업자는 작은 클로드 봇으로 구성합니다. 한 봇은 수정 광맥을 채굴하다가 박쥐에 놀라고, 한 봇은 크레인을 조작해 지나가는 각 광차에 수정을 쏟아 넣으며, 한 봇은 연못에서 낚시하고, 한 봇은 광차를 탑니다. 광산 입구 위에는 나무로 된 "TOKENS" 표지판을 세우세요. 모든 동작에 사운드를 동기화하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Make an isometric floating mini-world in Blender, animated with Python, as a seamless loop: a small mine island with a terraced mountain, two tunnels and a railway that loops through the mountain, a pond whose stream falls off the edge as a waterfall, and rock layers with glowing crystals on the cut sides. The workers are little Claude bots: one mines a crystal vein and gets startled by a bat, one runs a crane that dumps crystals into each passing cart, one fishes in the pond, and one rides a cart. Put a wooden "TOKENS" sign over the mine entrance. Sound synced to every action.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105672081358876788) · [원본 게시물](https://x.com/koldo2k/status/2105672083908825404) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105669581226570012"></a>
+
+### Blockworld
+
+[semperphoenix.com](https://semperphoenix.com/) · 2026-10-01 · Claude Opus 5.5 · 게임
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105669581226570012"><img src="../assets/previews/2b2a746272a3d42e1e20ecb38b9ad696729fb0476c407c9582eae9ec289faace.webp" width="840" loading="lazy" alt="Blockworld"></a>
+
+**프롬프트**
+
+```text
+마인크래프트 클론을 만들어 줄 수 있나요?
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Can you create a Minecraft clone?
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105669581226570012) · [원본 게시물](https://semperphoenix.com/lab) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105659005817462972"></a>
+
+### Three.js로 구현한 중세 성을 공격하는 거대 드래곤
+
+[ReconScribe](https://x.com/ReconScribe) · 2026-10-01 · Claude Opus 5.5 · 장면
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105659005817462972"><img src="../assets/previews/e9d911d3b1343369054c36136a9f646b6684db18692ea1ecbfd8a107cfd3d2b0.webp" width="840" loading="lazy" alt="Three.js로 구현한 중세 성을 공격하는 거대 드래곤"></a>
+
+**프롬프트**
+
+```text
+중세 성과 그 주변 마을을 공격하는 거대 드래곤을 Three.js로 구현합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+a giant dragon attacking a medieval castle and its village, built in Three.js.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105659005817462972) · [원본 게시물](https://x.com/ReconScribe/status/2105659005817462972) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105607558467559666"></a>
+
+### 잡고 늘릴 수 있는 WebGPU 3D 젤리 문어
+
+[林悦己Cheer](https://x.com/cheerselflin) · 2026-10-01 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105607558467559666"><img src="../assets/previews/a70c77f46789ceece0ef2f67a0f80cb0891ed77507ba2ce1b96bfcb3e9ab385d.webp" width="840" loading="lazy" alt="잡고 늘릴 수 있는 WebGPU 3D 젤리 문어"></a>
+
+**프롬프트**
+
+```text
+토큰 예산 200,000으로 Goal을 생성하세요. 종료 시 실제 사용 토큰 수, 예산 사용률과 실행 시간을 보고하세요. 입력 토큰, 캐시된 입력 토큰, 출력 토큰의 내역을 확인할 수 있다면 현재 모델 가격을 기준으로 달러 비용을 추정하고 계산 근거를 명확히 제시하세요. 구독 한도라는 점은 알고 있지만 API 요금으로 환산해 볼 수 있습니다
+
+“Octo Jelly”를 제작하세요. 사용자가 브라우저에서 직접 잡고 늘이고 눌러 볼 수 있는 아름답고 인터랙티브한 3D 젤리 문어입니다. 실제 WebGPU를 사용한 완전한 단일 HTML 파일 형식의 경험을 제공하세요.
+아트 디렉션
+문어가 고급스러운 반투명 젤리 캔디처럼 보이도록 하세요. 둥근 머리, 둥글게 말린 여덟 개의 촉수, 작은 빨판, 절제된 귀여운 표정을 구성합니다.
+따뜻한 오프화이트 배경, 부드러운 스튜디오 조명과 은은한 바닥 그림자를 사용하세요. 장면은 세련되고 복잡하지 않게 유지하며, 문어를 크고 중앙에 배치합니다.
+지오메트리 및 머티리얼
+
+* 모든 지오메트리를 절차적으로 생성하세요. 외부 모델이나 이미지 파일은 사용하지 않습니다.
+* 여덟 개의 촉수를 모두 몸체에 매끄럽게 연결하고, 눈에 보이는 틈이나 공중에 떠 있는 부분이 없도록 하세요.
+* 촉수가 변형될 때도 계속 붙어 있는 둥근 빨판을 추가하세요.
+* 두께에 따른 색 흡수, 굴절, 부드러운 내부 광산란, 섬세한 림 하이라이트가 표현되는 광택의 반투명 젤리 머티리얼을 사용하세요.
+* 두꺼운 부분은 색을 더 진하게 표현하고, 얇은 촉수 끝부분은 더 많은 빛을 통과시키세요.
+* 불투명한 플라스틱 느낌, 날아간 하이라이트, 눈에 보이는 메시 이음새는 피하세요.
+
+소프트 바디 물리
+탄성 제약 조건과 대략적인 부피 보존을 적용한 안정적인 질량-스프링 또는 위치 기반 동역학 시스템을 사용하세요.
+
+* 머리는 부드럽지만 어느 정도 묵직한 느낌이 나야 합니다.
+* 촉수는 머리보다 더 유연하게 만들고, 특히 끝부분을 더 유연하게 하세요.
+* 사용자가 클릭한 위치에서 머리나 촉수 어느 부분이든 잡을 수 있게 하세요.
+* 당기면 먼저 주변 지오메트리가 변형되고, 그다음 탄성에 의해 몸체 전체가 끌려오도록 하세요.
+* 손을 놓으면 문어가 흔들리다가 원래 형태로 서서히 돌아오게 하세요.
+* 촉수는 서로 독립적으로 반응하고, 움직임에는 약간의 지연이 있어야 합니다.
+* 중력, 바닥 충돌, 마찰과 댐핑을 포함하세요.
+* 촉수가 바닥을 통과하지 않도록 하세요.
+* 극단적인 늘어남을 제한하고 고정된 시뮬레이션 스텝을 사용해, 강하게 당겨도 모델이 깨지지 않도록 하세요.
+* 문어 전체를 스케일링하거나 회전시켜 소프트함을 흉내 내지 마세요.
+
+INTERACTION
+
+* 문어를 왼쪽 클릭하거나 터치해 잡고 늘이세요.
+* 마우스 오른쪽 버튼으로 드래그하거나 빈 공간을 드래그해 카메라를 부드럽게 공전시키세요.
+* 제한된 줌 범위를 지원하세요.
+* 카메라 제스처와 오브젝트 드래그를 분리하세요.
+* “살짝 밀기”, “초기화”, “일시정지”, “뷰 초기화” 버튼을 추가하세요.
+* Firmness와 Internal damping 슬라이더를 포함하세요.
+* “¼ 속도”와 “메시 표시” 토글을 추가하세요.
+* Coral, Lagoon, Grape 세 가지 색상 프리셋을 제공하세요. 시뮬레이션을 초기화하지 않고 머티리얼 색상을 변경할 수 있어야 합니다.
+
+INTERFACE
+미니멀한 에디토리얼 레이아웃을 사용하세요.
+
+* 왼쪽 상단: 작은 “MATERIAL STUDIES” 레이블.
+* 크고 이탤릭체인 세리프 제목: “Octo Jelly.”
+* 캡션: “여덟 개의 팔. 살짝 흔들흔들. 아주 부드러운 생명체.”
+* 오른쪽 상단: WebGPU 상태 표시기.
+* 오른쪽: 간결한 “THE SPECIMEN” 컨트롤 패널.
+* 왼쪽 하단: “촉수를 잡고, 살살 당긴 다음, 놓아 보세요.”
+
+컨트롤에는 깔끔한 산세리프 글꼴을 사용하고, 얇은 테두리와 넉넉한 여백을 적용하세요. 무거운 패널이나 장식적인 UI 효과는 피하세요.
+성능 및 품질
+
+* 2D 캔버스를 흉내 내거나 미리 녹화한 애니메이션이 아닌, 실제 WebGPU 렌더링을 사용하세요.
+* 지오메트리와 버퍼를 재사용하고, 드래그하는 동안 메시를 다시 생성하지 마세요.
+* 빨판, 눈과 기타 디테일이 변형되는 몸체에 계속 붙어 있도록 하세요.
+* 깜박임, 표면 소실, 거친 검은 가장자리 없이 투명도를 처리하세요.
+* 데스크톱과 모바일 레이아웃을 지원하세요.
+* WebGPU를 사용할 수 없을 때 명확한 대체 안내 메시지를 표시하세요.
+* 반복해서 잡기, 강하게 당기기, 놓기, 바닥 충돌, 팔레트 변경, 일시정지와 초기화를 테스트하세요.
+
+결과물은 작고 살아 있는 젤리 장난감처럼 느껴져야 합니다. 광택이 나고, 말랑하게 눌리며, 표정이 풍부하고, 늘이는 손맛이 만족스러워야 합니다. 목업이나 코드 일부가 아닌, 완전히 작동하는 전체 HTML을 제공하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+创建一个 token 预算为 200,000 的 Goal。结束时报告实际消耗 token、预算使用率和运行时间；如果能够获得输入、缓存输入、输出 token 的拆分，则按照当前模型价格估算美元费用，并明确列出计算依据。我知道是订阅额度，但是我们可以换算成api计费
+
+Create “Octo Jelly” - a beautiful, interactive 3D gummy octopus that users can grab, stretch, and squish directly in their browser. Deliver a complete single-file HTML experience using genuine WebGPU.
+ART DIRECTION
+Make the octopus look like a premium translucent gummy candy: a rounded head, eight curled tentacles, small suction cups, and a cute, understated face.
+Use a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the scene elegant and uncluttered, with the octopus large and centered.
+GEOMETRY AND MATERIAL
+
+* Generate all geometry procedurally. No external models or image files.
+* Connect all eight tentacles smoothly to the body, without visible gaps or floating parts.
+* Add rounded suction cups that stay attached as the tentacles deform.
+* Use glossy, translucent jelly with thickness-dependent color absorption, refraction, soft internal light scattering, and delicate rim highlights.
+* Thick areas should have richer color; thin tentacle tips should transmit more light.
+* Avoid opaque plastic, blown-out highlights, and visible mesh seams.
+
+SOFT-BODY PHYSICS
+Use a stable mass-spring or position-based dynamics system with elastic constraints and approximate volume preservation.
+
+* The head should feel soft but substantial.
+* Tentacles should be more flexible than the head, especially near their tips.
+* Allow users to grab the head or any tentacle at the clicked location.
+* Pulling should deform the nearby geometry first, then elastically pull the rest of the body.
+* On release, the octopus should wobble and gradually settle into its original shape.
+* Tentacles should react independently, with slightly delayed motion.
+* Include gravity, floor collisions, friction, and damping.
+* Prevent tentacles from passing through the floor.
+* Clamp extreme stretching and use fixed simulation steps so strong pulls do not break the model.
+* Do not fake softness by scaling or rotating the entire octopus.
+
+INTERACTION
+
+* Left-click or touch the octopus to grab and stretch it.
+* Right-drag or drag empty space to gently orbit the camera.
+* Support a limited zoom range.
+* Keep camera gestures separate from object dragging.
+* Add “Give it a nudge,” “Reset,” “Pause,” and “Reset view” buttons.
+* Include Firmness and Internal damping sliders.
+* Add “¼ speed” and “Show mesh” toggles.
+* Provide three color presets: Coral, Lagoon, and Grape. Change the material colors without resetting the simulation.
+
+INTERFACE
+Use a minimal editorial layout:
+
+* Top left: small “MATERIAL STUDIES” label.
+* Large italic serif heading: “Octo Jelly.”
+* Caption: “Eight arms. A little wobble. A very soft creature.”
+* Top right: a WebGPU status indicator.
+* Right side: a compact “THE SPECIMEN” control panel.
+* Bottom left: “Grab a tentacle. Pull gently. Let go.”
+
+Use clean sans-serif text for controls, thin borders, and generous whitespace. Avoid heavy panels or decorative UI effects.
+PERFORMANCE AND QUALITY
+
+* Use real WebGPU rendering, not a 2D canvas imitation or prerecorded animation.
+* Reuse geometry and buffers; do not rebuild meshes during dragging.
+* Keep suction cups, eyes, and other details attached to the deforming body.
+* Handle transparency without flickering, disappearing surfaces, or harsh black edges.
+* Support desktop and mobile layouts.
+* Show a clear fallback message if WebGPU is unavailable.
+* Test repeated grabs, strong pulls, releases, floor collisions, palette changes, pause, and reset.
+
+The result should feel like a little living gummy toy - glossy, squishy, expressive, and satisfying to stretch. Deliver the full working HTML, not a mockup or a code fragment.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105607558467559666) · [원본 게시물](https://x.com/cheerselflin/status/2105607558467559666) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105439105798513059"></a>
+
+### 마그마방이 지하 5km에 있는 화산 시뮬레이션
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-30 · Claude Opus 5.5 · 애니메이션
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105439105798513059"><img src="../assets/previews/50804065daa1682d9c6e2afd7609c5fab6eda0321e87b702a661c7e8688386e5.webp" width="840" loading="lazy" alt="마그마방이 지하 5km에 있는 화산 시뮬레이션"></a>
+
+**프롬프트**
+
+```text
+Opus 5.5로 화산 시뮬레이션을 구축하세요. 마그마방은 지하 5km에 배치하세요.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Build with Opus 5.5 a volcano simulation. Magma chamber 5 km down.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105439105798513059) · [원본 게시물](https://x.com/konstantinsaifo/status/2105439105798513059) · [사례 목록으로](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2105353400040964192"></a>
+
+### 젤리 프레스
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · 인터랙티브
+
+<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105353400040964192"><img src="../assets/previews/6756b12ceba906b5c863073748d982373629031b3506f966d220cfe590e66807.webp" width="840" loading="lazy" alt="젤리 프레스"></a>
+
+**프롬프트**
+
+```text
+HTML로 《Jelly Press》를 제작하세요. 외부 에셋은 Google Fonts를 제외하고 사용하지 않으며, 모든 JS, CSS, WGSL 셰이더를 인라인으로 포함한 단일 파일 인터랙티브 3D 장난감이어야 합니다. WebGPU로 렌더링하고, WebGPU 또는 어댑터를 사용할 수 없으면 빈 페이지 대신 깔끔한 대체 안내를 표시하세요.
+
+CONCEPT
+반투명한 구미 젤리 과일 조각 4종이 유압 프레스의 강철 베드 위에 한 번에 하나씩 놓입니다. 플레이어가 커다란 빨간 버튼을 누르고 있으면 프레스가 내려옵니다. 젤리는 눌리며 퍼지고, 압력 게이지가 올라가다가 높이의 절반을 조금 넘는 지점에서 조각으로 터집니다. 터진 뒤에도 게임은 끝나지 않습니다. 플레이어는 파편을 집어 드래그하고, 이리저리 던지고, 다시 눌러 으깰 수 있어야 합니다.
+
+THE JELLIES (하단 칩, 키 1–4)
+1. 수박 웨지(반원형 덩어리): 짙은 물방울 모양 씨가 박힌 붉은 과육, 옅은 껍질 띠, 초록색 줄무늬 껍질.
+2. 오렌지 조각(반원형): 얇은 흰 막으로 나뉜 주황색 과육, 옅은 속껍질, 오렌지 껍질.
+3. 무화과 반쪽: 작고 황금빛 씨가 가득한 분홍색 과육, 크림색 층, 짙은 보라색 껍질.
+4. 파인애플 링: 방사형 줄무늬가 있는 황금빛 섬유질 과육과 가운데 구멍.
+
+각 젤리는 실제 구미 캔디처럼 보여야 합니다. 서브서피스 스캐터링, 부드러운 반투명도, 윤기 있는 스페큘러 하이라이트, 따뜻한 스튜디오 바닥(크림색/베이지, 톤 매핑)에 드리워지는 부드러운 그림자를 사용하세요.
+
+PHYSICS (CPU, 고정 60Hz 스텝)
+- 8개 서브스텝을 사용하는 XPBD 사면체 소프트 바디. 사면체별 코로테이션 형상 매칭, 사면체별 체적 제약, 엄격한 모서리 변형률 제한(0.35×–1.8×), 모서리 속도 감쇠, 쿨롱 마찰이 적용된 바닥 접촉, 구름 저항, 거의 정지했을 때 부드럽게 안착하는 기능을 구현하세요.
+- 렌더링 메시를 사면체에 바리센트릭 임베딩하여 CPU에서 스키닝하고, 매 프레임 삼각형으로부터 노멀을 다시 계산하세요.
+- 프레스 다이는 키네마틱 원형 플래튼(반지름 약 1.05, 둥근 모서리, 일정한 두께와 그 위의 램)입니다. 아래쪽에서는 마찰이 있는 천장, 위쪽에서는 선반, 가장자리에서는 측벽 역할을 합니다. 두 개의 프레스 기둥은 단단한 솔리드입니다.
+- 압력 수치는 플래튼의 접촉 하중을 과일별로 스케일링한 bar 단위 값으로 표시하세요.
+
+THE BURST
+- 젤리 높이의 52%에서 66% 사이, 무작위 압축 지점에서 파괴하세요.
+- 각 라운드가 시작된 직후 백그라운드에서 파괴를 미리 계산하여, 실제 파열은 즉시 일어나게 하세요.
+- 약간 기울어진 벽을 가진 3D 보로노이 셀로 5–7개의 큰 파편을 만드세요. 그중 3–4개는 두 개의 절단 평면으로 먼 쪽 모서리를 잘라낸 뒤 2–4개의 작은 칩으로 추가 분할하여, 들쭉날쭉하고 패인 가장자리를 만드세요.
+- 무게중심을 기준으로 사면체를 셀에 할당하세요. 청크마다 파티클을 복제하세요. 아주 작은 섬은 이웃 청크에 합치세요.
+- 새 바디는 기존 위치와 속도를 이어받아야 합니다.
+- 젤리 표면의 삼각형을 각 셀의 반공간과 클리핑하고, 절단된 모든 면을 깔끔한 평면 캡으로 채우세요. 캡에는 과일 내부(과육, 씨, 막)가 보여야 합니다. 늘어난 삼각형이나 구멍은 없어야 합니다.
+- 파편을 프레스 바깥쪽과 위쪽으로 튕겨내세요. 작은 칩은 더 빠르고 높이 날아가며 무작위 회전으로 구르게 하세요.
+- 약 2.5초 동안 큰 이탤릭체 판정 문구를 표시한 뒤 페이드아웃하세요: "Splat."(멜론), "Squeezed."(오렌지), "Well, that's jam."(무화과), "Crushed."(파인애플). 다음 통계 문구도 포함하세요: "N bar에서, 높이의 N% 지점에서 항복했습니다."
+
+AFTER THE BURST: PLAY MODE
+- 집기: 스키닝된 메시를 대상으로 레이/삼각형 테스트를 수행하고, 터치 조작을 위해 화면 공간에서 허용 오차가 있는 대체 판정을 사용하세요.
+- 잡으면 해당 패치(반지름 약 0.4, 그 청크에 속한 파티클만)를 카메라를 향하는 드래그 평면의 목표점에 고정하세요. 작은 칩은 통째로 움직이고, 큰 파편은 젤리처럼 늘어나며 흔들려야 합니다.
+- 놓을 때 포인터의 속도로 파편을 던지세요.
+- 파편끼리 충돌해야 합니다. 다른 청크의 사면체 내부에 들어간 파티클은 해당 청크에서 가장 가까운 표면 면을 통해 밀려나오고 마찰이 적용되어야 합니다. 청크 AABB 브로드 페이즈와 표면 사면체 공간 해시를 사용하세요.
+- 파편이 스테이지 밖으로 나가지 않게 하세요. 측벽과 보이지 않는 전면 가장자리를 배치하여 어떤 파편도 컨트롤 아래나 카메라 뒤로 들어가지 않게 하세요.
+- 프레스는 계속 작동해야 합니다. 누르고 있으면 파편을 다시 압축하고(두 번째 파괴는 없음), Raise를 누르면 플래튼이 올라갑니다.
+- 착지할 때 젖은 "철퍽" 소리를 내고, 집을 때 작은 질척임 소리를 재생하세요.
+- 커서: 파편 위에서는 펼친 손, 드래그 중에는 쥔 손으로 표시하세요. 빈 공간을 드래그하면 카메라가 공전합니다.
+
+UI (editorial, minimal)
+- 왼쪽 상단 마스트헤드: 굵은 콘덴스드 대문자로 "JELLY PRESS"를 표시하고, "PRESS"는 노란색/검은색 위험 경고 줄무늬로 채우세요. 부제목: "구미 젤리 4개. 유압 프레스 1대."
+- 오른쪽 상단: Reset 및 Sound 토글.
+- 하단 데크:
+  - 프레스 작동 중 단계적으로 바뀌는 캡션: "접촉." → "괜찮아. 젤리니까." → "점점 넓어져." → "이젠 팬케이크네." → "소리가 나는데." → "제발."
+  - 빨간 HOLD 버튼, Raise 버튼, 큰 숫자 bar 수치 표시 주위에 원형 압력 다이얼(0–400bar 호, 빨간색 영역)을 배치하세요.
+  - 아이콘이 있는 과일 칩.
+- 플레이 모드에서는 캡션 영역에 "파편을 잡아. 던져."를 표시하고, 작은 "다시 누르기" 및 "다음 젤리" 버튼을 배치하세요.
+- 조작: Space 또는 ArrowDown을 누르고 있으면 압축, ArrowUp으로 상승, R로 초기화, 1–4로 과일 선택. 휠로 확대/축소하고 더블클릭으로 뷰를 초기화하세요.
+- 카메라: 낮은 벤치 높이 시점으로 설정하고, 기둥이 젤리를 가리지 않도록 과일마다 프레스 프레임의 요 방향을 조정하세요. 젤리가 마스트헤드와 데크 사이에 오도록 구도를 자동 조정하고, 세로 모드의 휴대폰에서는 스테이지 폭을 좁혀 대응하세요.
+
+SOUND (절차적 Web Audio, 파일 없음)
+압력에 따라 높아지는 유압 모터의 웅웅거림, 젖은 질척임, 고압에서 간헐적으로 나는 삐걱거림, 플래튼이 멈출 때 밸브가 덜컥하는 소리, 큰 파열음, 착지 시 부드러운 철퍽 소리를 구현하세요. 첫 상호작용에서 오디오를 잠금 해제하세요.
+
+QUALITY BAR
+- 노트북에서 부드러운 60fps를 유지하세요.
+- 다른 과일의 메시와 셰이더를 백그라운드에서 워밍업하여 전환이 즉시 이루어지게 하세요.
+- prefers-reduced-motion을 준수하세요.
+- 접근성 레이블, role=meter를 사용하는 게이지, focus-visible 아웃라인을 제공하세요.
+- 콘솔 오류가 없어야 합니다. 페이지가 빈 화면으로 표시되는 일은 없어야 합니다.
+```
+
+<details>
+<summary>작성자의 원본 프롬프트</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.  CONCEPT Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.  THE JELLIES (chips at the bottom, keys 1–4) 1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin. 2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel. 3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin. 4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle. Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).  PHYSICS (CPU, fixed 60 Hz step) - XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still. - Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame. - The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid. - Pressure readout in bar comes from the platen's contact load, scaled per fruit.  THE BURST - Break at a random squash between 52% and 66% of the jelly's height. - Plan the fracture in the background shortly after each round starts, so the burst itself is instant. - 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges. - Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours. - The new body adopts the old positions and velocities. - Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes. - Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin. - Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."  AFTER THE BURST: PLAY MODE - Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch. - Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly. - Releasing throws the piece with the pointer's velocity. - Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets. - Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera. - The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen. - Wet "plop" sounds on landings; a small squelch on grab. - Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.  UI (editorial, minimal) - Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press." - Top-right: Reset and Sound toggle. - Bottom deck:   - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."   - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.   - Fruit chips with icons. - In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons. - Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view. - Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.  SOUND (procedural Web Audio, no files) Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.  QUALITY BAR - Smooth 60 fps on a laptop. - Background warm-up of the other fruits' meshes and shaders so switching is instant. - Respect prefers-reduced-motion. - Accessible labels, a gauge with role=meter, focus-visible outlines. - No console errors. The page never goes blank.
+```
+
+</details>
+
+[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2105353400040964192) · [원본 게시물](https://x.com/vib3coded/status/2105353559327887843) · [사례 목록으로](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2105315982525014067"></a>
 
 ### SPARK — 페인터리 3D 애니메이션 쇼트
@@ -2418,534 +2760,6 @@ build a complete cyberpunk megacity inside Blender with a hero train, procedural
 </details>
 
 [자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102740078347087940) · [원본 게시물](https://x.com/builderhelmai/status/2102740078347087940) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102739444256383089"></a>
-
-### 복셀 스타일 축구 애니메이션
-
-[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="복셀 스타일 축구 애니메이션"></a>
-
-**프롬프트**
-
-```text
-Three.js(CDN)를 사용하는 단일 HTML 파일로 간단한 복셀 스타일 축구 애니메이션을 제작하세요. 블록 형태의 선수가 수비수 2명을 제치고 화려한 골을 넣은 뒤 세리머니 파티클을 발생시킵니다. 경기장은 알록달록한 분위기로 표현하세요. 전체 HTML 코드만 출력하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102739444256383089) · [원본 게시물](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102729710174196022"></a>
-
-### 상상 속 행성 인터랙티브 웹사이트
-
-[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="상상 속 행성 인터랙티브 웹사이트"></a>
-
-**프롬프트**
-
-```text
-상상 속 행성을 주제로 한 인터랙티브 웹사이트를 제작하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-build an interactive website about imaginary planets.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102729710174196022) · [원본 게시물](https://x.com/Kappaemme1926/status/2102729710174196022) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565611473661963"></a>
-
-### 인터랙티브 오일러리안 네온 유체 시뮬레이션
-
-[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="인터랙티브 오일러리안 네온 유체 시뮬레이션"></a>
-
-**프롬프트**
-
-```text
-고성능 GPU 가속 인터랙티브 오일러리안 네온 유체 시뮬레이션을 포함한 완전한 단일 파일 HTML 문서를 작성하세요.
-
-엄격한 기술 및 미적 요구 사항:
-
-1. 아키텍처 및 성능:
-   - 단일 파일: 모든 HTML, CSS, JavaScript/GLSL 셰이더를 인라인으로 포함하세요.
-   - 외부 의존성 없음: 순수 WebGL 1.0 또는 2.0을 사용하세요(Three.js, Pixi 및 외부 라이브러리 사용 금지).
-   - GPU 기반 유체 역학: 커스텀 프래그먼트 셰이더를 사용한 핑퐁 프레임버퍼 오브젝트(FBO)만으로 시뮬레이션을 실행해야 합니다. 다음을 구현하세요.
-     a) 이류(속도 및 염료)
-     b) 발산 계산
-     c) 압력 포아송 솔버(프레임당 자코비 반복 20~30회)
-     d) 그래디언트 제거 / 속도 프로젝션
-     e) 와도 구속(난류성 소용돌이를 추가하고 유체가 밋밋하고 흐릿한 덩어리로 변하는 것을 방지)
-
-2. 시각적 완성도(“네온 연기” 스타일):
-   - 칠흑 같은 빈 공간 배경(`#050508`).
-   - 염료 주입에 가산 / HDR 블렌딩을 적용하세요.
-   - 다이내믹 팔레트: 커서를 빠르게 움직이거나 터치로 드래그할 때마다 높은 광도의 네온 염료를 주입하고, 선명한 사이버 색상(일렉트릭 시안 `#00F0FF`, 핫 마젠타 `#FF007F`, 딥 울트라바이올렛, 빛나는 골드) 사이를 부드럽게 순환시키세요.
-   - 디스플레이 셰이더 개선: 최종 렌더 셰이더에 포스트 프로세싱 패스를 직접 포함하여 유체의 소용돌이 가장자리에 은은한 블룸/글로우, 톤 매핑, 색수차를 적용하세요.
-
-3. 인터랙션:
-   - 마우스 및 터치: 커서를 빠르게 움직이거나 드래그하면 마우스 속도에 비례한 속도와 함께 빛나는 고밀도 염료를 주입하세요.
-   - 패시브 앰비언트 모션: 유휴 상태에서도 은은한 프로시저럴 컬 노이즈 또는 부드럽게 떠다니는 소용돌이를 생성하여 캔버스가 완전히 정지하지 않게 하세요.
-   - 컨트롤: 모서리에 배치하고 비활성 상태에서는 자동으로 숨겨지는 세련되고 극도로 미니멀한 글래스모피즘 HUD를 구현하세요.
-     * 점도 슬라이더
-     * 염료 감쇠 / 지속성 슬라이더
-     * 스플랫 반경 슬라이더
-     * “캔버스 지우기” 버튼
-     * 색상 테마를 순환하는 토글 버튼(Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. 프로덕션 완성도:
-   - 고DPI 디스플레이와 `resize` 이벤트를 자동으로 처리하되, FBO 텍스처가 늘어나거나 초기화되지 않게 하세요.
-   - 부동 소수점 텍스처 지원 여부를 우아하게 확인하는 폴백을 구현하세요(`OES_texture_float` / `OES_texture_half_float`).
-   - 플레이스홀더나 잘린 주석 없이 깔끔하고 버그가 없으며 완전히 구현된 코드를 작성하세요.
-
-Chrome/Safari/Firefox에서 직접 실행할 수 있는 완성된 HTML 파일만 반환하세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
-
-Strict Technical & Aesthetic Requirements:
-
-1. Architecture & Performance:
-   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
-   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
-   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
-     a) Advection (velocity & dye)
-     b) Divergence calculation
-     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
-     d) Gradient subtraction / velocity projection
-     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
-
-2. Visual Fidelity (The "Neon Smoke" Look):
-   - Pitch-black void background (`#050508`).
-   - Additive / High-Dynamic-Range blending for dye injection.
-   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
-   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
-
-3. Interaction:
-   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
-   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
-   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
-     * Viscosity slider
-     * Dye dissipation / persistence slider
-     * Splat radius slider
-     * "Clear Canvas" button
-     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
-   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
-   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
-
-Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102565611473661963) · [원본 게시물](https://x.com/theailoser/status/2102565612874596411) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102565403109085669"></a>
-
-### 일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지
-
-[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · 인터랙티브
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="일본식 벚꽃 계곡 인터랙티브 3D 경관 웹페이지"></a>
-
-**프롬프트**
-
-```text
-브라우저에서 실시간으로 상호작용할 수 있는 완성도 높은 3D 경관 웹페이지를 바로 제작해 주세요.
-
-테마: 일본식 벚꽃 계곡.
-HTML, CSS, JavaScript로 구현해 주세요. 이미지를 생성하지 말고, 디자인 계획만 제시하지도 마세요.
-배경 이미지 한 장에 패럴랙스 효과를 더해 3D처럼 보이게 만들지 마세요. 실제로 실행하고 탐험할 수 있는 완성물을 원합니다.
-
-【1. 작품 방향】
-
-완전하고 연속적이며 원근감이 살아 있는 계곡 경관이어야 합니다.
-고립된 작은 소품이나 공중에 뜬 섬, 받침대가 있는 디오라마가 아니며 단순한 기술 데모도 아닙니다.
-
-스타일은 현대적인 고급 복셀 / voxel art입니다.
-입방체 기하의 조형 언어는 유지하되, 화면은 고해상도와 안티앨리어싱을 적용하고 빛과 그림자는 섬세하게 표현해 주세요.
-복고풍의 저해상도 픽셀 아트처럼 만들지 말고, 큼직한 블록을 거칠게 쌓지도 말며, 화면 전체에 픽셀 필터를 씌우지도 마세요.
-
-시각적 품질을 우선하세요. 기능을 몇 가지 줄이더라도 구도, 머티리얼과 조명을 희생하지 마세요.
-
-【2. 레퍼런스 이미지 사용 방식】
-
-레퍼런스 이미지가 있다면 먼저 구도의 위계, 스케일, 조명과 색상 관계를 파악하세요.
-분위기와 시각적 언어만 참고해 장면을 새롭게 설계하세요.
-건물, 나무, 산과 도로의 위치를 그대로 옮기거나 1:1로 복제하지 마세요.
-
-레퍼런스 이미지는 웹페이지의 배경 소재가 아닙니다. 장면 자체가 실제 3D 지오메트리로 구성되어야 합니다.
-
-【3. 장면 구성】
-
-페이지를 처음 열었을 때부터 완성도 높고 매력적인 화면이 보여야 합니다.
-사용자가 먼저 카메라를 돌려야 보기 좋은 구도를 찾을 수 있어서는 안 됩니다.
-
-디오라마식 아이소메트릭 탑뷰 카메라가 아니라 원근 카메라를 사용하세요.
-화면에는 전경, 중경, 원경이 뚜렷하게 드러나야 합니다.
-
-전경:
-존재감 있는 오래된 벚나무 한 그루에 바위, 풀과 식물, 석등, 소량의 낙화를 배치하세요.
-화면 가장자리에 자연스러운 프레임을 만들되, 강과 다리, 주요 건물을 가리지 않게 하세요.
-
-중경:
-구불구불한 강이 시선을 화면 안쪽으로 이끌고, 붉은 목조 다리가 강을 가로지르게 하세요.
-마을, 찻집, 신사와 오솔길은 지형을 따라 배치하고, 건물 사이에는 실제로 이동할 수 있는 동선을 구현하세요.
-지면에는 고저 차이와 강변, 자연스러운 지형 전환을 만들고, 평면 위에 모델을 균일하게 배치하지 마세요.
-
-원경:
-산비탈의 다층 탑, 서로 다른 거리에 있는 숲과 산등성이, 그리고 멀리 보이는 설산을 배치하세요.
-거리감은 스케일 변화, 가림, 색온도 변화와 대기 원근으로 표현하세요.
-먼 곳의 오브젝트를 단순히 작게 만드는 방식만 사용하지 마세요.
-
-모든 요소를 균일하게 채워 넣지 마세요. 주제와 보조 요소의 위계, 밀도 변화, 여백과 분명한 시각적 초점이 필요합니다.
-
-【4. 조형과 화면 품질】
-
-벚나무:
-줄기에는 굴곡과 가지 분기, 뿌리를 표현하고, 수관은 불규칙한 꽃송이 군집으로 구성하세요.
-빈틈과 두께 변화를 주고 가지가 보이게 하세요. 규칙적인 구체 몇 개나 네모난 덩어리처럼 만들지 마세요.
-
-건축물:
-지붕에는 겹쳐진 기와, 처마, 보와 기둥, 창살을 표현하세요.
-건물마다 용도와 규모, 높이에 차이를 두고, 같은 집 한 채를 복제해 계곡 전체를 채우지 마세요.
-
-지형:
-강변에는 젖은 바위와 풀숲, 식생으로 이어지는 자연스러운 전환을 넣으세요.
-지나치게 규칙적인 계단, 반복되는 줄무늬, 체크무늬와 눈에 띄는 프로시저럴 생성 격자는 피하세요.
-
-수면:
-주변 경관이 비치고, 적당한 물결과 깊이 변화, 강변과의 자연스러운 전환이 반드시 표현되어야 합니다.
-가능하면 실제 장면의 반사를 사용하세요. 성능을 낮춰야 하는 경우에도 시각적으로 자연스러운 결과를 유지해야 합니다.
-깜빡이는 노이즈, 과도한 왜곡이나 파란색 평면 하나로 물을 대신하지 마세요.
-
-디테일:
-비단잉어, 낙화, 반딧불이, 폭포와 멀리 나는 새를 소량 추가할 수 있습니다.
-모든 디테일은 분위기를 살리는 역할을 해야 하며, 화면이 산만해 보이게 해서는 안 됩니다.
-모델 수를 많아 보이게 하려고 디테일을 무작정 쌓지 마세요.
-
-【5. 색상과 분위기】
-
-기본 분위기는 블루 아워입니다.
-차가운 색감의 계곡과 먼 산, 부드러운 분홍빛 벚꽃, 따뜻하지만 과노출되지 않은 등불과 창가의 빛을 표현하세요.
-따뜻한 빛은 사람이 활동하는 장소에 집중하고, 환경 전체를 주황색으로 물들이지 마세요.
-
-부드러운 그림자, 오브젝트가 맞닿는 부분의 명암, 적절한 노출이 필요합니다.
-번짐 효과는 절제하고, 안티앨리어싱과 거리에 따른 층위가 있는 옅은 안개를 적용하세요.
-
-화면이 하얗게 뜨거나 잿빛으로 흐려지지 않게 하고, 과도한 채도와 짙은 안개, 과노출된 조명, 눈에 띄는 계단 현상을 피하세요.
-복셀 형태는 선명하게 보여도 되지만, 렌더링 자체가 거칠어서는 안 됩니다.
-
-추가로 ‘이른 아침’과 ‘비 오는 날’ 두 가지 분위기도 제공하세요.
-전환할 때 하늘, 환경광, 안개와 국소 효과도 함께 변경하고,
-배경색만 바꾸는 데 그치지 마세요.
-
-【6. 인터랙션 및 인터페이스】
-
-완성도 있게 구성한 카메라 시점 네 가지를 제공하세요:
-계곡 전경, 강변 로우 앵글, 사찰 오솔길, 산비탈 부감 시점.
-전환은 부드러워야 하며, 각 시점마다 독립적인 구도상의 가치가 있어야 합니다.
-
-기본 인터랙션:
-마우스를 드래그해 시점을 둘러보고, 휠로 확대·축소하거나 앞으로 이동할 수 있게 하세요. 터치스크린에서는 드래그와 두 손가락 확대·축소를 지원하세요.
-시점 초기화, 인터페이스 숨기기, 현재 화면 저장 기능을 제공하세요.
-
-선택 기능:
-자유 탐색, 느린 카메라 투어, 환경음.
-환경음은 기본적으로 꺼 두고, 사용자가 직접 클릭한 경우에만 재생하세요.
-추가 기능 때문에 기본 화면의 완성도가 떨어져서는 안 됩니다.
-
-인터페이스는 절제되고 세련된 디자인으로 구성하되, 경관이 중심이 되게 하세요.
-제목과 컨트롤 바는 가장자리에 배치해 시각적 초점을 가리지 않게 하세요.
-데스크톱과 모바일 모두에서 버튼이 화면 밖으로 벗어나거나, 텍스트가 겹치거나, 조작할 수 없는 문제가 없어야 합니다.
-
-【7. 개발 및 성능】
-
-Three.js / WebGL과 버전이 고정되고 서로 호환되는 CDN 의존성을 사용할 수 있습니다.
-검증된 렌더링 기능을 우선 사용하고, ‘의존성 없음’을 위해 엔진 전체를 다시 작성하지 마세요.
-
-직접 작성하는 HTML, CSS, JavaScript는 가능한 한 하나의 HTML 파일에 정리하세요.
-장면은 프로시저럴 지오메트리와 머티리얼로 생성하고, 외부 이미지나 3D 모델 리소스에 의존하지 마세요.
-
-반복되는 오브젝트에는 적절한 배치 렌더링 또는 인스턴싱을 사용하세요.
-세분화, 그림자, 반사와 렌더링 해상도를 합리적인 수준으로 제어하세요.
-고화질 모드와 경량 모드를 제공하고, 모바일에서는 기본적으로 가벼운 설정을 사용하세요.
-복셀 수를 무한정 늘려 디테일을 확보하려 하지 마세요.
-
-로딩 안내, WebGL을 지원하지 않을 때의 안내와 필요한 오류 처리를 추가하세요.
-사운드를 켜지 않은 상태에서는 자동 재생하지 말고, 동작 줄이기 시스템 설정을 존중하세요.
-
-【8. 납품 전 검수】
-
-코드 작성이 끝났다고 바로 납품하지 마세요.
-
-현재 환경에서 브라우저 실행과 스크린샷 촬영을 지원한다면, 먼저 페이지를 실제로 열어 보고
-기본 카메라, 네 가지 시점, 분위기 전환, 데스크톱 및 모바일 레이아웃을 점검한 다음,
-스크린샷을 바탕으로 눈에 띄는 구도, 노출, 오브젝트 가림과 렌더링 문제를 수정하세요.
-
-중점적으로 확인할 항목:
-빈 화면, 로딩 실패, 콘솔 오류가 발생하지 않는지 확인하세요.
-클리핑, 깜빡임, 그림자 밴딩, 과다 노출, 수면 이상이 없는지 확인하세요.
-기본 화면이 작은 샌드박스가 아니라 실제로 완성된 경관처럼 보이는지 확인하세요.
-기능 버튼이 실제로 작동하고 모바일에서 화면 밖으로 벗어나지 않는지 확인하세요.
-
-브라우저 스크린샷으로 검수할 수 있지만, 이미지 생성 도구는 호출하지 마세요.
-완료하지 못한 테스트는 사실대로 설명하고, 검증했다고 주장하지 마세요.
-
-최종 납품물:
-1. 실제로 존재하고 열 수 있는 HTML 파일 또는 현재 환경에서 지원하는 인터랙티브 프리뷰.
-2. 스크린샷을 촬영할 수 있다면 실제 브라우저 렌더링 스크린샷 한 장을 첨부하세요.
-3. 조작 방법과 필요한 실행 조건을 간단히 설명하세요.
-
-바로 제작을 완료하세요. 중요하지 않은 세부 사항은 일관된 디자인 원칙에 따라 스스로 결정하고,
-스스로 해결할 수 있는 구현 문제를 반복해서 저에게 결정해 달라고 하지 마세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
-
-主题：日式樱花山谷。
-使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
-不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
-
-【一、作品定位】
-
-这是一片完整、连续、有远近层次的山谷景观，
-不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
-
-风格是现代精细体素 / voxel art：
-保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
-不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
-
-视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
-
-【二、参考图的使用方式】
-
-如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
-仅借鉴氛围与视觉语言，重新设计场景，
-不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
-
-参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
-
-【三、场景构图】
-
-默认打开时就应呈现一幅完整、有吸引力的画面，
-不需要用户先旋转镜头才能找到好看的角度。
-
-采用透视相机，而不是沙盘式等距俯视相机。
-画面有明确的前景、中景、远景：
-
-前景：
-一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
-形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
-
-中景：
-一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
-村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
-地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
-
-远景：
-山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
-用尺度变化、遮挡、冷暖变化和空气透视表现距离，
-而不是仅仅把远处物体缩小。
-
-不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
-
-【四、造型与画面质量】
-
-樱花树：
-树干有转折、分叉和根部，树冠由不规则花簇组成，
-有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
-
-建筑：
-屋顶有层叠瓦片、挑檐、梁柱和窗格；
-不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
-
-地形：
-岸边有湿润石块、草丛和植被过渡。
-避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
-
-水面：
-必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
-尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
-不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
-
-细节：
-可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
-但都应服务于氛围，不能让画面显得嘈杂。
-不要为了宣称模型数量而堆砌细节。
-
-【五、色彩与氛围】
-
-默认是蓝调时刻：
-偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
-暖光集中在有人活动的地方，不要把整个环境染成橙色。
-
-需要柔和阴影、物体接触处的明暗、合理的曝光、
-克制的泛光、抗锯齿和有距离层次的薄雾。
-
-避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
-方块几何可以清晰，但渲染本身不能粗糙。
-
-另提供“清晨”和“雨中”两种氛围；
-切换时应同步改变天空、环境光、雾和局部效果，
-不是仅仅修改背景颜色。
-
-【六、交互与界面】
-
-提供四个经过设计的镜头：
-山谷全景、河边低机位、寺庙小径、山坡俯瞰。
-切换应平滑，每个镜头都需要有独立的构图价值。
-
-基础交互：
-鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
-提供重置视角、隐藏界面和保存当前画面的功能。
-
-可选增强：
-自由探索、缓慢镜头巡游、环境音。
-环境音默认关闭，只在用户主动点击后播放。
-额外功能不能影响默认画面的完成度。
-
-界面要克制、有设计感，以景观为主。
-标题和控制条放在边缘，不遮挡视觉焦点。
-桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
-
-【七、工程与性能】
-
-允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
-优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
-
-自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
-景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
-
-重复物体采用适合的批量或实例化绘制方式；
-合理控制细分、阴影、反射和渲染分辨率。
-提供高画质和轻量模式，手机默认使用较轻设置。
-不要靠无限增加体素数量换取细节。
-
-加入加载提示、WebGL 不支持时的提示和必要的错误处理。
-没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
-
-【八、交付前验收】
-
-不要写完代码就立即交付。
-
-如果当前环境支持浏览器运行和截图，请先实际打开页面，
-检查默认镜头、四个视角、氛围切换、桌面和手机布局，
-再根据截图修正明显的构图、曝光、遮挡和渲染问题。
-
-重点检查：
-是否存在空白画面、加载失败、控制台错误；
-是否有穿模、闪烁、阴影条纹、过曝、水面异常；
-默认画面是否真正像完整景观，而不是小型沙盘；
-功能按钮是否实际可用，移动端是否越界。
-
-可以使用浏览器截图验收，但不要调用图像生成工具。
-没有完成的测试要如实说明，不要声称已经验证。
-
-最终交付：
-1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
-2. 如能截图，附一张真实浏览器渲染截图。
-3. 简短说明操作方式和必要的运行条件。
-
-请直接完成制作；非关键细节自行作出一致的设计选择，
-不要把可以自行解决的实现问题反复交给我决定。
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102565403109085669) · [원본 게시물](https://x.com/dotey/status/2102565403109085669) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102547809140355250"></a>
-
-### Hundenberg 사고 모델과 실사풍 영상
-
-[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · 애니메이션
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenberg 사고 모델과 실사풍 영상"></a>
-
-**프롬프트**
-
-```text
-Blender에서 Hundenberg 모델을 만들고 사고 장면을 실사풍 영상으로 제작해 줘.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-make me a model of the Hundenberg on blender make me a realistic video of the accident.
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102547809140355250) · [원본 게시물](https://x.com/aimanhasnoname/status/2102547809140355250) · [사례 목록으로](#all-prompts)
-
----
-
-<a id="claude-opus-5-5-2102544406117286004"></a>
-
-### 이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링
-
-[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · 장면
-
-<a href="https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="이미지를 기반으로 한 핸드볼 코트 360도 3D 렌더링"></a>
-
-**참고 이미지:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
-
-**프롬프트**
-
-```text
-이미지 속 핸드볼 코트, 골대, 심판, 선수, 공을 3D로 렌더링해 360도 어느 각도에서든 자유롭게 볼 수 있도록 해 주세요. 각 인물의 자세와 사물의 색상까지 정확하게 재현해 주세요.
-```
-
-<details>
-<summary>작성자의 원본 프롬프트</summary>
-
-```text
-画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
-```
-
-</details>
-
-[자세히 보기 ↗](https://www.tripo3d.ai/ko/3d-prompts/claude-opus-5-5-2102544406117286004) · [원본 게시물](https://x.com/chikaidev/status/2102545257372213581) · [사례 목록으로](#all-prompts)
 
 ---
 

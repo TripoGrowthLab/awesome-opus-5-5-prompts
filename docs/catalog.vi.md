@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-✓-238636?style=flat-square"></a>
 </p>
 
-**57 Ví dụ · 14 🌐**
+**63 Ví dụ · 14 🌐**
 
 [Theo danh mục](#categories) · [Theo mô hình](#models) · [Mã nguồn](with-code.md) · [1](../docs/catalog.vi.1.md) · [2](../docs/catalog.vi.2.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Trò chơi · 11
+### Trò chơi · 12
 
+- [Blockworld](../docs/catalog.vi.1.md#claude-opus-5-5-2105669581226570012) · [semperphoenix.com](https://semperphoenix.com/)
 - [Game roguelike ASCII theo lượt trong một tệp HTML](../docs/catalog.vi.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
 - [Xây dựng game đua xe phong cách Mario Kart bằng 3JS](../docs/catalog.vi.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [Beat ’em up pixel art chơi được lấy bối cảnh La Mã cổ đại](../docs/catalog.vi.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
@@ -47,14 +48,16 @@
 
 <a id="category-3d-scenes"></a>
 
-### Bối cảnh · 8
+### Bối cảnh · 10
 
+- [Tiểu thế giới mỏ nổi có hoạt ảnh](../docs/catalog.vi.1.md#claude-opus-5-5-2105672081358876788) · [Koldo Huici](https://x.com/koldo2k)
+- [Rồng khổng lồ tấn công lâu đài thời trung cổ trong Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2105659005817462972) · [ReconScribe](https://x.com/ReconScribe)
 - [Tạo thế giới Game of Thrones](../docs/catalog.vi.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
 - [Máy Rube Goldberg cơ khí trong Blender](../docs/catalog.vi.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [Cảnh 3D từ trung tâm dữ liệu đến nguyên tử trong 55 giây](../docs/catalog.vi.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Xây dựng thành phố đế quốc](../docs/catalog.vi.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [bài benchmark đại đô thị cyberpunk The Last Train](../docs/catalog.vi.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
-- [Bản render 3D sân bóng ném 360 độ từ hình ảnh](../docs/catalog.vi.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Bản render 3D sân bóng ném 360 độ từ hình ảnh](../docs/catalog.vi.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh](../docs/catalog.vi.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Tàu cướp biển tương tác phong cách điện ảnh lúc hoàng hôn](../docs/catalog.vi.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
@@ -68,8 +71,10 @@
 
 <a id="category-interactive-3d"></a>
 
-### Tương tác · 10
+### Tương tác · 12
 
+- [Bạch tuộc kẹo dẻo 3D WebGPU có thể kéo giãn](../docs/catalog.vi.1.md#claude-opus-5-5-2105607558467559666) · [林悦己Cheer](https://x.com/cheerselflin)
+- [Máy ép thạch](../docs/catalog.vi.1.md#claude-opus-5-5-2105353400040964192) · [Vib3Coded](https://x.com/vib3coded)
 - [Máy ép thạch](../docs/catalog.vi.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
 - [Hành tinh 3D hoạt hình tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
 - [ATLAS TRÁI ĐẤT: HÀNH TINH SỐNG](../docs/catalog.vi.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
@@ -77,14 +82,15 @@
 - [Điều hướng trong một ngôi chùa 3D](../docs/catalog.vi.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Thị trấn hoa anh đào 3D phong cách anime, tự do khám phá](../docs/catalog.vi.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Vương quốc trung cổ tương tác cho Claude Opus 5.5](../docs/catalog.vi.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
-- [Trang web tương tác về các hành tinh tưởng tượng](../docs/catalog.vi.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
-- [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](../docs/catalog.vi.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
+- [Trang web tương tác về các hành tinh tưởng tượng](../docs/catalog.vi.2.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
+- [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](../docs/catalog.vi.2.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Hòn đảo tiền sử 3D tương tác](../docs/catalog.vi.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Hoạt ảnh · 25
+### Hoạt ảnh · 26
 
+- [Mô phỏng núi lửa với buồng magma sâu 5 km](../docs/catalog.vi.1.md#claude-opus-5-5-2105439105798513059) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
 - [SPARK — Cảnh hoạt hình 3D phong cách tranh vẽ](../docs/catalog.vi.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
 - [Video hoạt hình 3D quả cầu rơi theo nhịp nhạc](../docs/catalog.vi.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
 - [Video động đất trong mô phỏng kiến tạo tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
@@ -105,9 +111,9 @@
 - [Montage huấn luyện quá trình phát triển của Claude](../docs/catalog.vi.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Tạo hoạt hình phong cách phim hoạt hình thập niên 90, chất lượng cấp Pixar bằng Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Hoạt ảnh chu trình nước lập trình liền mạch](../docs/catalog.vi.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
-- [Hoạt ảnh bóng đá phong cách voxel](../docs/catalog.vi.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
-- [Mô phỏng chất lỏng neon Euler tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
-- [Mô hình tai nạn Hundenberg và video chân thực](../docs/catalog.vi.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
+- [Hoạt ảnh bóng đá phong cách voxel](../docs/catalog.vi.2.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
+- [Mô phỏng chất lỏng neon Euler tương tác](../docs/catalog.vi.2.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
+- [Mô hình tai nạn Hundenberg và video chân thực](../docs/catalog.vi.2.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [Cỗ máy Rube Goldberg 3D tự vận hành](../docs/catalog.vi.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [Mô phỏng sơ tán đám đông tương tác](../docs/catalog.vi.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 
@@ -117,8 +123,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 57
+### Claude Opus 5.5 · 63
 
+- [Tiểu thế giới mỏ nổi có hoạt ảnh](../docs/catalog.vi.1.md#claude-opus-5-5-2105672081358876788) · [Koldo Huici](https://x.com/koldo2k)
+- [Blockworld](../docs/catalog.vi.1.md#claude-opus-5-5-2105669581226570012) · [semperphoenix.com](https://semperphoenix.com/)
+- [Rồng khổng lồ tấn công lâu đài thời trung cổ trong Three.js](../docs/catalog.vi.1.md#claude-opus-5-5-2105659005817462972) · [ReconScribe](https://x.com/ReconScribe)
+- [Bạch tuộc kẹo dẻo 3D WebGPU có thể kéo giãn](../docs/catalog.vi.1.md#claude-opus-5-5-2105607558467559666) · [林悦己Cheer](https://x.com/cheerselflin)
+- [Mô phỏng núi lửa với buồng magma sâu 5 km](../docs/catalog.vi.1.md#claude-opus-5-5-2105439105798513059) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
+- [Máy ép thạch](../docs/catalog.vi.1.md#claude-opus-5-5-2105353400040964192) · [Vib3Coded](https://x.com/vib3coded)
 - [SPARK — Cảnh hoạt hình 3D phong cách tranh vẽ](../docs/catalog.vi.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
 - [Video hoạt hình 3D quả cầu rơi theo nhịp nhạc](../docs/catalog.vi.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
 - [Máy ép thạch](../docs/catalog.vi.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
@@ -163,12 +175,12 @@
 - [Hoạt ảnh chu trình nước lập trình liền mạch](../docs/catalog.vi.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [CatWalk: Game mèo 3D đi cảnh ngang giữa phố đêm](../docs/catalog.vi.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [bài benchmark đại đô thị cyberpunk The Last Train](../docs/catalog.vi.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
-- [Hoạt ảnh bóng đá phong cách voxel](../docs/catalog.vi.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
-- [Trang web tương tác về các hành tinh tưởng tượng](../docs/catalog.vi.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
-- [Mô phỏng chất lỏng neon Euler tương tác](../docs/catalog.vi.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
-- [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](../docs/catalog.vi.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
-- [Mô hình tai nạn Hundenberg và video chân thực](../docs/catalog.vi.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [Bản render 3D sân bóng ném 360 độ từ hình ảnh](../docs/catalog.vi.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Hoạt ảnh bóng đá phong cách voxel](../docs/catalog.vi.2.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
+- [Trang web tương tác về các hành tinh tưởng tượng](../docs/catalog.vi.2.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
+- [Mô phỏng chất lỏng neon Euler tương tác](../docs/catalog.vi.2.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
+- [Trang web cảnh quan 3D tương tác: Thung lũng hoa anh đào Nhật Bản](../docs/catalog.vi.2.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
+- [Mô hình tai nạn Hundenberg và video chân thực](../docs/catalog.vi.2.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
+- [Bản render 3D sân bóng ném 360 độ từ hình ảnh](../docs/catalog.vi.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Tạo nền menu chính 3D procedural bằng Three.js từ một hình ảnh](../docs/catalog.vi.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Cỗ máy Rube Goldberg 3D tự vận hành](../docs/catalog.vi.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [Trò chơi tương tác về các con vật trong nông trại theo phong cách Peter Rabbit](../docs/catalog.vi.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)

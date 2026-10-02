@@ -29,7 +29,7 @@
 
 来自真实作品的 Claude Opus 5.5 提示词，覆盖 Three.js 场景、浏览器游戏、动画与模拟。 每条案例保留作者与来源；先看效果，再复制提示词，改成自己的作品。
 
-**57 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
+**63 条案例 · 1 个模型 · 14 种语言 · 1 条附源码**
 
 [开始使用](#start-here) · [按用途浏览](#browse) · [最新案例](#latest) · [完整目录](docs/catalog.zh.md) · [项目源码](docs/with-code.md)
 
@@ -47,17 +47,17 @@
 
 | 按用途浏览 | 案例 |
 | :--- | ---: |
-| [游戏](docs/catalog.zh.md#category-games) | 11 |
-| [场景](docs/catalog.zh.md#category-3d-scenes) | 8 |
+| [游戏](docs/catalog.zh.md#category-games) | 12 |
+| [场景](docs/catalog.zh.md#category-3d-scenes) | 10 |
 | [资产](docs/catalog.zh.md#category-3d-assets) | 3 |
-| [互动](docs/catalog.zh.md#category-interactive-3d) | 10 |
-| [动画](docs/catalog.zh.md#category-animation-simulation) | 25 |
+| [互动](docs/catalog.zh.md#category-interactive-3d) | 12 |
+| [动画](docs/catalog.zh.md#category-animation-simulation) | 26 |
 
 ### 按模型浏览
 
 | 按模型浏览 | 案例 |
 | :--- | ---: |
-| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 57 |
+| [Claude Opus 5.5](docs/catalog.zh.md#model-claude-opus-5-5) | 63 |
 
 
 
@@ -65,7 +65,297 @@
 
 ## 最新案例
 
-[完整目录 (57) →](docs/catalog.zh.md)
+[完整目录 (63) →](docs/catalog.zh.md)
+
+<a id="claude-opus-5-5-2105672081358876788"></a>
+
+### 动画浮空矿山微缩世界
+
+[Koldo Huici](https://x.com/koldo2k) · 2026-10-01 · Claude Opus 5.5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105672081358876788"><img src="assets/previews/a6c8199e4c545d0eda18f4796e33443488753dd10a738e4ef40c947d116a11ae.webp" width="840" loading="lazy" alt="动画浮空矿山微缩世界"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+在 Blender 中使用 Python 制作一个等距视角的浮空微缩世界，并将动画设置为无缝循环：一座小型矿山岛上有一座层叠式山体、两条隧道，以及一条穿过山体并循环行驶的铁路；岛上还有一个池塘，溪流从边缘倾泻而下形成瀑布，剖切面上的岩层中嵌有发光水晶。矿工是小型 Claude 机器人：一个正在开采水晶矿脉，却被蝙蝠吓了一跳；一个操作起重机，将水晶倒入每一辆经过的矿车；一个在池塘里钓鱼；还有一个乘坐矿车。在矿井入口上方挂一块木制的 “TOKENS” 标牌。每个动作都要配合同步音效。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Make an isometric floating mini-world in Blender, animated with Python, as a seamless loop: a small mine island with a terraced mountain, two tunnels and a railway that loops through the mountain, a pond whose stream falls off the edge as a waterfall, and rock layers with glowing crystals on the cut sides. The workers are little Claude bots: one mines a crystal vein and gets startled by a bat, one runs a crane that dumps crystals into each passing cart, one fishes in the pond, and one rides a cart. Put a wooden "TOKENS" sign over the mine entrance. Sound synced to every action.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105672081358876788) · [查看原帖](https://x.com/koldo2k/status/2105672083908825404) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105669581226570012"></a>
+
+### Blockworld
+
+[semperphoenix.com](https://semperphoenix.com/) · 2026-10-01 · Claude Opus 5.5 · 游戏
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105669581226570012"><img src="assets/previews/2b2a746272a3d42e1e20ecb38b9ad696729fb0476c407c9582eae9ec289faace.webp" width="840" loading="lazy" alt="Blockworld"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+能否创建一个《我的世界》克隆版？
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Can you create a Minecraft clone?
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105669581226570012) · [查看原帖](https://semperphoenix.com/lab) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105659005817462972"></a>
+
+### Three.js 中巨龙袭击中世纪城堡
+
+[ReconScribe](https://x.com/ReconScribe) · 2026-10-01 · Claude Opus 5.5 · 场景
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105659005817462972"><img src="assets/previews/e9d911d3b1343369054c36136a9f646b6684db18692ea1ecbfd8a107cfd3d2b0.webp" width="840" loading="lazy" alt="Three.js 中巨龙袭击中世纪城堡"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+一条巨龙正在袭击中世纪城堡及其村庄，场景使用 Three.js 构建。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+a giant dragon attacking a medieval castle and its village, built in Three.js.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105659005817462972) · [查看原帖](https://x.com/ReconScribe/status/2105659005817462972) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105607558467559666"></a>
+
+### 可抓取拉伸的 WebGPU 3D 软糖章鱼
+
+[林悦己Cheer](https://x.com/cheerselflin) · 2026-10-01 · Claude Opus 5.5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105607558467559666"><img src="assets/previews/a70c77f46789ceece0ef2f67a0f80cb0891ed77507ba2ce1b96bfcb3e9ab385d.webp" width="840" loading="lazy" alt="可抓取拉伸的 WebGPU 3D 软糖章鱼"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+创建一个 token 预算为 200,000 的 Goal。结束时报告实际消耗 token、预算使用率和运行时间；如果能够获得输入、缓存输入、输出 token 的拆分，则按照当前模型价格估算美元费用，并明确列出计算依据。我知道是订阅额度，但是我们可以换算成api计费
+
+Create “Octo Jelly” - a beautiful, interactive 3D gummy octopus that users can grab, stretch, and squish directly in their browser. Deliver a complete single-file HTML experience using genuine WebGPU.
+ART DIRECTION
+Make the octopus look like a premium translucent gummy candy: a rounded head, eight curled tentacles, small suction cups, and a cute, understated face.
+Use a warm off-white background, soft studio lighting, and a subtle ground shadow. Keep the scene elegant and uncluttered, with the octopus large and centered.
+GEOMETRY AND MATERIAL
+
+* Generate all geometry procedurally. No external models or image files.
+* Connect all eight tentacles smoothly to the body, without visible gaps or floating parts.
+* Add rounded suction cups that stay attached as the tentacles deform.
+* Use glossy, translucent jelly with thickness-dependent color absorption, refraction, soft internal light scattering, and delicate rim highlights.
+* Thick areas should have richer color; thin tentacle tips should transmit more light.
+* Avoid opaque plastic, blown-out highlights, and visible mesh seams.
+
+SOFT-BODY PHYSICS
+Use a stable mass-spring or position-based dynamics system with elastic constraints and approximate volume preservation.
+
+* The head should feel soft but substantial.
+* Tentacles should be more flexible than the head, especially near their tips.
+* Allow users to grab the head or any tentacle at the clicked location.
+* Pulling should deform the nearby geometry first, then elastically pull the rest of the body.
+* On release, the octopus should wobble and gradually settle into its original shape.
+* Tentacles should react independently, with slightly delayed motion.
+* Include gravity, floor collisions, friction, and damping.
+* Prevent tentacles from passing through the floor.
+* Clamp extreme stretching and use fixed simulation steps so strong pulls do not break the model.
+* Do not fake softness by scaling or rotating the entire octopus.
+
+INTERACTION
+
+* Left-click or touch the octopus to grab and stretch it.
+* Right-drag or drag empty space to gently orbit the camera.
+* Support a limited zoom range.
+* Keep camera gestures separate from object dragging.
+* Add “Give it a nudge,” “Reset,” “Pause,” and “Reset view” buttons.
+* Include Firmness and Internal damping sliders.
+* Add “¼ speed” and “Show mesh” toggles.
+* Provide three color presets: Coral, Lagoon, and Grape. Change the material colors without resetting the simulation.
+
+INTERFACE
+Use a minimal editorial layout:
+
+* Top left: small “MATERIAL STUDIES” label.
+* Large italic serif heading: “Octo Jelly.”
+* Caption: “Eight arms. A little wobble. A very soft creature.”
+* Top right: a WebGPU status indicator.
+* Right side: a compact “THE SPECIMEN” control panel.
+* Bottom left: “Grab a tentacle. Pull gently. Let go.”
+
+Use clean sans-serif text for controls, thin borders, and generous whitespace. Avoid heavy panels or decorative UI effects.
+PERFORMANCE AND QUALITY
+
+* Use real WebGPU rendering, not a 2D canvas imitation or prerecorded animation.
+* Reuse geometry and buffers; do not rebuild meshes during dragging.
+* Keep suction cups, eyes, and other details attached to the deforming body.
+* Handle transparency without flickering, disappearing surfaces, or harsh black edges.
+* Support desktop and mobile layouts.
+* Show a clear fallback message if WebGPU is unavailable.
+* Test repeated grabs, strong pulls, releases, floor collisions, palette changes, pause, and reset.
+
+The result should feel like a little living gummy toy - glossy, squishy, expressive, and satisfying to stretch. Deliver the full working HTML, not a mockup or a code fragment.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105607558467559666) · [查看原帖](https://x.com/cheerselflin/status/2105607558467559666) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105439105798513059"></a>
+
+### 深达 5 公里的岩浆房火山模拟
+
+[Konstantin Saifoulline](https://x.com/konstantinsaifo) · 2026-09-30 · Claude Opus 5.5 · 动画
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105439105798513059"><img src="assets/previews/50804065daa1682d9c6e2afd7609c5fab6eda0321e87b702a661c7e8688386e5.webp" width="840" loading="lazy" alt="深达 5 公里的岩浆房火山模拟"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+使用 Opus 5.5 构建火山模拟，岩浆房位于地下 5 公里处。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Build with Opus 5.5 a volcano simulation. Magma chamber 5 km down.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105439105798513059) · [查看原帖](https://x.com/konstantinsaifo/status/2105439105798513059) · [返回案例导航](#latest)
+
+---
+
+<a id="claude-opus-5-5-2105353400040964192"></a>
+
+### 果冻压机
+
+[Vib3Coded](https://x.com/vib3coded) · 2026-09-30 · Claude Opus 5.5 · 互动
+
+<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105353400040964192"><img src="assets/previews/6756b12ceba906b5c863073748d982373629031b3506f966d220cfe590e66807.webp" width="840" loading="lazy" alt="果冻压机"></a>
+
+<details>
+<summary>提示词</summary>
+
+```text
+创建“Jelly Press”：用 HTML 制作一个单文件可交互 3D 玩具（所有 JS、CSS 和 WGSL 着色器都内嵌其中，除 Google Fonts 外不使用外部资源）。使用 WebGPU 渲染；如果缺少 WebGPU 或适配器，应显示简洁的回退提示，而不是空白页面。
+
+概念
+四种半透明的水果切片形果冻软糖，一次一个，放在液压压机的钢制底座上。玩家按住一个醒目的红色按钮，让压机下压。果冻会被压扁并向四周铺开，压力表读数上升；当高度压缩到超过一半时，果冻会爆裂成碎片。爆裂后游戏不会结束：玩家可以抓取碎片、拖动它们、将它们甩得到处都是，再次压扁它们。
+
+果冻（底部水果按钮，按键 1–4）
+1. 西瓜楔块（半圆盘状块体）：红色果肉、深色泪滴形瓜子、浅色果皮带和绿色条纹外皮。
+2. 橙子切片（半圆盘）：橙色果肉分瓣，中间由细薄的白色筋膜隔开；带浅色白瓤和橙色果皮。
+3. 无花果半片：粉色果肉中布满细小金色籽粒，外覆一层奶油色果肉和深紫色果皮。
+4. 菠萝圈：金黄色纤维状果肉，带放射状纹理，中间有孔。
+每种果冻都应看起来像真正的软糖：次表面散射、柔和的半透明效果、光泽高光，以及投射在暖色摄影棚地面上的柔和阴影（奶油色/米色，并进行色调映射）。
+
+物理（CPU，固定 60 Hz 步长）
+- 使用 XPBD 四面体软体模型，每步 8 次子迭代：每个四面体采用协旋转形状匹配、每个四面体的体积约束、严格的边应变限制（0.35×–1.8×）、边速度阻尼、带库仑摩擦的地面接触、滚动阻力，以及物体近乎静止时的轻微稳定处理。
+- 在 CPU 上通过四面体中的重心嵌入对渲染网格进行蒙皮；每帧根据三角形重新计算法线。
+- 压头模具是一个运动学圆形压板（半径约 1.05，边缘圆润，具有一定厚度，上方连接压杆）。它的下方充当带摩擦的天花板，上方充当平台，边缘充当侧壁。两根压机立柱为实体。
+- 压力读数以 bar 为单位，来自压板的接触载荷，并按水果类型进行缩放。
+
+爆裂
+- 在果冻高度压缩到 52%–66% 之间的随机位置时断裂。
+- 每回合开始后不久就在后台规划断裂，使爆裂瞬间完成。
+- 根据带轻微倾斜切面的 3D Voronoi 单元生成 5–7 个大碎片。其中 3–4 个碎片的远端角落会被两组切割平面削掉，并进一步分成 2–4 个小碎片，形成参差不齐、带缺口的边缘。
+- 根据四面体质心将四面体分配给各单元。为每个碎块复制粒子。
+- 将过小的孤立块合并到相邻碎块中。
+- 新生成的物体继承原有位置和速度。
+- 将表面三角形与每个单元的半空间进行裁剪，并为每个切面填充干净的平面封口，展示水果内部（果肉、籽粒、筋膜）。不得出现拉伸三角形或孔洞。
+- 将碎片向压机外侧和上方弹出。小碎片飞得更快、更高，并带有随机自旋翻滚。
+- 显示醒目的斜体结果文案约 2.5 秒，然后淡出：“Splat.”（西瓜）、“Squeezed.”（橙子）、“Well, that's jam.”（无花果）、“Crushed.”（菠萝）。同时显示统计信息：“在 N bar、压至自身高度的 N% 时放弃抵抗。”
+
+爆裂后：可玩模式
+- 拾取：对蒙皮网格执行射线/三角形测试；触摸操作使用宽容的屏幕空间回退判定。
+- 抓取时，将被抓区域（半径约 0.4，且仅包含该碎块的粒子）固定到面向摄像机的拖动平面上的目标点。小碎片整体移动；大碎片会像果冻一样拉伸和摆动。
+- 松开时，按照指针速度将碎片甩出。
+- 碎片之间会发生碰撞。如果发现某个粒子位于另一个碎块的四面体内部，就通过该碎块最近的表面面片将其推出，并施加摩擦。使用碎块 AABB 宽相位检测和表面四面体的空间哈希。
+- 碎片不会离开场景：设置侧壁，并增加一条不可见的前缘，防止碎片落到控制区下方或摄像机后方。
+- 压机仍可使用：按住按钮再次压扁碎片（不会发生第二次断裂）；点击“升起”抬高压板。
+- 落地时播放湿润的“噗”声；抓取时播放轻微的黏糊声。
+- 光标：悬停在碎片上时显示张开的手，拖动时显示握紧的手。拖动空白区域可环绕旋转摄像机。
+
+界面（编辑性、极简）
+- 左上角标题区：“JELLY PRESS”使用粗体窄体大写字母，其中“PRESS”填充黄色/黑色警示条纹。副标题：“Four gummies. One hydraulic press.”
+- 右上角：重置和声音开关。
+- 底部控制区：
+  - 按压时逐步升级的说明文案：“Contact.” → “It's fine. It's jelly.” → “Getting wider.” → “That's a pancake now.” → “It's making a noise.” → “Please.”
+  - 环绕红色 HOLD 按钮、Raise 按钮和大型数字 bar 读数的圆形压力表（0–400 bar 刻度，带红色区域）。
+  - 带图标的水果按钮。
+- 在可玩模式中，说明文案区域显示“Grab a piece. Throw it.”，并提供较小的“Press again”和“Next jelly”按钮。
+- 控制：按住 Space 或 ArrowDown 进行按压，按 ArrowUp 升起，按 R 重置，按 1–4 选择水果。滚轮缩放；双击重置视图。
+- 摄像机：采用低机位、接近工作台高度的视角；压机框架会根据水果调整偏航角，确保立柱不会挡住果冻。自动调整构图，让果冻位于标题区和底部控制区之间；支持手机竖屏显示，并使用更窄的场景。
+
+声音（程序化 Web Audio，无音频文件）
+液压马达嗡鸣声随压力升高而增强，高压时偶尔发出吱嘎声，压板停止时播放阀门撞击声，爆裂时播放响亮的爆裂声，落地时播放柔和的“噗”声，以及湿润的黏糊声。首次交互时解锁音频。
+
+质量标准
+- 笔记本电脑上流畅运行 60 fps。
+- 在后台预热其他水果的网格和着色器，确保切换时即时完成。
+- 遵循 prefers-reduced-motion 设置。
+- 提供无障碍标签；压力表使用 role=meter，并显示 focus-visible 轮廓。
+- 控制台无报错。页面绝不显示空白。
+```
+
+</details>
+
+<details>
+<summary>作者原始提示词</summary>
+
+```text
+Create "Jelly Press": a single-file interactive 3D toy in HTML (all JS, CSS and WGSL shaders inline, no external assets except Google Fonts). Render with WebGPU; if WebGPU or an adapter is missing, show a clean fallback message instead of a blank page.  CONCEPT Four translucent gummy jellies shaped like fruit slices sit one at a time on the steel bed of a hydraulic press. The player holds a big red button to lower the press. The jelly squashes and spreads, the pressure gauge climbs, and somewhere past half its height it bursts into pieces. After the burst the game does NOT end: the player can grab the pieces, drag them, throw them around, and squash them again.  THE JELLIES (chips at the bottom, keys 1–4) 1. Watermelon wedge (half-disc slab): red flesh with dark teardrop seeds, a pale rind band, a green striped skin. 2. Orange slice (half-disc): orange pulp segments separated by thin white membranes, pale pith, orange peel. 3. Fig half: pink flesh full of small golden seeds, a cream layer, a dark purple skin. 4. Pineapple ring: golden fibrous flesh with radial streaks and a hole in the middle. Each jelly should look like real gummy candy: subsurface scattering, soft translucency, glossy specular highlights, soft shadows on a warm studio floor (cream/beige, tone-mapped).  PHYSICS (CPU, fixed 60 Hz step) - XPBD tetrahedral soft body with 8 substeps: co-rotational per-tet shape matching, per-tet volume constraints, hard edge strain limits (0.35×–1.8×), edge velocity damping, floor contact with Coulomb friction, rolling resistance, and gentle settling when nearly still. - Render mesh skinned on the CPU through barycentric embedding in the tets; normals recomputed from triangles every frame. - The press die is a kinematic round platen (radius ~1.05, rounded edge, a thickness, a ram above it). It acts as a ceiling with friction below, a shelf on top, and a side wall at its rim. The two press posts are solid. - Pressure readout in bar comes from the platen's contact load, scaled per fruit.  THE BURST - Break at a random squash between 52% and 66% of the jelly's height. - Plan the fracture in the background shortly after each round starts, so the burst itself is instant. - 5–7 big pieces from 3D Voronoi cells with slightly tilted walls. On 3–4 of them, a far corner is chipped off by two cutting planes and split further into 2–4 small chips, which leaves jagged, notched edges. - Assign tets to cells by centroid. Duplicate particles per chunk. Merge tiny islands into their neighbours. - The new body adopts the old positions and velocities. - Clip the skin triangles against each cell's half-spaces, and fill every cut face with a clean flat cap showing the fruit's interior (flesh, seeds, membranes). No stretched triangles, no holes. - Kick pieces outward and upward from the press. Small chips fly faster and higher and tumble with random spin. - Show a big italic verdict for about 2.5 s, then fade it: "Splat." (melon), "Squeezed." (orange), "Well, that's jam." (fig), "Crushed." (pineapple). Include a stat line: "Gave up at N bar and N% of its height."  AFTER THE BURST: PLAY MODE - Picking: ray/triangle test against the skinned mesh, with a forgiving screen-space fallback for touch. - Grabbing pins the grabbed patch (radius ~0.4, only particles of that chunk) to a target on a camera-facing drag plane. Small chips move whole; big pieces stretch and swing like jelly. - Releasing throws the piece with the pointer's velocity. - Pieces collide with each other. A particle found inside another chunk's tet is pushed out through that chunk's nearest skin face, with friction. Use a chunk AABB broad phase and a spatial hash of skin tets. - Pieces stay on stage: side walls, plus an invisible front edge so nothing ends up under the controls or behind the camera. - The press still works: hold to squash the pieces again (no second fracture); Raise lifts the platen. - Wet "plop" sounds on landings; a small squelch on grab. - Cursor: open hand over pieces, closed hand while dragging. Dragging empty space orbits the camera.  UI (editorial, minimal) - Masthead top-left: "JELLY PRESS" in bold condensed caps, with "PRESS" filled in yellow/black hazard stripes. Subtitle: "Four gummies. One hydraulic press." - Top-right: Reset and Sound toggle. - Bottom deck:   - Caption line with escalating captions while pressing: "Contact." → "It's fine. It's jelly." → "Getting wider." → "That's a pancake now." → "It's making a noise." → "Please."   - Circular pressure dial (0–400 bar arc, red zone) around a red HOLD button, a Raise button, and a big numeric bar readout.   - Fruit chips with icons. - In play mode the caption slot shows "Grab a piece. Throw it." with small "Press again" and "Next jelly" buttons. - Controls: hold Space or ArrowDown to press, ArrowUp to raise, R to reset, 1–4 to pick a fruit. Wheel zooms; double-click resets the view. - Camera: low bench-level view; the press frame yaws per fruit so the posts never block the jelly. Framing adapts so the jelly sits between masthead and deck; works on phones (portrait) with a narrower stage.  SOUND (procedural Web Audio, no files) Hydraulic motor hum that rises with pressure, wet squelches, occasional creaks at high pressure, a valve clunk when the platen stops, a loud burst, soft plops on landing. Unlock on first interaction.  QUALITY BAR - Smooth 60 fps on a laptop. - Background warm-up of the other fruits' meshes and shaders so switching is instant. - Respect prefers-reduced-motion. - Accessible labels, a gauge with role=meter, focus-visible outlines. - No console errors. The page never goes blank.
+```
+
+</details>
+
+[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2105353400040964192) · [查看原帖](https://x.com/vib3coded/status/2105353559327887843) · [返回案例导航](#latest)
+
+---
 
 <a id="claude-opus-5-5-2105315982525014067"></a>
 
@@ -2644,398 +2934,8 @@ build a complete cyberpunk megacity inside Blender with a hero train, procedural
 
 ---
 
-<a id="claude-opus-5-5-2102739444256383089"></a>
 
-### 体素风足球动画
-
-[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="体素风足球动画"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-使用 Three.js（CDN）创建一个单独的 HTML 文件，实现简单的体素风足球动画。一名方块风格球员带球突破 2 名防守球员，以精彩进球得分，并触发庆祝粒子效果。整体呈现色彩缤纷的体育场风格。仅输出完整的 HTML 代码。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102739444256383089) · [查看原帖](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102729710174196022"></a>
-
-### 虚构行星互动网站
-
-[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="虚构行星互动网站"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-构建一个关于虚构行星的互动网站。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-build an interactive website about imaginary planets.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102729710174196022) · [查看原帖](https://x.com/Kappaemme1926/status/2102729710174196022) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102565611473661963"></a>
-
-### 交互式欧拉霓虹流体模拟
-
-[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="交互式欧拉霓虹流体模拟"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-编写一个完整的单文件 HTML 文档，其中包含高性能、GPU 加速的交互式欧拉霓虹流体模拟。
-
-严格的技术与美术要求：
-
-1. 架构与性能：
-   - 单文件：所有 HTML、CSS 以及 JavaScript/GLSL 着色器均须内联。
-   - 零外部依赖：使用纯 WebGL 1.0 或 2.0（不得使用 Three.js、Pixi 或其他外部库）。
-   - GPU 流体动力学计算：模拟必须完全通过乒乓式帧缓冲对象（FBO）运行，并使用自定义片元着色器实现：
-     a) 平流（速度与染料）
-     b) 散度计算
-     c) 压力泊松求解器（雅可比迭代，每帧迭代 20–30 次）
-     d) 梯度减法 / 速度投影
-     e) 涡量约束（增加湍流旋涡，防止流体变成沉闷、模糊的一团）。
-
-2. 视觉效果（“霓虹烟雾”风格）：
-   - 漆黑如墨的虚空背景（`#050508`）。
-   - 为染料注入启用加法 / 高动态范围混合。
-   - 动态调色板：每次光标快速划动或触摸拖拽都要注入高亮度霓虹染料，并在鲜艳的赛博色调之间平滑循环（电光青 `#00F0FF`、炽热洋红 `#FF007F`、深紫外和 radiant gold）。
-   - 显示着色器增强：在最终渲染着色器中直接加入后处理阶段，为流体翻涌的边缘应用细微的泛光、色调映射和色差效果。
-
-3. 交互：
-   - 鼠标与触摸：快速移动光标或拖拽时，注入与鼠标速度成正比的速度，同时注入高密度发光染料。
-   - 被动环境运动：闲置时生成细微的程序化卷曲噪声或缓慢漂移的涡旋，使画布不会完全静止。
-   - 控件：在角落放置简洁利落、极简至上的玻璃拟态 HUD（无操作时自动隐藏）：
-     * 黏度滑块
-     * 染料耗散 / 持久度滑块
-     * 喷溅半径滑块
-     * “清空画布”按钮
-     * 用于循环切换配色主题的按钮（赛博朋克、热能炼狱、生物荧光深海）。
-
-4. 生产级打磨：
-   - 自动处理高 DPI 显示屏和 `resize` 事件，不得拉伸画面或清空 FBO 纹理。
-   - 优雅地检测浮点纹理支持情况（`OES_texture_float` / `OES_texture_half_float`）。
-   - 代码整洁、无错误且完整实现，不得包含任何占位内容或截断的注释。
-
-只返回完整填充、可直接在 Chrome/Safari/Firefox 中运行的 HTML 文件。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
-
-Strict Technical & Aesthetic Requirements:
-
-1. Architecture & Performance:
-   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
-   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
-   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
-     a) Advection (velocity & dye)
-     b) Divergence calculation
-     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
-     d) Gradient subtraction / velocity projection
-     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
-
-2. Visual Fidelity (The "Neon Smoke" Look):
-   - Pitch-black void background (`#050508`).
-   - Additive / High-Dynamic-Range blending for dye injection.
-   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
-   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
-
-3. Interaction:
-   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
-   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
-   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
-     * Viscosity slider
-     * Dye dissipation / persistence slider
-     * Splat radius slider
-     * "Clear Canvas" button
-     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
-
-4. Production Polish:
-   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
-   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
-   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
-
-Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565611473661963) · [查看原帖](https://x.com/theailoser/status/2102565612874596411) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102565403109085669"></a>
-
-### 日式樱花山谷交互式 3D 景观网页
-
-[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · 互动
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="日式樱花山谷交互式 3D 景观网页"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
-
-主题：日式樱花山谷。
-使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
-不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
-
-【一、作品定位】
-
-这是一片完整、连续、有远近层次的山谷景观，
-不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
-
-风格是现代精细体素 / voxel art：
-保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
-不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
-
-视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
-
-【二、参考图的使用方式】
-
-如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
-仅借鉴氛围与视觉语言，重新设计场景，
-不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
-
-参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
-
-【三、场景构图】
-
-默认打开时就应呈现一幅完整、有吸引力的画面，
-不需要用户先旋转镜头才能找到好看的角度。
-
-采用透视相机，而不是沙盘式等距俯视相机。
-画面有明确的前景、中景、远景：
-
-前景：
-一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
-形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
-
-中景：
-一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
-村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
-地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
-
-远景：
-山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
-用尺度变化、遮挡、冷暖变化和空气透视表现距离，
-而不是仅仅把远处物体缩小。
-
-不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
-
-【四、造型与画面质量】
-
-樱花树：
-树干有转折、分叉和根部，树冠由不规则花簇组成，
-有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
-
-建筑：
-屋顶有层叠瓦片、挑檐、梁柱和窗格；
-不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
-
-地形：
-岸边有湿润石块、草丛和植被过渡。
-避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
-
-水面：
-必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
-尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
-不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
-
-细节：
-可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
-但都应服务于氛围，不能让画面显得嘈杂。
-不要为了宣称模型数量而堆砌细节。
-
-【五、色彩与氛围】
-
-默认是蓝调时刻：
-偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
-暖光集中在有人活动的地方，不要把整个环境染成橙色。
-
-需要柔和阴影、物体接触处的明暗、合理的曝光、
-克制的泛光、抗锯齿和有距离层次的薄雾。
-
-避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
-方块几何可以清晰，但渲染本身不能粗糙。
-
-另提供“清晨”和“雨中”两种氛围；
-切换时应同步改变天空、环境光、雾和局部效果，
-不是仅仅修改背景颜色。
-
-【六、交互与界面】
-
-提供四个经过设计的镜头：
-山谷全景、河边低机位、寺庙小径、山坡俯瞰。
-切换应平滑，每个镜头都需要有独立的构图价值。
-
-基础交互：
-鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
-提供重置视角、隐藏界面和保存当前画面的功能。
-
-可选增强：
-自由探索、缓慢镜头巡游、环境音。
-环境音默认关闭，只在用户主动点击后播放。
-额外功能不能影响默认画面的完成度。
-
-界面要克制、有设计感，以景观为主。
-标题和控制条放在边缘，不遮挡视觉焦点。
-桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
-
-【七、工程与性能】
-
-允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
-优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
-
-自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
-景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
-
-重复物体采用适合的批量或实例化绘制方式；
-合理控制细分、阴影、反射和渲染分辨率。
-提供高画质和轻量模式，手机默认使用较轻设置。
-不要靠无限增加体素数量换取细节。
-
-加入加载提示、WebGL 不支持时的提示和必要的错误处理。
-没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
-
-【八、交付前验收】
-
-不要写完代码就立即交付。
-
-如果当前环境支持浏览器运行和截图，请先实际打开页面，
-检查默认镜头、四个视角、氛围切换、桌面和手机布局，
-再根据截图修正明显的构图、曝光、遮挡和渲染问题。
-
-重点检查：
-是否存在空白画面、加载失败、控制台错误；
-是否有穿模、闪烁、阴影条纹、过曝、水面异常；
-默认画面是否真正像完整景观，而不是小型沙盘；
-功能按钮是否实际可用，移动端是否越界。
-
-可以使用浏览器截图验收，但不要调用图像生成工具。
-没有完成的测试要如实说明，不要声称已经验证。
-
-最终交付：
-1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
-2. 如能截图，附一张真实浏览器渲染截图。
-3. 简短说明操作方式和必要的运行条件。
-
-请直接完成制作；非关键细节自行作出一致的设计选择，
-不要把可以自行解决的实现问题反复交给我决定。
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102565403109085669) · [查看原帖](https://x.com/dotey/status/2102565403109085669) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102547809140355250"></a>
-
-### Hundenberg 事故模型与逼真视频
-
-[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · 动画
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Hundenberg 事故模型与逼真视频"></a>
-
-<details>
-<summary>提示词</summary>
-
-```text
-在 Blender 中制作 Hundenberg 的模型，并生成一段逼真的事故视频。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-make me a model of the Hundenberg on blender make me a realistic video of the accident.
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102547809140355250) · [查看原帖](https://x.com/aimanhasnoname/status/2102547809140355250) · [返回案例导航](#latest)
-
----
-
-<a id="claude-opus-5-5-2102544406117286004"></a>
-
-### 基于图片的手球场 360° 3D 渲染
-
-[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · 场景
-
-<a href="https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="基于图片的手球场 360° 3D 渲染"></a>
-
-**参考图片:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
-
-<details>
-<summary>提示词</summary>
-
-```text
-将图片中的手球场、球门、裁判、球员和手球进行 3D 渲染，使其支持 360°自由视角查看。请准确还原每个人物的姿势以及各物体的颜色。
-```
-
-</details>
-
-<details>
-<summary>作者原始提示词</summary>
-
-```text
-画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
-```
-
-</details>
-
-[查看详情 ↗](https://www.tripo3d.ai/zh/3d-prompts/claude-opus-5-5-2102544406117286004) · [查看原帖](https://x.com/chikaidev/status/2102545257372213581) · [返回案例导航](#latest)
-
----
-
-
-<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 57 条案例与在线演示 →</a></strong></p>
+<p align="center"><strong><a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=catalog_footer">查看全部 63 条案例与在线演示 →</a></strong></p>
 
 ## 给你的作品补上角色和道具
 

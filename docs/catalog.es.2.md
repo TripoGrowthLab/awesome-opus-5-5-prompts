@@ -26,8 +26,14 @@
 <a id="all-prompts"></a>
 
 <details>
-<summary>Explorar ejemplos (7)</summary>
+<summary>Explorar ejemplos (13)</summary>
 
+- [Animación de fútbol con estilo voxel](#claude-opus-5-5-2102739444256383089)
+- [Sitio web interactivo sobre planetas imaginarios](#claude-opus-5-5-2102729710174196022)
+- [Simulación de fluidos euleriana de neón interactiva](#claude-opus-5-5-2102565611473661963)
+- [Página web interactiva de paisaje 3D: valle japonés de cerezos en flor](#claude-opus-5-5-2102565403109085669)
+- [Modelo del accidente del Hundenberg y vídeo realista](#claude-opus-5-5-2102547809140355250)
+- [Renderizado 3D en 360° de una cancha de balonmano a partir de una imagen](#claude-opus-5-5-2102544406117286004)
 - [Fondo procedural en 3D para el menú principal de Three.js a partir de una imagen](#claude-opus-5-5-2102544196808667471)
 - [Máquina 3D de Rube Goldberg autónoma](#claude-opus-5-5-2102544078927741369)
 - [Juego interactivo de animales de granja al estilo de Peter Rabbit](#claude-opus-5-5-2102538762731565085)
@@ -37,6 +43,534 @@
 - [Isla prehistórica 3D interactiva](#claude-opus-5-5-2102450239923720440)
 
 </details>
+<a id="claude-opus-5-5-2102739444256383089"></a>
+
+### Animación de fútbol con estilo voxel
+
+[Delusionals](https://x.com/AGI_FromWalmart) · 2026-09-23 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102739444256383089"><img src="../assets/previews/1b29499598c64612ecd78be9cc6162f69719e40fdeec2067b8bb279c01186526.webp" width="840" loading="lazy" alt="Animación de fútbol con estilo voxel"></a>
+
+**Prompt**
+
+```text
+Crea un único archivo HTML con Three.js (CDN) para una animación de fútbol sencilla con estilo voxel. Un jugador de bloques regatea a 2 defensas y marca un gol espectacular con partículas de celebración. Estética de estadio colorida. Muestra SOLO el código HTML completo.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Create a single HTML file with Three.js (CDN) for a simple voxel-style soccer animation. A blocky player dribbles past 2 defenders and scores a spectacular goal with celebration particles. Colorful stadium look. Output ONLY the full HTML code.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102739444256383089) · [Publicación original](https://x.com/AGI_FromWalmart/status/2102739444256383089) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102729710174196022"></a>
+
+### Sitio web interactivo sobre planetas imaginarios
+
+[Kappaemme](https://x.com/Kappaemme1926) · 2026-09-23 · Claude Opus 5.5 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102729710174196022"><img src="../assets/previews/38865eaea4d2663a1fd3bbce46bae3a4092f0035df2b75c2ea80290ceb01c98c.webp" width="840" loading="lazy" alt="Sitio web interactivo sobre planetas imaginarios"></a>
+
+**Prompt**
+
+```text
+Crea un sitio web interactivo sobre planetas imaginarios.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+build an interactive website about imaginary planets.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102729710174196022) · [Publicación original](https://x.com/Kappaemme1926/status/2102729710174196022) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565611473661963"></a>
+
+### Simulación de fluidos euleriana de neón interactiva
+
+[theailoser](https://x.com/theailoser) · 2026-09-23 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102565611473661963"><img src="../assets/previews/aed453c22b47b5e182d83ea4b126bd65e4391d679f7ad13bdfafe7c9d36fc8ff.webp" width="840" loading="lazy" alt="Simulación de fluidos euleriana de neón interactiva"></a>
+
+**Prompt**
+
+```text
+Escribe un documento HTML completo en un solo archivo que contenga una simulación de fluidos euleriana de neón interactiva, acelerada por GPU y de alto rendimiento.
+
+Requisitos técnicos y estéticos estrictos:
+
+1. Arquitectura y rendimiento:
+   - Un solo archivo: todo el HTML, CSS y JavaScript/los sombreadores GLSL deben estar integrados en línea.
+   - Cero dependencias externas: WebGL 1.0 o 2.0 puro (sin Three.js, sin Pixi ni bibliotecas externas).
+   - Dinámica de fluidos calculada en la GPU: la simulación debe ejecutarse íntegramente mediante objetos Framebuffer (FBO) ping-pong, usando sombreadores de fragmentos personalizados para:
+     a) Advección (velocidad y tinte)
+     b) Cálculo de la divergencia
+     c) Solucionador de Poisson para la presión (iteración de Jacobi, 20-30 iteraciones por fotograma)
+     d) Resta del gradiente/proyección de la velocidad
+     e) Confinamiento de la vorticidad (añade remolinos turbulentos y evita que el fluido se convierta en una masa apagada y borrosa).
+
+2. Fidelidad visual (aspecto de «humo de neón»):
+   - Fondo de vacío completamente negro (`#050508`).
+   - Mezcla aditiva/de alto rango dinámico para la inyección del tinte.
+   - Paleta dinámica: cada movimiento rápido del cursor o arrastre táctil debe inyectar tinte de neón de alta luminosidad, con una transición suave entre tonos ciberintensos (cian eléctrico `#00F0FF`, magenta intenso `#FF007F`, ultravioleta profundo y dorado radiante).
+   - Mejoras del sombreador de pantalla: incluye una pasada de posprocesado directamente en el sombreador de renderizado final, que aplique un bloom/resplandor sutil, mapeo de tonos y aberración cromática alrededor de los bordes arremolinados del fluido.
+
+3. Interacción:
+   - Ratón y táctil: el movimiento rápido del cursor o el arrastre deben inyectar una velocidad proporcional a la velocidad del ratón, junto con un tinte luminoso y denso.
+   - Movimiento ambiental pasivo: cuando esté inactivo, genera ruido curl procedural sutil o vórtices de deriva suaves para que el lienzo nunca quede completamente estático.
+   - Controles: un HUD de glassmorphism elegante y ultraminimalista, ubicado en una esquina (con ocultación automática tras un periodo de inactividad):
+     * Control deslizante de viscosidad
+     * Control deslizante de disipación/ persistencia del tinte
+     * Control deslizante del radio de la salpicadura
+     * Botón «Limpiar lienzo»
+     * Botón de alternancia para cambiar entre temas de color (Cyberpunk, Inferno térmico, Bioluminiscente profundo).
+
+4. Acabado de producción:
+   - Gestiona automáticamente las pantallas de alta densidad de píxeles y los eventos de `resize` sin estirar ni borrar las texturas FBO.
+   - Comprobación de compatibilidad con texturas de coma flotante como alternativa segura (`OES_texture_float` / `OES_texture_half_float`).
+   - Código limpio, sin errores y completamente implementado, sin marcadores de posición ni comentarios truncados.
+
+Devuelve únicamente el archivo HTML completamente generado, listo para ejecutarse directamente en Chrome/Safari/Firefox.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+Write a complete, single-file HTML document containing a high-performance, GPU-accelerated interactive Eulerian Neon Fluid Simulation.
+
+Strict Technical & Aesthetic Requirements:
+
+1. Architecture & Performance:
+   - Single-file: All HTML, CSS, and JavaScript/GLSL shaders inline.
+   - Zero external dependencies: Pure WebGL 1.0 or 2.0 (no Three.js, no Pixi, no external libraries).
+   - GPU-Computed Fluid Dynamics: The simulation must run entirely via ping-pong Framebuffer Objects (FBOs) using custom fragment shaders for:
+     a) Advection (velocity & dye)
+     b) Divergence calculation
+     c) Pressure Poisson solver (Jacobi iteration, 20-30 iterations per frame)
+     d) Gradient subtraction / velocity projection
+     e) Vorticity confinement (adds turbulent swirls and prevents the fluid from turning into dull, blurry mush).
+
+2. Visual Fidelity (The "Neon Smoke" Look):
+   - Pitch-black void background (`#050508`).
+   - Additive / High-Dynamic-Range blending for dye injection.
+   - Dynamic palette: Each cursor flick or touch drag injects high-luminosity neon dye that cycles smoothly through vivid cyber hues (electric cyan `#00F0FF`, hot magenta `#FF007F`, deep ultraviolet, and radiant gold).
+   - Display shader enhancements: Include a post-processing pass directly in the final render shader that applies subtle bloom/glow, tone mapping, and chromatic aberration around the swirling edges of the fluid.
+
+3. Interaction:
+   - Mouse & Touch: Rapid cursor movement or dragging injects velocity proportional to mouse speed, along with dense glowing dye.
+   - Passive Ambient Motion: When idle, generate subtle procedural curl noise or gentle drifting vortices so the canvas is never completely static.
+   - Controls: A sleek, ultra-minimal glassmorphism HUD tucked into a corner (with auto-hide on inactivity):
+     * Viscosity slider
+     * Dye dissipation / persistence slider
+     * Splat radius slider
+     * "Clear Canvas" button
+     * Toggle button to cycle color themes (Cyberpunk, Thermal Inferno, Bioluminescent Deep).
+
+4. Production Polish:
+   - Automatically handle high-DPI displays and `resize` events without stretching or clearing the FBO textures.
+   - Graceful fallback check for floating-point texture support (`OES_texture_float` / `OES_texture_half_float`).
+   - Clean, bug-free, fully implemented code with zero placeholders or truncated comments.
+
+Return only the fully populated HTML file ready to run directly in Chrome/Safari/Firefox.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102565611473661963) · [Publicación original](https://x.com/theailoser/status/2102565612874596411) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102565403109085669"></a>
+
+### Página web interactiva de paisaje 3D: valle japonés de cerezos en flor
+
+[宝玉](https://x.com/dotey) · 2026-09-23 · Claude Opus 5.5 · Interactivo
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102565403109085669"><img src="../assets/previews/4cdfb9495d54a6ee6bff4ae1821ab9b150b2f0a5b920fb4c6242ebbbb6153d4f.webp" width="840" loading="lazy" alt="Página web interactiva de paisaje 3D: valle japonés de cerezos en flor"></a>
+
+**Prompt**
+
+```text
+Crea directamente una página web de paisaje 3D de alta calidad que permita interactuar en tiempo real desde el navegador. 
+
+Tema: valle japonés de cerezos en flor. 
+Utiliza HTML, CSS y JavaScript. No generes imágenes ni entregues únicamente una propuesta de diseño; 
+no simules el 3D con una sola imagen de fondo y un efecto de paralaje. Necesito un producto final que funcione y pueda recorrerse de verdad. 
+
+【1. Enfoque de la obra】
+
+Debe ser un paisaje de valle completo y continuo, con profundidad y capas claramente diferenciadas, 
+no una decoración aislada, una isla flotante, una maqueta sobre una base ni una simple demostración técnica. 
+
+El estilo debe ser voxel art moderno y detallado: 
+conserva el lenguaje formal de la geometría cúbica, pero la imagen debe tener alta resolución, antialiasing y una iluminación y unas sombras refinadas. 
+No uses pixelado retro de baja resolución, no apiles bloques grandes y toscos ni apliques un filtro de píxeles a la imagen. 
+
+La calidad visual es prioritaria. Es preferible ofrecer algunas funciones menos que sacrificar la composición, los materiales y la iluminación. 
+
+【2. Uso de las imágenes de referencia】
+
+Si se adjuntan imágenes de referencia, analiza primero sus capas compositivas, escala, iluminación y relaciones de color. 
+Toma únicamente la atmósfera y el lenguaje visual como referencia, y rediseña la escena; 
+no copies la posición de los edificios, árboles, montañas y caminos ni hagas una réplica 1:1. 
+
+La imagen de referencia no es un recurso de fondo para la página web. La escena debe estar compuesta por geometría 3D real. 
+
+【3. Composición de la escena】
+
+Al abrirse, debe mostrar de inmediato una imagen completa y atractiva, 
+sin obligar al usuario a girar primero la cámara para encontrar un ángulo interesante. 
+
+Utiliza una cámara en perspectiva, no una cámara isométrica cenital propia de una maqueta. 
+La imagen debe tener un primer plano, un plano medio y un fondo claramente definidos: 
+
+Primer plano: 
+un antiguo cerezo de fuerte presencia, acompañado de rocas, hierbas, un farol de piedra y algunas flores caídas, 
+para crear un enmarcado natural en el borde de la imagen, sin ocultar el río, el puente ni los edificios principales. 
+
+Plano medio: 
+un río serpenteante que guíe la mirada hacia el interior de la escena, con un puente de madera roja que lo cruce; 
+la aldea, la casa de té, el santuario y los senderos deben distribuirse siguiendo el terreno, con conexiones de paso reales entre los edificios. 
+El suelo debe presentar desniveles, orillas y transiciones naturales, no modelos colocados de manera uniforme sobre una superficie plana. 
+
+Fondo: 
+una pagoda de varios niveles en la ladera, bosques y crestas montañosas a distintas distancias, además de montañas nevadas en la lejanía. 
+Representa la distancia mediante variaciones de escala, oclusión, cambios de temperatura de color y perspectiva atmosférica, 
+en lugar de limitarte a reducir el tamaño de los objetos lejanos. 
+
+No distribuyas todos los elementos de manera uniforme por toda la escena. Debe haber jerarquía, variación de densidad, espacios vacíos y un foco visual claro. 
+
+【4. Modelado y calidad de imagen】
+
+Cerezos: 
+los troncos deben tener cambios de dirección, bifurcaciones y raíces; las copas deben estar formadas por grupos irregulares de flores, 
+con huecos, variaciones de grosor y ramas visibles. No los conviertas en unas cuantas esferas o masas cúbicas regulares. 
+
+Edificios: 
+los tejados deben incluir hileras superpuestas de tejas, aleros, vigas, pilares y celosías; 
+los distintos edificios deben variar en función, volumen y altura. No repitas la misma casa por todo el valle. 
+
+Terreno: 
+en las orillas debe haber piedras húmedas, hierba y transiciones de vegetación. 
+Evita escalones demasiado regulares, franjas repetitivas, patrones de tablero de ajedrez y una cuadrícula procedural evidente. 
+
+Agua: 
+debe reflejar el entorno, con ondulaciones moderadas, variaciones de profundidad y una transición natural en las orillas. 
+Utiliza reflejos de la escena real siempre que sea posible; si es necesario reducir la calidad para mejorar el rendimiento, conserva una apariencia visual creíble. 
+No sustituyas el agua por ruido parpadeante, distorsiones intensas ni una superficie azul uniforme. 
+
+Detalles: 
+puedes incluir algunos peces koi, flores caídas, luciérnagas, una cascada y aves volando a lo lejos, 
+pero todos deben contribuir a la atmósfera sin volver la imagen caótica. 
+No amontones detalles solo para presumir de la cantidad de modelos. 
+
+【5. Color y atmósfera】
+
+La atmósfera predeterminada debe ser la hora azul: 
+un valle y unas montañas lejanas de tonos fríos, cerezos de un rosa suave y la luz cálida, pero sin sobreexposición, de los faroles y las ventanas. 
+Concentra la luz cálida en las zonas donde haya actividad humana; no tiñas todo el entorno de naranja. 
+
+Necesito sombras suaves, oclusión ambiental en las zonas de contacto, una exposición adecuada, 
+un bloom moderado, antialiasing y una niebla sutil con profundidad atmosférica. 
+
+Evita una imagen blanquecina, gris y apagada, la sobresaturación, una niebla densa que cubra toda la pantalla, luces sobreexpuestas y un aliasing evidente. 
+La geometría cúbica puede ser nítida, pero el renderizado no debe verse tosco. 
+
+Ofrece también las atmósferas «amanecer» y «lluvia»; 
+al cambiar entre ellas deben modificarse simultáneamente el cielo, la luz ambiental, la niebla y los efectos locales, 
+no limitarse a cambiar el color del fondo. 
+
+【6. Interacción e interfaz】
+
+Incluye cuatro cámaras diseñadas específicamente: 
+panorámica del valle, vista baja junto al río, sendero del templo y vista elevada desde la ladera. 
+El cambio debe ser fluido y cada cámara debe aportar un valor compositivo propio. 
+
+Interacción básica: 
+arrastrar con el ratón para observar y usar la rueda para hacer zoom o avanzar; en pantallas táctiles, admite arrastre y zoom con dos dedos. 
+Incluye funciones para restablecer la vista, ocultar la interfaz y guardar la imagen actual. 
+
+Mejoras opcionales: 
+exploración libre, recorrido lento de la cámara y sonido ambiental. 
+El sonido ambiental debe estar desactivado por defecto y reproducirse solo después de que el usuario haga clic. 
+Las funciones adicionales no deben afectar a la calidad de la imagen predeterminada. 
+
+La interfaz debe ser discreta y estar bien diseñada, con el paisaje como protagonista. 
+Coloca el título y la barra de controles en los bordes, sin tapar el foco visual. 
+Tanto en escritorio como en móvil, evita que los botones se salgan de la pantalla, que el texto se superponga o que haya elementos imposibles de usar. 
+
+【7. Ingeniería y rendimiento】
+
+Puedes utilizar Three.js / WebGL y dependencias CDN con versiones fijas y compatibles entre sí. 
+Da prioridad a capacidades de renderizado consolidadas; no reescribas un motor completo solo para lograr «cero dependencias». 
+
+Organiza, en la medida de lo posible, el HTML, CSS y JavaScript escritos específicamente para el proyecto en un único archivo HTML. 
+Genera el paisaje mediante geometría y materiales procedurales, sin depender de imágenes externas ni recursos de modelos 3D. 
+
+Para los objetos repetidos, utiliza métodos adecuados de renderizado por lotes o instanciado; 
+controla de forma razonable la teselación, las sombras, los reflejos y la resolución de renderizado. 
+Ofrece un modo de alta calidad y otro ligero; en móviles, utiliza por defecto una configuración más liviana. 
+No aumentes indefinidamente la cantidad de vóxeles para obtener más detalle. 
+
+Añade un indicador de carga, un aviso cuando WebGL no sea compatible y la gestión de errores necesaria. 
+No reproduzcas sonido automáticamente si el usuario no lo ha activado; respeta la preferencia del sistema para reducir el movimiento. 
+
+【8. Revisión antes de la entrega】
+
+No entregues el proyecto inmediatamente después de terminar el código. 
+
+Si el entorno permite ejecutar el proyecto en un navegador y hacer capturas de pantalla, abre primero la página de forma real, 
+comprueba la cámara predeterminada, las cuatro vistas, los cambios de atmósfera y la distribución en escritorio y móvil, 
+y después corrige, a partir de las capturas, los problemas evidentes de composición, exposición, oclusión y renderizado. 
+
+Comprueba especialmente: 
+si hay una pantalla en blanco, fallos de carga o errores en la consola; 
+si aparecen intersecciones de geometría, parpadeos, bandas en las sombras, sobreexposición o anomalías en el agua; 
+si la imagen predeterminada parece realmente un paisaje completo y no una maqueta pequeña; 
+y si los botones funcionan de verdad y no se salen de la pantalla en dispositivos móviles. 
+
+Puedes utilizar capturas de pantalla del navegador para la revisión, pero no llames a herramientas de generación de imágenes. 
+Describe honestamente las pruebas que no se hayan completado; no afirmes que has verificado algo que no hayas comprobado. 
+
+Entrega final: 
+1. Un archivo HTML que exista y pueda abrirse, o una vista previa interactiva compatible con el entorno actual. 
+2. Si es posible hacer capturas, adjunta una captura real del renderizado en el navegador. 
+3. Explica brevemente los controles y las condiciones de ejecución necesarias. 
+
+Completa directamente la creación; toma por tu cuenta decisiones de diseño coherentes para los detalles no esenciales, 
+y no me devuelvas repetidamente problemas de implementación que puedas resolver por tu cuenta.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。
+
+主题：日式樱花山谷。
+使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，
+不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。
+
+【一、作品定位】
+
+这是一片完整、连续、有远近层次的山谷景观，
+不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。
+
+风格是现代精细体素 / voxel art：
+保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。
+不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。
+
+视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。
+
+【二、参考图的使用方式】
+
+如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。
+仅借鉴氛围与视觉语言，重新设计场景，
+不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。
+
+参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。
+
+【三、场景构图】
+
+默认打开时就应呈现一幅完整、有吸引力的画面，
+不需要用户先旋转镜头才能找到好看的角度。
+
+采用透视相机，而不是沙盘式等距俯视相机。
+画面有明确的前景、中景、远景：
+
+前景：
+一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，
+形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。
+
+中景：
+一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；
+村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。
+地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。
+
+远景：
+山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。
+用尺度变化、遮挡、冷暖变化和空气透视表现距离，
+而不是仅仅把远处物体缩小。
+
+不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。
+
+【四、造型与画面质量】
+
+樱花树：
+树干有转折、分叉和根部，树冠由不规则花簇组成，
+有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。
+
+建筑：
+屋顶有层叠瓦片、挑檐、梁柱和窗格；
+不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。
+
+地形：
+岸边有湿润石块、草丛和植被过渡。
+避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。
+
+水面：
+必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。
+尽量使用实际场景反射；需要性能降级时也应保持视觉可信。
+不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。
+
+细节：
+可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，
+但都应服务于氛围，不能让画面显得嘈杂。
+不要为了宣称模型数量而堆砌细节。
+
+【五、色彩与氛围】
+
+默认是蓝调时刻：
+偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。
+暖光集中在有人活动的地方，不要把整个环境染成橙色。
+
+需要柔和阴影、物体接触处的明暗、合理的曝光、
+克制的泛光、抗锯齿和有距离层次的薄雾。
+
+避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。
+方块几何可以清晰，但渲染本身不能粗糙。
+
+另提供“清晨”和“雨中”两种氛围；
+切换时应同步改变天空、环境光、雾和局部效果，
+不是仅仅修改背景颜色。
+
+【六、交互与界面】
+
+提供四个经过设计的镜头：
+山谷全景、河边低机位、寺庙小径、山坡俯瞰。
+切换应平滑，每个镜头都需要有独立的构图价值。
+
+基础交互：
+鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。
+提供重置视角、隐藏界面和保存当前画面的功能。
+
+可选增强：
+自由探索、缓慢镜头巡游、环境音。
+环境音默认关闭，只在用户主动点击后播放。
+额外功能不能影响默认画面的完成度。
+
+界面要克制、有设计感，以景观为主。
+标题和控制条放在边缘，不遮挡视觉焦点。
+桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。
+
+【七、工程与性能】
+
+允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。
+优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。
+
+自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。
+景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。
+
+重复物体采用适合的批量或实例化绘制方式；
+合理控制细分、阴影、反射和渲染分辨率。
+提供高画质和轻量模式，手机默认使用较轻设置。
+不要靠无限增加体素数量换取细节。
+
+加入加载提示、WebGL 不支持时的提示和必要的错误处理。
+没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。
+
+【八、交付前验收】
+
+不要写完代码就立即交付。
+
+如果当前环境支持浏览器运行和截图，请先实际打开页面，
+检查默认镜头、四个视角、氛围切换、桌面和手机布局，
+再根据截图修正明显的构图、曝光、遮挡和渲染问题。
+
+重点检查：
+是否存在空白画面、加载失败、控制台错误；
+是否有穿模、闪烁、阴影条纹、过曝、水面异常；
+默认画面是否真正像完整景观，而不是小型沙盘；
+功能按钮是否实际可用，移动端是否越界。
+
+可以使用浏览器截图验收，但不要调用图像生成工具。
+没有完成的测试要如实说明，不要声称已经验证。
+
+最终交付：
+1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。
+2. 如能截图，附一张真实浏览器渲染截图。
+3. 简短说明操作方式和必要的运行条件。
+
+请直接完成制作；非关键细节自行作出一致的设计选择，
+不要把可以自行解决的实现问题反复交给我决定。
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102565403109085669) · [Publicación original](https://x.com/dotey/status/2102565403109085669) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102547809140355250"></a>
+
+### Modelo del accidente del Hundenberg y vídeo realista
+
+[AImanhasnoname](https://x.com/aimanhasnoname) · 2026-09-22 · Claude Opus 5.5 · Animación
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102547809140355250"><img src="../assets/previews/2eefc8b880a8aa71a501cf0b41a5dfd9076ac002865941b7287cedeb73ee00a0.webp" width="840" loading="lazy" alt="Modelo del accidente del Hundenberg y vídeo realista"></a>
+
+**Prompt**
+
+```text
+Hazme un modelo del Hundenberg en Blender y crea un vídeo realista del accidente.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+make me a model of the Hundenberg on blender make me a realistic video of the accident.
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102547809140355250) · [Publicación original](https://x.com/aimanhasnoname/status/2102547809140355250) · [Volver a los ejemplos](#all-prompts)
+
+---
+
+<a id="claude-opus-5-5-2102544406117286004"></a>
+
+### Renderizado 3D en 360° de una cancha de balonmano a partir de una imagen
+
+[ハンドボール人「布施千佳純」](https://x.com/chikaidev) · 2026-09-22 · Claude Opus 5.5 · Escenas
+
+<a href="https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102544406117286004"><img src="../assets/previews/c492adaa7b1ffad5024b0a28618dcc51d0f50b7c16ae704c9ee3785881445195.webp" width="840" loading="lazy" alt="Renderizado 3D en 360° de una cancha de balonmano a partir de una imagen"></a>
+
+**Imágenes de referencia:** [1](https://media.tripogrowth.space/media/6a116b62-88ce-491b-b4ba-eed6d9c9f168.jpg) · [2](https://pbs.twimg.com/media/HS29xCPaYAAcMmd.jpg)
+
+**Prompt**
+
+```text
+Renderiza en 3D la cancha de balonmano, las porterías, el árbitro, los jugadores y el balón de la imagen, de modo que puedan verse desde cualquier ángulo en una vista de 360°. Reproduce con precisión la postura de cada persona y los colores de los objetos.
+```
+
+<details>
+<summary>Prompt original</summary>
+
+```text
+画像内のハンドボールコート、ゴール、レフェリー、プレイヤー、ボールを3dレンダリングして、360度自由角度から見れるようにして。各人物の姿勢まで、また物体の色まで正確に再現して。
+```
+
+</details>
+
+[Ver detalles ↗](https://www.tripo3d.ai/es/3d-prompts/claude-opus-5-5-2102544406117286004) · [Publicación original](https://x.com/chikaidev/status/2102545257372213581) · [Volver a los ejemplos](#all-prompts)
+
+---
+
 <a id="claude-opus-5-5-2102544196808667471"></a>
 
 ### Fondo procedural en 3D para el menú principal de Three.js a partir de una imagen

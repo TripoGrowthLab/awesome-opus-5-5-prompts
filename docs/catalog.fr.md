@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**57 Exemples · 14 🌐**
+**63 Exemples · 14 🌐**
 
 [Par catégorie](#categories) · [Par modèle](#models) · [Code source](with-code.md) · [1](../docs/catalog.fr.1.md) · [2](../docs/catalog.fr.2.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Jeux · 11
+### Jeux · 12
 
+- [Blockworld](../docs/catalog.fr.1.md#claude-opus-5-5-2105669581226570012) · [semperphoenix.com](https://semperphoenix.com/)
 - [Roguelike ASCII au tour par tour dans un seul fichier HTML](../docs/catalog.fr.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
 - [Créer un jeu de course façon Mario Kart avec 3JS](../docs/catalog.fr.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [Beat'em up jouable en pixel art dans la Rome antique](../docs/catalog.fr.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
@@ -47,14 +48,16 @@
 
 <a id="category-3d-scenes"></a>
 
-### Scènes · 8
+### Scènes · 10
 
+- [Mini-monde minier flottant animé](../docs/catalog.fr.1.md#claude-opus-5-5-2105672081358876788) · [Koldo Huici](https://x.com/koldo2k)
+- [Dragon géant attaquant un château médiéval avec Three.js](../docs/catalog.fr.1.md#claude-opus-5-5-2105659005817462972) · [ReconScribe](https://x.com/ReconScribe)
 - [Créer un univers Game of Thrones](../docs/catalog.fr.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
 - [Machine mécanique de Rube Goldberg dans Blender](../docs/catalog.fr.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [Scène 3D de 55 secondes, du data center à l’atome](../docs/catalog.fr.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [Construire une ville impériale](../docs/catalog.fr.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Benchmark de mégalopole cyberpunk — The Last Train](../docs/catalog.fr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
-- [Rendu 3D à 360° d’un terrain de handball à partir d’une image](../docs/catalog.fr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Rendu 3D à 360° d’un terrain de handball à partir d’une image](../docs/catalog.fr.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Arrière-plan 3D procédural de menu principal Three.js à partir d’une image](../docs/catalog.fr.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Navire pirate interactif cinématique au coucher du soleil](../docs/catalog.fr.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
@@ -68,8 +71,10 @@
 
 <a id="category-interactive-3d"></a>
 
-### Interactif · 10
+### Interactif · 12
 
+- [Poulpe 3D en gomme translucide sous WebGPU, à saisir et à étirer](../docs/catalog.fr.1.md#claude-opus-5-5-2105607558467559666) · [林悦己Cheer](https://x.com/cheerselflin)
+- [Presse à gelée](../docs/catalog.fr.1.md#claude-opus-5-5-2105353400040964192) · [Vib3Coded](https://x.com/vib3coded)
 - [Jelly Press](../docs/catalog.fr.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
 - [Planète 3D cartoon interactive](../docs/catalog.fr.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
 - [ATLAS DE LA TERRE : LA PLANÈTE VIVANTE](../docs/catalog.fr.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
@@ -77,14 +82,15 @@
 - [Naviguer dans une pagode en 3D](../docs/catalog.fr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Ville japonaise 3D de cerisiers en fleurs, de style anime et librement explorable](../docs/catalog.fr.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Royaume médiéval interactif pour Claude Opus 5.5](../docs/catalog.fr.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
-- [Site web interactif sur des planètes imaginaires](../docs/catalog.fr.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
-- [Page web paysagère 3D interactive — vallée japonaise de cerisiers](../docs/catalog.fr.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
+- [Site web interactif sur des planètes imaginaires](../docs/catalog.fr.2.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
+- [Page web paysagère 3D interactive — vallée japonaise de cerisiers](../docs/catalog.fr.2.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Île préhistorique 3D interactive](../docs/catalog.fr.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Animation · 25
+### Animation · 26
 
+- [Simulation volcanique avec une chambre magmatique à 5 km de profondeur](../docs/catalog.fr.1.md#claude-opus-5-5-2105439105798513059) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
 - [SPARK — Plan animé 3D pictural](../docs/catalog.fr.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
 - [Vidéo d’animation 3D d’une sphère qui chute, synchronisée sur le rythme](../docs/catalog.fr.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
 - [Vidéo interactive sur un séisme dans un bac à sable tectonique](../docs/catalog.fr.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
@@ -105,9 +111,9 @@
 - [Montage d’entraînement et de progression de Claude](../docs/catalog.fr.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Créez une animation de dessin animé des années 90, d’un niveau digne de Pixar, avec Three.js](../docs/catalog.fr.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Animation codée du cycle de l’eau en boucle parfaite](../docs/catalog.fr.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
-- [Animation de football en style voxel](../docs/catalog.fr.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
-- [Simulation interactive de fluide néon eulérienne](../docs/catalog.fr.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
-- [Modèle de l’accident du Hundenberg et vidéo réaliste](../docs/catalog.fr.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
+- [Animation de football en style voxel](../docs/catalog.fr.2.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
+- [Simulation interactive de fluide néon eulérienne](../docs/catalog.fr.2.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
+- [Modèle de l’accident du Hundenberg et vidéo réaliste](../docs/catalog.fr.2.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [Machine de Rube Goldberg 3D autonome](../docs/catalog.fr.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [Simulation interactive d’évacuation de foule](../docs/catalog.fr.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 
@@ -117,8 +123,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 57
+### Claude Opus 5.5 · 63
 
+- [Mini-monde minier flottant animé](../docs/catalog.fr.1.md#claude-opus-5-5-2105672081358876788) · [Koldo Huici](https://x.com/koldo2k)
+- [Blockworld](../docs/catalog.fr.1.md#claude-opus-5-5-2105669581226570012) · [semperphoenix.com](https://semperphoenix.com/)
+- [Dragon géant attaquant un château médiéval avec Three.js](../docs/catalog.fr.1.md#claude-opus-5-5-2105659005817462972) · [ReconScribe](https://x.com/ReconScribe)
+- [Poulpe 3D en gomme translucide sous WebGPU, à saisir et à étirer](../docs/catalog.fr.1.md#claude-opus-5-5-2105607558467559666) · [林悦己Cheer](https://x.com/cheerselflin)
+- [Simulation volcanique avec une chambre magmatique à 5 km de profondeur](../docs/catalog.fr.1.md#claude-opus-5-5-2105439105798513059) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
+- [Presse à gelée](../docs/catalog.fr.1.md#claude-opus-5-5-2105353400040964192) · [Vib3Coded](https://x.com/vib3coded)
 - [SPARK — Plan animé 3D pictural](../docs/catalog.fr.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
 - [Vidéo d’animation 3D d’une sphère qui chute, synchronisée sur le rythme](../docs/catalog.fr.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
 - [Jelly Press](../docs/catalog.fr.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
@@ -163,12 +175,12 @@
 - [Animation codée du cycle de l’eau en boucle parfaite](../docs/catalog.fr.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [CatWalk : un jeu de chat 3D à défilement horizontal dans la ville nocturne](../docs/catalog.fr.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Benchmark de mégalopole cyberpunk — The Last Train](../docs/catalog.fr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
-- [Animation de football en style voxel](../docs/catalog.fr.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
-- [Site web interactif sur des planètes imaginaires](../docs/catalog.fr.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
-- [Simulation interactive de fluide néon eulérienne](../docs/catalog.fr.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
-- [Page web paysagère 3D interactive — vallée japonaise de cerisiers](../docs/catalog.fr.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
-- [Modèle de l’accident du Hundenberg et vidéo réaliste](../docs/catalog.fr.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [Rendu 3D à 360° d’un terrain de handball à partir d’une image](../docs/catalog.fr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Animation de football en style voxel](../docs/catalog.fr.2.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
+- [Site web interactif sur des planètes imaginaires](../docs/catalog.fr.2.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
+- [Simulation interactive de fluide néon eulérienne](../docs/catalog.fr.2.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
+- [Page web paysagère 3D interactive — vallée japonaise de cerisiers](../docs/catalog.fr.2.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
+- [Modèle de l’accident du Hundenberg et vidéo réaliste](../docs/catalog.fr.2.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
+- [Rendu 3D à 360° d’un terrain de handball à partir d’une image](../docs/catalog.fr.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Arrière-plan 3D procédural de menu principal Three.js à partir d’une image](../docs/catalog.fr.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Machine de Rube Goldberg 3D autonome](../docs/catalog.fr.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [Jeu interactif d’animaux de la ferme dans le style de Peter Rabbit](../docs/catalog.fr.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)

@@ -21,7 +21,7 @@
   <a href="../docs/catalog.vi.md"><img alt="Tiếng Việt" src="https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-64748b?style=flat-square"></a>
 </p>
 
-**57 Örnekler · 14 🌐**
+**63 Örnekler · 14 🌐**
 
 [Kategoriye göre](#categories) · [Modele göre](#models) · [Kaynak kodu](with-code.md) · [1](../docs/catalog.tr.1.md) · [2](../docs/catalog.tr.2.md)
 
@@ -31,8 +31,9 @@
 
 <a id="category-games"></a>
 
-### Oyunlar · 11
+### Oyunlar · 12
 
+- [Blockworld](../docs/catalog.tr.1.md#claude-opus-5-5-2105669581226570012) · [semperphoenix.com](https://semperphoenix.com/)
 - [Tek bir HTML dosyasında sıra tabanlı ASCII roguelike](../docs/catalog.tr.1.md#claude-opus-5-5-2105246199653482872) · [kriptoleidi](https://x.com/kriptoleidi)
 - [3JS ile Mario Kart tarzı yarış oyunu oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2104947552328261810) · [Tony](https://x.com/EnvolDev)
 - [Oynanabilir piksel sanatlı Antik Roma beat ’em up oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2104571944842498150) · [Koldo Huici](https://x.com/koldo2k)
@@ -47,14 +48,16 @@
 
 <a id="category-3d-scenes"></a>
 
-### Sahneler · 8
+### Sahneler · 10
 
+- [Animasyonlu yüzen maden mini dünyası](../docs/catalog.tr.1.md#claude-opus-5-5-2105672081358876788) · [Koldo Huici](https://x.com/koldo2k)
+- [Three.js’te orta çağ kalesine saldıran dev ejderha](../docs/catalog.tr.1.md#claude-opus-5-5-2105659005817462972) · [ReconScribe](https://x.com/ReconScribe)
 - [Game of Thrones dünyası oluştur](../docs/catalog.tr.1.md#claude-opus-5-5-2105245648723562584) · [DrstaOne](https://x.com/DrstaOne)
 - [Blender’da mekanik Rube Goldberg makinesi](../docs/catalog.tr.1.md#claude-opus-5-5-2104953406708175097) · [Atarax](https://x.com/Kwazikot)
 - [55 saniyelik veri merkezinden atoma 3B sahne](../docs/catalog.tr.1.md#claude-opus-5-5-2104223449849761837) · [Crane](https://x.com/Cranefomo)
 - [İmparatorluk Şehri Oluştur](../docs/catalog.tr.1.md#claude-opus-5-5-2103046279253168554) · [EnzoXbt](https://x.com/Enzoxbt01)
 - [Son Tren siberpunk mega kent benchmark’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
-- [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Bir görselden prosedürel Three.js 3B ana menü arka planı](../docs/catalog.tr.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Gün batımında sinematik, etkileşimli korsan gemisi](../docs/catalog.tr.2.md#claude-opus-5-5-2102533729746882985) · [Vib3Coded](https://x.com/vib3coded)
 
@@ -68,8 +71,10 @@
 
 <a id="category-interactive-3d"></a>
 
-### Etkileşimli · 10
+### Etkileşimli · 12
 
+- [Yakalanıp esnetilebilen WebGPU 3B jelibon ahtapot](../docs/catalog.tr.1.md#claude-opus-5-5-2105607558467559666) · [林悦己Cheer](https://x.com/cheerselflin)
+- [Jelly Press](../docs/catalog.tr.1.md#claude-opus-5-5-2105353400040964192) · [Vib3Coded](https://x.com/vib3coded)
 - [Jöle Presi](../docs/catalog.tr.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
 - [Etkileşimli çizgi film tarzında 3B gezegen](../docs/catalog.tr.1.md#claude-opus-5-5-2104919117262389255) · [Aman](https://x.com/mdaman010)
 - [DÜNYA ATLASI: YAŞAYAN GEZEGEN](../docs/catalog.tr.1.md#claude-opus-5-5-2104837836507955401) · [Gadgetify](https://x.com/Gdgtify)
@@ -77,14 +82,15 @@
 - [3B Pagodada Gezinme](../docs/catalog.tr.1.md#claude-opus-5-5-2103483174957597035) · [Build Fast with AI](https://x.com/BuildFastWithAI)
 - [Serbestçe gezilebilen anime tarzı 3B kiraz çiçekleri kasabası](../docs/catalog.tr.1.md#claude-opus-5-5-2103480081809346597) · [Good FortuneX](https://x.com/pound75423)
 - [Claude Opus 5.5 için etkileşimli ortaçağ krallığı](../docs/catalog.tr.1.md#claude-opus-5-5-2103257687492374597) · [Vib3Coded](https://x.com/vib3coded)
-- [Hayali gezegenler hakkında etkileşimli web sitesi](../docs/catalog.tr.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
-- [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](../docs/catalog.tr.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
+- [Hayali gezegenler hakkında etkileşimli web sitesi](../docs/catalog.tr.2.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
+- [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](../docs/catalog.tr.2.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
 - [Etkileşimli 3B Tarih Öncesi Ada](../docs/catalog.tr.2.md#claude-opus-5-5-2102450239923720440) · [Vib3Coded](https://x.com/vib3coded)
 
 <a id="category-animation-simulation"></a>
 
-### Animasyon · 25
+### Animasyon · 26
 
+- [5 km derinlikte magma odasına sahip volkan simülasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2105439105798513059) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
 - [SPARK — Ressamvari 3B Animasyon Sahnesi](../docs/catalog.tr.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
 - [Ritme senkronize 3D küre düşüş animasyonu videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
 - [Etkileşimli tektonik deprem simülasyonu videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2105029713445949521) · [Ege](https://x.com/egeberkina)
@@ -105,9 +111,9 @@
 - [Claude gelişim montajı](../docs/catalog.tr.1.md#claude-opus-5-5-2102788371114246177) · [Ishu Agrawal](https://x.com/ishuagra02)
 - [Three.js'te Pixar kalitesinde 90'lar çizgi film animasyonu oluşturun](../docs/catalog.tr.1.md#claude-opus-5-5-2102788223835463902) · [Shimecki](https://x.com/scheemunai)
 - [Kodla oluşturulmuş kesintisiz su döngüsü animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
-- [Voksel tarzı futbol animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
-- [Etkileşimli Euleryen Neon Akışkan Simülasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
-- [Hundenberg kaza modeli ve gerçekçi video](../docs/catalog.tr.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
+- [Voksel tarzı futbol animasyonu](../docs/catalog.tr.2.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
+- [Etkileşimli Euleryen Neon Akışkan Simülasyonu](../docs/catalog.tr.2.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
+- [Hundenberg kaza modeli ve gerçekçi video](../docs/catalog.tr.2.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
 - [Kendi kendine çalışan 3B Rube Goldberg makinesi](../docs/catalog.tr.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [Etkileşimli kalabalık tahliye simülasyonu](../docs/catalog.tr.2.md#claude-opus-5-5-2102467667978572092) · [Dom](https://x.com/dominikmartn)
 
@@ -117,8 +123,14 @@
 
 <a id="model-claude-opus-5-5"></a>
 
-### Claude Opus 5.5 · 57
+### Claude Opus 5.5 · 63
 
+- [Animasyonlu yüzen maden mini dünyası](../docs/catalog.tr.1.md#claude-opus-5-5-2105672081358876788) · [Koldo Huici](https://x.com/koldo2k)
+- [Blockworld](../docs/catalog.tr.1.md#claude-opus-5-5-2105669581226570012) · [semperphoenix.com](https://semperphoenix.com/)
+- [Three.js’te orta çağ kalesine saldıran dev ejderha](../docs/catalog.tr.1.md#claude-opus-5-5-2105659005817462972) · [ReconScribe](https://x.com/ReconScribe)
+- [Yakalanıp esnetilebilen WebGPU 3B jelibon ahtapot](../docs/catalog.tr.1.md#claude-opus-5-5-2105607558467559666) · [林悦己Cheer](https://x.com/cheerselflin)
+- [5 km derinlikte magma odasına sahip volkan simülasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2105439105798513059) · [Konstantin Saifoulline](https://x.com/konstantinsaifo)
+- [Jelly Press](../docs/catalog.tr.1.md#claude-opus-5-5-2105353400040964192) · [Vib3Coded](https://x.com/vib3coded)
 - [SPARK — Ressamvari 3B Animasyon Sahnesi](../docs/catalog.tr.1.md#claude-opus-5-5-2105315982525014067) · [Shikhar](https://x.com/xikhar)
 - [Ritme senkronize 3D küre düşüş animasyonu videosu](../docs/catalog.tr.1.md#claude-opus-5-5-2105302007896797351) · [Gorden Sun](https://x.com/Gorden_Sun)
 - [Jöle Presi](../docs/catalog.tr.1.md#claude-opus-5-5-2105285992865272110) · [Vib3Coded](https://x.com/vib3coded)
@@ -163,12 +175,12 @@
 - [Kodla oluşturulmuş kesintisiz su döngüsü animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102781807179735211) · [Higgsfield AI 🧩](https://x.com/higgsfield_ai)
 - [CatWalk: Gece şehrinde ilerleyen 3B yandan kaydırmalı kedi oyunu](../docs/catalog.tr.1.md#claude-opus-5-5-2102775461701091531) · [BLITAST STUDIO](https://x.com/blitast_studio)
 - [Son Tren siberpunk mega kent benchmark’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102740078347087940) · [BuilderHelm](https://x.com/builderhelmai)
-- [Voksel tarzı futbol animasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
-- [Hayali gezegenler hakkında etkileşimli web sitesi](../docs/catalog.tr.1.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
-- [Etkileşimli Euleryen Neon Akışkan Simülasyonu](../docs/catalog.tr.1.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
-- [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](../docs/catalog.tr.1.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
-- [Hundenberg kaza modeli ve gerçekçi video](../docs/catalog.tr.1.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
-- [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.1.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
+- [Voksel tarzı futbol animasyonu](../docs/catalog.tr.2.md#claude-opus-5-5-2102739444256383089) · [Delusionals](https://x.com/AGI_FromWalmart)
+- [Hayali gezegenler hakkında etkileşimli web sitesi](../docs/catalog.tr.2.md#claude-opus-5-5-2102729710174196022) · [Kappaemme](https://x.com/Kappaemme1926)
+- [Etkileşimli Euleryen Neon Akışkan Simülasyonu](../docs/catalog.tr.2.md#claude-opus-5-5-2102565611473661963) · [theailoser](https://x.com/theailoser)
+- [Japon Tarzı Kiraz Çiçekli Vadi için Etkileşimli 3B Peyzaj Web Sayfası](../docs/catalog.tr.2.md#claude-opus-5-5-2102565403109085669) · [宝玉](https://x.com/dotey)
+- [Hundenberg kaza modeli ve gerçekçi video](../docs/catalog.tr.2.md#claude-opus-5-5-2102547809140355250) · [AImanhasnoname](https://x.com/aimanhasnoname)
+- [Görselden oluşturulan hentbol sahasının 360° 3B render’ı](../docs/catalog.tr.2.md#claude-opus-5-5-2102544406117286004) · [ハンドボール人「布施千佳純」](https://x.com/chikaidev)
 - [Bir görselden prosedürel Three.js 3B ana menü arka planı](../docs/catalog.tr.2.md#claude-opus-5-5-2102544196808667471) · [Majid Manzarpour](https://x.com/majidmanzarpour)
 - [Kendi kendine çalışan 3B Rube Goldberg makinesi](../docs/catalog.tr.2.md#claude-opus-5-5-2102544078927741369) · [leo](https://x.com/leogao25)
 - [Peter Rabbit tarzında etkileşimli çiftlik hayvanı oyunu](../docs/catalog.tr.2.md#claude-opus-5-5-2102538762731565085) · [mblaso](https://x.com/blaso96)

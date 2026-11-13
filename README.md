@@ -22,6 +22,8 @@
 </p>
 
 > Building with more than one model? Explore [Awesome 3D Prompts](https://github.com/TripoGrowthLab/awesome-3d-prompts) and [Awesome Astra Prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts).
+>
+> Want to turn a prompt into a playable game? The [Vibe Gaming Playbook](https://www.tripo3d.ai/tutorials/vibe-gaming?utm_source=github&utm_medium=referral&utm_campaign=awesome_opus_5_5_prompts&utm_content=readme_crosslink_vgh) gives your coding agent one prompt that builds a 3D browser game with Tripo models.
 
 <a href="https://www.tripo3d.ai/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=readme_hero"><img src="assets/hero.webp" width="100%" alt="Awesome Opus 5.5 Prompts"></a>
 

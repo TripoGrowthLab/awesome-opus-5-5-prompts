@@ -22,6 +22,8 @@
 </p>
 
 > 想比较更多模型的创作方式？浏览 [Awesome 3D Prompts](https://github.com/TripoGrowthLab/awesome-3d-prompts) 与 [Astra 提示词库](https://github.com/TripoGrowthLab/awesome-astra-prompts)。
+>
+> 想把提示词做成能玩的游戏？[Vibe Gaming Playbook](https://www.tripo3d.ai/zh/tutorials/vibe-gaming?utm_source=github&utm_medium=referral&utm_campaign=awesome_opus_5_5_prompts&utm_content=readme_zh_crosslink_vgh) 给你的 coding agent 一条提示词，用 Tripo 模型做出一个 3D 浏览器游戏。
 
 <a href="https://www.tripo3d.ai/zh/3d-prompts/models/claude-opus-5-5?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=awesome_opus_5_5_prompts&amp;utm_content=readme_hero"><img src="assets/hero.webp" width="100%" alt="Awesome Opus 5.5 Prompts"></a>
 
